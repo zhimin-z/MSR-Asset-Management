@@ -10,7 +10,6 @@ class GHMiner():
                              'Link',
                              'Archived',
                              'Creation Date',
-                             'Description',
                              'Topics',
                              '#Star',
                              '#Watch',
@@ -51,7 +50,6 @@ class GHMiner():
                 'Link': repo.html_url,
                 'Archived': repo.archived,
                 'Creation Date': creation_date,
-                'Description': repo.description,
                 'Topics': repo.get_topics(),
                 '#Star': repo.stargazers_count,
                 '#Watch': repo.subscribers_count,
@@ -100,6 +98,6 @@ class GHMiner():
                 errors_data = pandas.concat(
                     [errors_data, error_data], ignore_index=True)
 
-            time.sleep(3.6)
+            time.sleep(10)
 
         return repos_data, errors_data
