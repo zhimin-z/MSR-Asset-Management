@@ -1,3 +1,4 @@
 
 *.pyc
 Code/src
+.DS_Store
