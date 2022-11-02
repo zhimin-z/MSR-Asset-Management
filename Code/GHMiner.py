@@ -32,10 +32,6 @@ class GHMiner():
         try:
             repo = self.github.get_repo(repo_name)
 
-            if repo.fork:
-                error_data = {'Repo': repo_name, 'Error': 'Fork'}
-                return None, error_data
-
             creation_date = repo.created_at
             if not real_creation_date:
                 creation_date = repo.get_commits(
