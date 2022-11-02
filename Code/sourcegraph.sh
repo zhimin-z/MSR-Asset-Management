@@ -1,10 +1,10 @@
-#curl -L https://sourcegraph.com/.api/src-cli/src_linux_amd64 -o ./$CODE_DIR/src
-#chmod +x ./$CODE_DIR/src
-
 export RAW_DIR=Dataset/Raw
 export CODE_DIR=Code
 
 mkdir $RAW_DIR
+
+curl -L https://sourcegraph.com/.api/src-cli/src_linux_amd64 -o ./$CODE_DIR/src
+chmod +x ./$CODE_DIR/src
 
 ./$CODE_DIR/src search -json "/import sagemaker|from sagemaker.* import / case:yes count:all" > "$RAW_DIR/Amazon SageMaker.json"
 ./$CODE_DIR/src search -json "/import mlflow|from mlflow.* import |library\(mlflow\)|mlflow run / case:yes count:all" > "$RAW_DIR/MLflow.json"
