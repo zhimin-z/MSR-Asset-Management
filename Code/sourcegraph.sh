@@ -1,5 +1,4 @@
 export RAW_DIR=../Dataset/Raw
-
 mkdir $RAW_DIR
 
 curl -L https://sourcegraph.com/.api/src-cli/src_linux_amd64 -o src
