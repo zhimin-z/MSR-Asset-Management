@@ -1,22 +1,22 @@
-Name,GitLab Dependents
-Aim,"['xdevs23/linux-nitrous', 'friendlyelec/rk3399-android-10', 'redhat/centos-stream/src/kernel/centos-stream-8', 'xhang/gitlab', 'linux-kernel/linux', 'msm8996-mainline/linux', 'mecatronyx/opencnc/opencn', 'sdm845-mainline/linux', 'wayne-inc/wayneos', 'linux-wiiu/linux-wiiu', 'lu-ci/sigma/apex-sigma', 'cki-project/kernel-ark', 'redhat/centos-stream/src/kernel/centos-stream-9', 'alfredchen/linux-prjc', 'kalilinux/packages/linux', 'gitlab-com/www-gitlab-com', 'pine64-org/linux']"
-Amazon SageMaker,"['juliensimon/amazon-studio-demos', 'juliensimon/huggingface-demos', 'fluidattacks/universe']"
-ClearML,[]
-Codalab,"['illwieckz/i-love-compute', 'SlackBuilds.org/slackbuilds']"
-Comet,[]
-D6tflow,"['jan-teichmann/ml-flow-ds-project', 'juliensimon/huggingface-demos']"
-Deep Lake,[]
-Determined,[]
-DVC,['mlrep/mldev']
-Guild AI,[]
-Keepsake,[]
-LakeFS,[]
-MLflow,"['juliensimon/huggingface-demos', 'librespacefoundation/polaris/polaris', 'jan-teichmann/ml-flow-ds-project']"
-ModelDB,[]
-Neptune,[]
-Pachyderm,[]
-Polyaxon,[]
-Quilt,[]
-Sacred,[]
-Spell,"['wireshark/wireshark', 'atamariya/emacs', 'Avris/Zaimki']"
-Weights & Biases,[]
+Name,Projects,Examplars
+Aim,[],[]
+Amazon SageMaker,[],"['juliensimon/amazon-studio-demos', 'juliensimon/huggingface-demos']"
+ClearML,[],[]
+Codalab,[],[]
+Comet,[],[]
+D6tflow,[],"['jan-teichmann/ml-flow-ds-project', 'juliensimon/huggingface-demos']"
+Deep Lake,[],[]
+Determined,[],[]
+DVC,['mlrep/mldev'],[]
+Guild AI,[],[]
+Keepsake,[],[]
+LakeFS,[],[]
+MLflow,['librespacefoundation/polaris/polaris'],"['juliensimon/huggingface-demos', 'jan-teichmann/ml-flow-ds-project']"
+ModelDB,[],[]
+Neptune,[],[]
+Pachyderm,[],[]
+Polyaxon,[],[]
+Quilt,[],[]
+Sacred,[],[]
+Spell,[],[]
+Weights & Biases,[],[]

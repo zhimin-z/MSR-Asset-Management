@@ -1,8 +1,13 @@
 Repo,Error
+sethusaim/Wafer-Fault-Kubernetes,Not Found
+src.fedoraproject.org/rpms/python-sklearn-genetic-opt,Not Found
+gitlab.com/juliensimon/huggingface-demos,Not Found
+gitlab.com/librespacefoundation/polaris/polaris,Not Found
+gitlab.com/jan-teichmann/ml-flow-ds-project,Not Found
+marcusRB/The_Bridge_DataScience_PT_ALUMNI_feb22,Not Found
 fulibacsi/notebooks,Unrelated
 MicrosoftDocs/azure-docs.zh-cn,Unrelated
 danijar/embodied,Unrelated
-sethusaim/Wafer-Fault-Kubernetes,Not Found
 bluedatainc/solutions,Unrelated
 MicrosoftDocs/azure-docs.es-es,Unrelated
 MicrosoftDocs/azure-docs.pt-pt,Unrelated
@@ -11,7 +16,6 @@ openthings/kubernetes-tools,Unrelated
 apache/spark,Unrelated
 openjournals/joss-papers,Unrelated
 MicrosoftDocs/azure-docs.it-it,Unrelated
-src.fedoraproject.org/rpms/python-sklearn-genetic-opt,Not Found
 gmihaila/ml_things,Unrelated
 dagster-io/dagster,Unrelated
 NOVA-IMS-Innovation-and-Analytics-Lab/publications,Unrelated
@@ -45,7 +49,6 @@ chanzuckerberg/cellxgene,Unrelated
 pytorch/ignite,Unrelated
 ailabx/ailabx,Unrelated
 MicrosoftDocs/azure-docs.ko-kr,Unrelated
-gitlab.com/juliensimon/huggingface-demos,Not Found
 szabgab/slides,Unrelated
 chmp/misc-exp,Unrelated
 DataSciencePortugal/Meetups,Unrelated
@@ -65,7 +68,6 @@ GRAAL-Research/poutyne,Unrelated
 fclesio/learning-space,Unrelated
 javiabellan/machine-learning,Unrelated
 mlflow/mlflow,Unrelated
-gitlab.com/librespacefoundation/polaris/polaris,Not Found
 HewlettPackard/dlcookbook-dlbs,Unrelated
 microsoft/SynapseML,Unrelated
 mlflow/mlflow-apps,Unrelated
@@ -78,9 +80,7 @@ yuanjie-ai/tql-Python,Unrelated
 GoogleCloudPlatform/ml-on-gcp,Unrelated
 PipelineAI/notebooks,Unrelated
 explosion/spaCy,Unrelated
-gitlab.com/jan-teichmann/ml-flow-ds-project,Not Found
 521xueweihan/HelloGitHub,Unrelated
-marcusRB/The_Bridge_DataScience_PT_ALUMNI_feb22,Not Found
 MicrosoftDocs/azure-docs.fr-fr,Unrelated
 MicrosoftDocs/azure-docs.ja-jp,Unrelated
 BogdanCojocar/medium-articles,Unrelated
