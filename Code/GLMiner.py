@@ -6,7 +6,6 @@ import pandas
 class GitlabMiner():
     def __init__(self, token):
         self.gitlab = gitlab.Gitlab(private_token=token)
-        self.gitlab.auth()
         self.repo_columns = [
             'Repo',
             'Link',
