@@ -1,0 +1,17 @@
+Repo,Link,Archived,Creation Date,Topics,#Star,#Watch,#Fork,#Releases,#Contributors,Languages,Size,#Open Issues,#Pull Requests,#Branches,#Tags,#Commits,#Comments,#Downloads,#Deployments
+pachyderm/examples,https://github.com/pachyderm/examples,FALSE,9/21/2020 20:40,[],37,29,10,2,7,Jupyter Notebook,243460,3,2,15,2,179,0,0,0
+dwhitena/pach-go-regression,https://github.com/dwhitena/pach-go-regression,FALSE,4/18/2017 20:52,[],10,1,3,0,1,Go,117,0,0,1,0,13,0,0,0
+apachecn/apachecn-golang-zh,https://github.com/apachecn/apachecn-golang-zh,FALSE,10/22/2021 16:48,[],37,4,4,0,1,JavaScript,37244,0,0,2,0,71,2,0,82
+icerove/movie_recommand_pipeline,https://github.com/icerove/movie_recommand_pipeline,FALSE,5/9/2019 21:21,[],6,0,0,0,1,Python,13,0,0,1,0,1,0,0,0
+dvoitekh/mlops_workshops,https://github.com/dvoitekh/mlops_workshops,FALSE,6/8/2022 18:57,[],9,3,7,0,1,Jupyter Notebook,1236,0,0,2,0,10,0,0,0
+NEONScience/NEON-IS-data-processing,https://github.com/NEONScience/NEON-IS-data-processing,FALSE,10/31/2019 21:55,[],9,14,6,0,14,R,24044,0,0,15,0,2731,2,0,0
+sil-ai/tts-singlish,https://github.com/sil-ai/tts-singlish,FALSE,1/11/2020 16:59,"['speech-synthesis', 'artificial-intelligence', 'neural-network', 'voice-synthesis', 'deep-learning', 'machine-learning']",7,4,2,0,1,Python,250,0,0,1,0,9,0,0,0
+red-hat-data-services/ods-ci,https://github.com/red-hat-data-services/ods-ci,FALSE,12/11/2020 20:35,[],6,9,38,17,22,RobotFramework,7775,38,24,32,18,856,8,0,0
+pachyderm/ambient-music-generation,https://github.com/pachyderm/ambient-music-generation,FALSE,4/9/2020 13:32,[],102,8,19,0,2,Dockerfile,414861,2,0,6,0,42,0,0,0
+UbiOps/tutorials,https://github.com/UbiOps/tutorials,FALSE,12/2/2020 13:08,[],7,2,2,0,1,Jupyter Notebook,36460,1,0,1,0,1,0,0,0
+SeldonIO/seldon-core,https://github.com/SeldonIO/seldon-core,FALSE,12/20/2017 14:51,"['kubernetes', 'machine-learning', 'deployment', 'serving', 'mlops', 'aiops', 'machine-learning-operations', 'production-machine-learning']",3423,77,715,49,147,HTML,220754,169,20,304,93,7171,20,0,6455
+PipelineAI/pipeline,https://github.com/PipelineAI/pipeline,FALSE,7/8/2015 3:49,"['machine-learning', 'artificial-intelligence', 'tensorflow', 'kubernetes', 'cassandra', 'spark', 'kafka', 'airflow', 'docker', 'redis', 'neural-network', 'gpu', 'pipelineai', 'tfx', 'keras', 'kubeflow', 'pytorch', 'scikit-learn']",4141,350,989,0,2,Jsonnet,94806,1,0,1,0,610,2,0,649
+determined-ai/works-with-determined,https://github.com/determined-ai/works-with-determined,FALSE,6/26/2020 22:38,[],33,9,16,0,8,Python,21491,2,1,11,0,107,0,0,0
+JimmyWhitaker/label-studio-pach,https://github.com/JimmyWhitaker/label-studio-pach,FALSE,12/22/2020 15:27,[],10,2,0,0,1,Python,338,0,0,2,0,14,0,0,0
+pachyderm/kfdata,https://github.com/pachyderm/kfdata,FALSE,8/26/2020 12:46,[],5,12,0,0,1,Python,367,0,0,1,0,96,0,0,0
+StatCan/aaw-contrib-jupyter-notebooks,https://github.com/StatCan/aaw-contrib-jupyter-notebooks,FALSE,4/10/2020 3:23,"['daaas', 'jupyter', 'notebooks', 'aaw', 'kubernetes']",8,12,8,0,11,Jupyter Notebook,6435,8,0,9,0,77,0,0,0

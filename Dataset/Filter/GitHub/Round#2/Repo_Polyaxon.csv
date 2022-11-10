@@ -1,0 +1,38 @@
+Repo,Link,Archived,Creation Date,Topics,#Star,#Watch,#Fork,#Releases,#Contributors,Languages,Size,#Open Issues,#Pull Requests,#Branches,#Tags,#Commits,#Comments,#Downloads,#Deployments
+PanJinquan/Human-Keypoints-Detection,https://github.com/PanJinquan/Human-Keypoints-Detection,FALSE,4/16/2021 11:12,[],48,1,12,0,1,Python,150338,2,0,2,0,11,0,0,0
+skyhiter/torchtext-ignite-demo,https://github.com/skyhiter/torchtext-ignite-demo,FALSE,5/22/2019 7:34,[],5,0,2,0,1,Python,68445,0,0,1,0,11,0,0,0
+bgoonz/UsefulResourceRepo2.0,https://github.com/bgoonz/UsefulResourceRepo2.0,FALSE,7/3/2021 13:58,"['javascript', 'python', 'learning', 'nodejs', 'expressjs', 'website', 'web', 'devops', 'development', 'tools', 'python-3']",5,3,11,0,1,,10239100,2,2,23,0,1113,575,0,60
+squaresLab/SOAR,https://github.com/squaresLab/SOAR,FALSE,10/18/2020 22:44,[],7,2,4,0,1,Python,144413,0,0,2,0,8,0,0,0
+CVMI-Lab/DARS,https://github.com/CVMI-Lab/DARS,FALSE,7/23/2021 12:16,[],51,5,4,0,1,Python,797,1,0,2,0,15,0,0,0
+pytorch/ignite,https://github.com/pytorch/ignite,FALSE,11/23/2017 17:31,"['pytorch', 'neural-network', 'python', 'machine-learning', 'deep-learning', 'metrics', 'hacktoberfest']",4100,59,555,18,170,Python,50859,145,36,25,18,1481,16,0,1274
+CVMI-Lab/KDEP,https://github.com/CVMI-Lab/KDEP,FALSE,3/6/2022 9:24,[],50,2,7,0,1,Python,8151,1,0,2,0,15,0,0,0
+polyaxon/cli,https://github.com/polyaxon/cli,FALSE,8/18/2017 13:25,"['mlops', 'workflows', 'machine-learning', 'deep-learning', 'hyperparameter-optimization', 'tensorflow', 'pytorch', 'kubernetes', 'scikit-learn', 'dataops', 'data-science', 'ml']",17,3,19,0,10,Python,2142,0,0,1,0,719,1,0,0
+fbuchert/fixmatch-pytorch,https://github.com/fbuchert/fixmatch-pytorch,FALSE,6/26/2021 15:36,"['machine-learning', 'deep-learning', 'computer-vision', 'semi-supervised-learning', 'image-classification']",4,1,0,0,1,Python,52,1,0,1,0,11,0,0,0
+granularai/fabric,https://github.com/granularai/fabric,FALSE,11/2/2018 10:03,"['change-detection', 'sentinel-2', 'satellite-imagery', 'deep-learning', 'cnn', 'unet', 'pytorch', 'unet-3d']",53,7,14,2,2,Python,204192,2,0,7,2,330,0,0,0
+SunJackson/SunJackson.github.io,https://github.com/SunJackson/SunJackson.github.io,FALSE,7/23/2018 8:46,"['blog', 'page']",12,1,6,0,2,JavaScript,50116,1,1,1,0,537,0,0,205
+brunowego/cookbooks,https://github.com/brunowego/cookbooks,FALSE,11/8/2018 13:20,[],49,9,17,0,3,Go,13147,1,1,3,0,365,0,0,0
+johndpope/CryptoCurrencyTrader,https://github.com/johndpope/CryptoCurrencyTrader,FALSE,7/28/2017 11:31,[],50,7,114,0,3,Python,1283,1,1,4,0,63,1,0,0
+polyaxon/polyaxon-examples,https://github.com/polyaxon/polyaxon-examples,FALSE,1/12/2018 18:13,"['tensorflow', 'pytorch', 'mxnet', 'jupyter-notebook', 'deep-learning', 'polyaxon', 'kubernetes', 'machine-learning', 'deeplearning', 'nerual-network', 'horovod', 'scikit-learn', 'mpi', 'tfjob', 'kubeflow', 'pytorchjob', 'mpijob', 'keras', 'mlops']",65,5,24,0,9,Python,939,5,5,7,0,126,0,0,0
+hvdthong/RepoExtractor,https://github.com/hvdthong/RepoExtractor,FALSE,8/5/2018 9:01,[],15,4,9,0,1,Python,34371,2,0,1,0,12,0,0,0
+polyaxon/haupt,https://github.com/polyaxon/haupt,FALSE,12/14/2018 15:47,"['s3', 'aws', 'gcs', 'gcp', 'sagemaker', 'tensorboard', 'notebook', 'jupyterlab', 'kaniko', 'automations', 'actions', 'sandbox']",30,2,4,0,1,Python,378,0,0,1,0,31,0,0,0
+SandraPrestel/deep-sleep-transfer,https://github.com/SandraPrestel/deep-sleep-transfer,FALSE,7/21/2020 14:10,[],15,2,6,0,1,Jupyter Notebook,243906,0,0,1,0,17,0,0,0
+ZhuFengdaaa/SOON,https://github.com/ZhuFengdaaa/SOON,FALSE,4/9/2021 15:44,[],9,1,0,0,1,C++,4762,4,0,2,0,6,0,0,0
+polyaxon/hypertune,https://github.com/polyaxon/hypertune,FALSE,12/10/2018 9:25,"['hyperparameter-optimization', 'hyperparameter-tuning', 'scikit-learn', 'machine-learning', 'mlops', 'workflow', 'data-science', 'deep-learning', 'numpy']",52,3,7,0,89,Python,123786,0,0,5,0,9769,0,0,0
+ZhuFengdaaa/MG-AuxRN,https://github.com/ZhuFengdaaa/MG-AuxRN,FALSE,9/15/2020 12:23,[],20,1,2,0,1,C++,5520,1,0,1,0,3,0,0,0
+ad-freiburg/tokenization-repair,https://github.com/ad-freiburg/tokenization-repair,FALSE,4/3/2020 15:08,[],11,6,1,0,3,Python,4444,0,0,1,0,255,5,0,0
+hypnosapos/cartpole-rl-remote,https://github.com/hypnosapos/cartpole-rl-remote,FALSE,2/7/2018 14:32,"['machine-learning', 'keras-neural-networks', 'tensorflow', 'seldon', 'kubeflow', 'cartpole', 'artificial-intelligence', 'reinforcement-learning', 'keras', 'polyaxon', 'pytorch', 'seldon-core', 'qlearning', 'mlops', 'mlflow', 'kubernetes-cluster']",24,2,3,0,5,Python,84025,48,48,51,0,256,0,0,0
+RosePasta/Denchmark_BRs,https://github.com/RosePasta/Denchmark_BRs,FALSE,1/11/2021 9:26,[],6,2,12,0,1,Jupyter Notebook,85145,0,0,1,0,21,0,0,0
+fla-sil/PyTorrent,https://github.com/fla-sil/PyTorrent,FALSE,1/10/2021 20:30,[],27,2,20,0,4,,844788,0,0,1,0,54,0,0,0
+aisingapore/ml-project-cookiecutter-gcp,https://github.com/aisingapore/ml-project-cookiecutter-gcp,FALSE,10/31/2021 23:49,[],11,3,2,3,3,Jupyter Notebook,4011,0,0,3,7,154,0,0,19
+aisingapore/sgnlp,https://github.com/aisingapore/sgnlp,FALSE,8/2/2021 1:47,[],15,2,9,6,6,Python,1958,6,0,4,6,499,0,0,0
+ddysher/arsenal,https://github.com/ddysher/arsenal,FALSE,2/10/2019 13:52,"['cloud', 'machine-learning', 'notes']",26,4,8,0,1,Jsonnet,50689,4,4,5,0,2,0,0,0
+polyaxon/schemas,https://github.com/polyaxon/schemas,FALSE,9/24/2017 15:30,"['polyaxon', 'polyaxon-schemas', 'polyaxonfile', 'deeplearning', 'kubernetes', 'minikube', 'tensorflow']",7,3,13,0,6,Python,1193,6,6,6,0,615,0,0,0
+nickyeolk/info_retrieve,https://github.com/nickyeolk/info_retrieve,FALSE,8/9/2019 14:47,[],22,3,5,0,4,Jupyter Notebook,833,1,1,7,0,315,0,0,0
+pkchat-focus/FoCus,https://github.com/pkchat-focus/FoCus,FALSE,1/12/2022 3:23,"['nlp', 'deep-learning', 'dialog', 'pytorch', 'chatbots', 'gpt2', 'bart', 'focus', 'conversational-ai', 'conversational-agents']",35,2,5,0,2,Python,640,1,0,1,0,39,0,0,0
+polyaxon/sdks,https://github.com/polyaxon/sdks,FALSE,11/17/2017 15:29,"['client', 'api', 'instrumentation', 'tracking', 'kubernetes', 'machine-learning', 'model-management', 'instrumentation-agent', 'golang', 'java', 'typescript', 'go']",12,2,14,0,9,Java,7360,5,4,9,0,661,0,0,0
+polyaxon/polyaxon-quick-start,https://github.com/polyaxon/polyaxon-quick-start,FALSE,12/29/2017 13:18,"['polyaxon', 'kubernetes', 'machine-learning', 'deep-learning', 'tensorflow', 'pytorch', 'neural-network', 'reproducible-research']",30,2,12,0,4,Python,83,1,0,2,0,100,0,0,0
+wanggrun/triplet,https://github.com/wanggrun/triplet,FALSE,6/21/2021 21:18,[],26,3,4,0,1,Python,188,0,0,1,0,62,0,0,0
+shoarora/transformers-trainers,https://github.com/shoarora/transformers-trainers,FALSE,2/1/2020 22:50,[],26,5,2,1,1,Python,1154,3,2,15,1,146,0,0,0
+vfdev-5/cifar10-faster,https://github.com/vfdev-5/cifar10-faster,FALSE,2/14/2019 15:15,[],9,3,1,0,1,Python,46,0,0,1,0,6,0,0,0
+honnibal/spacy-pretrain-polyaxon,https://github.com/honnibal/spacy-pretrain-polyaxon,FALSE,11/13/2018 0:50,[],64,12,9,0,1,Python,3033,3,0,1,0,89,1,0,0
+polyaxon/charts,https://github.com/polyaxon/charts,FALSE,1/17/2018 1:58,"['kubernetes', 'helm', 'helm-charts', 'deep-learning', 'tensorflow', 'pytorch', 'scikit-learn', 'machine-learning', 'polyaxon', 'helm-chart', 'mlops', 'gitops', 'k8s', 'distributed-systems']",33,6,45,0,19,Smarty,1134,2,0,2,0,764,0,0,0

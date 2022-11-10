@@ -1,0 +1,16 @@
+Repo,Link,Archived,Creation Date,Topics,#Star,#Watch,#Fork,#Releases,#Contributors,Languages,Size,#Open Issues,#Pull Requests,#Branches,#Tags,#Commits,#Comments,#Downloads,#Deployments
+netguru/opoca,https://github.com/netguru/opoca,FALSE,5/26/2020 12:42,[],8,2,0,0,4,Python,1096,17,17,18,1,13,0,0,0
+AllenCellModeling/aicsimageio,https://github.com/AllenCellModeling/aicsimageio,FALSE,6/27/2019 16:43,"['python', 'imageio', 'microscopy', 'bio-formats', 'image-metadata', 'scientific-computing', 'scientific-formats', 'xarray', 'dask']",134,8,34,18,18,Python,172876,47,3,9,58,508,0,0,195
+AllenCellModeling/napari-aicsimageio,https://github.com/AllenCellModeling/napari-aicsimageio,FALSE,3/20/2020 17:52,"['napari', 'imageio', 'microscopy']",23,6,6,6,6,Python,57429,9,0,1,19,62,0,0,0
+AllenCellModeling/pytorch_integrated_cell,https://github.com/AllenCellModeling/pytorch_integrated_cell,FALSE,4/20/2017 16:33,"['machine-learning', 'neural-networks', 'generative-adversarial-network', 'autoencoder', 'pytorch', 'cell-analysis', 'cell-biology', 'science-research', 'python']",40,6,10,0,3,Python,148306,29,2,11,0,461,0,0,0
+AllenCellModeling/pytorch_fnet,https://github.com/AllenCellModeling/pytorch_fnet,FALSE,6/14/2017 0:31,[],132,9,53,1,6,Python,141671,32,1,20,2,611,0,0,6
+MMV-Lab/mmv_im2im,https://github.com/MMV-Lab/mmv_im2im,FALSE,11/11/2021 5:36,[],31,2,1,0,4,Python,3770,24,1,8,5,60,0,0,30
+spatialucr/geosnap,https://github.com/spatialucr/geosnap,FALSE,9/19/2018 22:17,[],171,17,27,24,8,Python,459618,13,0,8,28,974,0,0,117
+aionthebeach/ocean-maps,https://github.com/aionthebeach/ocean-maps,FALSE,7/17/2019 19:35,[],7,8,5,0,8,Jupyter Notebook,740428,26,7,11,0,88,0,0,0
+quiltdata/examples,https://github.com/quiltdata/examples,FALSE,4/12/2017 21:50,[],10,4,5,0,4,Jupyter Notebook,26342,3,3,5,0,65,0,0,0
+pysal/tobler,https://github.com/pysal/tobler,FALSE,8/13/2019 20:41,[],101,10,23,18,7,Jupyter Notebook,130651,16,3,5,20,657,0,0,79
+tlambert03/ome-types,https://github.com/tlambert03/ome-types,FALSE,10/30/2019 22:50,"['metadata', 'microscopy', 'ome']",31,7,6,15,7,Python,446,13,0,7,20,149,0,0,0
+fla-sil/PyTorrent,https://github.com/fla-sil/PyTorrent,FALSE,1/10/2021 20:30,[],27,2,20,0,4,,844788,0,0,1,0,54,0,0,0
+AllenCell/cvapipe_analysis,https://github.com/AllenCell/cvapipe_analysis,FALSE,12/1/2020 17:08,[],6,6,2,1,4,Jupyter Notebook,193777,2,0,11,1,440,1,0,0
+AllenCellModeling/actk,https://github.com/AllenCellModeling/actk,FALSE,3/9/2020 20:34,"['biology', 'microscopy', 'image-processing', 'cell-biology', 'pipeline']",20,9,3,1,3,Python,6935,4,1,5,6,39,1,0,29
+pysal/segregation,https://github.com/pysal/segregation,FALSE,12/19/2018 23:59,"['python', 'spatial-analysis', 'statistics', 'segregation', 'geospatial']",93,22,24,14,10,Jupyter Notebook,144951,12,2,5,18,1095,4,0,35
