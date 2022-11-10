@@ -1,119 +1,133 @@
-Repo,Link,Archived,Creation Date,Topics,#Star,#Watch,#Fork,#Releases,#Contributors,Languages,Size,#Open Issues,#Pull Requests,#Branches,#Tags,#Commits,#Comments,#Downloads,#Deployments
-stanfordnlp/stanza-old,https://github.com/stanfordnlp/stanza-old,FALSE,10/27/2015 19:45,"['python', 'nlp', 'text-analysis', 'text-processing', 'natural-language-processing']",142,40,38,2,5,Python,392,1,0,4,3,323,0,0,0
-p-lambda/verified_calibration,https://github.com/p-lambda/verified_calibration,FALSE,10/21/2019 0:45,"['uncertainty-calibration', 'calibration-library', 'ece', 'calibration', 'toolbox', 'metrics']",92,5,14,0,2,Python,54915,2,1,1,0,37,0,0,0
-seominjoon/piqa,https://github.com/seominjoon/piqa,FALSE,8/25/2018 6:37,['emnlp2018'],90,7,9,0,2,Python,2095,6,0,3,0,103,0,0,69
-bapoczos/ArtML,https://github.com/bapoczos/ArtML,FALSE,2/22/2018 7:51,[],9,4,5,0,1,Jupyter Notebook,592887,0,0,1,0,80,0,0,0
-KevinWang96/Chip-Multi-processor-System-based-on-Cardinal-Bidirectional-Ring-Network-on-chip,https://github.com/KevinWang96/Chip-Multi-processor-System-based-on-Cardinal-Bidirectional-Ring-Network-on-chip,FALSE,3/7/2020 0:21,"['networkonchip', 'processor-design', 'verilog-hdl', 'synopsys-dc', 'cadence-ncverilog', 'cadence-conformal', 'multiprocessor']",9,2,3,0,1,Verilog,38625,0,0,2,0,11,0,0,0
-Blunk-electronic/M-1,https://github.com/Blunk-electronic/M-1,FALSE,10/27/2015 18:42,[],27,6,3,2,2,Ada,33386,2,0,4,3,647,0,0,0
-hpcc-systems/docker-hpcc,https://github.com/hpcc-systems/docker-hpcc,FALSE,4/17/2018 8:34,[],7,13,12,0,2,Shell,56,4,4,1,0,26,1,0,0
-ArctiqTeam/community-events,https://github.com/ArctiqTeam/community-events,FALSE,6/5/2018 11:40,[],7,6,11,0,5,JavaScript,33730,1,1,9,0,58,0,0,0
-rust11/rust,https://github.com/rust11/rust,FALSE,3/18/2015 5:18,"['pdp11', 'operating-system', 'emulator', 'pdp-11', 'rt-11']",9,4,2,0,2,C,87680,5,0,1,2,239,0,0,184
-wadehennessey/wcl,https://github.com/wadehennessey/wcl,FALSE,8/29/2015 21:31,[],69,13,8,0,1,Common Lisp,90780,4,0,1,0,82,0,0,0
-lvyiwei1/StylePTB,https://github.com/lvyiwei1/StylePTB,FALSE,3/30/2021 0:16,[],50,3,4,0,2,Python,12152,0,0,1,0,16,0,0,0
-rpgoldman/xmls,https://github.com/rpgoldman/xmls,FALSE,2/13/2020 2:24,[],15,2,3,0,5,Common Lisp,190,2,0,3,2,155,0,0,0
-kelvinguu/lang2program,https://github.com/kelvinguu/lang2program,FALSE,2/25/2017 7:15,[],63,7,20,0,3,Python,487,2,0,1,0,9,0,0,0
-hotpotqa/hotpotqa.github.io,https://github.com/hotpotqa/hotpotqa.github.io,FALSE,8/27/2018 0:01,[],5,5,4,0,3,HTML,13341,0,0,1,0,183,0,0,183
-mlufei/depot_tools,https://github.com/mlufei/depot_tools,FALSE,9/28/2015 4:03,[],8,4,12,0,65,Python,12040,0,0,2,0,2822,0,0,0
-thunlp/thunlp.github.io,https://github.com/thunlp/thunlp.github.io,FALSE,10/27/2018 7:32,[],10,8,3,0,3,HTML,5631,0,0,1,0,41,0,0,40
-microsoft/text-to-sql-schema-expansion-generalization,https://github.com/microsoft/text-to-sql-schema-expansion-generalization,FALSE,5/23/2022 14:52,[],12,6,2,0,4,Python,17568,0,0,1,0,11,0,0,0
-arm-hpc/papi,https://github.com/arm-hpc/papi,FALSE,10/24/2015 12:23,[],9,2,2,0,11,C,28316,0,0,35,152,6300,0,0,0
-OhadRubin/SmBop,https://github.com/OhadRubin/SmBop,FALSE,3/23/2021 12:13,[],82,3,33,0,5,Python,81,8,0,3,0,42,0,0,0
-graykode/KorQuAD-beginner,https://github.com/graykode/KorQuAD-beginner,FALSE,4/26/2019 11:00,"['bert', 'squad']",41,4,11,0,1,Python,8405,0,0,1,0,7,0,0,0
-Vertispan/j2clmavenplugin,https://github.com/Vertispan/j2clmavenplugin,FALSE,5/2/2019 11:19,[],35,10,20,2,12,Java,739,51,8,16,2,274,1,0,6
-ucb-bar/hammer,https://github.com/ucb-bar/hammer,FALSE,7/13/2016 19:26,[],156,28,37,0,19,Python,5314,206,15,56,1,602,18,0,0
-stanfordnlp/phrasenode,https://github.com/stanfordnlp/phrasenode,FALSE,8/27/2018 5:14,[],31,12,12,0,3,Python,265,1,0,1,0,30,0,0,0
-Evgeneus/Label-Smoothing-in-Text-Classification,https://github.com/Evgeneus/Label-Smoothing-in-Text-Classification,FALSE,1/24/2020 15:36,"['label-smoothing', 'soft-targets', 'crowd-votes', 'nlp', 'transformer', 'label-distribution', 'machine-learning', 'text-classification', 'document-management', 'calibration', 'crowd-labels']",7,2,0,0,2,Python,118914,0,0,2,0,140,0,0,0
-homemade/scl,https://github.com/homemade/scl,FALSE,11/8/2016 12:01,[],19,4,1,0,2,Go,57,0,0,2,16,82,0,0,0
-sclorg/scl-utils,https://github.com/sclorg/scl-utils,FALSE,12/5/2014 10:54,[],12,10,22,0,12,C,132,18,5,2,6,137,3,0,0
-kelvinguu/neural-editor,https://github.com/kelvinguu/neural-editor,FALSE,9/26/2017 9:51,[],327,30,60,0,1,Python,172,15,1,2,0,11,0,0,0
-intel/OpenVINO-optimization-for-PointPillars,https://github.com/intel/OpenVINO-optimization-for-PointPillars,FALSE,12/13/2021 23:21,[],15,2,3,0,3,C++,55649,0,0,1,0,14,0,0,0
-apache/tcl-rivet,https://github.com/apache/tcl-rivet,FALSE,7/18/2018 10:39,['tcl'],14,7,6,0,3,C,7154,0,0,15,34,1323,0,0,0
-bq/aquaris-M10-FHD,https://github.com/bq/aquaris-M10-FHD,FALSE,2/1/2016 18:19,[],5,10,8,0,0,C,332295,0,0,2,11,6,0,0,0
-KusionStack/KCLVM,https://github.com/KusionStack/KCLVM,FALSE,5/5/2022 7:02,"['record', 'configuration', 'functional', 'policy', 'language', 'rust', 'programming-languages', 'configuration-language', 'as-code', 'compiler']",116,1,19,7,7,Rust,3839,45,2,1,8,172,5,0,0
-Xilinx/AWS-F1-Developer-Labs,https://github.com/Xilinx/AWS-F1-Developer-Labs,FALSE,7/3/2018 16:32,[],20,6,9,0,1,C++,12209,2,0,1,0,2,0,0,0
-USC-NSL/SPA,https://github.com/USC-NSL/SPA,FALSE,12/30/2014 8:14,[],10,23,9,0,2,,1158528,0,0,1,0,1618,0,0,0
-robinjia/adversarial-squad,https://github.com/robinjia/adversarial-squad,FALSE,7/21/2017 17:11,[],115,6,26,0,1,Python,378,1,0,1,0,3,0,0,0
-dazcona/mrnet,https://github.com/dazcona/mrnet,FALSE,10/18/2020 21:30,[],8,2,1,0,0,Jupyter Notebook,35397,1,0,1,0,1,0,0,0
-landing-ai/data-centric-comp,https://github.com/landing-ai/data-centric-comp,FALSE,5/5/2021 18:31,[],11,3,0,0,2,JavaScript,34339,0,0,2,0,35,0,0,32
-stunback/yolox_for_cann_atlas200dk,https://github.com/HITSZ-NRSL/yolox_for_cann_atlas200dk,FALSE,7/31/2021 3:20,[],12,1,4,0,1,Python,19140,1,0,1,0,3,0,0,0
-p-lambda/in-n-out,https://github.com/p-lambda/in-n-out,FALSE,10/8/2020 23:00,"['out-of-distribution', 'robustness', 'pre-training', 'self-training']",11,13,0,0,3,Python,857,1,0,1,0,63,0,0,0
-stanfordnlp/coqa-baselines,https://github.com/stanfordnlp/coqa-baselines,FALSE,9/15/2018 2:17,[],172,15,49,0,3,Python,75,5,0,2,0,46,0,0,0
-equinor/xtgeo,https://github.com/equinor/xtgeo,FALSE,2/22/2018 13:47,[],87,19,39,170,16,Python,8759,69,1,9,312,2071,0,0,0
-kshannon/abnormal-xray-detection,https://github.com/kshannon/abnormal-xray-detection,FALSE,6/18/2018 0:03,"['deep-learning', 'medical-imaging', 'tensorflow', 'mura-dataset']",9,4,7,0,2,Python,1931,0,0,1,0,47,0,0,0
-WHULuoJiaTeam/luojianet,https://github.com/WHULuoJiaTeam/luojianet,FALSE,5/24/2022 7:44,[],96,8,25,1,4,C++,231307,1,0,3,7,93,0,0,0
-smashse/iac-public,https://github.com/smashse/iac-public,FALSE,5/12/2020 19:59,"['pulumi', 'infrastructure', 'terraform', 'devops', 'iac', 'hcl', 'python']",13,0,7,0,1,HCL,124,0,0,1,0,81,0,0,0
-markleybros/yer-face,https://github.com/markleybros/yer-face,FALSE,10/28/2017 15:41,"['performance-capture', 'cartoon-animation', 'lip-sync', 'yerface']",24,3,6,5,1,C++,984,0,0,2,5,484,0,0,0
-ipspace/blog,https://github.com/ipspace/blog,FALSE,7/23/2021 18:22,[],11,3,0,0,2,HTML,154026,0,0,2,0,856,0,0,0
-shibei00/Cross-Lingual-Topic-Model,https://github.com/shibei00/Cross-Lingual-Topic-Model,FALSE,10/25/2017 7:06,"['topic-modeling', 'python', 'bilingual']",13,3,0,0,1,Roff,8695,0,0,1,0,13,0,0,0
-rarible/sdk,https://github.com/rarible/sdk,FALSE,10/5/2021 10:00,[],61,18,27,1,12,TypeScript,9006,12,3,26,322,928,1,0,0
-MCZhi/Expert-Prior-RL,https://github.com/MCZhi/Expert-Prior-RL,FALSE,9/15/2021 8:20,['deep-reinforcement-learning'],30,1,4,0,1,Python,264622,2,0,2,0,86,0,0,57
-strin/cbt-model,https://github.com/strin/cbt-model,FALSE,4/13/2016 3:14,[],10,3,6,0,1,Python,43,0,0,1,0,19,0,0,0
-fayola21/farsec,https://github.com/fayola21/farsec,FALSE,12/2/2016 15:25,[],5,2,4,0,1,Clojure,134380,0,0,1,0,30,0,0,0
-Teamxrtc/webrtc-streaming-node,https://github.com/Teamxrtc/webrtc-streaming-node,FALSE,12/10/2015 18:55,[],6,4,5,0,1,C++,131201,2,1,1,0,2,0,0,0
-AnanyaKumar/transfer_learning,https://github.com/AnanyaKumar/transfer_learning,FALSE,11/24/2020 19:54,[],21,6,3,0,1,Python,5177,0,0,2,0,56,0,0,0
-NVIDIA/deepops,https://github.com/NVIDIA/deepops,FALSE,5/24/2018 22:59,[],870,51,267,18,57,Shell,19328,20,4,15,21,3683,5,0,0
-micans/mcl,https://github.com/micans/mcl,FALSE,4/8/2021 17:13,"['clustering', 'markov-clustering', 'network-analysis', 'network-clustering', 'graph-clustering', 'markov-cluster-algorithm', 'mcl']",32,3,6,0,2,C,2582,0,0,4,0,244,0,0,0
-wenlinyao/EMNLP20-SubeventAcquisition,https://github.com/wenlinyao/EMNLP20-SubeventAcquisition,FALSE,9/29/2020 20:12,[],5,1,1,0,1,Python,36465,2,0,1,0,9,0,0,0
-kohpangwei/group-influence-release,https://github.com/kohpangwei/group-influence-release,FALSE,5/30/2019 19:48,[],41,6,8,0,2,Python,6263,6,2,4,0,33,0,0,0
-efabless/proton,https://github.com/efabless/proton,FALSE,10/25/2016 2:16,[],27,16,11,0,4,Perl,43511,8,2,1,0,126,0,0,0
-YcheCourseProject/CommunityDetection,https://github.com/YcheCourseProject/CommunityDetection,FALSE,11/11/2015 13:01,[],37,4,23,0,1,C,197214,0,0,3,0,92,0,0,0
-rise-lang/shine,https://github.com/rise-lang/shine,FALSE,12/20/2019 12:08,"['rise', 'shine', 'compiler']",38,10,4,0,12,Scala,11536,63,8,65,1,2805,1,0,0
-Anwarvic/Dan-Jurafsky--Chris-Manning--NLP,https://github.com/Anwarvic/Dan-Jurafsky--Chris-Manning--NLP,FALSE,12/14/2017 12:46,"['autocorrector', 'autocorrection', 'regular-expression', 'regular-expressions', 'sentiment-analysis', 'sentiment-classification', 'ner', 'named-entity-recognition', 'parsing', 'parser', 'cky-parser', 'cky-algorithm', 'cky', 'information-retrieval', 'information-extraction', 'question-answering', 'nlp', 'nlp-machine-learning', 'text-classification', 'text-processing']",152,8,53,0,1,Java,52088,0,0,1,0,26,0,0,0
-MI2DataLab/WildNLP,https://github.com/MI2DataLab/WildNLP,FALSE,3/7/2019 15:35,[],74,10,4,2,5,Python,9109,3,3,4,2,64,0,0,23
-srz-zumix/wandbox-api,https://github.com/srz-zumix/wandbox-api,FALSE,12/24/2014 8:31,"['python', 'wandbox', 'wandbox-api', 'wandbox-cxx']",6,2,1,38,3,Python,352,2,0,2,38,270,0,0,0
-futurulus/colors-in-context,https://github.com/futurulus/colors-in-context,FALSE,3/11/2018 6:53,[],10,1,0,0,6,OpenEdge ABL,53896,0,0,1,0,819,0,0,0
-johandry/CKAD,https://github.com/johandry/CKAD,FALSE,11/4/2019 5:02,[],15,3,32,0,1,Shell,3001,0,0,1,0,39,0,0,0
-huawei-noah/SMARTS,https://github.com/huawei-noah/SMARTS,FALSE,10/7/2020 2:11,"['reinforcement-learning', 'python']",663,14,151,19,12,Python,299801,307,23,61,22,338,1,0,0
-ad-si/RosettaGit,https://github.com/ad-si/RosettaGit,FALSE,10/26/2019 23:41,"['chrestomathy', 'polyglot', 'omniglot', 'comparison', 'programming-languages']",184,12,13,0,4,HTML,68419,22,1,1,0,45,0,0,0
-codalab/worksheets-examples,https://github.com/codalab/worksheets-examples,FALSE,10/27/2018 21:14,[],36,13,17,0,7,Python,6429,6,0,3,0,61,0,0,0
-rktamplayo/AutoSense,https://github.com/rktamplayo/AutoSense,FALSE,11/2/2018 15:55,"['word-sense-induction', 'word-sense-disambiguation', 'word-sense', 'topic-modeling', 'topic-models', 'topic-model', 'latent-dirichlet-allocation']",13,2,5,0,1,Java,5302,0,0,1,0,5,0,0,0
-rajammanabrolu/StoryRealization,https://github.com/rajammanabrolu/StoryRealization,FALSE,8/20/2019 21:18,[],28,1,9,0,2,Python,3981,1,0,1,0,5,0,0,0
-stanfordnlp/color-describer,https://github.com/stanfordnlp/color-describer,FALSE,6/10/2016 8:08,[],26,14,18,0,2,OpenEdge ABL,5414,0,0,1,0,355,0,0,0
-Bowie-State-University/CS-Courses,https://github.com/Bowie-State-University/CS-Courses,FALSE,12/18/2015 2:48,[],11,2,17,0,1,C++,1159951,0,0,1,0,54,0,0,0
-utopia-group/regel,https://github.com/utopia-group/regel,FALSE,3/27/2020 23:19,[],30,9,7,0,2,Java,11451,2,0,3,0,23,0,0,0
-laem/trottoirs-de-paris,https://github.com/laem/trottoirs-de-paris,FALSE,3/30/2015 22:05,[],12,4,0,0,1,CartoCSS,2897,0,0,2,0,62,0,0,4
-proywm/CCProf,https://github.com/proywm/CCProf,FALSE,11/6/2017 17:14,"['ccprof', 'cache-conflict', 'cache', 'cache-miss', 'cache-optimization', 'profile-guided-optimization', 'pebs', 'conflict-miss']",23,4,1,0,1,C,128980,2,0,2,0,47,0,0,0
-Shuailong/BlamePipeline,https://github.com/Shuailong/BlamePipeline,FALSE,5/13/2018 14:51,"['relation-extraction', 'blame']",5,3,3,0,1,Python,4348,1,0,1,0,48,0,0,0
-xnancy/russ,https://github.com/xnancy/russ,FALSE,10/7/2020 0:27,[],10,4,4,0,4,Python,17878,0,0,1,0,124,0,0,0
-prateekagrawaliiit/100-Days-of-ML,https://github.com/prateekagrawaliiit/100-Days-of-ML,FALSE,8/22/2020 17:36,"['dataset', 'titanic-dataset', 'optuna', 'randomforestclassifier', 'prediction']",11,1,6,0,1,Jupyter Notebook,55631,0,0,2,0,65,0,0,0
-p-lambda/swords,https://github.com/p-lambda/swords,FALSE,5/19/2021 20:18,"['swords', 'benchmark', 'nlp', 'lexical-substitution', 'writing-assistant']",25,15,2,0,2,Python,135558,2,1,1,0,21,0,0,0
-p-lambda/robust_tradeoff,https://github.com/p-lambda/robust_tradeoff,FALSE,8/14/2020 1:13,"['adversarial-examples', 'robustness', 'tradeoff']",5,4,0,0,1,Python,774,0,0,1,0,2,0,0,0
-webosose/chromium53,https://github.com/webosose/chromium53,FALSE,3/13/2018 6:22,"['webos', 'webosose']",8,8,19,0,27,,1750036,0,0,3,20,124,0,0,0
-wa3dbk/ScribeSalad,https://github.com/wa3dbk/ScribeSalad,FALSE,12/1/2018 0:10,"['youtube-video', 'youtube-videos-transcripts', 'joe-rogan-experience', 'jordan-b-peterson', 'artificial-intelligence', 'history', 'social-issues', 'politics', 'yalecourses', 'science', 'video', 'multilingual', 'transcripts']",43,8,24,0,1,,10963400,2,2,2,0,2241,0,0,0
-pointpillars-on-openvino/pointpillars-on-openvino,https://github.com/pointpillars-on-openvino/pointpillars-on-openvino,FALSE,11/12/2021 6:40,[],7,0,3,0,1,C++,56264,0,0,1,0,12,0,0,0
-OpenLiberty/open-liberty,https://github.com/OpenLiberty/open-liberty,FALSE,9/15/2017 19:34,['hacktoberfest'],1018,36,519,53,244,Java,851815,2285,499,271,339,31639,25,0,0
-benjmarshall/hlsclt,https://github.com/benjmarshall/hlsclt,FALSE,6/12/2017 11:15,"['high-level-synthesis', 'python', 'vivado-hls', 'fpga']",35,4,11,8,2,Python,64,8,4,4,8,85,0,0,0
-compomics/searchgui,https://github.com/compomics/searchgui,FALSE,8/21/2015 21:31,"['proteomics', 'protein-identification', 'bioinformatics', 'java']",25,18,17,0,7,Java,667039,10,0,5,0,932,1,0,0
-runebookdev/runebook,https://github.com/runebookdev/runebook,FALSE,2/10/2020 7:35,"['runebook', 'translations', 'i18n', 'documentation']",106,3,19,0,1,,3628118,529,0,1,0,3813,0,0,0
-dodger487/scrape_hn,https://github.com/dodger487/scrape_hn,FALSE,5/13/2017 20:17,[],51,6,9,0,2,Shell,151560,0,0,1,0,73,2,0,0
-lyeoni/KorQuAD,https://github.com/lyeoni/KorQuAD,FALSE,6/5/2019 7:42,"['korquad', 'bert', 'pytorch', 'question-answering', 'machine-reading-comprehension']",31,1,9,0,1,Python,1414,0,0,1,0,30,0,0,0
-40ants/hacrm,https://github.com/40ants/hacrm,FALSE,8/16/2017 19:58,"['lisp', 'common-lisp', 'crm', 'plugins']",4,3,0,0,1,Common Lisp,5379,1,0,1,0,100,0,0,0
-stanford-cs324/winter2022,https://github.com/stanford-cs324/winter2022,FALSE,12/23/2021 18:01,[],6,2,2,0,4,Python,19938,0,0,4,0,162,0,0,132
-cliqz-oss/keyvi,https://github.com/cliqz-oss/keyvi,FALSE,7/14/2015 21:25,"['python', 'cpp', 'search', 'data-structures', 'fst', 'big-data']",176,20,37,43,8,C++,27577,10,1,3,44,826,0,0,73
-mindspore-ai/mindspore,https://github.com/mindspore-ai/mindspore,FALSE,2/11/2020 8:43,[],3176,149,594,0,92,C++,666319,123,17,19,28,55621,0,0,0
-stanfordnlp/wge,https://github.com/stanfordnlp/wge,FALSE,2/20/2018 23:32,[],82,13,33,0,2,Python,4271,3,0,3,0,11,0,0,10
-moparisthebest/forum.moparisthebest.com,https://github.com/moparisthebest/forum.moparisthebest.com,FALSE,9/11/2019 22:54,[],6,3,9,0,1,,1138596,0,0,1,0,2,0,0,0
-hpcc-systems/helm-chart,https://github.com/hpcc-systems/helm-chart,FALSE,3/20/2020 12:09,[],7,10,22,0,4,Smarty,60159,1,1,5,98,692,0,0,692
-panosmdma/SlackOnly-SlackBuilds,https://github.com/panosmdma/SlackOnly-SlackBuilds,FALSE,1/7/2016 17:11,[],8,4,1,0,211,Shell,98504,0,0,2,0,57866,0,0,0
-fletcherjiang/ssm-alipay,https://github.com/fletcherjiang/ssm-alipay,FALSE,4/19/2020 10:49,13,4,110,0,1,C++,25572,0,0,2,0,689,0,0,0,
-taolusi/chisp,https://github.com/taolusi/chisp,FALSE,8/14/2019 6:56,[],103,8,11,0,1,Python,43,3,0,1,0,5,0,0,0
-eugeneia/athens,https://github.com/eugeneia/athens,FALSE,8/15/2018 11:59,[],6,1,0,0,1,Common Lisp,4821,0,0,2,1,69,0,0,0
-jeffpar/kbarchive,https://github.com/jeffpar/kbarchive,FALSE,10/18/2017 19:26,[],244,22,54,0,2,,436147,4,3,4,0,41,0,0,24
-RapidsAtHKUST/CommunityDetectionCodes,https://github.com/RapidsAtHKUST/CommunityDetectionCodes,FALSE,12/26/2016 3:07,"['survey', 'community-detection-algorithm', 'graph-input-benchmark', 'quality-evaluation-metrics', 'codes-refactoring', 'dataset-summary']",180,17,93,0,1,C++,53347,5,2,1,0,240,0,0,0
-sayakpaul/TF-2.0-Hacks,https://github.com/sayakpaul/TF-2.0-Hacks,FALSE,5/9/2019 15:41,"['tensorflow-2', 'neural-networks', 'deep-learning']",383,26,84,0,1,Jupyter Notebook,32475,0,0,3,0,162,0,0,0
-cea-hpc/modules,https://github.com/cea-hpc/modules,FALSE,3/14/2017 5:10,"['environment', 'module', 'modulefiles', 'tcl', 'shell', 'hpc', 'environment-modules', 'hacktoberfest']",497,34,83,31,27,Tcl,18722,27,1,7,41,4853,5,0,61
-kangeunsu/ArtML,https://github.com/kangeunsu/ArtML,FALSE,1/22/2019 3:50,[],5,0,4,0,2,Jupyter Notebook,606739,0,0,1,0,88,0,0,0
-Ascend/samples,https://github.com/Ascend/samples,FALSE,11/16/2020 11:38,[],50,5,23,0,27,Python,209908,1,0,1,2,3536,0,0,0
-mini-peanut/search-table,https://github.com/mini-peanut/search-table,FALSE,6/14/2019 8:55,15,0,7,0,2,TypeScript,555,0,0,1,8,18,0,0,0,
-NCAR/geocat-comp,https://github.com/NCAR/geocat-comp,FALSE,7/15/2019 17:44,"['ncl', 'python', 'geocat', 'geocat-comp']",88,12,41,17,15,Python,24368,44,7,12,17,1196,1,0,0
-luohancfd/CFCFD-NG,https://github.com/luohancfd/CFCFD-NG,FALSE,3/12/2018 20:14,[],9,3,4,0,9,Python,406419,0,0,2,0,2578,0,0,0
-boslbi92/CoQA,https://github.com/boslbi92/CoQA,FALSE,2/28/2019 21:06,[],6,3,2,0,1,Python,23306,1,1,1,0,174,0,0,0
-ncbi/ncbi-cxx-toolkit-public,https://github.com/ncbi/ncbi-cxx-toolkit-public,FALSE,7/26/2021 19:41,[],17,12,6,2,0,C++,140606,2,0,2,2,4266,0,0,0
-fedir/ghstat,https://github.com/fedir/ghstat,FALSE,3/10/2018 13:36,"['github-api', 'golang', 'statistics']",13,3,1,5,1,Go,61314,9,0,1,5,340,0,0,0
-SlackBuildsOrg/slackbuilds,https://github.com/SlackBuildsOrg/slackbuilds,FALSE,1/18/2016 21:37,[],56,12,70,0,230,Shell,151902,8,8,4,650,89476,5,0,0
-yewsiang/ConceptBottleneck,https://github.com/yewsiang/ConceptBottleneck,FALSE,3/10/2020 23:39,"['concept-bottleneck-models', 'osteoarthritis-initiative', 'cub-dataset', 'concepts', 'interpretability', 'interpretable-machine-learning', 'computer-vision']",88,5,17,0,3,Python,1577,8,6,7,0,31,0,0,0
-p-lambda/jukemir,https://github.com/p-lambda/jukemir,FALSE,6/9/2021 23:37,[],100,12,16,0,1,Shell,4304,1,1,1,0,63,0,0,0
-futurulus/coop-nets,https://github.com/futurulus/coop-nets,FALSE,12/21/2015 3:17,[],10,6,4,0,6,OpenEdge ABL,52980,3,0,13,0,815,1,0,0
-djsegal/JuliaPackages.jl,https://github.com/djsegal/JuliaPackages.jl,FALSE,3/24/2020 23:06,[],6,3,0,0,1,Julia,41173,1,0,1,0,66,0,0,0
-YichenGong/Natural-Language-Processing-Stanford-Coursera,https://github.com/YichenGong/Natural-Language-Processing-Stanford-Coursera,FALSE,1/2/2016 18:56,[],13,2,11,0,1,Java,34696,0,0,1,0,18,0,0,0
-hpcc-systems/PBblas,https://github.com/hpcc-systems/PBblas,FALSE,12/15/2016 15:44,[],5,9,6,0,5,ECL,113,3,2,1,0,29,0,0,0
+Repo,Link,Archived,Creation Date,Topics,#Star,#Watch,#Fork,#Releases,#Contributors,Language,Size,#Open Issues,#Pull Requests,#Branches,#Tags,#Commits,#Comments,#Downloads,#Deployments
+hotpotqa/hotpotqa.github.io,https://github.com/hotpotqa/hotpotqa.github.io,False,2018-08-27 00:01:13,[],5,5,4,0,3,HTML,13341,0,0,1,0,183,0,0,183
+stanfordnlp/coqa-baselines,https://github.com/stanfordnlp/coqa-baselines,False,2018-09-15 02:17:23,[],172,15,49,0,3,Python,75,5,0,2,0,46,0,0,0
+shidi1985/L2RPN,https://github.com/shidi1985/L2RPN,False,2019-07-06 01:23:38,[],47,3,22,0,2,Python,109652,7,3,4,0,14,0,0,0
+wa3dbk/ScribeSalad,https://github.com/wa3dbk/ScribeSalad,False,2018-12-01 00:10:03,"['youtube-video', 'youtube-videos-transcripts', 'joe-rogan-experience', 'jordan-b-peterson', 'artificial-intelligence', 'history', 'social-issues', 'politics', 'yalecourses', 'science', 'video', 'multilingual', 'transcripts']",44,8,24,0,1,,11085949,2,2,2,0,2258,0,0,0
+arm-hpc/papi,https://github.com/arm-hpc/papi,False,2015-10-24 12:23:01,[],9,2,2,0,11,C,28316,0,0,35,152,6300,0,0,0
+trevorlinton/webkit.js,https://github.com/trevorlinton/webkit.js,False,2014-01-16 09:54:37,[],1925,93,88,0,6,,840022,28,0,2,1,205,2,0,0
+ad-si/RosettaGit,https://github.com/ad-si/RosettaGit,False,2019-10-26 23:41:27,"['chrestomathy', 'polyglot', 'omniglot', 'comparison', 'programming-languages']",183,12,13,0,4,HTML,68419,22,1,1,0,45,0,0,0
+stunback/yolox_for_cann_atlas200dk,https://github.com/HITSZ-NRSL/yolox_for_cann_atlas200dk,False,2021-07-31 03:20:46,[],12,1,4,0,1,Python,19140,1,0,1,0,3,0,0,0
+AnanyaKumar/transfer_learning,https://github.com/AnanyaKumar/transfer_learning,False,2020-11-24 19:54:12,[],21,6,3,0,1,Python,5254,0,0,2,0,56,0,0,0
+bq/aquaris-M10-FHD,https://github.com/bq/aquaris-M10-FHD,False,2016-02-01 18:19:42,[],5,10,8,0,0,C,332295,0,0,2,11,6,0,0,0
+YcheCourseProject/CommunityDetection,https://github.com/YcheCourseProject/CommunityDetection,False,2015-11-11 13:01:35,[],37,4,23,0,1,C,197214,0,0,3,0,92,0,0,0
+ArctiqTeam/community-events,https://github.com/ArctiqTeam/community-events,False,2018-06-05 11:40:03,[],7,6,11,0,5,JavaScript,33730,1,1,9,0,58,0,0,0
+OhadRubin/SmBop,https://github.com/OhadRubin/SmBop,False,2021-03-23 12:13:23,[],82,3,33,0,5,Python,81,8,0,3,0,42,0,0,0
+futurulus/coop-nets,https://github.com/futurulus/coop-nets,False,2015-12-21 03:17:28,[],10,6,4,0,6,OpenEdge ABL,52980,3,0,13,0,815,1,0,0
+fedir/ghstat,https://github.com/fedir/ghstat,False,2018-03-10 13:36:27,"['github-api', 'golang', 'statistics']",13,3,1,5,1,Go,61314,9,0,1,5,340,0,0,0
+KevinWang96/Chip-Multi-processor-System-based-on-Cardinal-Bidirectional-Ring-Network-on-chip,https://github.com/KevinWang96/Chip-Multi-processor-System-based-on-Cardinal-Bidirectional-Ring-Network-on-chip,False,2020-03-07 00:21:50,"['networkonchip', 'processor-design', 'verilog-hdl', 'synopsys-dc', 'cadence-ncverilog', 'cadence-conformal', 'multiprocessor']",9,2,3,0,1,Verilog,38625,0,0,2,0,11,0,0,0
+p-lambda/robust_tradeoff,https://github.com/p-lambda/robust_tradeoff,False,2020-08-14 01:13:47,"['adversarial-examples', 'robustness', 'tradeoff']",5,4,0,0,1,Python,774,0,0,1,0,2,0,0,0
+ucb-bar/hammer,https://github.com/ucb-bar/hammer,False,2016-07-13 19:26:51,[],156,29,37,0,19,Python,5445,206,14,56,1,604,18,0,0
+KusionStack/KCLVM,https://github.com/KusionStack/KCLVM,False,2022-05-05 07:02:26,"['record', 'configuration', 'functional', 'policy', 'language', 'rust', 'programming-languages', 'configuration-language', 'as-code', 'compiler']",130,2,22,8,8,Rust,3984,56,2,1,9,185,5,0,0
+SiCKRAGE/SiCKRAGE,https://github.com/SiCKRAGE/SiCKRAGE,False,2014-03-10 05:20:31,"['sickrage', 'nzb', 'season', 'official', 'torrent', 'tv', 'sickbeard', 'episode']",1516,164,694,0,188,Python,650156,0,0,2,1311,12696,517,0,0
+YichenGong/Natural-Language-Processing-Stanford-Coursera,https://github.com/YichenGong/Natural-Language-Processing-Stanford-Coursera,False,2016-01-02 18:56:00,[],13,2,11,0,1,Java,34696,0,0,1,0,18,0,0,0
+stanfordnlp/phrasenode,https://github.com/stanfordnlp/phrasenode,False,2018-08-27 05:14:07,[],31,12,12,0,3,Python,265,1,0,1,0,30,0,0,0
+p-lambda/verified_calibration,https://github.com/p-lambda/verified_calibration,False,2019-10-21 00:45:08,"['uncertainty-calibration', 'calibration-library', 'ece', 'calibration', 'toolbox', 'metrics']",94,5,15,0,2,Python,54921,4,2,1,0,38,0,0,0
+taolusi/chisp,https://github.com/taolusi/chisp,False,2019-08-14 06:56:03,[],103,8,11,0,1,Python,43,3,0,1,0,5,0,0,0
+boslbi92/CoQA,https://github.com/boslbi92/CoQA,False,2019-02-28 21:06:20,[],6,3,2,0,1,Python,23306,1,1,1,0,174,0,0,0
+jeffpar/kbarchive,https://github.com/jeffpar/kbarchive,False,2017-10-18 19:26:28,[],245,22,53,0,2,,436147,4,3,4,0,41,0,0,24
+pointpillars-on-openvino/pointpillars-on-openvino,https://github.com/pointpillars-on-openvino/pointpillars-on-openvino,False,2021-11-12 06:40:42,[],8,0,3,0,1,C++,56264,1,0,1,0,12,0,0,0
+Ascend/samples,https://github.com/Ascend/samples,False,2020-11-16 11:38:08,[],51,5,23,0,27,Python,209908,1,0,1,2,3536,0,0,0
+utopia-group/regel,https://github.com/utopia-group/regel,False,2020-03-27 23:19:16,[],30,9,7,0,2,Java,11451,2,0,3,0,23,0,0,0
+kelvinguu/lang2program,https://github.com/kelvinguu/lang2program,False,2017-02-25 07:15:48,[],63,7,20,0,3,Python,487,2,0,1,0,9,0,0,0
+shibei00/Cross-Lingual-Topic-Model,https://github.com/shibei00/Cross-Lingual-Topic-Model,False,2017-10-25 07:06:38,"['topic-modeling', 'python', 'bilingual']",13,3,0,0,1,Roff,8695,0,0,1,0,13,0,0,0
+mini-peanut/search-table,https://github.com/mini-peanut/search-table,False,2019-06-14 08:55:16,[],15,0,7,0,2,TypeScript,555,0,0,1,8,18,0,0,0
+Anwarvic/Dan-Jurafsky--Chris-Manning--NLP,https://github.com/Anwarvic/Dan-Jurafsky--Chris-Manning--NLP,False,2017-12-14 12:46:47,"['autocorrector', 'autocorrection', 'regular-expression', 'regular-expressions', 'sentiment-analysis', 'sentiment-classification', 'ner', 'named-entity-recognition', 'parsing', 'parser', 'cky-parser', 'cky-algorithm', 'cky', 'information-retrieval', 'information-extraction', 'question-answering', 'nlp', 'nlp-machine-learning', 'text-classification', 'text-processing']",152,8,53,0,1,Java,52088,0,0,1,0,26,0,0,0
+40ants/hacrm,https://github.com/40ants/hacrm,False,2017-08-16 19:58:04,"['lisp', 'common-lisp', 'crm', 'plugins']",4,3,0,0,1,Common Lisp,5379,1,0,1,0,100,0,0,0
+sclorg/scl-utils,https://github.com/sclorg/scl-utils,False,2014-12-05 10:54:56,[],12,10,22,0,12,C,132,18,5,2,6,137,3,0,0
+CharlesPikachu/DecryptLogin,https://github.com/CharlesPikachu/DecryptLogin,False,2019-02-25 01:57:20,"['requests', 'login', 'python3', 'spider', 'crawler', 'zhihu', 'bilibili', 'weibo', 'taobao', 'jingdong', 'twitter', 'baiduyun', 'stackoverflow', '12306', 'xiami', 'tencent', 'pypi', 'migu', 'xiaomi', 'baidu']",2446,58,708,0,1,Python,38150,5,1,1,0,318,0,0,0
+equinor/xtgeo,https://github.com/equinor/xtgeo,False,2018-02-22 13:47:12,[],87,19,39,171,17,Python,8773,68,1,9,313,2074,0,0,0
+fayola21/farsec,https://github.com/fayola21/farsec,False,2016-12-02 15:25:40,[],5,2,4,0,1,Clojure,134380,0,0,1,0,30,0,0,0
+hpcc-systems/docker-hpcc,https://github.com/hpcc-systems/docker-hpcc,False,2018-04-17 08:34:08,[],7,13,12,0,2,Shell,56,4,4,1,0,26,1,0,0
+kangeunsu/ArtML,https://github.com/kangeunsu/ArtML,False,2019-01-22 03:50:07,[],5,0,4,0,2,Jupyter Notebook,606739,0,0,1,0,88,0,0,0
+compomics/searchgui,https://github.com/compomics/searchgui,False,2015-08-21 21:31:39,"['proteomics', 'protein-identification', 'bioinformatics', 'java']",26,18,17,0,7,Java,667039,10,0,5,0,932,1,0,0
+ncbi/ncbi-cxx-toolkit-public,https://github.com/ncbi/ncbi-cxx-toolkit-public,False,2021-07-26 19:41:58,[],19,12,6,2,0,C++,144892,2,0,2,2,4374,0,0,0
+stanfordnlp/color-describer,https://github.com/stanfordnlp/color-describer,False,2016-06-10 08:08:54,[],26,14,18,0,2,OpenEdge ABL,5414,0,0,1,0,355,0,0,0
+mlufei/depot_tools,https://github.com/mlufei/depot_tools,False,2015-09-28 04:03:09,[],8,4,12,0,65,Python,12040,0,0,2,0,2822,0,0,0
+fletcherjiang/ssm-alipay,https://github.com/fletcherjiang/ssm-alipay,False,2020-04-19 10:49:09,[],13,4,110,0,1,C++,25572,0,0,2,0,689,0,0,0
+rajammanabrolu/StoryRealization,https://github.com/rajammanabrolu/StoryRealization,False,2019-08-20 21:18:23,[],28,1,9,0,2,Python,3981,1,0,1,0,5,0,0,0
+MCZhi/Expert-Prior-RL,https://github.com/MCZhi/Expert-Prior-RL,False,2021-09-15 08:20:14,['deep-reinforcement-learning'],30,1,4,0,1,Python,264622,2,0,2,0,86,0,0,57
+graykode/KorQuAD-beginner,https://github.com/graykode/KorQuAD-beginner,False,2019-04-26 11:00:51,"['bert', 'squad']",41,4,11,0,1,Python,8405,0,0,1,0,7,0,0,0
+smashse/iac-public,https://github.com/smashse/iac-public,False,2020-05-12 19:59:24,"['pulumi', 'infrastructure', 'terraform', 'devops', 'iac', 'hcl', 'python']",13,0,7,0,1,HCL,124,0,0,1,0,81,0,0,0
+eugeneia/athens,https://github.com/eugeneia/athens,False,2018-08-15 11:59:11,[],6,1,0,0,1,Common Lisp,4821,0,0,2,1,69,0,0,0
+homemade/scl,https://github.com/homemade/scl,False,2016-11-08 12:01:58,[],19,4,1,0,2,Go,57,0,0,2,16,82,0,0,0
+rarible/sdk,https://github.com/rarible/sdk,False,2021-10-05 10:00:49,[],63,18,27,1,12,TypeScript,10473,11,2,41,332,939,1,0,0
+benjmarshall/hlsclt,https://github.com/benjmarshall/hlsclt,False,2017-06-12 11:15:35,"['high-level-synthesis', 'python', 'vivado-hls', 'fpga']",35,4,11,8,2,Python,64,8,4,4,8,85,0,0,0
+ipspace/blog,https://github.com/ipspace/blog,False,2021-07-23 18:22:25,[],11,3,0,0,2,HTML,154465,0,0,2,0,867,0,0,0
+USC-NSL/SPA,https://github.com/USC-NSL/SPA,False,2014-12-30 08:14:05,[],10,23,9,0,2,,1158528,0,0,1,0,1618,0,0,0
+kshannon/abnormal-xray-detection,https://github.com/kshannon/abnormal-xray-detection,False,2018-06-18 00:03:57,"['deep-learning', 'medical-imaging', 'tensorflow', 'mura-dataset']",9,4,7,0,2,Python,1931,0,0,1,0,47,0,0,0
+wilsonianb/nacl_contracts,https://github.com/wilsonianb/nacl_contracts,False,2014-04-24 20:33:21,[],5,3,1,0,0,C,25456,0,0,1,0,19,0,0,0
+dazcona/mrnet,https://github.com/dazcona/mrnet,False,2020-10-18 21:30:02,[],8,2,1,0,0,Jupyter Notebook,35397,1,0,1,0,1,0,0,0
+landing-ai/data-centric-comp,https://github.com/landing-ai/data-centric-comp,False,2021-05-05 18:31:31,[],11,3,0,0,2,JavaScript,34339,0,0,2,0,35,0,0,32
+Shuailong/BlamePipeline,https://github.com/Shuailong/BlamePipeline,False,2018-05-13 14:51:37,"['relation-extraction', 'blame']",5,3,3,0,1,Python,4348,1,0,1,0,48,0,0,0
+cybertk/depot_tools,https://github.com/cybertk/depot_tools,False,2014-05-22 09:13:46,[],22,4,23,0,1,Python,10188,0,0,1,0,2321,0,0,0
+p-lambda/in-n-out,https://github.com/p-lambda/in-n-out,False,2020-10-08 23:00:33,"['out-of-distribution', 'robustness', 'pre-training', 'self-training']",11,13,0,0,3,Python,857,1,0,1,0,63,0,0,0
+xnancy/russ,https://github.com/xnancy/russ,False,2020-10-07 00:27:34,[],10,4,4,0,4,Python,17878,0,0,1,0,124,0,0,0
+yewsiang/ConceptBottleneck,https://github.com/yewsiang/ConceptBottleneck,False,2020-03-10 23:39:35,"['concept-bottleneck-models', 'osteoarthritis-initiative', 'cub-dataset', 'concepts', 'interpretability', 'interpretable-machine-learning', 'computer-vision']",92,5,17,0,3,Python,1577,8,6,7,0,31,0,0,0
+svn2github/chromium-depot-tools,https://github.com/svn2github/chromium-depot-tools,False,2014-10-10 09:54:08,[],14,3,3,0,0,Python,12558,2,0,1,0,2914,0,0,0
+rust11/rust,https://github.com/rust11/rust,False,2015-03-18 05:18:25,"['pdp11', 'operating-system', 'emulator', 'pdp-11', 'rt-11']",9,4,2,0,2,C,87680,5,0,1,2,239,0,0,184
+bapoczos/ArtML,https://github.com/bapoczos/ArtML,False,2018-02-22 07:51:13,[],9,4,5,0,1,Jupyter Notebook,592887,0,0,1,0,80,0,0,0
+rise-lang/shine,https://github.com/rise-lang/shine,False,2019-12-20 12:08:54,"['rise', 'shine', 'compiler']",37,10,4,0,12,Scala,11540,63,8,65,1,2805,1,0,0
+p-lambda/swords,https://github.com/p-lambda/swords,False,2021-05-19 20:18:06,"['swords', 'benchmark', 'nlp', 'lexical-substitution', 'writing-assistant']",25,15,2,0,2,Python,135558,2,1,1,0,21,0,0,0
+robinjia/adversarial-squad,https://github.com/robinjia/adversarial-squad,False,2017-07-21 17:11:46,[],115,6,26,0,1,Python,378,1,0,1,0,3,0,0,0
+SlackBuildsOrg/slackbuilds,https://github.com/SlackBuildsOrg/slackbuilds,False,2016-01-18 21:37:11,[],56,12,70,0,231,Shell,152943,20,20,4,652,89759,5,0,0
+Teamxrtc/webrtc-streaming-node,https://github.com/Teamxrtc/webrtc-streaming-node,False,2015-12-10 18:55:35,[],6,4,5,0,1,C++,131201,2,1,1,0,2,0,0,0
+djsegal/JuliaPackages.jl,https://github.com/djsegal/JuliaPackages.jl,False,2020-03-24 23:06:36,[],6,3,0,0,1,Julia,41173,1,0,1,0,66,0,0,0
+codalab/worksheets-examples,https://github.com/codalab/worksheets-examples,False,2018-10-27 21:14:14,[],35,13,17,0,7,Python,6429,6,0,3,0,61,0,0,0
+intel/OpenVINO-optimization-for-PointPillars,https://github.com/intel/OpenVINO-optimization-for-PointPillars,False,2021-12-13 23:21:17,[],17,2,3,0,3,C++,55649,0,0,1,0,14,0,0,0
+facebookresearch/irt-leaderboard,https://github.com/facebookresearch/irt-leaderboard,False,2021-06-16 18:46:22,[],14,4,4,0,3,Python,1111,1,0,2,0,9,0,0,0
+NVIDIA/deepops,https://github.com/NVIDIA/deepops,False,2018-05-24 22:59:36,[],879,51,268,18,57,Shell,19328,21,4,15,21,3683,5,0,0
+Bowie-State-University/CS-Courses,https://github.com/Bowie-State-University/CS-Courses,False,2015-12-18 02:48:49,[],11,2,17,0,1,C++,1159951,0,0,1,0,54,0,0,0
+prateekagrawaliiit/100-Days-of-ML,https://github.com/prateekagrawaliiit/100-Days-of-ML,False,2020-08-22 17:36:27,"['dataset', 'titanic-dataset', 'optuna', 'randomforestclassifier', 'prediction']",11,1,6,0,1,Jupyter Notebook,55631,0,0,2,0,65,0,0,0
+thunlp/thunlp.github.io,https://github.com/thunlp/thunlp.github.io,False,2018-10-27 07:32:09,[],10,8,3,0,3,HTML,5631,0,0,1,0,41,0,0,40
+cliqz-oss/keyvi,https://github.com/cliqz-oss/keyvi,False,2015-07-14 21:25:01,"['python', 'cpp', 'search', 'data-structures', 'fst', 'big-data']",176,20,37,43,8,C++,27577,10,1,3,44,826,0,0,73
+Blunk-electronic/M-1,https://github.com/Blunk-electronic/M-1,False,2015-10-27 18:42:28,[],27,6,3,2,2,Ada,33386,2,0,4,3,647,0,0,0
+seominjoon/piqa,https://github.com/seominjoon/piqa,False,2018-08-25 06:37:35,['emnlp2018'],89,7,9,0,2,Python,2095,6,0,3,0,103,0,0,69
+stanford-cs324/winter2022,https://github.com/stanford-cs324/winter2022,False,2021-12-23 18:01:23,[],6,2,2,0,4,Python,19938,0,0,4,0,162,0,0,132
+apache/tcl-rivet,https://github.com/apache/tcl-rivet,False,2018-07-18 10:39:07,['tcl'],16,7,7,0,3,C,7359,0,0,15,34,1326,0,0,0
+gustafn/nsf,https://github.com/gustafn/nsf,False,2014-03-26 18:35:10,[],7,3,2,1,2,C,21811,0,0,2,18,4111,0,0,0
+runebookdev/runebook,https://github.com/runebookdev/runebook,False,2020-02-10 07:35:29,"['runebook', 'translations', 'i18n', 'documentation']",109,3,19,0,1,,3628118,543,0,1,0,3813,0,0,0
+RapidsAtHKUST/CommunityDetectionCodes,https://github.com/RapidsAtHKUST/CommunityDetectionCodes,False,2016-12-26 03:07:29,"['survey', 'community-detection-algorithm', 'graph-input-benchmark', 'quality-evaluation-metrics', 'codes-refactoring', 'dataset-summary']",183,17,93,0,1,C++,53347,5,2,1,0,240,0,0,0
+hpcc-systems/PBblas,https://github.com/hpcc-systems/PBblas,False,2016-12-15 15:44:15,[],5,9,6,0,5,ECL,113,3,2,1,0,29,0,0,0
+panosmdma/SlackOnly-SlackBuilds,https://github.com/panosmdma/SlackOnly-SlackBuilds,False,2016-01-07 17:11:29,[],8,4,1,0,211,Shell,98504,0,0,2,0,57866,0,0,0
+huawei-noah/SMARTS,https://github.com/huawei-noah/SMARTS,False,2020-10-07 02:11:23,"['reinforcement-learning', 'python']",672,14,153,19,12,Python,304227,307,26,61,22,339,1,0,0
+WHULuoJiaTeam/luojianet,https://github.com/WHULuoJiaTeam/luojianet,False,2022-05-24 07:44:49,[],102,9,25,1,4,C++,231310,0,0,3,7,94,0,0,0
+pablocelis/Documents-Search-Engine,https://github.com/pablocelis/Documents-Search-Engine,False,2013-11-16 16:28:53,[],8,1,1,0,1,Python,21468,0,0,1,0,5,0,0,0
+sayakpaul/TF-2.0-Hacks,https://github.com/sayakpaul/TF-2.0-Hacks,False,2019-05-09 15:41:39,"['tensorflow-2', 'neural-networks', 'deep-learning']",383,26,84,0,1,Jupyter Notebook,32475,0,0,3,0,162,0,0,0
+codalab/codalab-worksheets,https://github.com/codalab/codalab-worksheets,False,2014-11-30 22:33:18,[],133,20,78,111,54,Python,27347,363,21,119,125,4521,23,0,1550
+johandry/CKAD,https://github.com/johandry/CKAD,False,2019-11-04 05:02:45,[],15,3,32,0,1,Shell,3001,0,0,1,0,39,0,0,0
+markleybros/yer-face,https://github.com/markleybros/yer-face,False,2017-10-28 15:41:58,"['performance-capture', 'cartoon-animation', 'lip-sync', 'yerface']",24,3,6,5,1,C++,984,0,0,2,5,484,0,0,0
+srz-zumix/wandbox-api,https://github.com/srz-zumix/wandbox-api,False,2014-12-24 08:31:27,"['python', 'wandbox', 'wandbox-api', 'wandbox-cxx']",7,2,2,38,3,Python,352,3,1,2,38,270,0,0,0
+cea-hpc/modules,https://github.com/cea-hpc/modules,False,2017-03-14 05:10:41,"['environment', 'module', 'modulefiles', 'tcl', 'shell', 'hpc', 'environment-modules', 'hacktoberfest']",499,34,85,32,27,Tcl,18781,27,1,7,42,4873,5,0,62
+rktamplayo/AutoSense,https://github.com/rktamplayo/AutoSense,False,2018-11-02 15:55:55,"['word-sense-induction', 'word-sense-disambiguation', 'word-sense', 'topic-modeling', 'topic-models', 'topic-model', 'latent-dirichlet-allocation']",13,2,5,0,1,Java,5302,0,0,1,0,5,0,0,0
+Xilinx/AWS-F1-Developer-Labs,https://github.com/Xilinx/AWS-F1-Developer-Labs,False,2018-07-03 16:32:06,[],20,6,9,0,1,C++,12209,2,0,1,0,2,0,0,0
+OpenLiberty/open-liberty,https://github.com/OpenLiberty/open-liberty,False,2017-09-15 19:34:25,['hacktoberfest'],1022,36,522,54,244,,853078,2315,519,271,341,31851,25,0,0
+MI2DataLab/WildNLP,https://github.com/MI2DataLab/WildNLP,False,2019-03-07 15:35:59,[],74,10,4,2,5,Python,9109,3,3,4,2,64,0,0,23
+kelvinguu/neural-editor,https://github.com/kelvinguu/neural-editor,False,2017-09-26 09:51:35,[],327,30,60,0,1,Python,172,15,1,2,0,11,0,0,0
+lyeoni/KorQuAD,https://github.com/lyeoni/KorQuAD,False,2019-06-05 07:42:22,"['korquad', 'bert', 'pytorch', 'question-answering', 'machine-reading-comprehension']",31,1,9,0,1,Python,1414,0,0,1,0,30,0,0,0
+p-lambda/jukemir,https://github.com/p-lambda/jukemir,False,2021-06-09 23:37:36,[],104,12,17,0,2,Shell,4262,0,0,1,0,68,0,0,0
+strin/cbt-model,https://github.com/strin/cbt-model,False,2016-04-13 03:14:23,[],10,3,6,0,1,Python,43,0,0,1,0,19,0,0,0
+moparisthebest/forum.moparisthebest.com,https://github.com/moparisthebest/forum.moparisthebest.com,False,2019-09-11 22:54:31,[],7,3,10,0,1,,1138596,0,0,1,0,2,0,0,0
+Vertispan/j2clmavenplugin,https://github.com/Vertispan/j2clmavenplugin,False,2019-05-02 11:19:29,[],36,9,20,2,12,Java,754,52,7,16,2,279,1,0,6
+houseoflifeproperty/bitpop,https://github.com/houseoflifeproperty/bitpop,False,2014-06-03 09:17:30,[],7,2,5,0,1,C++,1196491,2,1,5,0,14,0,0,0
+wenlinyao/EMNLP20-SubeventAcquisition,https://github.com/wenlinyao/EMNLP20-SubeventAcquisition,False,2020-09-29 20:12:11,[],5,1,1,0,1,Python,36465,2,0,1,0,9,0,0,0
+koadman/proxigenomics,https://github.com/koadman/proxigenomics,False,2014-01-29 21:31:22,[],5,3,2,1,2,C,56476,27,1,5,1,311,18,0,0
+webosose/chromium53,https://github.com/webosose/chromium53,False,2018-03-13 06:22:54,"['webos', 'webosose']",8,8,19,0,27,,1750036,0,0,3,20,124,0,0,0
+lvyiwei1/StylePTB,https://github.com/lvyiwei1/StylePTB,False,2021-03-30 00:16:37,[],51,3,4,0,2,Python,12152,0,0,1,0,16,0,0,0
+microsoft/text-to-sql-schema-expansion-generalization,https://github.com/microsoft/text-to-sql-schema-expansion-generalization,False,2022-05-23 14:52:52,[],12,6,2,0,4,Python,17568,0,0,1,0,11,0,0,0
+proywm/CCProf,https://github.com/proywm/CCProf,False,2017-11-06 17:14:59,"['ccprof', 'cache-conflict', 'cache', 'cache-miss', 'cache-optimization', 'profile-guided-optimization', 'pebs', 'conflict-miss']",23,4,1,0,1,C,128980,2,0,2,0,47,0,0,0
+codalab/codabench,https://github.com/codalab/codabench,False,2017-07-27 15:43:10,[],20,9,12,0,16,Python,85154,64,11,15,0,944,3,0,1701
+stanfordnlp/wge,https://github.com/stanfordnlp/wge,False,2018-02-20 23:32:48,[],82,13,33,0,2,Python,4271,3,0,3,0,11,0,0,10
+laem/trottoirs-de-paris,https://github.com/laem/trottoirs-de-paris,False,2015-03-30 22:05:08,[],12,4,0,0,1,CartoCSS,2897,0,0,2,0,62,0,0,4
+Evgeneus/Label-Smoothing-in-Text-Classification,https://github.com/Evgeneus/Label-Smoothing-in-Text-Classification,False,2020-01-24 15:36:17,"['label-smoothing', 'soft-targets', 'crowd-votes', 'nlp', 'transformer', 'label-distribution', 'machine-learning', 'text-classification', 'document-management', 'calibration', 'crowd-labels']",7,2,0,0,2,Python,118914,0,0,2,0,140,0,0,0
+mindspore-ai/mindspore,https://github.com/mindspore-ai/mindspore,False,2020-02-11 08:43:48,[],3203,150,599,0,92,C++,677803,123,17,20,28,56669,0,0,0
+kohpangwei/group-influence-release,https://github.com/kohpangwei/group-influence-release,False,2019-05-30 19:48:31,[],41,6,8,0,2,Python,6263,6,2,4,0,33,0,0,0
+rpgoldman/xmls,https://github.com/rpgoldman/xmls,False,2020-02-13 02:24:30,[],15,2,3,0,5,Common Lisp,190,2,0,3,2,155,0,0,0
+wadehennessey/wcl,https://github.com/wadehennessey/wcl,False,2015-08-29 21:31:46,[],68,13,8,0,1,Common Lisp,90780,4,0,1,0,82,0,0,0
+NCAR/geocat-comp,https://github.com/NCAR/geocat-comp,False,2019-07-15 17:44:03,"['ncl', 'python', 'geocat', 'geocat-comp']",89,12,42,18,15,Python,24478,45,5,14,18,1279,1,0,0
+futurulus/colors-in-context,https://github.com/futurulus/colors-in-context,False,2018-03-11 06:53:33,[],10,1,0,0,6,OpenEdge ABL,53896,0,0,1,0,819,0,0,0
+micans/mcl,https://github.com/micans/mcl,False,2021-04-08 17:13:00,"['clustering', 'markov-clustering', 'network-analysis', 'network-clustering', 'graph-clustering', 'markov-cluster-algorithm', 'mcl']",33,3,7,0,2,C,2585,0,0,4,0,246,0,0,0
+dodger487/scrape_hn,https://github.com/dodger487/scrape_hn,False,2017-05-13 20:17:05,[],51,6,9,0,2,Shell,151560,0,0,1,0,73,2,0,0
+efabless/proton,https://github.com/efabless/proton,False,2016-10-25 02:16:52,[],27,16,11,0,4,Perl,43511,8,2,1,0,126,0,0,0
+stanfordnlp/stanza-old,https://github.com/stanfordnlp/stanza-old,False,2015-10-27 19:45:02,"['python', 'nlp', 'text-analysis', 'text-processing', 'natural-language-processing']",142,40,38,2,5,Python,392,1,0,4,3,323,0,0,0
+hpcc-systems/helm-chart,https://github.com/hpcc-systems/helm-chart,False,2020-03-20 12:09:07,[],8,10,22,0,4,Smarty,63086,1,1,5,99,705,0,0,705
+luohancfd/CFCFD-NG,https://github.com/luohancfd/CFCFD-NG,False,2018-03-12 20:14:11,[],9,3,4,0,9,Python,406419,0,0,2,0,2578,0,0,0
