@@ -26,5 +26,5 @@ src search -json "/import quilt3|from quilt3.* import / case:yes count:all selec
 src search -json "/import d6tflow|from d6tflow.* import / case:yes count:all select:repo" > "$RAW_DIR/D6tflow.json"
 src search -json "/import deeplake|from deeplake.* import / case:yes count:all select:repo" > "$RAW_DIR/Deep Lake.json"
 src search -json "/import keepsake|from keepsake.* import / case:yes count:all select:repo" > "$RAW_DIR/Keepsake.json"
-src search -json "/cl run / case:yes count:all select:repo" > "$RAW_DIR/Codalab.json"
+src search -json "/import codalab|from codalab.* import |cl run / case:yes count:all select:repo" > "$RAW_DIR/Codalab.json"
 src search -json "/import determined|from determined.* import |det experiment create / case:yes count:all select:repo" > "$RAW_DIR/Determined.json"
