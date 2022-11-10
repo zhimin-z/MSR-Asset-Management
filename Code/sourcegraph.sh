@@ -23,7 +23,7 @@ src search -json "/guild run / case:yes count:all select:repo" > "$RAW_DIR/Guild
 src search -json "/import verta|from verta.* import / case:yes count:all select:repo" > "$RAW_DIR/ModelDB.json"
 src search -json "/import polyaxon|from polyaxon.* import |polyaxon project create / case:yes count:all select:repo" > "$RAW_DIR/Polyaxon.json"
 src search -json "/import quilt3|from quilt3.* import / case:yes count:all select:repo" > "$RAW_DIR/Quilt.json"
-src search -json "/import mlflow|import d6tflow|from d6tflow.* import / case:yes count:all select:repo" > "$RAW_DIR/D6tflow.json"
+src search -json "/import d6tflow|from d6tflow.* import / case:yes count:all select:repo" > "$RAW_DIR/D6tflow.json"
 src search -json "/import deeplake|from deeplake.* import / case:yes count:all select:repo" > "$RAW_DIR/Deep Lake.json"
 src search -json "/import keepsake|from keepsake.* import / case:yes count:all select:repo" > "$RAW_DIR/Keepsake.json"
 src search -json "/cl run / case:yes count:all select:repo" > "$RAW_DIR/Codalab.json"
