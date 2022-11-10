@@ -19,7 +19,7 @@ src search -json "/import lakefs_client|from lakefs_client.* import|import io\.l
 src search -json "/import spell|from spell.* import |spell run / case:yes count:all select:repo" > "$RAW_DIR/Spell.json"
 src search -json "/import aim|from aim.* import |aim init/ case:yes count:all select:repo" > "$RAW_DIR/Aim.json"
 src search -json "/import sacred|from sacred.* import / case:yes count:all select:repo" > "$RAW_DIR/Sacred.json"
-src search -json "/guild run / case:yes count:all select:repo" > "$RAW_DIR/Guild AI.json"
+src search -json "/import guild|from guild.* import |guild run / case:yes count:all select:repo" > "$RAW_DIR/Guild AI.json"
 src search -json "/import verta|from verta.* import / case:yes count:all select:repo" > "$RAW_DIR/ModelDB.json"
 src search -json "/import polyaxon|from polyaxon.* import |polyaxon project create / case:yes count:all select:repo" > "$RAW_DIR/Polyaxon.json"
 src search -json "/import quilt3|from quilt3.* import / case:yes count:all select:repo" > "$RAW_DIR/Quilt.json"
