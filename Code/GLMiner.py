@@ -34,7 +34,7 @@ class GitlabMiner():
             creation_date = project.created_at
             if not real_creation_date:
                 creation_date = project.commits.list(all=True)[-1].created_at
-            
+
             if date is not None:
                 last_commit_date = project.commits.list(all=True)[0].created_at
                 if date > last_commit_date:
@@ -57,9 +57,10 @@ class GitlabMiner():
                 '#Open Issues': len(project.issues.list(all=True, state='opened')),
                 'Language': max(project.languages().items(), key=operator.itemgetter(1))[0]
             }
-            
+
             try:
-                repo_data['#Merge Requests'] = len(project.mergerequests.list(all=True, state='opened'))
+                repo_data['#Merge Requests'] = len(
+                    project.mergerequests.list(all=True, state='opened'))
             except Exception as err:
                 repo_data['#Merge Requests'] = 0
 
