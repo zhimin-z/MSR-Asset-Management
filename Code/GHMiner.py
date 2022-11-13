@@ -1,4 +1,4 @@
-from github import Github, GithubException
+from github import Github
 import pandas
 import random
 import time
@@ -48,9 +48,12 @@ class GithubMiner():
                 creation_date = sleep_wrapper(
                     repo.get_commits).reversed[0].commit.author.date
 
-            if date is not None and date >= creation_date:
-                error_data = {'Repo': repo_name, 'Error': 'Unrelated'}
-                return None, error_data
+            if date is not None:
+                last_commit_date = sleep_wrapper(
+                    repo.get_commits)[0].commit.author.date
+                if date > last_commit_date:
+                    error_data = {'Repo': repo_name, 'Error': 'Unrelated'}
+                    return None, error_data
 
             repo_data = {
                 'Repo': repo_name,

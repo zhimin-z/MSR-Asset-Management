@@ -34,11 +34,13 @@ class GitlabMiner():
             creation_date = project.created_at
             if not real_creation_date:
                 creation_date = project.commits.list(all=True)[-1].created_at
-
-            if date is not None and date >= creation_date:
-                error_data = {'Repo': repo_name, 'Error': 'Unrelated'}
-                error_data = pandas.DataFrame([error_data])
-                return None, error_data
+            
+            if date is not None:
+                last_commit_date = project.commits.list(all=True)[0].created_at
+                if date > last_commit_date:
+                    error_data = {'Repo': repo_name, 'Error': 'Unrelated'}
+                    error_data = pandas.DataFrame([error_data])
+                    return None, error_data
 
             repo_data = {
                 'Repo': repo_name,
