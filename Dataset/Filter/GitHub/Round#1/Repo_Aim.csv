@@ -1,561 +1,1549 @@
-Repo,Link,Archived,Creation Date,Topics,#Star,#Watch,#Fork,#Releases,#Contributors,Languages,Size,#Open Issues,#Pull Requests,#Branches,#Tags,#Commits,#Comments,#Downloads,#Deployments,,,,,,,,,,,,,,,,,,
-Infinito-IIT-Patna/Infinito2020,https://github.com/Infinito-IIT-Patna/Infinito2020,FALSE,12/23/2020 19:02,[],8,1,29,0,22,PHP,645748,0,0,19,0,490,0,0,0,,,,,,,,,,,,,,,,,,
-Gutemberg234/origamid-courses,https://github.com/Gutemberg234/origamid-courses,FALSE,7/5/2020 19:20,"['frontend', 'front-end', 'origamid', 'ui', 'ui-design', 'ux', 'ux-ui', 'ux-design', 'html5', 'css3', 'flexbox', 'javascript', 'grid-layout', 'study', 'focus']",7,1,3,0,1,PHP,14195,0,0,1,0,20,0,0,0,,,,,,,,,,,,,,,,,,
-sslab-gatech/libmpk,https://github.com/sslab-gatech/libmpk,FALSE,7/6/2019 3:37,[],37,3,7,0,2,C,178250,3,1,1,0,8,0,0,0,,,,,,,,,,,,,,,,,,
-giseldo/chatbot_BTA_BPMN_to_AIML,https://github.com/giseldo/chatbot_BTA_BPMN_to_AIML,FALSE,9/18/2019 3:55,"['aiml', 'chatbot', 'python', 'bpmn']",13,4,3,0,1,Python,16523,5,3,5,2,407,0,0,4,,,,,,,,,,,,,,,,,,
-wb-ts/i4vision-de,https://github.com/wb-ts/i4vision-de,FALSE,9/7/2021 20:36,"['laravel', 'babel', 'bootstrap', 'mysql']",9,1,2,0,0,PHP,68532,0,0,1,0,148,0,0,0,,,,,,,,,,,,,,,,,,
-cslab-ntua/contiguity-isca2020,https://github.com/cslab-ntua/contiguity-isca2020,FALSE,5/25/2020 17:23,[],13,6,1,0,1,C,180392,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-neologyc/SEO-robot-v.2,https://github.com/neologyc/SEO-robot-v.2,FALSE,11/5/2019 23:29,[],5,2,1,0,1,PHP,172,9,1,2,0,11,0,0,0,,,,,,,,,,,,,,,,,,
-Hadenix/kernel_umidigi_f2_mt6771_4.14,https://github.com/Hadenix/kernel_umidigi_f2_mt6771_4.14,FALSE,8/26/2021 19:17,[],43,3,14,0,1,C,128815,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-dentproject/dentOS,https://github.com/dentproject/dentOS,FALSE,6/9/2020 15:23,[],109,35,36,3,71,C,100032,76,3,2,3,3160,3,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme5-kernel-source,https://github.com/realme-kernel-opensource/realme5-kernel-source,FALSE,10/14/2019 8:29,[],19,9,27,0,1,C,196123,4,0,1,0,4,2,0,0,,,,,,,,,,,,,,,,,,
-leapdao/EthereumMachineOracle,https://github.com/leapdao/EthereumMachineOracle,FALSE,2/19/2020 12:34,[],8,7,2,0,4,JavaScript,27667,6,2,16,0,83,0,0,0,,,,,,,,,,,,,,,,,,
-Lusqueta/XOXOCHEAT,https://github.com/Lusqueta/XOXOCHEAT,FALSE,2/16/2022 20:40,"['python', 'python3', 'csgo', 'csgo-cheat', 'csgo-hack', 'csgo-base', 'aimbot', 'rcs', 'wallhack', 'bhop', 'csgo-cheating']",5,2,2,0,1,Python,21,0,0,2,0,5,0,0,0,,,,,,,,,,,,,,,,,,
-taoser/TaoLer,https://github.com/taoser/TaoLer,FALSE,2/10/2020 7:16,[],32,1,8,0,1,JavaScript,29283,1,1,2,94,188,0,0,0,,,,,,,,,,,,,,,,,,
-degdag/W.I.P_sagit_mainline,https://github.com/degdag/W.I.P_sagit_mainline,FALSE,1/22/2021 14:57,[],15,2,5,0,1,C,186115,1,0,2,0,6,0,0,12,,,,,,,,,,,,,,,,,,
-MerseniBilel/FoodZone,https://github.com/MerseniBilel/FoodZone,FALSE,11/16/2019 20:34,[],5,2,5,0,4,CSS,43381,1,1,17,0,43,0,0,0,,,,,,,,,,,,,,,,,,
-HARAMIS14/AIML-Basic-College-Enquiry-Chatbot,https://github.com/HARAMIS14/AIML-Basic-College-Enquiry-Chatbot,FALSE,1/22/2021 6:47,[],7,1,0,0,1,HTML,183,0,0,4,0,20,0,0,9,,,,,,,,,,,,,,,,,,
-tintinweb/smart-contract-sanctuary-ethereum,https://github.com/tintinweb/smart-contract-sanctuary-ethereum,FALSE,1/29/2022 18:38,"['ethereum', 'smart-contracts', 'solidity']",156,4,37,0,1,,12924825,1,0,1,0,490,0,0,0,,,,,,,,,,,,,,,,,,
-combo-tw/LinuxBookClub,https://github.com/combo-tw/LinuxBookClub,FALSE,8/8/2019 14:10,"['arm', 'linux', 'kernel', 'linux-kernel', 'bookclub']",14,4,3,0,2,C,248842,0,0,2,0,24,0,0,0,,,,,,,,,,,,,,,,,,
-fedeizzo/camera-pose-estimation,https://github.com/fedeizzo/camera-pose-estimation,FALSE,10/27/2021 9:58,"['deep-learning', 'python3', 'pytorch', 'camera-pose-estimation', 'colmap-sfm', 'colmap']",16,3,0,1,2,Jupyter Notebook,98138,1,0,1,1,143,0,0,0,,,,,,,,,,,,,,,,,,
-yannicnoller/hydiff,https://github.com/yannicnoller/hydiff,FALSE,9/12/2019 7:46,[],22,2,3,1,0,Java,48755,0,0,1,1,4,0,0,0,,,,,,,,,,,,,,,,,,
-OpenTermsArchive/contrib-versions,https://github.com/OpenTermsArchive/contrib-versions,FALSE,7/28/2020 14:04,[],77,2,8,192,3,,35089,1,0,1,255,23143,1,0,0,,,,,,,,,,,,,,,,,,
-DLR-SC/repository-synergy,https://github.com/DLR-SC/repository-synergy,FALSE,5/8/2021 7:51,[],5,6,6,0,1,Jupyter Notebook,103486,1,0,1,0,8,0,0,0,,,,,,,,,,,,,,,,,,
-mit-ll/HAKC,https://github.com/mit-ll/HAKC,FALSE,1/13/2022 15:17,[],16,9,2,0,3,C,204860,0,0,2,0,7,0,0,0,,,,,,,,,,,,,,,,,,
-SuryaSekhar14/HacktoberFest-2021,https://github.com/SuryaSekhar14/HacktoberFest-2021,FALSE,10/4/2020 7:18,"['hacktoberfest', 'python', 'cpp', 'c', 'javascript', 'java', 'hacktober-fest-contributions', 'hacktoberfest-accepted', 'hacktoberfest2021', 'appdevelopment']",10,1,30,0,32,Jupyter Notebook,262660,7,3,1,0,137,0,0,0,,,,,,,,,,,,,,,,,,
-OnePlusOSS/android_kernel_modules_and_devicetree_oneplus_sm8450,https://github.com/OnePlusOSS/android_kernel_modules_and_devicetree_oneplus_sm8450,FALSE,4/6/2022 8:02,[],10,5,6,0,0,C,223088,1,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-fsociety-tribute/sunfish,https://github.com/fsociety-tribute/sunfish,FALSE,11/27/2021 17:09,[],5,1,0,0,92,C,216140,1,0,2,0,422,6,0,0,,,,,,,,,,,,,,,,,,
-dreamsavior/yojet-server,https://github.com/dreamsavior/yojet-server,FALSE,7/29/2022 23:03,[],9,1,0,4,2,Python,116948,0,0,1,4,14,0,0,0,,,,,,,,,,,,,,,,,,
-divblox/divblox,https://github.com/divblox/divblox,FALSE,6/8/2019 9:39,[],6,6,5,0,2,JavaScript,110416,0,0,13,0,114,0,0,2,,,,,,,,,,,,,,,,,,
-YannickStruempler/inr_based_compression,https://github.com/YannickStruempler/inr_based_compression,FALSE,7/20/2022 18:41,[],6,1,1,0,1,Python,28435,2,1,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-tinkoff-ai/eop,https://github.com/tinkoff-ai/eop,FALSE,5/27/2022 18:15,"['evaluation', 'offline-rl', 'reinforcement-learning', 'icml', 'icml-2022']",25,3,1,0,1,Jupyter Notebook,50643,0,0,2,0,3,0,0,3,,,,,,,,,,,,,,,,,,
-cambridgeltl/python4cl,https://github.com/cambridgeltl/python4cl,FALSE,7/4/2019 13:38,[],21,8,6,0,8,Jupyter Notebook,14612,0,0,4,0,238,0,0,0,,,,,,,,,,,,,,,,,,
-Yale-NeRD/mind,https://github.com/Yale-NeRD/mind,FALSE,8/11/2021 20:27,[],32,3,7,0,2,C,234751,0,0,8,0,241,1,0,46,,,,,,,,,,,,,,,,,,
-vtess/IODA-SOSP21-AE,https://github.com/vtess/IODA-SOSP21-AE,FALSE,8/18/2021 16:10,[],6,1,2,0,2,C,225161,4,0,1,0,34,0,0,0,,,,,,,,,,,,,,,,,,
-ChrisTheCoolHut/Linux_kernel_exploitation,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,FALSE,10/4/2021 2:18,[],32,3,4,0,1,C,249045,1,0,1,0,14,0,0,0,,,,,,,,,,,,,,,,,,
-RafaelCapo/backup_mysql_via_php,https://github.com/RafaelCapo/backup_mysql_via_php,FALSE,8/26/2020 10:01,[],5,1,1,0,1,PHP,187,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-iqiqiya/Bilibili_Up_Live_Reminder,https://github.com/iqiqiya/Bilibili_Up_Live_Reminder,FALSE,8/12/2019 2:39,[],12,3,3,0,1,PHP,112,1,0,1,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-smallpotato000/linux-phytium,https://github.com/smallpotato000/linux-phytium,FALSE,12/20/2019 8:42,[],12,2,15,1,1,C,180587,1,0,1,1,2,0,0,0,,,,,,,,,,,,,,,,,,
-dsrw/enu,https://github.com/dsrw/enu,FALSE,2/12/2020 15:12,"['godot', 'nim', 'game-development']",229,13,9,7,3,Nim,101417,5,0,13,12,717,0,0,0,,,,,,,,,,,,,,,,,,
-JeanKaddour/lawa,https://github.com/JeanKaddour/lawa,FALSE,9/29/2022 10:51,[],8,1,1,0,1,Python,934,0,0,1,0,10,0,0,0,,,,,,,,,,,,,,,,,,
-liveuak/freenoom,https://github.com/liveuak/freenoom,FALSE,11/11/2020 16:13,[],7,2,18,0,5,PHP,2139,1,1,2,4,173,0,0,0,,,,,,,,,,,,,,,,,,
-buszk/Drifuzz,https://github.com/buszk/Drifuzz,FALSE,4/6/2020 19:20,[],5,3,0,0,1,C,292784,0,0,3,0,156,0,0,0,,,,,,,,,,,,,,,,,,
-pascua28/android_kernel_samsung_s20fe,https://github.com/pascua28/android_kernel_samsung_s20fe,FALSE,11/6/2021 10:15,[],5,2,10,0,40,C,342288,0,0,4,0,192,0,0,0,,,,,,,,,,,,,,,,,,
-KimbingNg/DeskPro,https://github.com/KimbingNg/DeskPro,FALSE,6/29/2022 10:33,[],8,1,0,0,1,Python,65,1,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-lucidrains/stylegan2-pytorch,https://github.com/lucidrains/stylegan2-pytorch,FALSE,1/9/2020 18:23,"['generative-adversarial-network', 'artificial-intelligence', 'pytorch', 'machine-learning', 'generative-model']",3283,67,539,89,8,Python,5140,121,3,3,90,210,1,0,0,,,,,,,,,,,,,,,,,,
-Ecodesu/DentalClinic,https://github.com/Ecodesu/DentalClinic,FALSE,2/15/2022 10:12,[],5,2,1,0,8,HTML,70241,0,0,1,0,516,0,0,0,,,,,,,,,,,,,,,,,,
-ljrcore/LinuxSourceCode,https://github.com/ljrcore/LinuxSourceCode,FALSE,9/12/2019 14:06,[],6,2,1,0,1,,266259,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-ploigos/ploigos-charts,https://github.com/ploigos/ploigos-charts,FALSE,11/30/2020 17:55,[],5,15,5,274,7,Smarty,235,4,0,3,274,78,0,0,32,,,,,,,,,,,,,,,,,,
-suphiyasin/instagram-advanced-user-finder,https://github.com/suphiyasin/instagram-advanced-user-finder,FALSE,6/14/2022 19:56,"['advertising', 'automation', 'instagram', 'instagram-api', 'php7', 'auto-advertising', 'auto-instagram', 'advanced', 'marketing', 'scanner-web', 'mailing-list', 'marketing-automation']",68,1,8,1,1,PHP,1206,0,0,1,1,55,0,0,0,,,,,,,,,,,,,,,,,,
-zhuchen03/gradinit,https://github.com/zhuchen03/gradinit,FALSE,2/17/2021 10:49,[],122,4,12,0,2,Python,12110,3,0,1,0,9,0,0,0,,,,,,,,,,,,,,,,,,
-oslab-ewha/ULV,https://github.com/oslab-ewha/ULV,FALSE,1/7/2021 5:10,[],7,3,3,0,2,C,198696,0,0,1,2,110,0,0,0,,,,,,,,,,,,,,,,,,
-mohammad92/android_kernel_samsung_sm8350,https://github.com/mohammad92/android_kernel_samsung_sm8350,FALSE,3/8/2021 9:41,[],7,1,0,0,6,C,243798,0,0,6,0,18,0,0,0,,,,,,,,,,,,,,,,,,
-fullstack-guru0719/whatsapp-php,https://github.com/fullstack-guru0719/whatsapp-php,FALSE,6/29/2022 19:03,[],10,1,0,0,1,PHP,19060,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-ian-ok/ventry.host,https://github.com/ian-ok/ventry.host,FALSE,11/20/2021 23:55,[],6,1,2,0,1,PHP,29684,1,0,1,0,9,0,0,0,,,,,,,,,,,,,,,,,,
-thu-media/Zwei,https://github.com/thu-media/Zwei,FALSE,1/14/2020 16:48,[],18,3,8,0,3,DIGITAL Command Language,19638,0,0,2,0,26,0,0,0,,,,,,,,,,,,,,,,,,
-kongyuluEleven/Mac-Development,https://github.com/kongyuluEleven/Mac-Development,FALSE,6/7/2020 3:40,[],23,2,6,0,1,C++,480779,0,0,1,0,80,0,0,0,,,,,,,,,,,,,,,,,,
-jamesofarrell/miyoo_kernel,https://github.com/jamesofarrell/miyoo_kernel,FALSE,8/5/2019 21:44,[],6,2,4,0,1,C,177515,0,0,1,0,11,0,0,0,,,,,,,,,,,,,,,,,,
-lizhipay/acg-faka,https://github.com/lizhipay/acg-faka,FALSE,11/27/2021 14:03,[],660,7,151,0,1,PHP,12174,10,0,1,0,168,1,0,0,,,,,,,,,,,,,,,,,,
-Penglai-Enclave/Penglai-Enclave-sPMP,https://github.com/Penglai-Enclave/Penglai-Enclave-sPMP,FALSE,12/28/2019 11:51,"['risc-v', 'tee', 'enclave']",81,7,22,2,5,C,216187,5,3,8,2,199,0,0,0,,,,,,,,,,,,,,,,,,
-dirumahrafif/website-company-profile,https://github.com/dirumahrafif/website-company-profile,FALSE,3/29/2021 21:51,[],15,1,14,0,1,PHP,4540,0,0,5,0,6,1,0,0,,,,,,,,,,,,,,,,,,
-puarudz/WHMCS-7.8.0-decoded,https://github.com/puarudz/WHMCS-7.8.0-decoded,FALSE,3/21/2020 10:33,[],36,4,58,0,0,PHP,26627,3,1,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-Adaphath/kirby-column-settings,https://github.com/Adaphath/kirby-column-settings,FALSE,8/17/2021 10:18,[],6,2,0,0,1,PHP,12029,0,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-fillthepipe/TcpAckThinning,https://github.com/fillthepipe/TcpAckThinning,FALSE,1/19/2020 13:36,[],5,2,0,0,2,C,197099,0,0,1,0,10,0,0,0,,,,,,,,,,,,,,,,,,
-kookmin-sw/capstone-2022-15,https://github.com/kookmin-sw/capstone-2022-15,FALSE,2/14/2022 2:08, 'mysql-database', 'react', 'django', 'stylegan2', 'wav2lip', 'librosa', 'opencv', 'interview', 'interview-practice']",4,2,2,0,6,Python,162951,0,0,14,0,1010,0,0,17,,,,,,,,,,
-realme-kernel-opensource/realmeX2-kernel-source,https://github.com/realme-kernel-opensource/realmeX2-kernel-source,FALSE,11/13/2019 1:50,[],9,5,10,0,1,C,190775,6,2,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-prashantpaddune/android_kernel_samsung_a50dd,https://github.com/prashantpaddune/android_kernel_samsung_a50dd,FALSE,4/8/2020 14:28,[],5,2,8,3,17,C,200888,1,0,3,3,58,0,0,0,,,,,,,,,,,,,,,,,,
-Dark-Matter7232/Cosmic-fresh,https://github.com/Dark-Matter7232/Cosmic-fresh,FALSE,10/20/2021 4:03,[],16,3,6,4,335,C,252729,0,0,35,4,2544,6,0,0,,,,,,,,,,,,,,,,,,
-skkucsl/aios,https://github.com/skkucsl/aios,FALSE,7/9/2019 21:13,[],31,0,5,0,2,C,184088,0,0,1,0,13,0,0,0,,,,,,,,,,,,,,,,,,
-rssys/on-demand-fork,https://github.com/rssys/on-demand-fork,FALSE,3/12/2021 1:50,[],21,4,0,0,1,C,194266,0,0,1,0,10,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realmeX2pro-X3-AndroidR-kernel-source,https://github.com/realme-kernel-opensource/realmeX2pro-X3-AndroidR-kernel-source,FALSE,11/1/2021 3:24,[],13,4,7,0,1,C,201525,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-uclasystem/MemLiner,https://github.com/uclasystem/MemLiner,FALSE,5/28/2022 4:57,"['datacenter', 'managed-runtimes', 'memory-disaggregation', 'remote-memory']",17,4,1,0,3,,324710,1,0,1,0,5,0,0,0,,,,,,,,,,,,,,,,,,
-tup-robomaster/TUP-InfantryVision-2022,https://github.com/tup-robomaster/TUP-InfantryVision-2022,FALSE,11/3/2021 7:14,[],49,2,8,2,3,C,182651,0,0,7,2,104,0,0,0,,,,,,,,,,,,,,,,,,
-ChristeZeng/os21fall,https://github.com/ChristeZeng/os21fall,FALSE,9/28/2021 12:27,[],5,1,0,0,4,C,216182,0,0,1,0,76,0,0,0,,,,,,,,,,,,,,,,,,
-mlcommons/inference_results_v1.0,https://github.com/mlcommons/inference_results_v1.0,FALSE,4/16/2021 15:29,[],30,3,25,0,3,C++,219692,6,0,1,0,5,0,0,0,,,,,,,,,,,,,,,,,,
-T-Jinhao/Scanner,https://github.com/T-Jinhao/Scanner,FALSE,10/21/2019 15:02,13,1,2,0,1,Python,11067,1,1,3,0,526,11,0,0,,,,,,,,,,,,,,,,,,,
-thayes46/aimi,https://github.com/thayes46/aimi,FALSE,6/27/2020 20:43,[],11,5,4,0,3,Python,839,9,0,4,0,43,3,0,0,,,,,,,,,,,,,,,,,,
-olegsklyarov/nauchuka-practice,https://github.com/olegsklyarov/nauchuka-practice,FALSE,4/5/2020 17:43,[],13,2,5,0,3,JavaScript,374,0,0,1,1,99,0,0,0,,,,,,,,,,,,,,,,,,
-robinscholz/better-rest,https://github.com/robinscholz/better-rest,FALSE,7/3/2019 8:53,"['kirby', 'headless', 'rest', 'api', 'cms', 'kirbytag', 'kirbytags', 'kirbycms', 'json', 'markdown', 'srcset']",51,0,2,14,6,PHP,4607,6,4,5,14,76,0,0,0,,,,,,,,,,,,,,,,,,
-classiebit/anofie,https://github.com/classiebit/anofie,FALSE,9/30/2019 5:22,"['sarahah', 'honesty', 'script', 'anonymous-feedback', 'codeigniter', 'reinvent', 'anonymous-feedback-script', 'sarahah-clone-script', 'feedback', 'anofie-lite']",21,3,5,2,3,PHP,12281,1,1,2,2,23,0,0,0,,,,,,,,,,,,,,,,,,
-HH-0rg/pwnhub,https://github.com/HH-0rg/pwnhub,FALSE,12/8/2020 18:07,[],5,1,0,0,4,JavaScript,7875,0,0,4,0,37,0,0,0,,,,,,,,,,,,,,,,,,
-lijiaxing1997/Gr33k,https://github.com/lijiaxing1997/Gr33k,FALSE,3/16/2020 2:51, 'vulnerability-scanners', 'exploit', 'gui']",392,9,91,0,1,Python,9807,8,5,6,0,30,0,0,0,,,,,,,,,,,,,,,,
-xenomporio-org/Xenomporio,https://github.com/OpenXE-org/OpenXE,FALSE,7/7/2022 9:39,"['accounting', 'business', 'crm', 'erp', 'billing', 'invoicing', 'manufacturing', 'procurement', 'retail', 'xentral', 'openxe']",6,6,6,6,6,PHP,460471,20,1,2,7,273,0,0,0,,,,,,,,,,,,,,,,,,
-stefanberg96/SMArTCAT,https://github.com/stefanberg96/SMArTCAT,FALSE,10/21/2019 11:09,"['risc-v', 'angr', 'timing-attacks', 'hifive1', 'symbolic-execution', 'self-composition']",6,2,3,0,1,C,108723,0,0,3,0,21,0,0,0,,,,,,,,,,,,,,,,,,
-yhnu/op7t,https://github.com/yhnu/op7t,FALSE,9/6/2021 2:14,[],156,16,62,1,1,C,212552,0,0,1,5,5,0,0,0,,,,,,,,,,,,,,,,,,
-MasterBC/tlsj,https://github.com/MasterBC/tlsj,FALSE,6/20/2020 1:58,11,5,19,0,1,PHP,136728,1,1,2,0,3,0,0,0,,,,,,,,,,,,,,,,,,,
-Kingzhoudk/JLing,https://github.com/Kingzhoudk/JLing,FALSE,10/6/2019 13:22, 'snowboy', 'aiml', 'vcad']",9,1,4,0,1,Python,48242,0,0,3,2,19,0,0,0,,,,,,,,,,,,,,,,
-elfalehed/fridayos,https://github.com/elfalehed/fridayos,FALSE,10/9/2020 19:07,"['kernel', 'linux', 'operating-system', 'distro']",8,1,2,0,1,C,199982,0,0,1,0,14,0,0,0,,,,,,,,,,,,,,,,,,
-krai/ck-qaic,https://github.com/krai/ck-qaic,FALSE,3/20/2021 17:21,[],5,4,5,3,6,C++,21139,4,0,7,3,1477,14,0,0,,,,,,,,,,,,,,,,,,
-zwhe99/WMT22-En-Liv,https://github.com/zwhe99/WMT22-En-Liv,FALSE,8/12/2022 4:58,"['machine-translation', 'wmt-22']",12,1,0,0,1,Python,21088,0,0,1,0,79,0,0,0,,,,,,,,,,,,,,,,,,
-chainGers-2021/nft-handler,https://github.com/chainGers-2021/nft-handler,FALSE,4/10/2021 15:57,"['nft', 'chainlink-node', 'chainlink-adapter', 'chainlink-hackathon-2021', 'erc1155', 'multifungible-token']",8,1,1,0,3,JavaScript,1504,0,0,4,0,15,0,0,6,,,,,,,,,,,,,,,,,,
-yesinteractive/restful_relay,https://github.com/yesinteractive/restful_relay,FALSE,1/21/2020 12:37,"['k8s', 'kubernetes', 'docker', 'api-gateway', 'api', 'rest', 'microservice', 'php', 'istio', 'development']",6,1,1,3,1,PHP,5048,3,1,2,3,37,0,0,0,,,,,,,,,,,,,,,,,,
-tanhongit/new-mvc-shop,https://github.com/tanhongit/new-mvc-shop,FALSE,3/2/2020 11:16,"['tanhongit', 'php-mvc', 'new-mvc', 'mvc-shop', 'php-mvc-shop', 'php', 'tanhongit-mvc', 'php-shopping-cart', 'php-shop', 'cart-php', 'php-cart', 'cart', 'tanhongit-cart', 'shopping-cart', 'shop', 'source-php-mvc', 'source-code', 'smtp-mail', 'crud', 'php-crud']",17,3,14,2,2,PHP,75119,0,0,4,2,262,0,0,48,,,,,,,,,,,,,,,,,,
-mangospot-net/MangoSpot,https://github.com/mangospot-net/MangoSpot,FALSE,7/3/2019 22:19,[],39,7,34,0,1,PHP,12539,9,3,3,0,113,0,0,0,,,,,,,,,,,,,,,,,,
-inis-cloud/system,https://github.com/inis-cloud/system,FALSE,8/16/2021 11:10,[],12,1,6,7,1,JavaScript,17166,0,0,1,8,37,0,0,0,,,,,,,,,,,,,,,,,,
-Caesar-s1mple/csgo-yolov5-6.2,https://github.com/Caesar-s1mple/csgo-yolov5-6.2,FALSE,12/7/2021 12:16,[],45,2,20,0,1,Python,268,1,1,2,0,23,0,0,0,,,,,,,,,,,,,,,,,,
-wrwetzel/Birdland,https://github.com/wrwetzel/Birdland,FALSE,3/24/2022 11:43,"['fakebook', 'music-reader', 'music-librarian']",9,1,0,0,1,Python,11044,2,0,1,0,55,0,0,0,,,,,,,,,,,,,,,,,,
-yasrilimam98/website-rekam-medis,https://github.com/yasrilimam98/website-rekam-medis,FALSE,5/2/2020 5:21,[],6,1,0,0,1,JavaScript,9116,2,2,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-aimhubio/aimrocks,https://github.com/aimhubio/aimrocks,FALSE,7/20/2021 19:05,[],13,5,3,0,3,Cython,1490,8,3,6,0,19,0,0,0,,,,,,,,,,,,,,,,,,
-bgoonz/UsefulResourceRepo2.0,https://github.com/bgoonz/UsefulResourceRepo2.0,FALSE,7/3/2021 13:58,"['javascript', 'python', 'learning', 'nodejs', 'expressjs', 'website', 'web', 'devops', 'development', 'tools', 'python-3']",5,3,11,0,1,,10239100,2,2,23,0,1113,575,0,60,,,,,,,,,,,,,,,,,,
-ShaojieJiang/tldr,https://github.com/ShaojieJiang/tldr,FALSE,3/15/2020 8:25,[],10,1,0,0,1,Python,16123,2,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-LucasIankowski/T2LabSisop,https://github.com/LucasIankowski/T2LabSisop,FALSE,11/2/2020 20:49,[],6,1,6,0,1,C,176548,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-engstk/pxl6,https://github.com/engstk/pxl6,FALSE,12/4/2021 19:47,[],14,2,5,18,13,C,220813,0,0,2,18,48,0,0,0,,,,,,,,,,,,,,,,,,
-opencsd/csd-filesystem,https://github.com/opencsd/csd-filesystem,FALSE,11/4/2021 6:11,[],9,4,6,0,2,C++,69711,0,0,2,0,14,0,0,0,,,,,,,,,,,,,,,,,,
-tingyuu/vaeThink2,https://github.com/tingyuu/vaeThink2,FALSE,4/1/2020 1:48,[],35,3,13,1,2,JavaScript,7782,3,1,2,3,11,0,0,0,,,,,,,,,,,,,,,,,,
-yurihartmann/Fidelize,https://github.com/yurihartmann/Fidelize,FALSE,8/13/2019 13:33,[],7,1,3,0,6,PHP,20261,1,0,1,0,154,0,0,0,,,,,,,,,,,,,,,,,,
-fla-sil/PyTorrent,https://github.com/fla-sil/PyTorrent,FALSE,1/10/2021 20:30,[],27,2,20,0,4,,844788,0,0,1,0,54,0,0,0,,,,,,,,,,,,,,,,,,
-steve-ryan/password_reset,https://github.com/steve-ryan/password_reset,FALSE,3/19/2021 8:35,[],7,0,0,0,1,PHP,141,0,0,1,0,10,0,0,0,,,,,,,,,,,,,,,,,,
-planet-com/astro-kernel,https://github.com/planet-com/astro-kernel,FALSE,6/11/2022 7:54,[],13,4,4,0,0,C,203723,1,1,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-hngi/HNGi7.0,https://github.com/hngi/HNGi7.0,FALSE,10/8/2019 10:18,[],12,5,139,0,86,PHP,34499,1,1,4,0,2375,1,0,447,,,,,,,,,,,,,,,,,,
-Consti10/rv1126_ohd_sushi,https://github.com/Consti10/rv1126_ohd_sushi,FALSE,11/25/2021 15:26,[],9,3,13,0,1,,2912136,2,0,1,0,122,0,0,0,,,,,,,,,,,,,,,,,,
-hanwckf/linux-marvell,https://github.com/hanwckf/linux-marvell,FALSE,7/27/2019 8:44,[],6,1,10,7,2,C,143183,0,0,1,8,22,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme-GTmaster-AndroidS-kernel-source,https://github.com/realme-kernel-opensource/realme-GTmaster-AndroidS-kernel-source,FALSE,7/25/2022 3:21,[],7,2,3,0,1,C,211674,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-justicecanada/laws-lois-xml,https://github.com/justicecanada/laws-lois-xml,FALSE,2/25/2021 20:32,[],6,5,0,0,1,,151331,3,0,1,0,62,1,0,0,,,,,,,,,,,,,,,,,,
-argonne-lcf/molan,https://github.com/argonne-lcf/molan,FALSE,8/27/2019 22:56,[],23,7,16,0,2,Jupyter Notebook,143726,1,0,1,0,14,0,0,0,,,,,,,,,,,,,,,,,,
-maysrp/topdf,https://github.com/maysrp/topdf,FALSE,10/16/2020 8:31,[],22,2,11,0,1,JavaScript,30237,0,0,2,0,19,0,0,0,,,,,,,,,,,,,,,,,,
-lazarnarcis/portfolio,https://github.com/lazarnarcis/portfolio,FALSE,8/24/2021 8:18,"['javascript', 'css', 'html', 'portfolio']",16,3,1,0,1,PHP,2276,0,0,2,0,118,0,0,174,,,,,,,,,,,,,,,,,,
-vudinhnamkhanh/shopclonev5-1.8.4,https://github.com/vudinhnamkhanh/shopclonev5-1.8.4,FALSE,10/5/2021 7:37,[],9,2,24,0,1,JavaScript,49228,0,0,1,0,14,1,0,0,,,,,,,,,,,,,,,,,,
-cao-zha/caozha-admin,https://github.com/cao-zha/caozha-admin,FALSE,5/15/2020 6:16,17,0,9,0,1,PHP,21900,0,0,12,0,11,0,0,0,,,,,,,,,,,,,,,,,,,
-chloelee1230/nlp_ranking,https://github.com/chloelee1230/nlp_ranking,FALSE,10/9/2019 22:53,[],8,4,10,0,1,TeX,302908,0,0,1,0,26,0,0,0,,,,,,,,,,,,,,,,,,
-Optum/barista,https://github.com/Optum/barista,FALSE,1/23/2020 17:03,"['oss', 'oss-compliance', 'license-management', 'license-scan', 'license-checking']",63,7,14,38,13,TypeScript,223914,105,73,83,39,1219,0,0,27,,,,,,,,,,,,,,,,,,
-tintinweb/smart-contract-sanctuary-avalanche,https://github.com/tintinweb/smart-contract-sanctuary-avalanche,FALSE,1/31/2022 14:13,"['ethereum', 'smart-contracts', 'solidity']",17,2,6,0,1,Solidity,661130,0,0,1,0,870,0,0,0,,,,,,,,,,,,,,,,,,
-gdk8/kernel,https://github.com/gdk8/kernel,FALSE,11/13/2021 14:44,[],9,1,7,0,1,C,253703,0,0,1,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-pulp/pulp-ui,https://github.com/pulp/pulp-ui,FALSE,9/28/2020 23:55,[],10,8,15,0,12,TypeScript,5693,29,11,12,0,85,0,0,0,,,,,,,,,,,,,,,,,,
-eenot/afile,https://github.com/eenot/afile,FALSE,3/18/2021 10:36,9,1,1,0,1,PHP,438,2,0,1,0,31,0,0,0,,,,,,,,,,,,,,,,,,,
-cortezfelipe/template-horizontal,https://github.com/cortezfelipe/template-horizontal,FALSE,6/27/2020 23:45,[],8,2,5,0,1,JavaScript,10241,7,7,7,1,3,0,0,0,,,,,,,,,,,,,,,,,,
-Qrowio/Billing,https://github.com/Qrowio/Billing,FALSE,8/3/2022 11:12,"['billing', 'admin', 'admin-dashboard', 'authentication', 'billing-system', 'bootstrap', 'dashboard', 'design', 'emails', 'figma', 'oop', 'oop-php', 'php', 'phpmailer', 'ui-ux', 'whmcs']",5,1,3,0,1,PHP,1104,0,0,1,0,30,0,0,0,,,,,,,,,,,,,,,,,,
-sanscript-tech/hacking-tools-scripts,https://github.com/sanscript-tech/hacking-tools-scripts,FALSE,10/15/2020 10:20,"['hacking', 'python', 'javascript', 'cpp', 'machine-learning', 'c', 'java', 'sanscript-india']",45,7,54,0,32,Jupyter Notebook,50966,31,1,1,0,626,1,0,0,,,,,,,,,,,,,,,,,,
-ideamark/roby-chatbot,https://github.com/ideamark/roby-chatbot,FALSE,2/24/2020 17:04,[],9,2,0,0,1,Python,1565,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-ztemt/NX659J_Q_kernel,https://github.com/ztemt/NX659J_Q_kernel,FALSE,4/30/2020 9:08,[],8,5,17,0,0,C,189526,5,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-ztemt/NX627J_P_kernel,https://github.com/ztemt/NX627J_P_kernel,FALSE,9/24/2019 3:02,[],5,2,1,0,0,C,188536,2,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-Seagate/cortx,https://github.com/Seagate/cortx,FALSE,4/8/2020 16:28,"['s3-storage', 'software-defined-storage', 'storage', 'storage-api', 'object-storage', 'object-storage-service', 'objectstorage', 'objectstore', 'opensource', 'open-source', 'hacktoberfest', 'hacktoberfest2020', 'cortx-community', 'inclusivity', 'hackathons', 's3', 'distributed-systems', 'distributed-storage', 'bigdata', 'big-data']",596,59,345,19,219,Jupyter Notebook,2130502,34,10,12,22,6888,31,0,0,,,,,,,,,,,,,,,,,,
-mromanello/ADA-DHOxSS,https://github.com/mromanello/ADA-DHOxSS,FALSE,6/4/2019 16:20,"['applied-data-analysis', 'humanities', 'dhoxss', 'digital-humanities', 'data-science']",23,5,5,2,2,Jupyter Notebook,143251,0,0,3,2,121,0,0,0,,,,,,,,,,,,,,,,,,
-xs25cn/apim,https://github.com/xs25cn/apim,FALSE,11/30/2020 7:29, 'python', 'bot', 'bots']",10,1,3,0,1,Python,2690,0,0,1,0,24,0,0,4,,,,,,,,,,,,,,,,
-fwber-code/fwber,https://github.com/fwber-code/fwber,FALSE,10/22/2019 13:15,"['php', 'adult-content', 'sex', 'classified-ads', 'dating-website']",7,1,3,0,3,JavaScript,461123,6,5,6,0,51,0,0,0,,,,,,,,,,,,,,,,,,
-cc-droid/v-kernel-qemu,https://github.com/cc-droid/v-kernel-qemu,FALSE,5/11/2020 14:05,[],28,1,27,0,1,C,217668,0,0,1,0,24,0,0,0,,,,,,,,,,,,,,,,,,
-haridhayal11/android_kernel_samsung_exynos2100,https://github.com/haridhayal11/android_kernel_samsung_exynos2100,FALSE,1/22/2022 7:57,[],6,1,1,10,21,C,106636,1,0,8,11,70,0,0,0,,,,,,,,,,,,,,,,,,
-Aboudjem/staking-platform-fixed-apy,https://github.com/Aboudjem/staking-platform-fixed-apy,FALSE,8/13/2021 10:46,"['staking', 'solidity', 'smart-contracts', 'farming']",59,1,49,0,1,JavaScript,9061,1,0,2,0,253,0,0,0,,,,,,,,,,,,,,,,,,
-Didula-Lakminda/ITP-Project,https://github.com/Didula-Lakminda/ITP-Project,FALSE,2/8/2021 15:12,[],5,1,0,0,1,JavaScript,14540,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-spanev/linux-80211n-csitool,https://github.com/spanev/linux-80211n-csitool,FALSE,9/25/2019 0:15,"['csi', 'intel', 'iwlwifi', 'channel-state-information', 'intel-5300', 'ubuntu1604', 'ubuntu1804', 'ubuntu']",35,2,16,1,1,C,179574,3,0,1,1,19,0,0,0,,,,,,,,,,,,,,,,,,
-mumbai19/team-5,https://github.com/mumbai19/team-5,FALSE,7/18/2019 11:49,[],5,4,0,0,6,PHP,230784,0,0,1,0,70,0,0,0,,,,,,,,,,,,,,,,,,
-xamzone/tmfcbtakm,https://github.com/xamzone/tmfcbtakm,FALSE,4/6/2021 4:32,"['cbt', 'e-exam', 'tcexam', 'ajax', 'ubk', 'unbk', 'ujian-online']",21,1,8,12,2,Rich Text Format,39228,1,0,1,12,121,0,0,0,,,,,,,,,,,,,,,,,,
-ProjectNu11/PN-Plugins,https://github.com/ProjectNu11/PN-Plugins,TRUE,5/4/2022 11:12,[],5,1,2,0,2,Python,248216,0,0,2,0,160,1,0,0,,,,,,,,,,,,,,,,,,
-bgoonz/UsefulResourceRepo3.0,https://github.com/bgoonz/UsefulResourceRepo3.0,FALSE,10/8/2021 12:26,[],6,2,6,0,3,,5914791,129,129,131,0,693,82,0,76,,,,,,,,,,,,,,,,,,
-cronyxllc/DeveloperConsole,https://github.com/cronyxllc/DeveloperConsole,FALSE,1/30/2021 22:55,"['debugging', 'developer-tools', 'developer-console', 'utilities', 'unity3d', 'unity', 'logging']",27,2,4,4,2,C#,5270,0,0,2,4,95,0,0,0,,,,,,,,,,,,,,,,,,
-cosmos-developer/baby,https://github.com/cosmos-developer/baby,FALSE,5/31/2022 10:21,[],5,2,10,1,1,TypeScript,689,5,1,4,1,47,0,0,2,,,,,,,,,,,,,,,,,,
-SidorkinAlex/Opportunities_kanban,https://github.com/SidorkinAlex/Opportunities_kanban,FALSE,8/18/2020 10:08,[],12,2,4,6,1,PHP,50325,0,0,5,6,80,0,0,0,,,,,,,,,,,,,,,,,,
-FreshROMs/android_kernel_samsung_exynos9610_mint,https://github.com/FreshROMs/android_kernel_samsung_exynos9610_mint,FALSE,1/9/2021 5:24,"['kernel', 'galaxy-a50', 'samsung', 'galaxy-a50s', 'exynos-9610', 'exynos-9611']",34,7,17,17,351,C,298610,3,1,18,72,9059,5,0,0,,,,,,,,,,,,,,,,,,
-sgtest/megarepo,https://github.com/sgtest/megarepo,FALSE,11/24/2021 12:31,[],5,2,6,0,0,,5594108,0,0,1,0,744549,0,0,0,,,,,,,,,,,,,,,,,,
-juiceRv/kernel_juicevm_port,https://github.com/juiceRv/kernel_juicevm_port,FALSE,5/25/2021 8:12,[],10,5,2,0,1,C,184041,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-sherlock-protocol/sherlock-v2-frontend,https://github.com/sherlock-protocol/sherlock-v2-frontend,FALSE,1/26/2022 19:04,"['dapp', 'frontend', 'javascript', 'ethersjs', 'web3', 'typescript', 'typechain', 'crypto', 'react', 'create-react-app', 'wagmi']",6,2,3,0,3,TypeScript,5455,2,2,6,0,975,78,0,805,,,,,,,,,,,,,,,,,,
-My-Personal-HUB/AI_Jarvis,https://github.com/My-Personal-HUB/AI_Jarvis,FALSE,9/19/2020 11:49,"['hacktoberfest', 'hacktoberfest2020', 'hacktoberfest-accepted', 'jarvis']",7,2,7,0,6,Python,592,0,0,2,0,47,3,0,1,,,,,,,,,,,,,,,,,,
-marevol/linux-5.3-xps_13_2in1,https://github.com/marevol/linux-5.3-xps_13_2in1,FALSE,10/3/2019 12:27,[],7,4,0,0,1,C,196864,0,0,1,0,26,0,0,0,,,,,,,,,,,,,,,,,,
-Di-Is/stylegan2-ada-pytorch,https://github.com/Di-Is/stylegan2-ada-pytorch,FALSE,1/31/2021 4:23,[],17,3,1,0,1,Python,2243,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-sylab/multi-clock,https://github.com/sylab/multi-clock,FALSE,11/9/2021 22:30,[],10,3,5,2,2,,730442,0,0,1,3,15,0,0,0,,,,,,,,,,,,,,,,,,
-lizhipay/faka,https://github.com/lizhipay/faka,FALSE,7/18/2020 2:28,[],349,6,99,0,1,PHP,7743,23,3,4,0,44,0,0,0,,,,,,,,,,,,,,,,,,
-nzgamer41/minime-TP,https://github.com/nzgamer41/minime-TP,FALSE,3/8/2020 7:05,[],10,1,2,1,1,TypeScript,678,9,8,9,1,1,0,0,0,,,,,,,,,,,,,,,,,,
-Gamer08YT/Hostinger,https://github.com/Gamer08YT/Hostinger,FALSE,5/4/2020 19:10,[],10,3,5,1,2,PHP,1269,0,0,1,1,8,0,0,0,,,,,,,,,,,,,,,,,,
-csl-ajou/AutoTiering,https://github.com/csl-ajou/AutoTiering,FALSE,7/5/2021 4:21,['linux-kernel'],18,3,4,0,2,C,188138,0,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-b1ad3runn3r/drag-kernel-t975,https://github.com/b1ad3runn3r/drag-kernel-t975,FALSE,8/20/2021 19:27,[],6,1,3,7,19,C,259941,0,0,2,7,208,0,0,0,,,,,,,,,,,,,,,,,,
-idreamsoft/iCMS,https://github.com/idreamsoft/iCMS,FALSE,2/15/2022 9:56, 'phpcms', 'php']",6,1,1,0,1,,18229,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,
-polixir/OfflineRL,https://github.com/polixir/OfflineRL,FALSE,2/18/2021 7:48,"['offline-reinforcement-learning', 'reinforcement-learning']",75,4,11,0,6,Python,239,4,1,2,0,130,0,0,0,,,,,,,,,,,,,,,,,,
-ctboughter/AIMS,https://github.com/ctboughter/AIMS,FALSE,9/11/2020 17:22,"['bioinformatics', 'immunology', 'biophysics', 'python3', 'kivy']",9,1,4,6,1,Jupyter Notebook,512901,1,0,3,6,70,0,0,0,,,,,,,,,,,,,,,,,,
-oppo-source/Reno10X-RenoAce-10.0-kernel-source,https://github.com/oppo-source/Reno10X-RenoAce-10.0-kernel-source,FALSE,3/2/2020 6:26,[],12,4,16,0,0,C,192854,1,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-ciccionamente/WeExpire,https://github.com/ciccionamente/WeExpire,FALSE,5/1/2022 13:47,"['bootstrap', 'php']",34,1,3,0,2,PHP,15905,1,0,1,0,25,0,0,0,,,,,,,,,,,,,,,,,,
-iurygdeoliveira/novos_caminhos,https://github.com/iurygdeoliveira/novos_caminhos,FALSE,8/22/2020 12:26,[],37,13,144,0,93,PHP,27456,24,1,3,0,470,5,0,0,,,,,,,,,,,,,,,,,,
-strongtz/linux-sprd,https://github.com/strongtz/linux-sprd,FALSE,4/28/2021 2:02,"['sprd', 'unisoc', 'linux-kernel', 'spreadtrum']",20,2,8,0,1,C,182101,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-UMIDIGI-Official/UMIDIGI-BISON-Pro-Kernel,https://github.com/UMIDIGI-Official/UMIDIGI-BISON-Pro-Kernel,FALSE,10/7/2021 2:54,[],11,3,1,0,1,,0,1,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-Qortal/Brooklyn,https://github.com/Qortal/Brooklyn,FALSE,5/26/2021 17:19,[],8,11,6,18,2,,693475,0,0,1,20,370,6,0,0,,,,,,,,,,,,,,,,,,
-hozh3497/CardKnowEdge,https://github.com/hozh3497/CardKnowEdge,FALSE,2/3/2020 14:34,[],5,1,0,0,1,HTML,911,0,0,1,0,8,0,0,0,,,,,,,,,,,,,,,,,,
-mohammad92/android_kernel_samsung_exynos2100,https://github.com/mohammad92/android_kernel_samsung_exynos2100,FALSE,2/2/2021 0:30,[],14,1,12,0,7,C,223515,0,0,6,0,18,0,0,0,,,,,,,,,,,,,,,,,,
-Supersonic/android_kernel_huawei_abr,https://github.com/Supersonic/android_kernel_huawei_abr,FALSE,3/10/2022 5:47,[],6,1,2,0,0,,222582,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-AudiusProject/audius-k8s-manifests,https://github.com/AudiusProject/audius-k8s-manifests,FALSE,8/13/2019 14:14,[],20,5,9,0,12,JavaScript,590,2,2,27,1,192,4,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme_6pro_7pro_8pro_X2-AndroidR-kernel-source,https://github.com/realme-kernel-opensource/realme_6pro_7pro_8pro_X2-AndroidR-kernel-source,FALSE,11/4/2021 10:20,[],23,11,8,0,1,C,199654,0,0,1,0,2,3,0,0,,,,,,,,,,,,,,,,,,
-rwema3/PHPMailer-VerficationCode,https://github.com/rwema3/PHPMailer-VerficationCode,FALSE,5/23/2022 14:38,[],13,1,0,0,1,PHP,957,0,0,1,0,166,0,0,0,,,,,,,,,,,,,,,,,,
-ilyautkin/doodle,https://github.com/ilyautkin/doodle,FALSE,10/8/2021 12:05,[],6,2,1,0,1,PHP,8127,0,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-vtess/LeapIO,https://github.com/vtess/LeapIO,FALSE,1/15/2020 6:50,"['nvme-storage', 'offloading', 'storage-acceleration', 'arm-soc', 'storage-stack-offloading', 'nvme-of', 'nvme-over-fabrics', 'nvme-tcp', 'nvme-rdma', 'smartnic']",13,4,6,0,1,C,194946,1,0,1,0,36,0,0,0,,,,,,,,,,,,,,,,,,
-dikshantmali/Hacktoberfest2020-HTML-CSS-WEB,https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB,FALSE,9/28/2020 13:34,['hacktoberfest'],58,2,286,0,225,CSS,352786,33,29,2,0,748,1,0,0,,,,,,,,,,,,,,,,,,
-GetcharZp/tp6_online_judge,https://github.com/GetcharZp/tp6_online_judge,FALSE,8/4/2020 16:24,"['thinkphp', 'layui', 'redis', 'phpmailer']",8,2,0,0,2,JavaScript,6139,0,0,1,0,5,0,0,0,,,,,,,,,,,,,,,,,,
-Iscle/android_kernel_unisoc_ums512,https://github.com/Iscle/android_kernel_unisoc_ums512,FALSE,3/5/2021 23:54,[],5,3,3,0,1,C,182138,1,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-g8a9/ear,https://github.com/g8a9/ear,FALSE,3/7/2022 9:33,"['nlp', 'bert-model', 'regularization', 'attention', 'attention-mechanism']",34,1,3,0,2,Python,243,0,0,1,0,13,0,0,0,,,,,,,,,,,,,,,,,,
-um-dsrg/Super-Resolution-Meta-Attention-Networks,https://github.com/um-dsrg/Super-Resolution-Meta-Attention-Networks,FALSE,7/1/2021 6:21,"['super-resolution', 'meta-attention', 'pytorch', 'python', 'deep-learning', 'image-restoration', 'convolutional-neural-networks']",17,3,1,0,2,Python,5310,0,0,1,0,14,0,0,0,,,,,,,,,,,,,,,,,,
-turtleletortue/android_kernel_retroid_pocket2plus,https://github.com/turtleletortue/android_kernel_retroid_pocket2plus,FALSE,8/29/2022 10:37,[],8,1,0,0,1,C,181753,0,0,2,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-autonomousvision/neat,https://github.com/autonomousvision/neat,FALSE,8/18/2021 12:59,"['autonomous-driving', 'imitation-learning', 'implicit-representations', 'birds-eye-view', 'iccv2021']",246,14,31,0,1,Python,34131,0,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-ffwff/lilith,https://github.com/ffwff/lilith,FALSE,7/1/2019 7:14,"['crystal', 'operating-system']",1129,24,25,6,3,Crystal,10651,11,0,1,6,1143,6,0,0,,,,,,,,,,,,,,,,,,
-matomo-org/matomo-for-wordpress,https://github.com/matomo-org/matomo-for-wordpress,FALSE,10/8/2019 2:23,"['matomo', 'analytics', 'wordpress', 'tagmanager', 'web', 'statistics', 'privacy', 'intranet', 'piwik']",98,17,16,68,6,PHP,53924,69,1,12,68,1279,0,0,0,,,,,,,,,,,,,,,,,,
-bjverde/cnpjrfb,https://github.com/bjverde/cnpjrfb,FALSE,1/18/2020 17:23,"['php7', 'php73', 'adianti', 'adianti-framework', 'php', 'cnpj']",33,7,14,15,3,JavaScript,25516,4,1,3,16,509,0,0,0,,,,,,,,,,,,,,,,,,
-RenrenYGO/Team-06-BSCS3CD,https://github.com/RenrenYGO/Team-06-BSCS3CD,FALSE,9/24/2021 13:31,[],5,0,1,0,7,HTML,42369,0,0,2,0,224,0,0,22,,,,,,,,,,,,,,,,,,
-codershiyar/php,https://github.com/codershiyar/php,FALSE,2/8/2020 17:01,"['php', 'php7', 'php-library', 'lesson', 'source-code', 'learn-programming', 'learn-php']",30,6,66,0,1,PHP,52822,2,2,3,0,12,0,0,2,,,,,,,,,,,,,,,,,,
-FanFansfan/qsdk-5.4,https://github.com/FanFansfan/qsdk-5.4,FALSE,5/7/2022 13:00,[],5,3,9,0,1,,322820,0,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-meystack/swiftadmin,https://github.com/meystack/swiftadmin,FALSE,12/6/2020 13:48,[],38,2,14,0,3,JavaScript,29992,0,0,1,0,40,0,0,0,,,,,,,,,,,,,,,,,,
-whomonugiri/social-media-website-with-admin-panel,https://github.com/whomonugiri/social-media-website-with-admin-panel,FALSE,11/18/2021 11:06,[],8,1,6,0,1,PHP,12156,1,1,1,0,17,0,0,0,,,,,,,,,,,,,,,,,,
-intel-gpu/kernel,https://github.com/intel-gpu/kernel,FALSE,11/20/2020 22:56,[],14,9,6,0,2,C,190744,5,1,2,0,17,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realmeGT_AndroidR-kernel-source,https://github.com/realme-kernel-opensource/realmeGT_AndroidR-kernel-source,FALSE,10/13/2021 8:20,[],22,14,4,0,1,C,206281,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-skkucsl/d2fq,https://github.com/skkucsl/d2fq,FALSE,2/25/2021 9:11,[],14,1,5,0,2,C,188767,0,0,1,0,18,0,0,0,,,,,,,,,,,,,,,,,,
-coqui-ai/Trainer,https://github.com/coqui-ai/Trainer,FALSE,10/11/2021 13:54,"['pytorch', 'deep-learning', 'machine-learning', 'ai', 'data-science']",43,7,23,12,7,Python,220,13,5,16,12,154,0,0,0,,,,,,,,,,,,,,,,,,
-aimhubio/aim-spacy,https://github.com/aimhubio/aim-spacy,FALSE,3/23/2022 20:07,[],20,3,1,1,3,Python,92,0,0,3,2,32,0,0,0,,,,,,,,,,,,,,,,,,
-hunterfoulk/Portfoliov3,https://github.com/hunterfoulk/Portfoliov3,FALSE,10/23/2020 17:40,[],5,1,0,0,1,JavaScript,14021,0,0,1,0,118,0,0,0,,,,,,,,,,,,,,,,,,
-mit-ll/galeed,https://github.com/mit-ll/galeed,FALSE,10/18/2021 17:14,[],6,6,0,0,1,,389517,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-nexB/scancode-licensedb,https://github.com/nexB/scancode-licensedb,FALSE,12/3/2020 7:48,"['scancode-toolkit', 'scancode-licensedb', 'license', 'foss']",8,9,3,0,5,HTML,16119,14,2,3,0,31,0,0,20,,,,,,,,,,,,,,,,,,
-khhungg/BSSE-SE,https://github.com/khhungg/BSSE-SE,FALSE,4/29/2022 6:05,[],21,1,0,0,1,Python,14392,0,0,1,0,33,0,0,0,,,,,,,,,,,,,,,,,,
-oppo-source/FindX2,https://github.com/oppo-source/FindX2,FALSE,12/25/2020 12:39,[],6,1,5,0,0,C,225502,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-Tuufless/FFXIV-Elemental-Raid-Macros,https://github.com/Tuufless/FFXIV-Elemental-Raid-Macros,FALSE,7/18/2022 7:46,[],5,1,2,0,2,HTML,405414,0,0,1,0,308,0,0,194,,,,,,,,,,,,,,,,,,
-Garyxud/melodic-all,https://github.com/Garyxud/melodic-all,FALSE,9/14/2020 2:37,[],7,1,7,0,0,,2008876,1,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-UzL-ITS/SEVurity,https://github.com/UzL-ITS/SEVurity,FALSE,2/3/2020 10:14,[],9,4,0,0,2,,254486,0,0,1,0,7,0,0,4,,,,,,,,,,,,,,,,,,
-liuqiao666/Lsky-Pro,https://github.com/liuqiao666/Lsky-Pro,FALSE,12/2/2019 4:20,[],7,1,4,0,0,PHP,7985,1,1,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-sarahtahir/Kaso365-Student-Management-System,https://github.com/sarahtahir/Kaso365-Student-Management-System,FALSE,7/11/2020 4:59,[],5,1,0,0,3,CSS,44336,0,0,1,0,113,0,0,0,,,,,,,,,,,,,,,,,,
-Cockpit-HQ/Cockpit,https://github.com/Cockpit-HQ/Cockpit,FALSE,1/19/2021 14:30,"['cms', 'headless-cms', 'cockpit', 'sqlite', 'mongodb', 'nosql', 'api', 'api-graphql', 'api-rest', 'graphql']",94,6,9,12,5,PHP,11761,6,1,2,12,837,0,0,0,,,,,,,,,,,,,,,,,,
-Shockingly-Secure-Studio/Shockingly-Efficient-Csharp-Utility,https://github.com/Shockingly-Secure-Studio/Shockingly-Efficient-Csharp-Utility,FALSE,1/29/2021 19:56,[],5,3,1,3,5,Python,82530,0,0,13,4,423,0,0,0,,,,,,,,,,,,,,,,,,
-engstk/pxl4a,https://github.com/engstk/pxl4a,FALSE,10/26/2020 18:07,[],21,7,3,32,29,C,208608,0,0,3,33,108,0,0,0,,,,,,,,,,,,,,,,,,
-cdgco/HestiaWebInterface,https://github.com/cdgco/HestiaWebInterface,FALSE,6/8/2020 22:35,[],22,8,6,1,2,PHP,7349,16,11,13,1,63,0,0,56,,,,,,,,,,,,,,,,,,
-Boshou/hmyk,https://github.com/Boshou/hmyk,FALSE,5/25/2022 6:20,"['fakaxitong', 'hmfk', 'hmyk', 'hongmengfaka', 'hongmengyunka', 'zidongfaka', 'zfaka']",57,1,33,0,1,JavaScript,19220,3,0,1,0,30,0,0,0,,,,,,,,,,,,,,,,,,
-orangepi-xunlong/linux-orangepi,https://github.com/orangepi-xunlong/linux-orangepi,FALSE,10/14/2020 1:47,[],60,7,47,0,2,C,746198,8,2,19,0,17,18,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme5_realme5S_realme5i_AndroidQ-kernel-source,https://github.com/realme-kernel-opensource/realme5_realme5S_realme5i_AndroidQ-kernel-source,FALSE,7/25/2020 11:46,[],9,5,9,0,1,C,201727,185,1,1,0,1,16,0,0,,,,,,,,,,,,,,,,,,
-pulp/pulp_container,https://github.com/pulp/pulp_container,FALSE,10/9/2019 15:54,[],9,8,32,75,42,Python,4015,48,2,31,77,1806,0,0,0,,,,,,,,,,,,,,,,,,
-mohammad92/android_kernel_samsung_sm8450,https://github.com/mohammad92/android_kernel_samsung_sm8450,FALSE,3/24/2022 3:54,[],7,1,5,0,3,C,205155,1,0,4,0,9,0,0,0,,,,,,,,,,,,,,,,,,
-DevriesL/android_kernel_samsung_sm8350,https://github.com/DevriesL/android_kernel_samsung_sm8350,FALSE,2/4/2021 14:36,[],6,3,2,0,1,C,211623,1,1,1,0,13,0,0,0,,,,,,,,,,,,,,,,,,
-scientist3/mcanc2020,https://github.com/scientist3/mcanc2020,FALSE,12/19/2020 6:16,[],5,1,0,0,1,HTML,23149,0,0,1,0,24,1,0,0,,,,,,,,,,,,,,,,,,
-timlabs/uscode,https://github.com/timlabs/uscode,FALSE,3/22/2020 18:14,[],6,2,4,0,1,Ruby,43593,0,0,1,0,5,0,0,0,,,,,,,,,,,,,,,,,,
-utsaslab/SplitFS,https://github.com/utsaslab/SplitFS,FALSE,8/17/2019 14:51,"['persistent-memory', 'persistent-storage', 'file-system', 'non-volatile-memory', 'ext4-dax', 'posix']",149,9,51,1,8,C,202754,35,20,16,1,143,0,0,0,,,,,,,,,,,,,,,,,,
-api-equipe-5/Projeto_Integrador,https://github.com/api-equipe-5/Projeto_Integrador,FALSE,9/13/2021 18:18,[],5,1,1,0,5,HTML,6605373,0,0,3,0,238,0,0,0,,,,,,,,,,,,,,,,,,
-Claudye/larasymf,https://github.com/Claudye/larasymf,FALSE,1/24/2022 16:29,"['php', 'framework', 'laravel-framework', 'symfony']",6,1,0,0,1,PHP,2007,0,0,1,0,8,0,0,0,,,,,,,,,,,,,,,,,,
-facebookresearch/metaseq,https://github.com/facebookresearch/metaseq,FALSE,5/2/2022 22:09,[],3842,82,401,0,42,Python,24185,108,29,65,0,192,13,0,0,,,,,,,,,,,,,,,,,,
-joemarshall/pyodide-async,https://github.com/joemarshall/pyodide-async,FALSE,11/19/2020 16:18,[],7,2,1,0,1,,80,0,0,1,0,34,0,0,30,,,,,,,,,,,,,,,,,,
-corsicanu/android_kernel_samsung_universal9820,https://github.com/corsicanu/android_kernel_samsung_universal9820,FALSE,5/13/2020 7:40,[],7,4,9,22,7,C,239907,0,0,1,23,117,0,0,0,,,,,,,,,,,,,,,,,,
-runninglinuxkernel/runninglinuxkernel_5.0,https://github.com/runninglinuxkernel/runninglinuxkernel_5.0,FALSE,8/19/2021 7:45,[],15,2,5,0,5,C,537425,0,0,2,0,29,0,0,0,,,,,,,,,,,,,,,,,,
-SYMMKA/sih2020,https://github.com/SYMMKA/sih2020,FALSE,12/15/2019 8:52,"['web', 'app', 'flutter', 'webdevelopment', 'hackathon-project', 'sih2020', 'library-management-system', 'library', 'library-management', 'opensource', 'open-source']",8,1,1,0,6,JavaScript,58469,27,26,27,0,401,0,0,2,,,,,,,,,,,,,,,,,,
-SFIP/SFIP,https://github.com/SFIP/SFIP,FALSE,12/2/2021 9:01,[],8,1,0,0,1,C,211478,0,0,1,0,5,0,0,0,,,,,,,,,,,,,,,,,,
-HK4567/android_kernel_lenovo_sm7150,https://github.com/HK4567/android_kernel_lenovo_sm7150,FALSE,1/19/2022 12:09,['kernel-source'],5,0,2,0,1,C,1784038,0,0,5,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-cl2089/etherscan-contract-crawler,https://github.com/cl2089/etherscan-contract-crawler,FALSE,6/3/2022 1:56,[],24,5,11,0,4,,225996,0,0,1,0,156,0,0,0,,,,,,,,,,,,,,,,,,
-CSL-KU/SpectreGuard,https://github.com/CSL-KU/SpectreGuard,FALSE,6/4/2019 16:58,[],10,3,6,0,1,C,688036,2,0,1,0,44,0,0,0,,,,,,,,,,,,,,,,,,
-caninos-loucos/labrador-aarch64-linux-4,https://github.com/caninos-loucos/labrador-aarch64-linux-4,FALSE,10/8/2019 21:23,[],9,2,1,0,3,C,384021,3,0,1,0,113,0,0,0,,,,,,,,,,,,,,,,,,
-kaivalya98/hacktoberfest2022,https://github.com/kaivalya98/hacktoberfest2022,FALSE,9/25/2022 6:40,"['contributors-welcome', 'dev', 'digitalocean', 'first-timers', 'hacktoberfest', 'hacktoberfest-accepted', 'hacktoberfest2022', 'open-source', 'pull-requests', 'stickers']",18,1,84,0,32,Jupyter Notebook,293067,57,52,1,0,122,0,0,0,,,,,,,,,,,,,,,,,,
-plausible/website,https://github.com/plausible/website,FALSE,3/30/2020 8:59,[],30,8,17,0,60,HTML,11884,5,2,9,0,2282,5,0,0,,,,,,,,,,,,,,,,,,
-DOUBLE-Baller/movehouse,https://github.com/DOUBLE-Baller/movehouse,FALSE,10/23/2020 2:20, 'php7', 'fastadmin']",26,1,15,0,4,JavaScript,74110,0,0,1,0,11,0,0,0,,,,,,,,,,,,,,,,,
-BlackTimber-Labs/Portfolio-Website,https://github.com/BlackTimber-Labs/Portfolio-Website,FALSE,9/30/2021 12:31,"['html', 'css', 'hacktoberfest', 'javascript', 'hacktoberfest-accepted', 'portfolio-website', 'open-source', 'portfolio', 'good-first-issue', 'hacktoberfest2022']",70,0,198,0,167,HTML,204771,3,2,1,0,538,1,0,56,,,,,,,,,,,,,,,,,,
-iamroot16a/study,https://github.com/iamroot16a/study,FALSE,6/27/2019 4:26,[],6,6,6,0,2,C,385043,1,0,1,0,30,0,0,0,,,,,,,,,,,,,,,,,,
-Tina-Linux/tina-t113-linux-5.4,https://github.com/Tina-Linux/tina-t113-linux-5.4,FALSE,3/28/2022 3:00,[],8,2,7,2,1,C,220251,0,0,1,2,2,0,0,0,,,,,,,,,,,,,,,,,,
-romankempt/aimstools,https://github.com/romankempt/aimstools,FALSE,11/8/2019 17:27,[],7,1,4,0,3,Python,108865,0,0,2,0,190,0,0,0,,,,,,,,,,,,,,,,,,
-ps4gentoo/ps4-linux-5.3.7,https://github.com/ps4gentoo/ps4-linux-5.3.7,FALSE,10/27/2019 4:14,[],21,7,8,3,1,C,188619,1,0,1,3,20,0,0,0,,,,,,,,,,,,,,,,,,
-AravGarg/kernel-hacking,https://github.com/AravGarg/kernel-hacking,FALSE,9/2/2020 8:44,[],25,4,6,0,1,C,1004331,0,0,1,0,50,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realmeX2_AndroidQ-kernel-source,https://github.com/realme-kernel-opensource/realmeX2_AndroidQ-kernel-source,FALSE,4/23/2020 8:13,[],8,6,3,0,1,C,193940,2,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-eerimoq/monolinux-raspberry-pi-3,https://github.com/eerimoq/monolinux-raspberry-pi-3,FALSE,3/25/2020 15:57,"['embedded-linux', 'monolinux', 'raspberry-pi-3']",16,3,1,0,1,C,192065,1,0,1,0,5,0,0,0,,,,,,,,,,,,,,,,,,
-saddle-finance/saddle-frontend,https://github.com/saddle-finance/saddle-frontend,FALSE,7/15/2020 3:36,"['ethereum', 'defi', 'bitcoin', 'cryptocurrency']",46,5,53,0,19,TypeScript,27470,97,22,55,0,741,0,0,0,,,,,,,,,,,,,,,,,,
-Bryce-MW/EVIX,https://github.com/Bryce-MW/EVIX,FALSE,4/17/2021 6:13,[],9,2,3,0,4,C,11572,0,0,1,0,628,0,0,0,,,,,,,,,,,,,,,,,,
-stakach/crystal-kernel,https://github.com/stakach/crystal-kernel,FALSE,10/23/2021 22:20,[],18,1,0,0,1,Crystal,86,0,0,1,0,19,0,0,0,,,,,,,,,,,,,,,,,,
-bgoonz/docs-collection,https://github.com/bgoonz/docs-collection,FALSE,7/30/2021 17:53,[],9,1,3,0,3,JavaScript,259210,10,9,12,0,126,0,0,3,,,,,,,,,,,,,,,,,,
-sherlock-protocol/sherlock-v2-core,https://github.com/sherlock-protocol/sherlock-v2-core,FALSE,11/8/2021 11:22,[],18,1,0,0,5,JavaScript,3499,2,0,4,0,401,0,0,0,,,,,,,,,,,,,,,,,,
-code-423n4/2022-05-aura,https://github.com/code-423n4/2022-05-aura,FALSE,5/9/2022 17:56,[],7,0,3,0,4,TypeScript,556,1,1,3,0,26,0,0,0,,,,,,,,,,,,,,,,,,
-mlcclab/PyRAI2MD-hiam,https://github.com/mlcclab/PyRAI2MD-hiam,FALSE,9/21/2022 10:28,[],7,3,5,0,2,Python,7274,0,0,1,0,37,0,0,0,,,,,,,,,,,,,,,,,,
-btiteam/xbtit-3.1,https://github.com/btiteam/xbtit-3.1,FALSE,10/14/2020 9:01,[],15,5,10,2,3,PHP,9507,2,0,2,2,13,0,0,0,,,,,,,,,,,,,,,,,,
-fffaraz/datasets,https://github.com/fffaraz/datasets,FALSE,1/19/2020 2:49,"['dataset', 'data-science', 'data-mining']",5,2,4,0,1,,379323,0,0,1,0,21,0,0,0,,,,,,,,,,,,,,,,,,
-AIModelShare/aimodelshare,https://github.com/AIModelShare/aimodelshare,FALSE,8/19/2020 5:09,"['machine-learning', 'data-science', 'deep-learning', 'python', 'mlops']",34,6,2,0,11,Python,4755,10,0,77,0,1231,17,0,0,,,,,,,,,,,,,,,,,,
-ctuning/ck-ml,https://github.com/ctuning/ck-ml,FALSE,4/7/2021 15:21,[],6,2,2,2,2,C,49718,0,0,1,2,114,0,0,0,,,,,,,,,,,,,,,,,,
-JaGoLi/Libreboot-X200-Updated,https://github.com/JaGoLi/Libreboot-X200-Updated,FALSE,11/6/2020 16:48,[],39,11,1,5,1,C,773499,3,0,1,5,34,1,0,0,,,,,,,,,,,,,,,,,,
-723Studio/X-Com-From-the-Ashes,https://github.com/723Studio/X-Com-From-the-Ashes,FALSE,5/5/2020 14:44,[],8,7,9,3,10,PLSQL,311411,15,0,9,4,342,2,0,248,,,,,,,,,,,,,,,,,,
-cambridge-cares/TheWorldAvatar,https://github.com/cambridge-cares/TheWorldAvatar,FALSE,3/6/2021 16:33,[],26,6,14,0,48,Java,344236,65,16,55,42,12239,6,0,0,,,,,,,,,,,,,,,,,,
-BBVA/purescript-google-apps,https://github.com/BBVA/purescript-google-apps,FALSE,5/7/2021 13:39,[],5,5,0,0,2,PureScript,1709,0,0,2,3,35,0,0,0,,,,,,,,,,,,,,,,,,
-topser9/kernel_samsung_Exynos9611,https://github.com/topser9/kernel_samsung_Exynos9611,FALSE,7/15/2021 23:22,[],5,1,3,2,42,C,201978,0,0,3,3,118,0,0,2,,,,,,,,,,,,,,,,,,
-bm16ton/yoga-c630-linux-kernel,https://github.com/bm16ton/yoga-c630-linux-kernel,FALSE,6/16/2020 12:28,[],6,1,0,1,1,C,564147,0,0,3,1,420,24,0,0,,,,,,,,,,,,,,,,,,
-miraclestars/android_kernel_samsung_sm8250,https://github.com/miraclestars/android_kernel_samsung_sm8250,FALSE,8/1/2020 2:06,[],7,2,4,0,335,C,280069,0,0,6,0,11641,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme_GTneo2-X50pro-GTMasterExploratory-AndroidS-kernel-source,https://github.com/realme-kernel-opensource/realme_GTneo2-X50pro-GTMasterExploratory-AndroidS-kernel-source,FALSE,6/30/2022 10:05,[],16,2,3,0,1,C,189642,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-vowstar/k210-linux-nommu,https://github.com/vowstar/k210-linux-nommu,FALSE,2/16/2020 6:05,[],124,12,27,0,2,C,237947,8,0,1,0,31,0,0,0,,,,,,,,,,,,,,,,,,
-rs3lab/Odinfs,https://github.com/rs3lab/Odinfs,FALSE,4/14/2022 13:32,[],10,6,1,0,2,C,216079,0,0,2,0,36,0,0,11,,,,,,,,,,,,,,,,,,
-uw-advanced-robotics/aruw-vision-platform-2019,https://github.com/uw-advanced-robotics/aruw-vision-platform-2019,FALSE,8/6/2019 7:54,"['robomaster', 'computer-vision', 'ros', 'machine-learning', 'robotics']",39,5,13,0,4,Python,33687,1,0,1,0,28,0,0,0,,,,,,,,,,,,,,,,,,
-tsuzcx/qq_apk,https://github.com/tsuzcx/qq_apk,FALSE,1/31/2022 2:43,"['tencent', 'qq', 'wechat', 'apk']",14,2,9,6,1,,2162292,2,1,2,6,66,0,0,0,,,,,,,,,,,,,,,,,,
-evenorog/license,https://github.com/evenorog/license,FALSE,10/26/2019 21:32,"['license', 'spdx', 'no-std']",7,1,1,0,2,Rust,4946,0,0,1,17,82,0,0,0,,,,,,,,,,,,,,,,,,
-Hao-boyan/rock-pi-3-a-sdk,https://github.com/Hao-boyan/rock-pi-3-a-sdk,FALSE,12/26/2021 7:47,[],8,1,5,0,1,C,249392,1,0,2,0,22,0,0,0,,,,,,,,,,,,,,,,,,
-artberryx/LSD,https://github.com/artberryx/LSD,FALSE,1/31/2022 15:09,[],15,3,3,0,1,Python,822,0,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme6Pro-kernel-source,https://github.com/realme-kernel-opensource/realme6Pro-kernel-source,FALSE,4/14/2020 7:11,[],7,6,4,0,1,C,195715,31,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-avshatalov48/bitrix-core-business,https://github.com/avshatalov48/bitrix-core-business,FALSE,4/4/2020 19:20,"['php', 'bitrix', '1c-bitrix', 'bitrix-cms', 'bitrix-module', 'core']",24,4,4,0,1,PHP,486197,1,1,2,0,35,0,0,0,,,,,,,,,,,,,,,,,,
-cortezfelipe/adianti-docker,https://github.com/cortezfelipe/adianti-docker,FALSE,3/8/2020 20:52,[],7,3,3,0,1,JavaScript,10866,7,7,7,0,6,0,0,0,,,,,,,,,,,,,,,,,,
-geiti94/android_kernel_samsung_universal990,https://github.com/geiti94/android_kernel_samsung_universal990,FALSE,8/19/2020 16:26,[],5,3,3,0,1,C,461402,1,0,1,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-jaekyeom/IBOL,https://github.com/jaekyeom/IBOL,FALSE,6/27/2021 10:56,[],23,2,2,0,2,Python,18879,1,0,1,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realmeC3-narzo10A-narzo10-6i-kernel-source,https://github.com/realme-kernel-opensource/realmeC3-narzo10A-narzo10-6i-kernel-source,FALSE,4/14/2020 7:11,[],19,5,16,0,1,C,215965,61,1,1,0,4,8,0,0,,,,,,,,,,,,,,,,,,
-miaogecm/FlatFS,https://github.com/miaogecm/FlatFS,FALSE,5/11/2022 13:18,[],7,2,2,0,3,C,348511,0,0,1,0,23,0,0,0,,,,,,,,,,,,,,,,,,
-engstk/op7,https://github.com/engstk/op7,FALSE,6/30/2019 3:03,[],68,12,19,50,52,C,284913,1,0,5,51,261,0,0,0,,,,,,,,,,,,,,,,,,
-ESOS-Lab/IPLFS,https://github.com/ESOS-Lab/IPLFS,FALSE,9/28/2021 8:07,[],6,4,0,0,1,C,202819,1,0,3,0,8,0,0,0,,,,,,,,,,,,,,,,,,
-EricOakford/SCI-Decompilation-Archive,https://github.com/EricOakford/SCI-Decompilation-Archive,FALSE,5/7/2020 12:37,[],19,6,5,0,3,Scala,12000,1,1,1,0,248,8,0,0,,,,,,,,,,,,,,,,,,
-lukechopper/vanilla-php-no-framework-forgotten-pwd,https://github.com/lukechopper/vanilla-php-no-framework-forgotten-pwd,FALSE,6/24/2021 13:38,[],17,2,8,0,1,PHP,125,0,0,1,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-peter-kimanzi/Social-Media-site,https://github.com/peter-kimanzi/Social-Media-site,FALSE,3/9/2022 11:22,[],5,1,0,0,1,PHP,8263,0,0,1,0,10,0,0,0,,,,,,,,,,,,,,,,,,
-webkul-ratnesh/opensource-api-documentation-tool,https://github.com/webkul-ratnesh/opensource-api-documentation-tool,FALSE,12/13/2019 6:52,[],5,1,0,0,1,PHP,648,1,1,2,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-sslab-gatech/lkl-hydra,https://github.com/sslab-gatech/lkl-hydra,FALSE,8/13/2019 21:39,[],6,19,3,0,1,C,206544,1,0,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-telekom/mp-dccp,https://github.com/telekom/mp-dccp,FALSE,2/26/2021 14:17,[],7,3,7,0,3,C,272973,5,2,3,3,47,0,0,0,,,,,,,,,,,,,,,,,,
-Fliw/TelagaNursery,https://github.com/Fliw/TelagaNursery,FALSE,1/24/2020 3:51,[],5,1,1,0,1,CSS,18304,0,0,1,0,8,0,0,0,,,,,,,,,,,,,,,,,,
-Rtoax/linux-5.10.13,https://github.com/Rtoax/linux-5.10.13,FALSE,3/9/2021 4:34,[],29,3,5,0,1,C,64432,0,0,1,0,751,1,0,0,,,,,,,,,,,,,,,,,,
-spdx/Spdx-Java-Library,https://github.com/spdx/Spdx-Java-Library,FALSE,6/7/2019 18:15,"['spdx', 'license-management', 'sbom']",15,4,16,16,8,Java,4539,6,1,4,17,334,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realmeX50pro_AndroidQ-kernel-source,https://github.com/realme-kernel-opensource/realmeX50pro_AndroidQ-kernel-source,FALSE,4/18/2020 5:29,[],8,3,4,0,1,C,189440,2,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-renatodex/fabulas-e-goblins,https://github.com/renatodex/fabulas-e-goblins,FALSE,10/11/2020 7:00,[],5,3,0,0,1,JavaScript,9492,1,1,24,0,397,84,0,357,,,,,,,,,,,,,,,,,,
-Embedfire/ebf-buster-linux,https://github.com/Embedfire/ebf-buster-linux,FALSE,12/2/2019 14:15,[],5,5,5,0,3,C,196409,1,0,6,2,19,0,0,0,,,,,,,,,,,,,,,,,,
-isarojdahal/Everyday-Karma,https://github.com/isarojdahal/Everyday-Karma,FALSE,12/28/2019 11:18,"['css', 'js', 'bootstrap', 'php', 'python', 'vue', 'react', 'node']",7,1,8,0,1,HTML,54011,1,1,2,0,71,0,0,0,,,,,,,,,,,,,,,,,,
-zhenduow/conversationalQA,https://github.com/zhenduow/conversationalQA,FALSE,4/10/2020 16:10,[],8,1,1,0,2,Python,6921,1,1,2,0,157,1,0,0,,,,,,,,,,,,,,,,,,
-Darshansol9/News_Articles_Sentiment_Analysis,https://github.com/Darshansol9/News_Articles_Sentiment_Analysis,FALSE,11/16/2019 1:25,[],8,3,2,0,4,,192467,0,0,3,0,56,0,0,0,,,,,,,,,,,,,,,,,,
-marvelwilson/php-ecommerce,https://github.com/marvelwilson/php-ecommerce,FALSE,6/23/2022 22:28,[],6,1,0,0,0,HTML,23294,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-luolongfei/freenom,https://github.com/luolongfei/freenom,FALSE,9/10/2021 1:39,"['freenom', 'telegram-bot', 'docker', 'bot', 'php', 'telegram', 'domain', 'renew', 'auto-renewal', 'php8']",2183,11,1656,8,7,PHP,10961,55,5,2,8,395,1,0,0,,,,,,,,,,,,,,,,,,
-ProjectsAI/NAOPlanningChallenge,https://github.com/ProjectsAI/NAOPlanningChallenge,FALSE,3/10/2021 17:29,[],6,1,0,0,1,Python,530488,0,0,1,0,116,0,0,0,,,,,,,,,,,,,,,,,,
-alliedvision/linux_imx8_apalis,https://github.com/alliedvision/linux_imx8_apalis,FALSE,1/23/2020 10:04,[],6,8,0,0,3,C,180956,3,0,1,0,8,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme5i-kernel-source,https://github.com/realme-kernel-opensource/realme5i-kernel-source,FALSE,4/14/2020 7:10,[],8,5,5,0,1,C,196834,2,0,1,0,1,1,0,0,,,,,,,,,,,,,,,,,,
-lucidrains/lightweight-gan,https://github.com/lucidrains/lightweight-gan,FALSE,11/11/2020 17:31,"['artificial-intelligence', 'deep-learning', 'generative-adversarial-network']",1428,32,202,101,11,Python,12515,58,0,5,102,211,3,0,0,,,,,,,,,,,,,,,,,,
-catalyst/moodle-MDL-70329,https://github.com/catalyst/moodle-MDL-70329,FALSE,3/19/2021 4:04,[],5,15,4,0,196,PHP,491709,71,5,267,0,105055,5,0,0,,,,,,,,,,,,,,,,,,
-EmbarkStudios/spdx,https://github.com/EmbarkStudios/spdx,FALSE,9/2/2019 15:30,[],19,4,13,23,16,Rust,1202,1,0,2,23,77,0,0,0,,,,,,,,,,,,,,,,,,
-princeton-nlp/DinkyTrain,https://github.com/princeton-nlp/DinkyTrain,FALSE,4/25/2022 20:07,[],83,4,6,0,5,Python,12510,0,0,1,0,46,0,0,0,,,,,,,,,,,,,,,,,,
-qql-art/contracts,https://github.com/qql-art/contracts,FALSE,9/25/2022 18:55,[],18,1,4,0,2,JavaScript,433,1,0,3,0,154,0,0,0,,,,,,,,,,,,,,,,,,
-pradipkumarraushan/How-to-track-email-open-or-not-using-php-and-PHPMailer,https://github.com/pradipkumarraushan/How-to-track-email-open-or-not-using-php-and-PHPMailer,FALSE,9/27/2019 13:31,"['email-track', 'email-tracker', 'php-email', 'phpmailer-using']",11,3,11,0,1,PHP,407,1,0,1,0,14,0,0,0,,,,,,,,,,,,,,,,,,
-occlum/sworndisk-oscomp,https://github.com/occlum/sworndisk-oscomp,FALSE,6/5/2022 3:33,10,5,1,0,2,C,9382,0,0,4,0,24,0,0,0,,,,,,,,,,,,,,,,,,,
-MiSTer-devel/Linux-Kernel_MiSTer,https://github.com/MiSTer-devel/Linux-Kernel_MiSTer,FALSE,8/25/2021 12:22,[],9,3,10,0,11,C,276705,7,0,4,0,77,4,0,0,,,,,,,,,,,,,,,,,,
-quic/aimet-model-zoo,https://github.com/quic/aimet-model-zoo,FALSE,12/22/2020 0:55,[],120,10,26,19,1,Python,5514,6,1,3,22,15,0,0,0,,,,,,,,,,,,,,,,,,
-epsylon/paranoia-browser,https://github.com/epsylon/paranoia-browser,FALSE,7/7/2019 1:09,"['browser', 'toolkit', 'security', 'cryptography', 'privacy']",11,1,5,0,1,Python,11912,0,0,1,0,6,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realmeX2pro_AndroidQ-kernel-source,https://github.com/realme-kernel-opensource/realmeX2pro_AndroidQ-kernel-source,FALSE,4/23/2020 8:12,[],9,2,10,0,1,C,195376,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-AdharshKrish/pec.edu,https://github.com/AdharshKrish/pec.edu,FALSE,3/7/2020 10:06,[],5,3,0,0,8,PHP,60184,1,0,1,1,606,1,0,497,,,,,,,,,,,,,,,,,,
-freeman1974/bcobs,https://github.com/freeman1974/bcobs,FALSE,3/30/2020 13:46, 'encoder', 'ffmpeg', 'qt']",5,1,0,0,1,C,14097,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,
-unifreq/linux-5.4.y,https://github.com/unifreq/linux-5.4.y,FALSE,5/8/2021 11:50,[],27,1,26,0,3,C,228542,3,0,1,0,241,1,0,0,,,,,,,,,,,,,,,,,,
-idcsmart/ZJMF-CBAP,https://github.com/idcsmart/ZJMF-CBAP,FALSE,8/9/2022 9:39,[],18,2,11,2,4,JavaScript,16499,3,0,1,2,39,0,0,0,,,,,,,,,,,,,,,,,,
-keshavsingh4522/hacktoberfest2021,https://github.com/keshavsingh4522/hacktoberfest2021,FALSE,9/24/2020 18:11,"['stickers', 'developer', 'dev', 'tshirts', 'digitalocean', 'opensource', 'firsttime', 'first-contribution', 'first-pull-request-and-commit', 'first-pull-request', 'hacktoberfest', 'hacktoberfest-starter', 'prs-welcome', 'good-first-issue', 'good-first-pr', 'hacktoberfest-accepted', 'hacktoberfest-event', 'hacktoberfest-swag', 'hacktoberfest2021', 'hacktoberfest-2021']",817,2,3799,1,434,Jupyter Notebook,292964,3005,2845,6,1,1774,7,0,3,,,,,,,,,,,,,,,,,,
-eummena/moodle-1click-app-digitalocean,https://github.com/eummena/moodle-1click-app-digitalocean,FALSE,11/4/2020 14:17,[],7,2,3,0,2,PHP,80622,1,0,1,0,15,0,0,0,,,,,,,,,,,,,,,,,,
-VTECRM/vtenext,https://github.com/VTECRM/vtenext,FALSE,4/28/2021 18:05,"['crm', 'bpm', 'bpmn']",28,6,8,0,3,PHP,60788,8,0,1,0,14,0,0,0,,,,,,,,,,,,,,,,,,
-hyperledger-labs/fabric-token-sdk,https://github.com/hyperledger-labs/fabric-token-sdk,FALSE,5/28/2021 14:40,"['hyperledger', 'hyperledger-fabric', 'blockchain', 'distributed-ledger', 'tokens']",56,11,42,0,14,Go,3895,42,5,3,0,454,0,0,0,,,,,,,,,,,,,,,,,,
-test-network-function/cnf-certification-test,https://github.com/test-network-function/cnf-certification-test,FALSE,7/7/2021 16:34,[],7,5,16,3,13,Go,114750,12,8,8,3,548,3,0,13,,,,,,,,,,,,,,,,,,
-debajyotiguha11/HelpDesk,https://github.com/debajyotiguha11/HelpDesk,FALSE,11/1/2019 14:14,"['php', 'mysql', 'jquery', 'ajax', 'javascript', 'helpdesk', 'phpmailer']",4,2,1,3,1,PHP,1351,0,0,1,4,21,0,0,11,,,,,,,,,,,,,,,,,,
-efekoca/web-tools,https://github.com/efekoca/web-tools,FALSE,9/13/2022 10:31,"['admin-panel', 'blog', 'php', 'web-tools', 'discord-api', 'github-api', 'image-compressor', 'live-code-editor', 'meta-tag-generator', 'qrcode-generator', 'site', 'weather-forecast', 'whois-lookup']",28,1,4,0,1,PHP,4915,0,0,1,0,14,0,0,0,,,,,,,,,,,,,,,,,,
-sparkmxy/my-offlinerl,https://github.com/sparkmxy/my-offlinerl,FALSE,5/30/2021 4:07,[],16,1,5,0,4,Python,174,1,0,1,0,106,0,0,0,,,,,,,,,,,,,,,,,,
-barbarbar338/hammer-csgo-hack,https://github.com/barbarbar338/hammer-csgo-hack,FALSE,1/15/2021 8:11,"['py', 'python', 'pymem', 'csgo', 'cs-go', 'csgo-hacks', 'csgo-cheats', 'csgo-hack', 'csgo-cheat', 'memory', 'csgo-glow']",15,3,2,2,3,Python,124,0,0,3,2,51,2,0,0,,,,,,,,,,,,,,,,,,
-hedayati/hodor,https://github.com/hedayati/hodor,FALSE,9/28/2019 21:18,"['protected-library', 'intel-pku', 'mpk', 'kernel-bypass', 'hodor', 'pku', 'hodor-pku']",18,6,4,0,1,C,227162,0,0,2,0,29,0,0,0,,,,,,,,,,,,,,,,,,
-jeffschecter/storygames,https://github.com/jeffschecter/storygames,FALSE,6/3/2019 23:04,[],9,1,10,0,1,HTML,181373,2,2,1,0,18,0,0,1,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realmeX50Pro_AndroidR-kernel-source,https://github.com/realme-kernel-opensource/realmeX50Pro_AndroidR-kernel-source,FALSE,10/9/2021 3:09,[],5,3,1,0,1,C,197414,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-NoahVl/Explaining-In-Style-Reproducibility-Study,https://github.com/NoahVl/Explaining-In-Style-Reproducibility-Study,FALSE,12/28/2021 15:00,"['cnn', 'computer-vision', 'convolutional-neural-network', 'deep-learning', 'gan', 'generative-adversarial-network', 'google', 'pytorch', 'stylex']",16,1,6,1,5,Jupyter Notebook,167850,7,0,8,1,133,0,0,0,,,,,,,,,,,,,,,,,,
-wweverma1/tfps-equipments-manager,https://github.com/wweverma1/tfps-equipments-manager,FALSE,5/9/2021 13:53,"['equipment-management', 'html-css-javascript', 'mysql', 'php', 'qr-code', 'qrcode', 'user-management', 'wamp']",7,1,1,0,1,PHP,298,0,0,1,0,9,0,0,0,,,,,,,,,,,,,,,,,,
-epsylon/Neuralia,https://github.com/epsylon/Neuralia,FALSE,5/14/2020 21:38,"['ai', 'neural', 'neural-network', 'machine-learning']",7,2,3,0,1,Python,534,0,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-fwupd/fwupd-efi,https://github.com/fwupd/fwupd-efi,FALSE,4/16/2021 1:58,[],10,3,13,3,45,C,448,6,2,3,4,531,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme8_C25_C25s_Narzo30_Narzo50A_AndroidR_kernel_source,https://github.com/realme-kernel-opensource/realme8_C25_C25s_Narzo30_Narzo50A_AndroidR_kernel_source,FALSE,10/22/2021 9:44,[],12,4,5,0,1,C,219619,1,1,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-iguy0/PS4Linux-Kernel,https://github.com/iguy0/PS4Linux-Kernel,FALSE,1/9/2020 7:53,[],6,3,6,0,1,C,188602,14,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-BMRTP/smartcleaner,https://github.com/BMRTP/smartcleaner,FALSE,1/20/2020 16:51,[],5,3,0,0,5,Java,2360,4,4,5,0,99,0,0,0,,,,,,,,,,,,,,,,,,
-moodleworkplace/multitenancy,https://github.com/moodleworkplace/multitenancy,FALSE,2/10/2020 21:43,[],6,5,4,0,186,PHP,448887,7,7,9,0,96346,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme_GTMasterExploratory_X9pro_GTneo2-kernel-source,https://github.com/realme-kernel-opensource/realme_GTMasterExploratory_X9pro_GTneo2-kernel-source,FALSE,4/25/2022 2:44,[],13,2,3,0,1,C,198868,1,0,1,0,2,4,0,0,,,,,,,,,,,,,,,,,,
-kharyam/litra-driver,https://github.com/kharyam/litra-driver,FALSE,2/2/2022 4:04,['python'],35,2,5,5,3,Python,1133,7,0,3,5,30,0,0,0,,,,,,,,,,,,,,,,,,
-smartsolucoesgo/sendMyZap,https://github.com/smartsolucoesgo/sendMyZap,FALSE,3/1/2022 5:03,[],17,4,9,0,2,JavaScript,6378,0,0,1,0,7,0,0,0,,,,,,,,,,,,,,,,,,
-pr0fessi0nal/Blacknet-Http-v3.7,https://github.com/pr0fessi0nal/Blacknet-Http-v3.7,FALSE,11/19/2021 9:51,[],9,2,10,0,3,Visual Basic .NET,44396,1,0,1,4,148,0,0,0,,,,,,,,,,,,,,,,,,
-WanyueKJ/wanyue_dangjian,https://github.com/WanyueKJ/wanyue_dangjian,FALSE,6/2/2021 10:07, 'learning', 'newsapp']",4,1,12,0,2,PHP,15175,0,0,1,0,36,0,0,0,,,,,,,,,,,,,,,,,
-oppo-source/A9-2020-9.0-A5-2020-9.0-kernel-source,https://github.com/oppo-source/A9-2020-9.0-A5-2020-9.0-kernel-source,FALSE,11/11/2019 9:02,[],5,1,1,0,0,C,190115,1,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-farisc0de/Uploady,https://github.com/farisc0de/Uploady,FALSE,12/20/2020 18:00,"['uploading', 'file-upload', 'file-sharing', 'upload-file', 'image-upload', 'image-uploader', 'image-processing', 'file-uploads', 'php', 'php7', 'php-library', 'uploady']",19,3,6,4,2,PHP,428,0,0,1,4,23,0,0,0,,,,,,,,,,,,,,,,,,
-iamsoroush/abstractions,https://github.com/iamsoroush/abstractions,FALSE,11/20/2021 11:13,[],6,1,0,0,2,Python,252,0,0,2,0,114,0,0,0,,,,,,,,,,,,,,,,,,
-DimopoulosElias/CIExtender,https://github.com/DimopoulosElias/CIExtender,FALSE,2/11/2021 15:32,[],5,2,0,0,1,Python,8973,0,0,2,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-felix-fly/qsdk-12,https://github.com/felix-fly/qsdk-12,FALSE,1/27/2022 7:17,[],6,3,4,0,1,,243430,1,0,1,0,8,0,0,0,,,,,,,,,,,,,,,,,,
-Svirusx/Nethunter-Kernel-S20_FE_5G,https://github.com/Svirusx/Nethunter-Kernel-S20_FE_5G,FALSE,11/29/2020 19:57,[],10,5,4,1,1,C,259337,0,0,10,3,33,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realmeGT-Neo2_AndroidR-kernel-source,https://github.com/realme-kernel-opensource/realmeGT-Neo2_AndroidR-kernel-source,FALSE,10/27/2021 2:39,[],11,2,9,0,1,C,196127,0,0,1,0,1,11,0,0,,,,,,,,,,,,,,,,,,
-epsylon/fuzzssh,https://github.com/epsylon/fuzzssh,FALSE,1/13/2022 19:49,"['ssh', 'fuzzing', 'tool']",15,2,2,0,1,Python,35,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-lcatro/cve_diff_checker,https://github.com/lcatro/cve_diff_checker,FALSE,10/30/2021 4:01, scripts, maps, peds, weapons and more.","['scripts', 'gta', 'gta5', 'gtav', 'fivemp', 'fivem', 'fivem-script', 'fivem-france', 'fivem-server', 'fivem-resource', 'fivemtools', 'fivemods', 'mods', 'fivem-servers', 'gta5-m', 'gta5-multiplayer', 'fivem-scripts', 'fivem-maps']",10,1,5,3,9,PHP,39876,27,0,13,3,867,2,0,0,,,,,,,,,,,,,,
-Consti10/rv1126,https://github.com/Consti10/rv1126,FALSE,4/25/2021 12:36,[],10,2,9,0,1,,2564345,12,0,1,0,79,0,0,0,,,,,,,,,,,,,,,,,,
-polixir/NeoRL,https://github.com/polixir/NeoRL,FALSE,2/7/2021 7:24,['offline-reinforcement-learning'],70,4,8,0,2,Python,20301,1,0,4,0,14,0,0,0,,,,,,,,,,,,,,,,,,
-EasycryptosTeam/CMS-blog,https://github.com/easycryptos/CMS-blog,FALSE,4/4/2021 2:02,"['php-blog-cms', 'php-blog-script', 'php-mysql-blog-script', 'blog-cms']",6,3,2,1,1,PHP,9126,3,0,2,1,11,2,0,0,,,,,,,,,,,,,,,,,,
-OpenCloudOS/OpenCloudOS-Kernel,https://github.com/OpenCloudOS/OpenCloudOS-Kernel,FALSE,10/20/2021 7:21,[],84,8,34,6,333,C,1258668,4,2,12,6,9288,0,0,0,,,,,,,,,,,,,,,,,,
-gregkh/commit_tree,https://github.com/gregkh/commit_tree,FALSE,5/5/2020 6:51,[],5,4,4,0,1,,432931,0,0,1,0,261,1,0,0,,,,,,,,,,,,,,,,,,
-brillian32/APEX_yolov5_assist,https://github.com/brillian32/APEX_yolov5_assist,FALSE,9/4/2022 17:17,"['ai', 'aim', 'apex', 'csgo', 'python', 'yolov']",29,2,8,0,1,Python,113390,7,0,1,0,25,0,0,0,,,,,,,,,,,,,,,,,,
-WhiteAssassins/Intersect_CMS,https://github.com/WhiteAssassins/Intersect_CMS,FALSE,5/26/2022 3:53,[],11,2,0,2,2,PHP,9649,0,0,1,2,267,0,0,0,,,,,,,,,,,,,,,,,,
-Catalyst-IN/Catalyst-IN,https://github.com/Catalyst-IN/Catalyst-IN,FALSE,5/12/2020 19:08,"['vue', 'vuejs', 'vuejs2', 'javascript', 'opensource']",12,2,9,0,10,Vue,13447,23,19,21,0,183,0,0,1,,,,,,,,,,,,,,,,,,
-DaneWang9513/BFV_RADAR-AIMBOT,https://github.com/DaneWang9513/BFV_RADAR-AIMBOT,FALSE,12/1/2021 7:39,[],8,1,6,0,1,Python,455,2,0,1,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme7_realme8_Narzo30_Narzo20pro-AndroidS-kernel-source,https://github.com/realme-kernel-opensource/realme7_realme8_Narzo30_Narzo20pro-AndroidS-kernel-source,FALSE,6/28/2022 9:08,[],10,2,0,0,1,C,227521,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme6-kernel-source,https://github.com/realme-kernel-opensource/realme6-kernel-source,FALSE,4/14/2020 7:11,[],23,10,17,0,1,C,203999,72,2,1,0,3,2,0,0,,,,,,,,,,,,,,,,,,
-4dboard/proxy-yxorp,https://github.com/4dboard/Proxy-yxorP,FALSE,3/27/2022 15:17,"['proxy', 'proxy-server', 'article-spinner', 'cache', 'flat-file', 'multithreading', 'web-proxy', 'software-as-a-service', 'guzzle', 'plug-and-play', 'roadrunner', 'swoole', 'headless', 'multi-tenancy', 'dashboards', 'sass', 'cockpit-cms', 'docker-compose', 'vercel', 'gitpod']",11,2,15,3,1,PHP,1129985,7,0,4,3,6677,0,0,721,,,,,,,,,,,,,,,,,,
-unifreq/linux-5.15.y,https://github.com/unifreq/linux-5.15.y,FALSE,11/5/2021 12:19,[],16,2,32,0,6,C,277540,3,0,1,0,252,1,0,0,,,,,,,,,,,,,,,,,,
-Tencent/TencentOS-kernel,https://github.com/Tencent/TencentOS-kernel,FALSE,1/6/2020 2:14,[],1290,87,270,14,34,C,1646032,9,2,55,119,292,5,0,0,,,,,,,,,,,,,,,,,,
-b4den/nodesql,https://github.com/b4den/nodesql,FALSE,10/11/2019 9:29,[],7,1,1,0,2,Python,30457,0,0,2,0,35,0,0,0,,,,,,,,,,,,,,,,,,
-utsaslab/winefs,https://github.com/utsaslab/WineFS,FALSE,9/21/2021 16:05,"['persistent-memory', 'file-system']",23,5,0,0,2,C,210679,6,2,4,0,10,0,0,0,,,,,,,,,,,,,,,,,,
-benzBrake/AutoBackup,https://github.com/benzBrake/AutoBackup,FALSE,7/20/2021 8:15,[],8,2,0,0,1,PHP,195,0,0,2,0,9,0,0,0,,,,,,,,,,,,,,,,,,
-bennyekop/SMTPphpMailerCITemplate,https://github.com/bennyekop/SMTPphpMailerCITemplate,FALSE,11/23/2019 2:21,[],6,2,6,0,1,HTML,4267,0,0,1,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-reddit/rpan-studio,https://github.com/reddit/rpan-studio,FALSE,7/1/2020 17:59,[],272,18,61,4,1,C,9956,35,2,1,4,4,0,0,0,,,,,,,,,,,,,,,,,,
-trisolaris-labs/trisolaris_core,https://github.com/trisolaris-labs/trisolaris_core,FALSE,9/3/2021 20:38,[],15,1,11,0,7,TypeScript,2739,7,7,52,2,395,3,0,0,,,,,,,,,,,,,,,,,,
-OmarHossamEldin/JtlShopPluginStarterKit,https://github.com/OmarHossamEldin/JtlShopPluginStarterKit,FALSE,11/29/2021 15:10,"['jtl-shop5', 'jtl-plugin', 'mvc-pattern', 'jtlshop-plugin', 'jtl', 'plugin']",10,2,1,0,4,PHP,3007,0,0,1,0,336,0,0,0,,,,,,,,,,,,,,,,,,
-oppo-source/F17_A73_A53,https://github.com/oppo-source/F17_A73_A53,FALSE,12/26/2020 7:34,[],6,0,2,0,0,C,223896,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-bhagvank/NoCodeAIML,https://github.com/bhagvank/NoCodeAIML,FALSE,10/1/2021 19:36,[],5,3,4,0,2,Python,182638,1,1,4,0,15,1,0,0,,,,,,,,,,,,,,,,,,
-ALittlePatate/Rainbow-v2,https://github.com/ALittlePatate/Rainbow-v2,FALSE,2/24/2021 11:07,"['crosshair-hack', 'money-hack', 'fov-hack', 'legit', 'radar-hack', 'csgo', 'csgo-cheat', 'csgo-hack', 'skinchanger', 'aimbot', 'wallhack']",43,9,10,0,1,Python,232,0,0,1,0,88,0,0,0,,,,,,,,,,,,,,,,,,
-espressif/esp-rainmaker,https://github.com/espressif/esp-rainmaker,FALSE,1/30/2020 9:18,[],254,46,88,0,18,C,958,78,7,2,0,358,4,0,0,,,,,,,,,,,,,,,,,,
-akinggw/moleserver,https://github.com/akinggw/moleserver,FALSE,5/11/2020 1:40,[],43,3,22,0,1,C++,59940,0,0,1,3,149,0,0,0,,,,,,,,,,,,,,,,,,
-HimavaanChandra/laserRobots,https://github.com/HimavaanChandra/laserRobots,FALSE,8/31/2019 7:53,[],5,4,0,0,7,Python,72443,0,0,13,0,344,0,0,0,,,,,,,,,,,,,,,,,,
-NJU-TJL/OpenMP-MPI_Labs,https://github.com/NJU-TJL/OpenMP-MPI_Labs,FALSE,2/21/2021 6:18, 'mpi', 'parallel', 'lu-factorization', 'matrix-multiplication', 'vectorization', 'document-verification', 'document-vector']",11,2,1,0,1,C,10095,1,0,1,0,3,0,0,0,,,,,,,,,,,,
-ict-bigdatalab/CorpusBrain,https://github.com/ict-bigdatalab/CorpusBrain,FALSE,8/16/2022 7:24,"['information-retrieval', 'natural-language-processing']",10,4,1,0,1,Python,12383,2,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-EchoHeim/Allwinner-H616,https://github.com/EchoHeim/Allwinner-H616,FALSE,6/14/2022 2:51,"['linux', 'allwinner', 'h616']",10,4,3,2,1,C,5718062,0,0,2,2,25,0,0,0,,,,,,,,,,,,,,,,,,
-epsylon/Smuggler,https://github.com/epsylon/Smuggler,FALSE,4/25/2020 12:42,"['http-smuggler', 'pentesting', 'dsync', 'toolkit']",20,2,10,1,1,Python,36,0,0,1,1,7,0,0,0,,,,,,,,,,,,,,,,,,
-nuevocorreo17/cursohappydev,https://github.com/nuevocorreo17/cursohappydev,FALSE,4/21/2020 6:36,[],6,3,10,0,1,JavaScript,20986,0,0,1,0,13,0,0,0,,,,,,,,,,,,,,,,,,
-clojure-interop/aws-api,https://github.com/clojure-interop/aws-api,FALSE,7/30/2019 11:16,[],5,2,0,0,1,Clojure,4550,0,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-jianguda/afm4acs,https://github.com/jianguda/afm4acs,FALSE,10/25/2021 9:44,[],10,1,3,0,1,Python,10853,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-bytedance/phoenix-kernel,https://github.com/bytedance/phoenix-kernel,FALSE,9/15/2022 3:55,8,2,1,0,1,C,195656,0,0,1,0,21,0,0,0,,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realmeV3_realmeX7_realmeX7Pro_AndroidQ-kernel-source,https://github.com/realme-kernel-opensource/realmeV3_realmeX7_realmeX7Pro_AndroidQ-kernel-source,FALSE,9/18/2020 7:03,[],5,2,2,0,1,C,203630,1002,2,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-totalgood/nlpia3,https://github.com/totalgood/nlpia3,FALSE,6/21/2019 23:36,[],9,2,5,0,0,HTML,23355,0,0,1,4,87,0,0,0,,,,,,,,,,,,,,,,,,
-BPI-SINOVOIP/BPI-F2S-bsp,https://github.com/BPI-SINOVOIP/BPI-F2S-bsp,FALSE,7/25/2019 8:13,[],8,8,5,1,3,C,432623,1,0,2,1,59,0,0,0,,,,,,,,,,,,,,,,,,
-kimsan0622/anonymous_kowow,https://github.com/kimsan0622/anonymous_kowow,FALSE,5/17/2021 7:29,[],7,1,2,0,131,Python,57868,0,0,1,0,3696,0,0,0,,,,,,,,,,,,,,,,,,
-tintinweb/smart-contract-sanctuary-bsc,https://github.com/tintinweb/smart-contract-sanctuary-bsc,FALSE,1/31/2022 16:33,"['ethereum', 'smart-contracts', 'solidity']",43,3,31,0,1,,2541304,0,0,2,0,848,0,0,0,,,,,,,,,,,,,,,,,,
-Vincebye/vulfuzz,https://github.com/Vincebye/vulfuzz,FALSE,2/25/2020 16:43, 'security']",5,1,1,0,1,Python,2028,0,0,1,0,23,0,0,0,,,,,,,,,,,,,,,,,,
-caninos-loucos/labrador-armhf-linux-4,https://github.com/caninos-loucos/labrador-armhf-linux-4,FALSE,7/11/2019 19:38,[],5,2,5,0,3,C,322384,11,1,3,0,26,0,0,0,,,,,,,,,,,,,,,,,,
-BPI-SINOVOIP/BPI-R64-bsp-4.19,https://github.com/BPI-SINOVOIP/BPI-R64-bsp-4.19,FALSE,8/25/2019 8:58,[],11,5,13,0,2,C,270376,3,0,1,0,12,2,0,0,,,,,,,,,,,,,,,,,,
-tintinweb/smart-contract-sanctuary-fantom,https://github.com/tintinweb/smart-contract-sanctuary-fantom,FALSE,1/31/2022 16:36,"['ethereum', 'smart-contracts', 'solidity']",13,2,2,0,1,Solidity,96445,0,0,1,0,574,0,0,0,,,,,,,,,,,,,,,,,,
-xzncit/A3Mall,https://github.com/xzncit/A3Mall,FALSE,6/16/2020 4:09, 'admin', 'php', 'shop', 'mall', 'alipay', 'wechat', 'uniapp', 'wechat-pay']",139,2,54,0,1,JavaScript,179643,26,25,26,0,314,0,0,0,,,,,,,,,,,
-bgoonz/python-scripts,https://github.com/bgoonz/python-scripts,FALSE,3/16/2021 19:39,[],12,0,0,0,9,Jupyter Notebook,157394,56,55,57,0,103,0,0,0,,,,,,,,,,,,,,,,,,
-dathalongbay/t3h.12.2020,https://github.com/dathalongbay/t3h.12.2020,FALSE,12/11/2020 11:19,[],5,1,6,0,1,PHP,8339,0,0,1,0,288,0,0,0,,,,,,,,,,,,,,,,,,
-tintinweb/smart-contract-sanctuary-polygon,https://github.com/tintinweb/smart-contract-sanctuary-polygon,FALSE,1/31/2022 16:35,"['ethereum', 'smart-contracts', 'solidity']",23,3,9,0,1,,1436674,0,0,1,0,804,0,0,0,,,,,,,,,,,,,,,,,,
-Atcold/NYU-DLSP21,https://github.com/Atcold/NYU-DLSP21,FALSE,4/15/2021 22:20,"['deep-learning', 'yann-le-cunn', 'nyu', 'ebm']",1263,48,232,0,21,Jupyter Notebook,31062,0,0,3,0,68,0,0,64,,,,,,,,,,,,,,,,,,
-waterbear-cloud/paco,https://github.com/waterbear-cloud/paco,FALSE,6/18/2019 21:41,"['aws', 'cloud', 'cloudformation', 'orchestration', 'python3', 'infrastructure-as-code']",31,3,5,0,2,Python,14214,17,0,24,77,1324,0,0,0,,,,,,,,,,,,,,,,,,
-WanyueKJ/Wanyue-knowledge-payment,https://github.com/WanyueKJ/Wanyue-knowledge-payment,FALSE,3/19/2021 1:06,"['knowledge', 'vod', 'aod']",12,2,16,0,3,PHP,200455,0,0,1,0,74,0,0,0,,,,,,,,,,,,,,,,,,
-omermaksutii/Olux-Shop-Script-V2.0,https://github.com/omermaksutii/Olux-Shop-Script-V2.0,FALSE,5/22/2020 19:52,[],5,1,1,0,1,CSS,24596,2,1,2,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-cartesi/rollups,https://github.com/cartesi/rollups,FALSE,12/29/2021 21:05,[],7,6,5,10,13,Rust,5720,2,1,2,11,936,0,0,0,,,,,,,,,,,,,,,,,,
-KhoomeiK/MindMapResearch,https://github.com/KhoomeiK/MindMapResearch,FALSE,1/9/2020 1:14,[],8,4,2,0,3,Jupyter Notebook,586259,0,0,2,0,56,0,0,0,,,,,,,,,,,,,,,,,,
-codingcyber/Invoice-Billing-Application-PHP,https://github.com/codingcyber/Invoice-Billing-Application-PHP,FALSE,12/19/2019 12:00,[],5,1,1,0,1,PHP,1606,0,0,1,0,50,0,0,0,,,,,,,,,,,,,,,,,,
-infstellar/genshin_impact_assistant,https://github.com/infstellar/genshin_impact_assistant,FALSE,9/12/2022 4:25,[],109,3,11,6,3,Python,142959,2,0,2,6,103,0,0,0,,,,,,,,,,,,,,,,,,
-huggingface/accelerate,https://github.com/huggingface/accelerate,FALSE,10/30/2020 13:27,[],3109,59,250,20,67,Python,1703,39,5,15,21,539,3,0,0,,,,,,,,,,,,,,,,,,
-figozhang/runninglinuxkernel_5.0,https://github.com/figozhang/runninglinuxkernel_5.0,FALSE,6/20/2020 12:17,[],156,18,114,0,5,C,537492,0,0,2,0,29,0,0,0,,,,,,,,,,,,,,,,,,
-opencomputeproject/HWMgmt-MegaRAC-OpenEdition,https://github.com/opencomputeproject/HWMgmt-MegaRAC-OpenEdition,FALSE,3/12/2021 17:22,['megarac-openedition'],49,9,14,0,9,C,257498,3,2,2,3,71,3,0,0,,,,,,,,,,,,,,,,,,
-Avnet/smartedge-iiot-gateway,https://github.com/Avnet/smartedge-iiot-gateway,FALSE,7/17/2019 17:07,[],11,8,8,0,2,C,194034,4,0,1,0,26,0,0,0,,,,,,,,,,,,,,,,,,
-qxhome/rk3568-kernel5.10-alldrivers,https://github.com/qxhome/rk3568-kernel5.10-alldrivers,FALSE,5/11/2022 8:41,[],18,2,4,3,1,C,232444,4,0,1,3,4,0,0,0,,,,,,,,,,,,,,,,,,
-VlachosGroup/AIMSim,https://github.com/VlachosGroup/AIMSim,FALSE,2/9/2020 19:47,"['machine-learning', 'clustering']",11,2,2,8,3,Python,11623,1,0,7,8,1229,0,0,401,,,,,,,,,,,,,,,,,,
-antiagainst/SM-G991B,https://github.com/antiagainst/SM-G991B,FALSE,7/4/2021 16:22,[],9,2,1,0,1,C,523575,0,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-defis-net/defis-network,https://github.com/defis-net/defis-network,FALSE,7/16/2020 17:54,[],93,21,46,0,4,Vue,17883,2,1,29,0,1148,2,0,0,,,,,,,,,,,,,,,,,,
-V-Sekai/vsekai-blender-game-tools,https://github.com/V-Sekai/vsekai-blender-game-tools,FALSE,8/7/2021 8:36,[],6,2,1,0,1,Python,137824,1,0,1,0,131,0,0,0,,,,,,,,,,,,,,,,,,
-acervenky/raphaelquax,https://github.com/acervenky/raphaelquax,FALSE,8/26/2019 5:55,[],13,2,2,8,1,C,188426,0,0,1,8,35,6,0,0,,,,,,,,,,,,,,,,,,
-RedHatInsights/patchman-engine,https://github.com/RedHatInsights/patchman-engine,FALSE,10/31/2019 13:42,"['rhel', 'insights', 'hacktoberfest']",8,8,15,4,15,Go,3576,1,1,5,343,1956,0,0,0,,,,,,,,,,,,,,,,,,
-orangemiaw/Sinau.ID,https://github.com/orangemiaw/Sinau.ID,FALSE,12/22/2019 1:33,[],6,1,5,0,3,JavaScript,65160,1,1,5,0,79,0,0,0,,,,,,,,,,,,,,,,,,
-bjverde/sysgenad,https://github.com/bjverde/sysgenad,FALSE,4/21/2020 3:47,"['php', 'php7', 'adianti', 'adianti-framework']",5,3,4,5,2,JavaScript,22072,10,1,3,5,365,0,0,0,,,,,,,,,,,,,,,,,,
-89anderson/Bikcraft,https://github.com/89anderson/Bikcraft,FALSE,5/4/2021 20:04,[],6,1,0,0,1,PHP,67541,0,0,1,0,25,0,0,12,,,,,,,,,,,,,,,,,,
-Kitesky/KiteCMS,https://github.com/Kitesky/KiteCMS,FALSE,6/27/2019 3:00,"['cms', 'phpcms']",40,5,17,0,2,PHP,20928,5,0,3,1,61,0,0,0,,,,,,,,,,,,,,,,,,
-lazarnarcis/chat,https://github.com/lazarnarcis/chat,FALSE,12/4/2021 18:58,"['php', 'javascript', 'html', 'mysql', 'chat-application', 'social-media-app', 'ajax']",9,2,0,0,1,PHP,1348,0,0,1,0,320,0,0,439,,,,,,,,,,,,,,,,,,
-ememos/GiantVM,https://github.com/ememos/GiantVM,FALSE,12/9/2020 7:19,[],8,5,8,0,7,C,193114,14,1,2,0,83,0,0,0,,,,,,,,,,,,,,,,,,
-WanyueKJ/Education-online,https://github.com/WanyueKJ/education-online,FALSE,12/29/2020 1:23, 'exam', 'answer', 'online-learning']",223,36,79,0,4,PHP,102076,2,1,2,0,126,0,0,0,,,,,,,,,,,,,,,,
-lovehacker404/BlackMafia-Server,https://github.com/lovehacker404/BlackMafia-Server,FALSE,11/16/2020 6:26,[],8,2,3,0,1,PHP,1726,2,0,1,0,118,0,0,0,,,,,,,,,,,,,,,,,,
-Code-Break0/SecureAuthSystem,https://github.com/Code-Break0/SecureAuthSystem,FALSE,12/24/2020 21:25,[],26,4,13,0,1,PHP,266,0,0,1,0,78,0,0,0,,,,,,,,,,,,,,,,,,
-Miffyli/gan-aimbots,https://github.com/Miffyli/gan-aimbots,FALSE,3/10/2022 22:11,[],13,3,4,0,1,Python,164,0,0,1,0,5,0,0,0,,,,,,,,,,,,,,,,,,
-HuyaInc/obsstudio,https://github.com/HuyaInc/obsstudio,FALSE,7/15/2020 2:57,[],5,3,12,0,1,C,9299,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-jumorap/Chatbot_facebook_blenderbot,https://github.com/jumorap/Chatbot_facebook_blenderbot,FALSE,8/27/2020 3:06,[],5,1,0,0,1,Python,17903,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-BraveCoderYT/complete-login-register-form-with-email-verification,https://github.com/BraveCoderYT/complete-login-register-form-with-email-verification,FALSE,8/15/2021 5:51,[],22,1,25,0,1,PHP,847,1,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-realboy918/CodeIgniter-proinvest,https://github.com/realboy918/CodeIgniter-proinvest,FALSE,11/5/2020 11:29,[],8,0,1,0,1,,13011,0,0,1,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-ingamedeo/orangepi3-h6-mainline,https://github.com/ingamedeo/orangepi3-h6-mainline,FALSE,6/20/2020 13:42,"['orangepi', 'orangepi3', 'kernel', 'kernel-source', 'pcie', 'mainline', 'mainline-kernel', 'uboot']",14,1,5,1,2,,214073,5,0,1,1,6,0,0,0,,,,,,,,,,,,,,,,,,
-Gionnino9000/Gionnino9000,https://github.com/Gionnino9000/Gionnino9000,FALSE,4/9/2022 12:11,"['ai', 'tablut', 'tafl', 'board-game', 'iterative-deepening-search', 'adversarial', 'alpha-beta-pruning', 'artificial-intelligence', 'minmax', 'java', 'game']",9,2,1,3,4,HTML,70214,0,0,2,3,162,0,0,0,,,,,,,,,,,,,,,,,,
-ryanmrestivo/red-team,https://github.com/ryanmrestivo/red-team,FALSE,4/12/2021 0:00,[],55,5,19,0,1,PowerShell,2564813,0,0,1,0,124,0,0,0,,,,,,,,,,,,,,,,,,
-MusabDev/animated-epic-php-user-management-system,https://github.com/MusabDev/animated-epic-php-user-management-system,FALSE,5/7/2021 4:56,[],35,3,33,0,1,PHP,340,0,0,1,0,20,0,0,0,,,,,,,,,,,,,,,,,,
-SpaceExplorationTechnologies/starlink-wifi-gen2,https://github.com/SpaceExplorationTechnologies/starlink-wifi-gen2,FALSE,1/26/2022 21:27,[],60,10,15,0,1,C,1004948,2,2,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-Luan1Schons/Fast-Micro-Framework,https://github.com/Luan1Schons/Fast-Micro-Framework,FALSE,11/22/2020 2:55,[],6,2,0,0,1,PHP,606,0,0,2,0,33,0,0,0,,,,,,,,,,,,,,,,,,
-karmada-io/website,https://github.com/karmada-io/website,FALSE,3/16/2021 11:51,[],14,4,47,0,35,CSS,10605,20,9,2,0,273,0,0,0,,,,,,,,,,,,,,,,,,
-aimhubio/tutorials,https://github.com/aimhubio/tutorials,FALSE,3/10/2021 9:20,[],7,8,0,0,3,Python,44,0,0,7,0,6,0,0,0,,,,,,,,,,,,,,,,,,
-EthVM/evm-source-verification,https://github.com/EthVM/evm-source-verification,FALSE,1/18/2022 19:52,[],7,4,14,0,3,,710093,0,0,6,0,112,0,0,0,,,,,,,,,,,,,,,,,,
-ploigos/ploigos-step-runner,https://github.com/ploigos/ploigos-step-runner,FALSE,5/12/2020 15:54,"['tssc', 'python']",21,26,59,16,26,Python,3283,36,4,8,21,588,1,0,201,,,,,,,,,,,,,,,,,,
-oslab-ewha/MLstorage,https://github.com/oslab-ewha/MLstorage,FALSE,12/3/2020 11:48,[],11,4,4,0,4,C,9001,0,0,6,2,56,0,0,0,,,,,,,,,,,,,,,,,,
-codingcyber/Simple-Login-Portal,https://github.com/codingcyber/Simple-Login-Portal,FALSE,7/23/2019 12:03,[],6,2,6,0,1,PHP,963,0,0,1,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-alittletry/alittlepay,https://github.com/alittletry/alittlepay,FALSE,7/30/2022 6:56,[],82,1,17,0,2,PHP,37119,2,0,1,0,54,0,0,0,,,,,,,,,,,,,,,,,,
-YuSitong1999/BilibiliMemory,https://github.com/YuSitong1999/BilibiliMemory,FALSE,4/6/2022 0:49, 'bilibili-download', 'python', 'python3']",8,1,1,0,1,Python,33625,0,0,3,2,34,0,0,0,,,,,,,,,,,,,,,,
-ianmacd/a71,https://github.com/ianmacd/a71,FALSE,9/23/2020 12:17,[],5,3,3,0,2,C,222351,0,0,4,2,14,0,0,0,,,,,,,,,,,,,,,,,,
-felix-fly/qsdk-11,https://github.com/felix-fly/qsdk-11,FALSE,8/3/2021 6:19,[],5,3,7,0,2,C,252927,0,0,1,0,14,0,0,0,,,,,,,,,,,,,,,,,,
-davitpapikyan/Probabilistic-Downscaling-of-Climate-Variables,https://github.com/davitpapikyan/Probabilistic-Downscaling-of-Climate-Variables,FALSE,4/15/2022 13:37,"['downscaling', 'diffusion-models', 'weatherbench', 'single-image-super-resolution', 'super-resolution', 'ddpm', 'iterative-refinement', 't2m']",5,1,1,0,1,Python,4653,0,0,1,0,6,0,0,0,,,,,,,,,,,,,,,,,,
-pingcap/website,https://github.com/pingcap/website,FALSE,1/7/2020 9:15,[],10,16,21,0,21,JavaScript,19532,22,12,15,0,552,0,0,0,,,,,,,,,,,,,,,,,,
-marco-morales/QMSS-GR5074_Spring2022,https://github.com/marco-morales/QMSS-GR5074_Spring2022,FALSE,12/5/2021 17:10,"['data-science', 'social-sciences', 'educational-materials', 'course-repository']",13,6,12,0,1,Jupyter Notebook,35923,0,0,1,0,41,0,0,0,,,,,,,,,,,,,,,,,,
-ansible/galaxy_ng,https://github.com/ansible/galaxy_ng,FALSE,3/10/2020 13:06,"['ansible', 'python', 'hacktoberfest']",123,19,84,53,32,Python,2724,18,18,18,74,824,0,0,0,,,,,,,,,,,,,,,,,,
-Siflower/1806_SDK,https://github.com/Siflower/1806_SDK,FALSE,9/7/2020 1:31,[],38,6,89,0,2,C,926102,2,0,2,0,72,0,0,0,,,,,,,,,,,,,,,,,,
-Tencent/GameAISDK,https://github.com/Tencent/GameAISDK,FALSE,8/13/2020 6:50,1416,40,328,1,4,C++,392294,35,0,4,1,38,0,0,0,,,,,,,,,,,,,,,,,,,
-hngi/Team_Asclepius_MinI_Class_Web,https://github.com/hngi/Team_Asclepius_MinI_Class_Web,FALSE,9/23/2019 14:09,[],5,4,15,0,3,PHP,5476,1,1,13,0,9,0,0,0,,,,,,,,,,,,,,,,,,
-ohidurbappy/ScriptKiddy,https://github.com/ohidurbappy/ScriptKiddy,FALSE,3/5/2021 15:01,"['appscript', 'vbscript', 'python', 'script', 'scripts-collection', 'awesome', 'python3', 'bash']",19,2,5,0,2,Python,152096,0,0,1,0,64,0,0,0,,,,,,,,,,,,,,,,,,
-kynetweb/PHP-Ajax-Contact-Form,https://github.com/kynetweb/PHP-Ajax-Contact-Form,FALSE,6/19/2019 11:40,[],5,0,0,0,1,PHP,109,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-codershiyar/php-mysql,https://github.com/codershiyar/php-mysql,FALSE,8/21/2020 14:24,"['php', 'mysql', 'sql', 'mysql-database', 'php-mysql']",20,1,42,0,1,PHP,696,0,0,1,0,7,0,0,0,,,,,,,,,,,,,,,,,,
-pyiron/pyiron_atomistics,https://github.com/pyiron/pyiron_atomistics,FALSE,1/9/2021 9:27,"['python', 'pyiron', 'lammps', 'vasp', 'gaussian', 'dft']",18,8,9,52,37,Python,54089,99,16,36,60,9617,0,0,0,,,,,,,,,,,,,,,,,,
-exex4/xx4-bfv-aimassist,https://github.com/exex4/xx4-bfv-aimassist,FALSE,5/24/2020 23:04,[],66,12,37,0,0,Python,37,7,1,1,0,15,0,0,0,,,,,,,,,,,,,,,,,,
-andrey-kudinov/nyuta,https://github.com/andrey-kudinov/nyuta,FALSE,12/19/2021 12:05,[],38,1,0,0,1,HTML,28829,0,0,1,0,9,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme_X7_X7Pro_X7ProExtreme_X7-5G_Q2Pro_V15_V5_Q2_Narzo30pro-5G_7-5G-AndroidS-kernel-source,https://github.com/realme-kernel-opensource/realme_X7_X7Pro_X7ProExtreme_X7-5G_Q2Pro_V15_V5_Q2_Narzo30pro-5G_7-5G-AndroidS-kernel-source,FALSE,6/28/2022 9:23,[],6,1,2,0,1,C,227530,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-apache/skywalking-eyes,https://github.com/apache/skywalking-eyes,FALSE,12/21/2020 4:38,"['cli', 'tools', 'license', 'licensing']",163,34,50,4,33,Go,1425,0,0,1,4,185,3,0,0,,,,,,,,,,,,,,,,,,
-aurafinance/aura-contracts,https://github.com/aurafinance/aura-contracts,FALSE,2/1/2022 11:37,[],21,1,1,0,5,TypeScript,6238,3,3,4,0,133,0,0,0,,,,,,,,,,,,,,,,,,
-pepiuox/PHP-GrapesJS,https://github.com/pepiuox/PHP-GrapesJS,FALSE,1/26/2020 6:30,"['javascript', 'php', 'mysql']",23,4,20,0,1,JavaScript,47552,11,2,1,0,159,0,0,0,,,,,,,,,,,,,,,,,,
-Leo357449107/qsdk_cmiot-ax6,https://github.com/Leo357449107/qsdk_cmiot-ax6,FALSE,8/22/2021 8:38,[],61,5,70,0,0,C,414123,0,0,2,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-GeorgesStavracas/obs-gtk,https://github.com/GeorgesStavracas/obs-gtk,FALSE,9/1/2022 22:05,[],34,1,0,0,420,C,58575,4,0,2,1,11782,0,0,0,,,,,,,,,,,,,,,,,,
-Luis4609/Chat-App,https://github.com/Luis4609/Chat-App,FALSE,11/9/2021 21:57,"['php', 'wepapplication', 'aws-rds-mysql', 'heroku']",5,1,0,2,1,PHP,48134,1,0,1,2,71,0,0,73,,,,,,,,,,,,,,,,,,
-runninglinuxkernel/runninglinuxkernel_5.15,https://github.com/runninglinuxkernel/runninglinuxkernel_5.15,FALSE,1/7/2022 3:51,[],16,1,10,0,1,C,753317,0,0,1,0,8,0,0,0,,,,,,,,,,,,,,,,,,
-lsds/intravisor,https://github.com/lsds/intravisor,FALSE,1/26/2022 18:56,[],11,3,1,0,2,C,211307,0,0,1,0,14,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme-GTmaster_Q3s_9-5G-Speed-AndroidR-kernel-source,https://github.com/realme-kernel-opensource/realme-GTmaster_Q3s_9-5G-Speed-AndroidR-kernel-source,FALSE,11/4/2021 10:19,[],13,6,10,0,1,C,207823,0,0,1,0,2,7,0,0,,,,,,,,,,,,,,,,,,
-esmf-org/esmf,https://github.com/esmf-org/esmf,FALSE,2/3/2020 17:42,[],86,14,39,7,36,C++,149676,24,7,100,969,26552,11,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme_C3_C3i_6i_7i__Narzo_10_10A_20_30A__AndroidR-kernel-source,https://github.com/realme-kernel-opensource/realme_C3_C3i_6i_7i__Narzo_10_10A_20_30A__AndroidR-kernel-source,FALSE,10/21/2021 12:14,[],7,4,9,0,2,C,218665,0,0,1,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-leonardoamaro-dev/ecommerce-betting-system,https://github.com/leonardoamaro-dev/ecommerce-betting-system,FALSE,4/18/2020 23:08,[],7,1,1,0,1,CSS,5947,0,0,1,0,15,0,0,0,,,,,,,,,,,,,,,,,,
-trebleC/scholat,https://github.com/trebleC/scholat,FALSE,7/1/2019 0:18,"['javascript', 'school-project']",11,1,1,0,1,PHP,9248,1,0,2,0,8,0,0,2,,,,,,,,,,,,,,,,,,
-MiyooCFW/kernel,https://github.com/MiyooCFW/kernel,FALSE,9/24/2019 1:16,[],7,6,17,0,9,C,177898,0,0,3,0,82,0,0,0,,,,,,,,,,,,,,,,,,
-Freecey/Bulletin-Board-Project,https://github.com/Freecey/Bulletin-Board-Project,FALSE,11/17/2020 10:40,"['bulletin-board', 'php', 'database', 'mysql']",5,2,1,1,5,CSS,31925,0,0,4,1,522,0,0,80,,,,,,,,,,,,,,,,,,
-anisyanka/learn-embedded-linux,https://github.com/anisyanka/learn-embedded-linux,FALSE,11/16/2019 21:41,[],5,2,2,0,1,C,537692,0,0,1,0,98,0,0,0,,,,,,,,,,,,,,,,,,
-SunLinJie/Text_Review,https://github.com/SunLinJie/Text_Review,FALSE,2/28/2020 4:46,[],5,1,13,0,1,,57578,0,0,1,0,5,0,0,0,,,,,,,,,,,,,,,,,,
-jrieke/traingenerator,https://github.com/jrieke/traingenerator,FALSE,12/3/2020 16:47,"['machine-learning', 'deep-learning', 'template', 'website', 'webapp', 'streamlit', 'pytorch', 'scikit-learn', 'sklearn', 'tensorflow', 'pytorch-ignite', 'machine-learning-tutorials', 'pytorch-lightning']",1224,38,177,0,3,Python,10335,13,6,4,0,118,0,0,10,,,,,,,,,,,,,,,,,,
-benleim/huff-merkle,https://github.com/benleim/huff-merkle,FALSE,8/1/2022 13:49,"['airdrop', 'evm', 'huff', 'merkle']",7,1,0,0,1,Solidity,61,0,0,1,0,26,0,0,0,,,,,,,,,,,,,,,,,,
-oppo-source/android_kernel_5.10_oppo_mt6983,https://github.com/oppo-source/android_kernel_5.10_oppo_mt6983,FALSE,5/19/2022 9:56,[],12,0,7,0,1,C,226790,1,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-Dav-ee/MPESA-INTERGRATIONS-PHP,https://github.com/Dav-ee/MPESA-INTERGRATIONS-PHP,FALSE,4/10/2021 16:30,"['mpesa-api', 'payment-gateway', 'payment-integration', 'php', 'mysql', 'integration']",8,4,5,0,1,PHP,3122,0,0,1,0,18,0,0,0,,,,,,,,,,,,,,,,,,
-avshatalov48/bitrix24-core-corp,https://github.com/avshatalov48/bitrix24-core-corp,FALSE,3/18/2020 16:34,"['php', 'bitrix', '1c-bitrix', 'bitrix-module', 'bitrix24', 'core', 'autocomplete', 'ide-helper']",10,1,2,0,1,,691888,1,1,2,0,38,0,0,0,,,,,,,,,,,,,,,,,,
-BPI-SINOVOIP/BPI-R2PRO-BSP,https://github.com/BPI-SINOVOIP/BPI-R2PRO-BSP,FALSE,10/18/2021 13:21,[],18,6,15,0,3,,7223548,1,1,1,0,58,2,0,0,,,,,,,,,,,,,,,,,,
-wingskh/CSGO-YOLOv5-AIM-ASSIT,https://github.com/wingskh/CSGO-YOLOv5-AIM-ASSIT,FALSE,8/1/2022 7:54,[],5,1,2,0,1,Python,188,2,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-ianmacd/d2s,https://github.com/ianmacd/d2s,FALSE,8/27/2019 15:58,[],12,2,9,0,2,C,390895,0,0,3,24,76,0,0,0,,,,,,,,,,,,,,,,,,
-r-vmm/R-VMM,https://github.com/r-vmm/R-VMM,FALSE,12/4/2019 10:47,[],7,3,1,0,2,C,212331,0,0,1,0,13,0,0,0,,,,,,,,,,,,,,,,,,
-whiterussianstudio/kat-kit,https://github.com/whiterussianstudio/kat-kit,FALSE,9/22/2021 10:42,"['kirby', 'kirby-cms', 'kirby-starterkit', 'starter', 'starter-template', 'vite', 'tailwindcss', 'kirby3-cms', 'alpinejs', 'flatfilecms']",13,1,2,7,3,PHP,3880,0,0,2,7,106,0,0,0,,,,,,,,,,,,,,,,,,
-hanwckf/linux-hi3798c,https://github.com/hanwckf/linux-hi3798c,FALSE,4/16/2020 7:23,[],7,1,5,10,1,,298224,1,0,2,10,152,0,0,0,,,,,,,,,,,,,,,,,,
-smartcitiescommunity/Civikmind,https://github.com/smartcitiescommunity/Civikmind,FALSE,4/20/2021 6:22, 'smart-cities', 'smart-city', 'smart-communities', 'iso37120', 'political-science', 'civic-hacking', 'civic-tech', 'city-government', 'government-tech', 'ciudad-inteligente', 'ciudades-inteligentes', 'hacking-civico', 'tecnologia-civica', 'opengovernment', 'gobierno-abierto', 'objetivos-de-desarrollo-sostenible', 'comunidades-inteligentes', 'citizen-engagement', 'participacion-ciudadana']",27,5,10,0,3,PHP,125637,0,0,1,0,188,0,0,170
-apromore/ApromoreCE,https://github.com/apromore/ApromoreCE,FALSE,12/16/2019 0:43,[],29,6,9,1,8,Java,72600,8,7,16,1,212,0,0,0,,,,,,,,,,,,,,,,,,
-engstk/op9,https://github.com/engstk/op9,FALSE,6/1/2021 9:01,[],12,4,5,19,16,C,228058,0,0,2,19,51,5,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realmeC12_realmeC15_AndroidR-kernel-source,https://github.com/realme-kernel-opensource/realmeC12_realmeC15_AndroidR-kernel-source,FALSE,9/22/2021 3:14,[],10,4,6,0,2,C,211315,0,0,1,0,5,1,0,0,,,,,,,,,,,,,,,,,,
-naver/prismlivestudio,https://github.com/naver/prismlivestudio,FALSE,3/30/2020 11:29,[],34,8,17,0,2,C++,197058,36,23,23,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-alandsilva26/hotel-management-php,https://github.com/alandsilva26/hotel-management-php,FALSE,11/17/2020 15:20,"['php', 'jqeury', 'sass', 'mysql', 'xampp']",14,3,12,0,3,PHP,63848,0,0,1,0,66,0,0,0,,,,,,,,,,,,,,,,,,
-brainvisa/morpho-deepsulci,https://github.com/brainvisa/morpho-deepsulci,FALSE,7/17/2019 12:49,[],7,10,1,0,4,Python,613,2,1,4,5,88,0,0,0,,,,,,,,,,,,,,,,,,
-bipinsai/ChatBot-Buy-Sell-BPHC,https://github.com/bipinsai/ChatBot-Buy-Sell-BPHC,FALSE,11/1/2019 13:50,[],12,2,5,0,1,Python,8190,0,0,1,0,9,0,0,0,,,,,,,,,,,,,,,,,,
-epsylon/DiaNA,https://github.com/epsylon/DiaNA,FALSE,3/13/2020 21:36,"['model', 'maths', 'secuencer', 'dna', 'pattern']",7,1,3,0,1,Python,703,2,1,1,0,16,0,0,0,,,,,,,,,,,,,,,,,,
-cao-zha/caozha-order,https://github.com/cao-zha/caozha-order,FALSE,6/24/2020 14:06,13,1,6,0,1,PHP,22426,0,0,6,0,2,0,0,0,,,,,,,,,,,,,,,,,,,
-sunlizhuang/ChinaNews_classifier_task,https://github.com/sunlizhuang/ChinaNews_classifier_task,FALSE,3/24/2020 15:01,[],6,1,0,0,1,Jupyter Notebook,39491,0,0,1,0,16,0,0,0,,,,,,,,,,,,,,,,,,
-CiscoDevNet/intersight-powershell,https://github.com/CiscoDevNet/intersight-powershell,FALSE,6/30/2020 13:00,[],11,23,3,19,5,C#,225448,10,1,30,19,76,0,0,0,,,,,,,,,,,,,,,,,,
-ken678/yzncms,https://github.com/ken678/yzncms,FALSE,1/15/2020 2:20,12,1,3,0,6,PHP,48653,0,0,2,0,3643,0,0,0,,,,,,,,,,,,,,,,,,,
-redhat-cop/poolboy,https://github.com/redhat-cop/poolboy,FALSE,7/18/2019 21:07,"['gpte', 'babylon']",7,6,10,0,5,Python,3726,17,7,9,67,177,0,0,27,,,,,,,,,,,,,,,,,,
-meeting-room-booking-system/mrbs-code,https://github.com/meeting-room-booking-system/mrbs-code,FALSE,7/20/2021 19:46,[],35,5,17,3,7,PHP,102658,10,0,4,46,6984,6,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realmeX2Pro-kernel-source,https://github.com/realme-kernel-opensource/realmeX2Pro-kernel-source,FALSE,11/13/2019 8:15,[],7,6,8,0,1,C,188970,5,0,1,0,2,1,0,0,,,,,,,,,,,,,,,,,,
-IBM/AIMMX,https://github.com/IBM/AIMMX,FALSE,2/11/2020 17:20,[],8,6,2,1,3,Python,52733,2,0,1,1,16,0,0,0,,,,,,,,,,,,,,,,,,
-rockchip-toybrick/edge,https://github.com/rockchip-toybrick/edge,FALSE,3/28/2022 8:18,[],8,1,2,0,1,,2035760,0,0,1,0,10,0,0,0,,,,,,,,,,,,,,,,,,
-foxhoundsk/FlexSC,https://github.com/foxhoundsk/FlexSC,FALSE,8/19/2019 17:01,"['kernel', 'syscall', 'linux-kernel']",9,3,2,0,1,C,185937,0,0,2,0,27,0,0,0,,,,,,,,,,,,,,,,,,
-Dreamfullstacker/Laravel-Livestream-website,https://github.com/Dreamfullstacker/Laravel-Livestream-website,FALSE,5/16/2022 15:16,[],6,1,0,0,1,PHP,12128,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-mohammad92/android_kernel_samsung_sm8250,https://github.com/mohammad92/android_kernel_samsung_sm8250,FALSE,9/17/2020 17:14,[],11,5,5,0,8,C,244537,0,0,3,0,30,0,0,0,,,,,,,,,,,,,,,,,,
-ErikThiart/memeclub,https://github.com/ErikThiart/memeclub,FALSE,9/19/2019 19:15,"['memes', '9gag', 'php']",6,4,1,0,1,TSQL,21205,0,0,2,0,30,0,0,0,,,,,,,,,,,,,,,,,,
-TRoboto/Udacity,https://github.com/TRoboto/Udacity,FALSE,5/1/2020 6:29,"['projects', 'udacity', 'udacity-nanodegree', 'udacity-machine-learning-nanodegree', 'udacity-deep-learning', 'udacity-course', 'udacity-computer-vision-nanodegree', 'udacity-artificial-intelligence', 'udacity-intel-ai-iot-developers', 'udacity-natural-language-processing', 'healthcare', 'healthcare-application', 'udacity-ai-for-healthcare', 'udacity-cplusplus-nanodegree', 'image-captioning', 'yolov4', 'slam-algorithms', 'facial-keypoints-cnn', 'sudoku-solver', 'part-of-speech-tagger']",56,2,54,0,2,Jupyter Notebook,1386426,36,36,37,1,459,0,0,0,,,,,,,,,,,,,,,,,,
-unifreq/linux-5.12.y,https://github.com/unifreq/linux-5.12.y,FALSE,5/8/2021 8:03,[],8,1,13,0,1,C,234286,0,0,1,0,64,0,0,0,,,,,,,,,,,,,,,,,,
-jnode-revisited/jnode,https://github.com/jnode-revisited/jnode,FALSE,4/2/2022 22:20,"['operating-system', 'java']",11,2,0,0,8,Java,277586,0,0,2,0,6172,0,0,0,,,,,,,,,,,,,,,,,,
-drnefischer/udacity,https://github.com/drnefischer/udacity,FALSE,5/19/2021 22:46,"['udacity', 'udacity-nanodegree', 'udacity-data-analyst-nanodegree', 'udacity-data-scientist', 'udacity-artificial-intelligence', 'udacity-deep-learning', 'udacity-deep-reinforcement-learning', 'udacity-machine-learning', 'udacity-data-scientist-nanodegree', 'udacity-ai-nanodegree', 'udacity-deep-learning-nanodegree', 'udacity-machine-learning-nanodegree', 'deep-learning', 'machine-learning', 'deep-reinforcement-learning', 'artificial-intelligence', 'data-analyst', 'data-science', 'nanodegree']",11,1,3,0,1,HTML,33819,0,0,1,0,336,0,0,76,,,,,,,,,,,,,,,,,,
-jprodrigues70/github-extractor,https://github.com/jprodrigues70/github-extractor,FALSE,4/1/2021 6:40,[],5,1,0,2,1,PHP,446,1,0,2,2,15,0,0,0,,,,,,,,,,,,,,,,,,
-paragajg/DSB7,https://github.com/paragajg/DSB7,FALSE,4/18/2021 13:35,[],4,1,2,0,1,Jupyter Notebook,31151,0,0,1,0,13,0,0,0,,,,,,,,,,,,,,,,,,
-Curtis-L/autoseed,https://github.com/Curtis-L/autoseed,FALSE,12/31/2019 5:21,[],5,1,3,0,2,Python,17,0,0,1,0,14,0,0,0,,,,,,,,,,,,,,,,,,
-Fliw/Fliw.github.io-lama,https://github.com/Fliw/Fliw.github.io-lama,FALSE,10/17/2019 16:14,[],5,1,0,0,1,PHP,2658,0,0,1,0,22,0,0,22,,,,,,,,,,,,,,,,,,
-oskarnatan/end-to-end-driving,https://github.com/oskarnatan/end-to-end-driving,FALSE,2/28/2022 3:44,"['autonomous-driving', 'deep-learning', 'end-to-end', 'multi-agent', 'sensor-fusion']",7,1,1,0,1,Python,9618,1,0,1,0,19,0,0,0,,,,,,,,,,,,,,,,,,
-figozhang/linux-5.0-kdump,https://github.com/figozhang/linux-5.0-kdump,FALSE,6/18/2019 12:18,[],22,7,22,0,1,C,311892,0,0,1,0,6,0,0,0,,,,,,,,,,,,,,,,,,
-hanwckf/bl-hi3798c,https://github.com/hanwckf/bl-hi3798c,FALSE,4/15/2020 3:54,[],6,1,6,1,1,C,24309,0,0,1,1,15,0,0,0,,,,,,,,,,,,,,,,,,
-TOMMMMMMMMMC/GreatPosterWall,https://github.com/TOMMMMMMMMMC/GreatPosterWall,FALSE,11/25/2021 12:16,[],23,1,59,0,1,PHP,49510,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-FydeOS/kernel-fydeos_for_pc,https://github.com/FydeOS/kernel-fydeos_for_pc,FALSE,8/26/2020 4:18,[],6,3,3,0,4,C,194894,5,0,1,0,19,0,0,0,,,,,,,,,,,,,,,,,,
-alberteije/T2Ti-Pegasus-PDV,https://github.com/alberteije/T2Ti-Pegasus-PDV,FALSE,4/13/2021 17:09,[],146,17,98,0,2,Dart,95894,2,0,1,0,90,0,0,0,,,,,,,,,,,,,,,,,,
-sevan/viewpoint-linux,https://github.com/sevan/viewpoint-linux,FALSE,12/25/2020 18:17,"['ebpf', 'bpftrace', 'debugging', 'lfs', 'linuxfromscratch']",5,2,0,1,1,,704255,0,0,1,1,291,0,0,0,,,,,,,,,,,,,,,,,,
-vithurson/linux_compile,https://github.com/vithurson/linux_compile,FALSE,9/12/2021 4:08,[],5,4,0,0,1,,315800,1,0,2,0,21,0,0,0,,,,,,,,,,,,,,,,,,
-marmolak/gray486linux,https://github.com/marmolak/gray486linux,FALSE,10/3/2021 18:24,[],14,4,1,0,1,C,299911,0,0,1,0,87,0,0,0,,,,,,,,,,,,,,,,,,
-OpenMPDK/SMDK,https://github.com/OpenMPDK/SMDK,FALSE,3/8/2022 8:13,[],109,23,32,3,1,,555350,0,0,1,5,6,0,0,0,,,,,,,,,,,,,,,,,,
-ulefoneofficial/Power-Armor-13,https://github.com/ulefoneofficial/Power-Armor-13,FALSE,9/11/2021 9:14,[],9,2,5,0,1,C,203285,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-quic/aimet,https://github.com/quic/aimet,FALSE,4/21/2020 18:57,"['quantization', 'deep-learning', 'compression', 'open-source', 'machine-learning', 'pruning', 'auto-ml', 'network-compression', 'deep-neural-networks', 'network-quantization', 'opensource']",1209,39,241,18,36,Python,7848,161,10,12,18,1013,5,0,0,,,,,,,,,,,,,,,,,,
-wolves-aman/AmanCTF,https://github.com/wolves-aman/AmanCTF,FALSE,11/4/2019 10:50,[],26,2,13,0,1,PHP,11190,2,1,2,0,12,0,0,0,,,,,,,,,,,,,,,,,,
-avinash201199/Portfolio-Collection,https://github.com/avinash201199/Portfolio-Collection,FALSE,9/29/2021 14:24,"['hacktoberfest', 'portfolio', 'github', 'website', 'hacktoberfest-accepted']",82,2,128,0,100,HTML,478551,60,3,2,0,332,0,0,49,,,,,,,,,,,,,,,,,,
-rvboards/linux_kernel_for_d1,https://github.com/rvboards/linux_kernel_for_d1,FALSE,6/16/2021 5:56,[],12,5,3,0,1,C,214854,1,1,2,0,20,0,0,0,,,,,,,,,,,,,,,,,,
-sayaliipawar/Online-Gift-store-Website,https://github.com/sayaliipawar/Online-Gift-store-Website,FALSE,8/2/2020 15:23,"['html', 'css', 'javascript', 'jquery', 'materialize-css', 'php', 'mysql']",5,1,1,0,1,PHP,8786,0,0,1,0,7,0,0,0,,,,,,,,,,,,,,,,,,
-WUSTL-CSPL/RT-TEE,https://github.com/WUSTL-CSPL/RT-TEE,FALSE,3/29/2022 22:09,[],11,2,1,0,1,,329739,1,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-CovenantJunior/paystack-banklist-api,https://github.com/CovenantJunior/paystack-banklist-api,FALSE,9/22/2022 23:31,[],6,1,1,0,1,CSS,4992,0,0,1,0,13,0,0,0,,,,,,,,,,,,,,,,,,
-zhoukejun/linux-4.14.xxx-phytium-soc-ft2000plus,https://github.com/zhoukejun/linux-4.14.xxx-phytium-soc-ft2000plus,FALSE,10/20/2019 10:04,[],10,2,6,0,1,C,177805,0,0,1,0,3,0,0,0,,,,,,,,,,,,,,,,,,
-tweakunwanted/OpenXC-Player,https://github.com/tweakunwanted/OpenXC-Player,FALSE,10/7/2019 1:39,[],27,7,61,0,1,JavaScript,4187,15,2,1,0,21,0,0,0,,,,,,,,,,,,,,,,,,
-m5stack/Core2-for-AWS-IoT-EduKit,https://github.com/m5stack/Core2-for-AWS-IoT-EduKit,FALSE,12/11/2020 1:35,"['aws-iot-edukit', 'm5stack-core2', 'esp-idf', 'platformio', 'edukit', 'aws', 'iot']",102,16,50,0,4,C,69936,13,0,2,0,73,1,0,0,,,,,,,,,,,,,,,,,,
-cmd05/Luminosity,https://github.com/cmd05/Luminosity,FALSE,4/26/2021 16:05,"['php', 'mysql', 'mvc', 'crud', 'blog', 'javascript', 'sql', 'database', 'luminosity', 'blogging', 'blog-engine', 'social-network', 'model-view-controller', 'php7']",20,2,2,0,1,PHP,2785,1,0,1,0,81,0,0,0,,,,,,,,,,,,,,,,,,
-SnowStar0423/PHP-SMS-Sending-using-SMTP,https://github.com/SnowStar0423/PHP-SMS-Sending-using-SMTP,FALSE,11/9/2021 16:41,[],7,1,0,0,1,PHP,94,0,0,1,0,2,0,0,0,,,,,,,,,,,,,,,,,,
-roshan13ghimire/Voice_Based_Email,https://github.com/roshan13ghimire/Voice_Based_Email,FALSE,6/17/2020 5:24,[],5,1,1,0,1,PHP,925,0,0,1,0,4,0,0,0,,,,,,,,,,,,,,,,,,
-realme-kernel-opensource/realme6_6s_6i_7__nazro_30_20Pro__AndroidR-kernel-source,https://github.com/realme-kernel-opensource/realme6_6s_6i_7__nazro_30_20Pro__AndroidR-kernel-source,FALSE,10/21/2021 8:06,[],7,4,4,0,1,C,218484,1,1,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-sslab-gatech/SNAP,https://github.com/sslab-gatech/SNAP,FALSE,9/12/2021 5:40,[],8,22,2,0,1,C,278982,0,0,1,0,28,0,0,0,,,,,,,,,,,,,,,,,,
-Jimbo77/Jimbok_common_sm8250-R,https://github.com/Jimbo77/Jimbok_common_sm8250-R,FALSE,12/11/2020 18:31,[],6,4,4,0,349,C,149126,0,0,22,0,5978,0,0,0,,,,,,,,,,,,,,,,,,
-otayfuroglu/deepQM,https://github.com/otayfuroglu/deepQM,FALSE,12/15/2021 8:16,[],13,2,3,0,1,Python,5082,0,0,1,0,162,0,0,0,,,,,,,,,,,,,,,,,,
-espressif/esp-rainmaker-android,https://github.com/espressif/esp-rainmaker-android,FALSE,5/28/2020 15:00,[],49,12,25,3,3,Java,3704,9,0,1,3,74,0,0,0,,,,,,,,,,,,,,,,,,
-louis-she/ai4code,https://github.com/louis-she/ai4code,FALSE,5/22/2022 14:31,[],19,1,2,3,1,Python,652,0,0,7,4,180,0,0,0,,,,,,,,,,,,,,,,,,
-mdhifta/IVENTORY-FIFO-METHOD-Gudang-metode-Fifo,https://github.com/mdhifta/IVENTORY-FIFO-METHOD-Gudang-metode-Fifo,FALSE,9/2/2021 10:31,[],9,1,0,0,1,PHP,1097,0,0,1,0,11,0,0,0,,,,,,,,,,,,,,,,,,
-dsbook/dsbook,https://github.com/dsbook/dsbook,FALSE,12/20/2019 2:36,[],37,6,15,0,4,Python,3145,3,0,1,0,92,0,0,0,,,,,,,,,,,,,,,,,,
-mohammad92/android_kernel_samsung_r8q,https://github.com/mohammad92/android_kernel_samsung_r8q,FALSE,10/23/2020 10:55,[],9,4,4,0,7,C,226295,0,0,3,0,24,0,0,0,,,,,,,,,,,,,,,,,,
-Earnings-Call-Dataset/MAEC-A-Multimodal-Aligned-Earnings-Conference-Call-Dataset-for-Financial-Risk-Prediction,https://github.com/Earnings-Call-Dataset/MAEC-A-Multimodal-Aligned-Earnings-Conference-Call-Dataset-for-Financial-Risk-Prediction,FALSE,8/9/2020 12:42,"['earnings-calls', 'dataset', 'audio-text', 'mfcc-features', 'python35']",32,5,9,0,3,Python,73866,0,0,1,0,17,0,0,0,,,,,,,,,,,,,,,,,,
-hemanthmayaluru/one-class-text-classification-using-ensemble-approach,https://github.com/hemanthmayaluru/one-class-text-classification-using-ensemble-approach,FALSE,1/21/2020 17:03,[],9,1,2,0,1,Jupyter Notebook,64658,0,0,1,0,18,0,0,0,,,,,,,,,,,,,,,,,,
-Umit-Ulusoy/Personal-website-with-PHP-and-MySQL,https://github.com/Umit-Ulusoy/Personal-website-with-PHP-and-MySQL,FALSE,7/15/2022 18:01,"['oop', 'php7', 'portfolio-website', 'mysql']",5,1,0,0,1,PHP,162,0,0,3,0,40,0,0,0,,,,,,,,,,,,,,,,,,
-unifreq/linux-5.10.y,https://github.com/unifreq/linux-5.10.y,FALSE,5/11/2021 2:54,[],14,1,23,0,3,C,220265,1,0,1,0,275,0,0,0,,,,,,,,,,,,,,,,,,
-osuuu/LightPicture,https://github.com/osuuu/LightPicture,FALSE,1/16/2022 4:33,252,22,69,5,2,PHP,12459,15,0,1,6,21,0,0,0,,,,,,,,,,,,,,,,,,,
-4shen/webshell,https://github.com/4shen/webshell,FALSE,11/8/2020 13:48,[],7,1,3,0,1,,1237180,0,0,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,
-aimhubio/aimrecords,https://github.com/aimhubio/aimrecords,FALSE,3/28/2020 10:27,[],9,5,4,0,5,Python,79,3,1,2,7,39,0,0,0,,,,,,,,,,,,,,,,,,
-inforthub/inFORTCMS,https://github.com/inforthub/inFORTCMS,FALSE,5/21/2020 21:27,[],15,3,4,0,1,PHP,21492,6,5,6,0,13,0,0,0,,,,,,,,,,,,,,,,,,
-davidgoy/reflect,https://github.com/davidgoy/reflect,FALSE,6/8/2020 15:01,"['wordpress', 'server-side-rendering', 'static-page-generator', 'headless-cms', 'static-site-generator', 'reflect']",19,3,1,14,2,PHP,5431,0,0,1,14,185,0,0,0,,,,,,,,,,,,,,,,,,
-espressif/esp-rainmaker-ios,https://github.com/espressif/esp-rainmaker-ios,FALSE,5/28/2020 14:58,[],26,13,9,2,3,Swift,7789,10,0,1,5,101,0,0,0,,,,,,,,,,,,,,,,,,
-engstk/op8,https://github.com/engstk/op8,FALSE,6/19/2020 1:10,[],34,7,7,39,34,C,215275,0,0,6,39,118,1,0,0,,,,,,,,,,,,,,,,,,
-eerimoq/monolinux-example-project,https://github.com/eerimoq/monolinux-example-project,FALSE,3/1/2020 12:24,"['monolinux', 'embedded-linux']",6,2,0,0,2,C,192220,0,0,2,0,137,0,0,0,,,,,,,,,,,,,,,,,,
-theanarkh/read-linux5.9.9-code,https://github.com/theanarkh/read-linux5.9.9-code,FALSE,6/14/2021 15:12,[],6,2,0,0,1,,1579199,0,0,1,0,18,0,0,0,,,,,,,,,,,,,,,,,,
+Link
+https://github.com/realme-kernel-opensource/realmeC12_realmeC15_AndroidR-kernel-source
+https://github.com/DLR-SC/repository-synergy
+https://github.com/SuryaSekhar14/HacktoberFest-2021
+https://github.com/DeuroIO/Udacity-AIND
+https://github.com/AOSPA/android_kernel_xiaomi_laurel_sprout
+https://github.com/0wnerDied/Neptune_kernel_sm8150_oneplus
+https://github.com/Geeklog-Core/geeklog
+https://github.com/kzeoh/Justitia
+https://github.com/renatodex/fabulas-e-goblins
+https://github.com/thesentinelproject/WikiRumours
+https://github.com/dsbook/dsbook
+https://github.com/LorenzoBianconi/wireless-drivers-next
+https://github.com/carlos-wong/gitlab-ce-carlos
+https://github.com/realme-kernel-opensource/realmeGT-Neo2_AndroidR-kernel-source
+https://github.com/Dreamfullstacker/Laravel-Livestream-website
+https://github.com/whiterussianstudio/kat-kit
+https://github.com/roshan13ghimire/Voice_Based_Email
+https://github.com/penglezos/kernel_xiaomi_raphael
+https://github.com/camunda/camunda-docs-manual
+https://github.com/wragge/hansard-xml
+https://github.com/steve-ryan/password_reset
+https://github.com/ThunderStorms21th/S10-source
+https://github.com/saylordotorg/Moodle_Saylor
+https://github.com/microsoft/WSL2-Linux-Kernel
+https://github.com/JaGoLi/Libreboot-X200-Updated
+https://github.com/ngi-mptcp/lkl-next
+https://github.com/ideamonk/BakaBot
+https://github.com/cartesi/rollups
+https://github.com/starfive-tech/linux
+https://github.com/coatandhat/aimc
+https://github.com/Archeia/YEARepo
+https://github.com/arter97/android_kernel_xiaomi_sm6150
+https://github.com/spandruvada/linux-kernel
+https://github.com/colosa/processmaker
+https://github.com/bjverde/cnpjrfb
+https://github.com/JinkunTian/CAGarden
+https://github.com/liuqiao666/Lsky-Pro
+https://github.com/unifreq/linux-5.12.y
+https://github.com/ffwff/lilith
+https://github.com/meeting-room-booking-system/mrbs-code
+https://github.com/EricOakford/SCI-Decompilation-Archive
+https://github.com/denysvitali/linux-smaug
+https://github.com/lineage-rpi/android_kernel_brcm_rpi
+https://github.com/spanev/linux-80211n-csitool
+https://github.com/jay3000bc/EnterpriseManagementSystem
+https://github.com/hanwckf/bl-hi3798c
+https://github.com/redhat-cop/poolboy
+https://github.com/altera-opensource/arm-trusted-firmware
+https://github.com/cubecart/v6
+https://github.com/Garyxud/melodic-all
+https://github.com/ryanshrott/Planning-in-Fleet-Management
+https://github.com/arcadia-oss/lime
+https://github.com/wikimedia/pywikibot
+https://github.com/Mellanox/NVMEoF-P2P
+https://github.com/AdharshKrish/pec.edu
+https://github.com/goldstar0415/AI-PlanningSearch
+https://github.com/go-gitea/gitea
+https://github.com/projectacrn/acrn-kernel
+https://github.com/oss-review-toolkit/ort
+https://github.com/epsylon/Smuggler
+https://github.com/skkucsl/d2fq
+https://github.com/ryanmrestivo/red-team
+https://github.com/ifreitas/brain
+https://github.com/PHPMailer/PHPMailer
+https://github.com/LineageOS/android_kernel_xiaomi_sm8250
+https://github.com/drnefischer/udacity
+https://github.com/GuaiYiHu/android_kernel_xiaomi_gauguin
+https://github.com/ictar/XIXI
+https://github.com/huomiaocode/SocketPacket
+https://github.com/autonomousvision/neat
+https://github.com/UtsavBalar1231/kernel_xiaomi_raphael
+https://github.com/HARAMIS14/AIML-Basic-College-Enquiry-Chatbot
+https://github.com/qboticslabs/ros_robotics_projects
+https://github.com/hisilicon/kernel-dev
+https://github.com/realme-kernel-opensource/realme6-kernel-source
+https://github.com/OnePlusOSS/android_kernel_msm-5.10_oneplus_sm8450
+https://github.com/hobson/udacity
+https://github.com/DOUBLE-Baller/movehouse
+https://github.com/kdrag0n/mainline_kernel_easel
+https://github.com/realme-kernel-opensource/realmeX2-kernel-source
+https://github.com/EricWiener/supreme-court-cases
+https://github.com/hidevopsio/hioak
+https://github.com/studygolang/studygolang
+https://github.com/xzncit/A3Mall
+https://github.com/MediaTek-Labs/common-kernel-4.19
+https://github.com/agentejo/cockpit
+https://github.com/hmcts/cmc-claim-store
+https://github.com/Hao-boyan/rock-pi-3-a-sdk
+https://github.com/trivialmips/linux-nontrivial-mips
+https://github.com/ivantcholakov/starter-public-edition-4
+https://github.com/endlessm/gnome-software
+https://github.com/Boshou/hmyk
+https://github.com/cmaxw/devchat-eleventy
+https://github.com/lukechopper/vanilla-php-no-framework-forgotten-pwd
+https://github.com/mlcclab/PyRAI2MD-hiam
+https://github.com/sparkslabs/kamaelia
+https://github.com/thechangelog/transcripts
+https://github.com/freeman1974/bcobs
+https://github.com/ErickG233/LMV600EA_Kernel
+https://github.com/fwupd/fwupd-efi
+https://github.com/NothingOSS/android_kernel_msm-5.4_nothing_sm7325
+https://github.com/mohammad92/android_kernel_samsung_exynos2100
+https://github.com/GrapheneOS/kernel_google_redbull
+https://github.com/sgtest/megarepo
+https://github.com/multipath-tcp/mptcp
+https://github.com/pulp/plugin_template
+https://github.com/vtess/IODA-SOSP21-AE
+https://github.com/LineageOS/android_kernel_samsung_exynos9820
+https://github.com/anhao/AL_Hitokoto
+https://github.com/oppo-source/Reno10X-RenoAce-10.0-kernel-source
+https://github.com/ianmacd/a71
+https://github.com/caf-ginkgo/kernel_msm-4.14
+https://github.com/chainGers-2021/nft-handler
+https://github.com/danos/linux-vyatta
+https://github.com/reddit/rpan-studio
+https://github.com/DependencyTrack/dependency-track
+https://github.com/xiaopangxia/aiml_cn
+https://github.com/alibaba/cloud-kernel
+https://github.com/reMarkable/linux
+https://github.com/openil/linux
+https://github.com/espressif/esp-rainmaker-android
+https://github.com/catalyst/moodle-MDL-70329
+https://github.com/hngi/Team_Asclepius_MinI_Class_Web
+https://github.com/GZR-Kernels/Optimus_Drunk_Surya
+https://github.com/gautamkrishnar/hatter
+https://github.com/bigsaltyfishes/kernel_lenovo_J607Z
+https://github.com/jprodrigues70/github-extractor
+https://github.com/F1xy-kernels/RAPHAEL_Kernel
+https://github.com/cyberknight777/nethunter_kernel_xiaomi_vayu
+https://github.com/OPAE/linux-dfl
+https://github.com/btiteam/xbtit-3.1
+https://github.com/realme-kernel-opensource/realmeGT_AndroidR-kernel-source
+https://github.com/paulovn/aiml-chatbot-kernel
+https://github.com/w940853815/weixin-robot
+https://github.com/sslab-gatech/SNAP
+https://github.com/chenhuacai/linux
+https://github.com/bnomei/kirby3-cloudconvert
+https://github.com/nangge/noneCms
+https://github.com/smfrench/smb3-kernel
+https://github.com/apromore/ApromoreCore
+https://github.com/xAbdaziz/android_kernel_xiaomi_vayu
+https://github.com/aimacode/aima-scala
+https://github.com/sfjro/aufs4-linux
+https://github.com/ideamark/roby-chatbot
+https://github.com/OpenRCT2/Localisation
+https://github.com/brillian32/APEX_yolov5_assist
+https://github.com/spdx/license-list-XML
+https://github.com/freak07/Kirisakura_OP7Pro_A11
+https://github.com/Kitesky/KiteCMS
+https://github.com/truenas/linux
+https://github.com/bm16ton/yoga-c630-linux-kernel
+https://github.com/johanlike/Experimental-OP6-6T-mainline-kernel
+https://github.com/stormbreaker-project/kernel_poco_citrus
+https://github.com/stakach/crystal-kernel
+https://github.com/iomad/iomad
+https://github.com/kaustubh03/amelia_2.0
+https://github.com/jrieke/traingenerator
+https://github.com/codingcyber/Invoice-Billing-Application-PHP
+https://github.com/pyiron/pyiron_atomistics
+https://github.com/geecp/geecp
+https://github.com/puarudz/WHMCS-7.8.0-decoded
+https://github.com/facebookresearch/metaseq
+https://github.com/zhovner/OneFileLinux
+https://github.com/yiliu1765/vfio-mdev-pci-sample-driver
+https://github.com/libre-computer-project/libretech-linux
+https://github.com/wikimedia/wikimedia-wikimania-scholarships
+https://github.com/techyminati/alps-r-4.14
+https://github.com/OpenVZ/vzkernel
+https://github.com/NoahVl/Explaining-In-Style-Reproducibility-Study
+https://github.com/JingLuo05/Chinese-ChatBot-AIML-Web.py
+https://github.com/kellyfire611/learning.nentang.vn
+https://github.com/lazarnarcis/chat
+https://github.com/liveuak/freenoom
+https://github.com/zhenduow/conversationalQA
+https://github.com/Yale-NeRD/mind
+https://github.com/pingcap/website
+https://github.com/ArtificialIntelligenceToolkit/conx-notebooks
+https://github.com/IBM/AIMMX
+https://github.com/sparkmxy/my-offlinerl
+https://github.com/engstk/op9
+https://github.com/pulp/pulp_deb
+https://github.com/NB-Core/lotgd
+https://github.com/YumeMichi/kernel_oneplus_sm8250
+https://github.com/aimhubio/aimrecords
+https://github.com/gplcc/gplcc
+https://github.com/codenside/chatbot
+https://github.com/bgoonz/docs-collection
+https://github.com/xdevs23/linux-nitrous
+https://github.com/oppo-source/android_kernel_oppo_sm8350
+https://github.com/EmanuelCN/kernel_xiaomi_sm8250
+https://github.com/dragondjf/QMarkdowner
+https://github.com/mgorlick/CRESTaceans
+https://github.com/GuaiYiHu/android_kernel_xiaomi_sm6150
+https://github.com/intel/idxd-driver
+https://github.com/lizhipay/acg-faka
+https://github.com/vantoman/kernel_xiaomi_sm6150
+https://github.com/espressif/esp-rainmaker
+https://github.com/isarojdahal/Everyday-Karma
+https://github.com/orangemiaw/Sinau.ID
+https://github.com/neverware/kernel
+https://github.com/mmellott/aiml-fb-chat
+https://github.com/friendica/friendica-addons
+https://github.com/hunterfoulk/Portfoliov3
+https://github.com/PixelExperience-Devices/kernel_xiaomi_raphael
+https://github.com/engstk/op8
+https://github.com/GNOME/gnome-power-manager
+https://github.com/etsy/etsy.github.com
+https://github.com/GetcharZp/tp6_online_judge
+https://github.com/zwhe99/WMT22-En-Liv
+https://github.com/joemarshall/pyodide-async
+https://github.com/Adaphath/kirby-column-settings
+https://github.com/sslab-gatech/libmpk
+https://github.com/YetiForceCompany/UpdatePackages
+https://github.com/marevol/linux-5.3-xps_13_2in1
+https://github.com/OnePlusOSS/android_kernel_oneplus_sm8350
+https://github.com/anisyanka/learn-embedded-linux
+https://github.com/buszk/Drifuzz
+https://github.com/SolidRun/linux-stable
+https://github.com/davejiang/linux
+https://github.com/facebookresearch/ParlAI
+https://github.com/epsylon/xsser
+https://github.com/epsylon/ufonet
+https://github.com/BPI-SINOVOIP/BPI-R2PRO-BSP
+https://github.com/xerpi/linux_vita
+https://github.com/acervenky/raphaelquax
+https://github.com/89anderson/Bikcraft
+https://github.com/SnowCore8/xiaomi_sm8350_venus
+https://github.com/RenderBroken/op7-kernel
+https://github.com/Claudye/larasymf
+https://github.com/sherlock-protocol/sherlock-v2-core
+https://github.com/SpaceExplorationTechnologies/starlink-wifi-gen2
+https://github.com/AravGarg/kernel-hacking
+https://github.com/Mudlet/Mudlet
+https://github.com/cortezfelipe/template-horizontal
+https://github.com/kharyam/litra-driver
+https://github.com/konradybcio/linux-apple
+https://github.com/bytedance/phoenix-kernel
+https://github.com/JeromeDevome/GRR
+https://github.com/tintinweb/smart-contract-sanctuary-avalanche
+https://github.com/ploigos/ploigos-step-runner
+https://github.com/Leo357449107/qsdk_cmiot-ax6
+https://github.com/Tencent/GameAISDK
+https://github.com/kutemeikito/android_kernel_xiaomi_ginkgo
+https://github.com/mathworks/xilinx-linux
+https://github.com/Earnings-Call-Dataset/MAEC-A-Multimodal-Aligned-Earnings-Conference-Call-Dataset-for-Financial-Risk-Prediction
+https://github.com/crdroidandroid/android_kernel_xiaomi_sm8150
+https://github.com/Demon000/kernel_xiaomi_sm8350
+https://github.com/LineageOS/android_kernel_oneplus_sm8150
+https://github.com/itchief/feedback-form
+https://github.com/BlackTimber-Labs/Portfolio-Website
+https://github.com/Tutorialwork/Tutorials
+https://github.com/JeanKaddour/lawa
+https://github.com/nikhilkumarsingh/NIKBOT
+https://github.com/hngi/HNGi7.0
+https://github.com/aimacode/aima-java
+https://github.com/alliedvision/linux_imx8_apalis
+https://github.com/saforem2/l2hmc-qcd
+https://github.com/ljrcore/LinuxSourceCode
+https://github.com/DerpFest-Devices/kernel_xiaomi_vayu
+https://github.com/barbarbar338/hammer-csgo-hack
+https://github.com/claudioscordino/rpi3-xenomai
+https://github.com/jonggyup/User-based-Scheduling
+https://github.com/theVakhovskeIsTaken/valve_linux_neptune
+https://github.com/thu-media/Zwei
+https://github.com/methusalah/alchemist
+https://github.com/RobertCNelson/linux-stable-rcn-ee
+https://github.com/android-rpi/kernel_arpi
+https://github.com/kristofpetho/kernel_oneplus_sm8250
+https://github.com/rafaello7/linux-nanopi-m3-v4.14
+https://github.com/pixelc-linux/linux
+https://github.com/LineageOS/android_kernel_xiaomi_sm6150
+https://github.com/ArrowOS-Devices/android_kernel_xiaomi_sweet
+https://github.com/nexB/scancode-licensedb
+https://github.com/topser9/kernel_samsung_Exynos9611
+https://github.com/mishamyrt/davinci-pancake-kernel
+https://github.com/AmpereComputing/ampere-centos-kernel
+https://github.com/ALittlePatate/Rainbow-v2
+https://github.com/ArrowOS-Devices/android_kernel_xiaomi_ginkgo
+https://github.com/intel/linux-intel-lts
+https://github.com/logicmoo/programk
+https://github.com/ztbcms/ztbcms
+https://github.com/LuLi0077/AI
+https://github.com/CoSMoSoftware/OBS-studio-webrtc
+https://github.com/facebook/openbmc-linux
+https://github.com/freewym/espresso
+https://github.com/defis-net/defis-network
+https://github.com/OpenCloudOS/OpenCloudOS-Kernel
+https://github.com/ingamedeo/orangepi3-h6-mainline
+https://github.com/Dav-ee/MPESA-INTERGRATIONS-PHP
+https://github.com/spdx/tools
+https://github.com/gregkh/commit_tree
+https://github.com/intel/uintr-linux-kernel
+https://github.com/sherlock-protocol/sherlock-v2-frontend
+https://github.com/chromi/sce
+https://github.com/SUSE/kernel
+https://github.com/trebleC/scholat
+https://github.com/masterking32/WoWSimpleRegistration
+https://github.com/csu/ALICEChatAPI
+https://github.com/HimavaanChandra/laserRobots
+https://github.com/neurospin/highres-cortex
+https://github.com/jstnhuang/chatbot
+https://github.com/lcatro/cve_diff_checker
+https://github.com/fyu1/linux
+https://github.com/slackero/phpwcms
+https://github.com/android-rpi/kernel_rpi
+https://github.com/louis-she/ai4code
+https://github.com/Embedfire/ebf-buster-linux
+https://github.com/dotOS-Devices/android_kernel_oneplus_instantnoodle
+https://github.com/xNombre/msm-4.14
+https://github.com/UMMS-Biocore/dolphinnext
+https://github.com/yuq/linux-lima
+https://github.com/kbandla/dpkt
+https://github.com/mindstellar/Osclass
+https://github.com/aimhubio/aim-spacy
+https://github.com/Cuperino/LEGO-EV3-Image-Scanner
+https://github.com/coderchintan/College-Information-Chatbot-Information
+https://github.com/sugarlabs/turtleart-activity
+https://github.com/ludwig-ai/ludwig
+https://github.com/OpenSplash/SplashBox-bot
+https://github.com/Grarak/android_kernel_samsung_a70q
+https://github.com/crdroidandroid/android_kernel_xiaomi_sm6150
+https://github.com/forslund/fallback-aiml
+https://github.com/Svirusx/Nethunter-Kernel-S20_FE_5G
+https://github.com/trsqr/media_tree
+https://github.com/MYiR-Dev/myir-imx-linux
+https://github.com/ClicShopping/ClicShopping_V3
+https://github.com/gfreewind/kernel_comment
+https://github.com/Jimbo77/Jimbok_common_sm8250-R
+https://github.com/Aboudjem/staking-platform-fixed-apy
+https://github.com/khhungg/BSSE-SE
+https://github.com/projects-nexus/nexus_kernel_xiaomi_lavender-4.19
+https://github.com/github/docs
+https://github.com/OE4T/linux-tegra-5.10
+https://github.com/diegoalejogm/AI-Nanodegree
+https://github.com/linuxkit/linux
+https://github.com/Luis4609/Chat-App
+https://github.com/EcrosoftXiao/kernel_xiaomi_mars
+https://github.com/dantrell/gentoo-overlay-dantrell-gnome
+https://github.com/mohammad92/android_kernel_samsung_r8q
+https://github.com/linuxdeepin/deepin-kernel
+https://github.com/King-Kernel/KingKernel-floral
+https://github.com/davitpapikyan/Probabilistic-Downscaling-of-Climate-Variables
+https://github.com/fffaraz/datasets
+https://github.com/pulp/pulp
+https://github.com/Algodev-github/bfq-mq
+https://github.com/linux-surface/kernel
+https://github.com/luolongfei/freenom
+https://github.com/realme-kernel-opensource/realmeX50Pro_AndroidR-kernel-source
+https://github.com/hcodebr/curso-completo-php-7
+https://github.com/Linaro/linux-kernel-uadk
+https://github.com/jiangqn/aspect_extraction
+https://github.com/Avnet/smartedge-iiot-gateway
+https://github.com/PixelExperience-Devices/kernel_xiaomi_cepheus
+https://github.com/bc6/Paraplegic-Hank-Drake
+https://github.com/cdgco/VestaWebInterface
+https://github.com/wrwetzel/Birdland
+https://github.com/jnode-revisited/jnode
+https://github.com/STAMP-project/dspot-experiments
+https://github.com/omergunal/hackerbot
+https://github.com/YakumoPANTS/Oneplus7P_Kernel_CheeN
+https://github.com/realme-kernel-opensource/realme_GTneo2-X50pro-GTMasterExploratory-AndroidS-kernel-source
+https://github.com/stefan-rz/udacity-aind
+https://github.com/rapier1/web10g
+https://github.com/Orange-OpenSource/SNAPPY
+https://github.com/bgoonz/UsefulResourceRepo3.0
+https://github.com/tesla59/hydra_kernel
+https://github.com/hj91/PyAIML-XMPP-Chat-Bot
+https://github.com/felix-fly/qsdk-11
+https://github.com/OnePlusOSS/android_kernel_oneplus_sm8150
+https://github.com/dreamsavior/yojet-server
+https://github.com/flto/linux
+https://github.com/WireGuard/wireguard-linux
+https://github.com/mohammad92/android_kernel_samsung_sm8450
+https://github.com/RedHatGov/fips-compliant-vault
+https://github.com/omermaksutii/Olux-Shop-Script-V2.0
+https://github.com/Consti10/rv1126
+https://github.com/madhavajay/nd889
+https://github.com/nyx-fuzz/KVM-Nyx
+https://github.com/csl-ajou/AutoTiering
+https://github.com/ciccionamente/WeExpire
+https://github.com/okta-10/mystic_kernel_sdm660-4.19
+https://github.com/Re4son/re4son-linux
+https://github.com/spdx/Spdx-Java-Library
+https://github.com/udacity/artificial-intelligence
+https://github.com/Fliw/TelagaNursery
+https://github.com/exex4/xx4-bfv-aimassist
+https://github.com/pundiramit/linux
+https://github.com/intel/gvt-linux
+https://github.com/flar2/OnePlus-Nord
+https://github.com/oppo-source/A9-2020-9.0-A5-2020-9.0-kernel-source
+https://github.com/populse/populse_mia
+https://github.com/XBurst/Linux-XBurst
+https://github.com/GalliumOS/linux
+https://github.com/hozh3497/CardKnowEdge
+https://github.com/UMIDIGI-Official/UMIDIGI-BISON-Pro-Kernel
+https://github.com/MiyooCFW/kernel
+https://github.com/Atom-X-Devs/android_kernel_xiaomi_sm7325
+https://github.com/FiveMods/fivemods.net
+https://github.com/semplon/GeniXCMS
+https://github.com/jameskdev/android_kernel_samsung_a21s-common
+https://github.com/XayahSuSuSu/android_kernel_xiaomi_cas
+https://github.com/qinggan/phpok
+https://github.com/anilibria/anilibria
+https://github.com/codingcyber/Simple-Login-Portal
+https://github.com/onlyliuxin/coding2017
+https://github.com/jianzfb/antgo
+https://github.com/thinkcmf/thinkcmf
+https://github.com/NJU-TJL/OpenMP-MPI_Labs
+https://github.com/smartsolucoesgo/sendMyZap
+https://github.com/LineageOS/android_kernel_google_redbull
+https://github.com/GeoscienceAustralia/PF3D
+https://github.com/ESOS-Lab/IPLFS
+https://github.com/ztemt/NX659J_Q_kernel
+https://github.com/cl2089/etherscan-contract-crawler
+https://github.com/RezaT4795/WSLackware-kernel
+https://github.com/youling257/android-mainline
+https://github.com/F1xy-kernels/file_blocker
+https://github.com/GeorgesStavracas/obs-gtk
+https://github.com/ShaojieJiang/tldr
+https://github.com/glerm/yupana
+https://github.com/T-head-Semi/linux
+https://github.com/YannickStruempler/inr_based_compression
+https://github.com/ysarch-lab/nimble_page_management_asplos_2019
+https://github.com/kaivalya98/hacktoberfest2022
+https://github.com/fwber-code/fwber
+https://github.com/smeso/sara
+https://github.com/jonggyup/F2FS_NVRAM_GC-ICCE_SW
+https://github.com/wadiehabib/kernel_xiaomi_raphael
+https://github.com/Klozz/android_kernel_xiaomi_sm6250
+https://github.com/tobiasjakobi/linux-odroid-public
+https://github.com/maemo-leste/droid4-linux
+https://github.com/zhoukejun/linux-4.14.xxx-phytium-soc-ft2000plus
+https://github.com/multipath-tcp/mptcp_net-next
+https://github.com/bipinsai/ChatBot-Buy-Sell-BPHC
+https://github.com/HK4567/android_kernel_lenovo_sm7150
+https://github.com/Evolution-X-Devices/kernel_xiaomi_raphael
+https://github.com/RedmiNote10S/android_kernel_redmi_rosemary
+https://github.com/shiavault/shiavault-library
+https://github.com/JiaHeng-DLUT/Webshell-samples
+https://github.com/davidgoy/reflect
+https://github.com/Redmi-MT6768/android_kernel_xiaomi_mt6768
+https://github.com/wepiotrek/WSL2-Linux-Kernel-Updated
+https://github.com/Hadenix/kernel_umidigi_f2_mt6771_4.14
+https://github.com/RLBot/RLBotPack
+https://github.com/egoist/random-anime-wallpapers
+https://github.com/hobson/coursera
+https://github.com/freedesktop/drm-misc
+https://github.com/ivanfilho21/PHP_Tests
+https://github.com/irisliucy/Short-text-Classification
+https://github.com/wloot/raphael
+https://github.com/whatawurst/android_kernel_samsung_exynos9820
+https://github.com/divblox/divblox
+https://github.com/uw-advanced-robotics/aruw-vision-platform-2019
+https://github.com/frank-w/BPI-R2-4.14
+https://github.com/OpenChannelSSD/linux
+https://github.com/pulp/pulp_container
+https://github.com/felix-fly/qsdk-12
+https://github.com/ronaldeddings/AIND-Planning
+https://github.com/RaphielGang/android_kernel_oneplus_sm8150
+https://github.com/dentproject/dentOS
+https://github.com/ArtificialIntelligenceToolkit/aima3
+https://github.com/CityOfZion/neo-privatenet-docker
+https://github.com/geiti94/android_kernel_samsung_universal990
+https://github.com/tecnickcom/tcexam
+https://github.com/orangepi-xunlong/linux-orangepi
+https://github.com/alandsilva26/hotel-management-php
+https://github.com/BPI-SINOVOIP/BPI-Mainline-kernel
+https://github.com/suphiyasin/instagram-advanced-user-finder
+https://github.com/uditkarode/epsilon
+https://github.com/cchalpha/linux-gc
+https://github.com/demisto/content
+https://github.com/AcceleratedLinux/accelerated-linux
+https://github.com/keshavsingh4522/hacktoberfest2021
+https://github.com/westerndigitalcorporation/RISC-V-Linux
+https://github.com/debajyotiguha11/HelpDesk
+https://github.com/epsylon/DiaNA
+https://github.com/intel-gpu/kernel
+https://github.com/alk3p/msm-4.14
+https://github.com/SRouting/SERA
+https://github.com/kimsan0622/anonymous_kowow
+https://github.com/zhaosheng-pan/dotfiles
+https://github.com/alberteije/T2Ti-Pegasus-PDV
+https://github.com/psavine42/fun-with-dnc
+https://github.com/OnePlusOSS/android_kernel_oneplus_mt6893
+https://github.com/Decalogue/aiml3
+https://github.com/epsylon/cintruder
+https://github.com/mumbai19/team-5
+https://github.com/wbg-bigdata/projectratingsml
+https://github.com/duoergun0729/2book
+https://github.com/mpe/linux-fullhistory
+https://github.com/acuicultor/RadioactiveKernel_Raviole
+https://github.com/Siflower/1806_SDK
+https://github.com/bloftin/rbots
+https://github.com/xanmod/linux
+https://github.com/KONA-DEVS/kernel_xiaomi_sm8250
+https://github.com/Darshansol9/News_Articles_Sentiment_Analysis
+https://github.com/MaharaProject/mahara
+https://github.com/JammerCore/JammerCore
+https://github.com/chaldeaprjkt/kernel_xiaomi_vayu
+https://github.com/LineageOS/android_kernel_oneplus_sm8250
+https://github.com/BMRTP/smartcleaner
+https://github.com/karthik558/CAF-5.4-sm6150
+https://github.com/gxchain/docs
+https://github.com/sjllls/android_kernel_sony_sm6125
+https://github.com/ackul/CrimeCheck
+https://github.com/hughsie/libgusb
+https://github.com/maysrp/topdf
+https://github.com/ivantcholakov/codeigniter-restserver-test
+https://github.com/ArrowOS-Devices/android_kernel_xiaomi_sm6250
+https://github.com/konradybcio/linux
+https://github.com/bcm-kona-mainline/linux
+https://github.com/tytydraco/android_kernel_oneplus_sm8150
+https://github.com/Gamer08YT/Hostinger
+https://github.com/osuuu/LightPicture
+https://github.com/causefx/Organizr
+https://github.com/dathalongbay/t3h.12.2020
+https://github.com/HaleyLeoZhang/blog_v3
+https://github.com/Laulan56/android_kernel_xiaomi_sm8250
+https://github.com/r-vmm/R-VMM
+https://github.com/dogtagpki/pki
+https://github.com/projectestac/odissea
+https://github.com/kristofpetho/kernel_oneplus_sm8350
+https://github.com/jcmvbkbc/linux-xtensa
+https://github.com/microsoft/CBL-Mariner-Linux-Kernel
+https://github.com/gnufs/aima-java
+https://github.com/kholk/kernel-upstream
+https://github.com/moeabdol/mobot
+https://github.com/AlexR1712/Sarabot
+https://github.com/axel584/ikurso
+https://github.com/Cockpit-HQ/Cockpit
+https://github.com/MiSTer-devel/Linux-Kernel_MiSTer
+https://github.com/RealLiuSha/WechatEnterpriseApi
+https://github.com/SYMMKA/sih2020
+https://github.com/Luan1Schons/Fast-Micro-Framework
+https://github.com/sarthakroy2002/kernel_realme_RMX2020
+https://github.com/Sreyas-Sreelal/samp-ai-chatbot
+https://github.com/corpnewt/CorpBot.py
+https://github.com/trisolaris-labs/trisolaris_core
+https://github.com/HL7-DaVinci/prior-auth
+https://github.com/alfonsodg/sboty
+https://github.com/sunlizhuang/ChinaNews_classifier_task
+https://github.com/Tencent/TencentOS-kernel
+https://github.com/fedeizzo/camera-pose-estimation
+https://github.com/1847123212/SUDA_F1C100S
+https://github.com/flar2/OnePlus8
+https://github.com/pulp/pulp_rpm
+https://github.com/hanwckf/linux-marvell
+https://github.com/fwupd/fwupd
+https://github.com/AOSPA/android_kernel_xiaomi_ginkgo
+https://github.com/thinksaas/ThinkSAAS
+https://github.com/corsicanu/android_kernel_samsung_universal9820
+https://github.com/realme-kernel-opensource/realme-GTmaster_Q3s_9-5G-Speed-AndroidR-kernel-source
+https://github.com/aalto-ui/aim
+https://github.com/Code-Break0/SecureAuthSystem
+https://github.com/taoser/TaoLer
+https://github.com/moodleworkplace/multitenancy
+https://github.com/ivam3/i-Haklab
+https://github.com/tintinweb/smart-contract-sanctuary-polygon
+https://github.com/textpattern/textpattern
+https://github.com/ocadotechnology/aimmo
+https://github.com/bjverde/formDin
+https://github.com/huayuguo/stm32h743-linux-eth-usb
+https://github.com/CiscoDevNet/MUD-URL-Validator
+https://github.com/ztemt/NX627J_P_kernel
+https://github.com/avshatalov48/bitrix24-core-corp
+https://github.com/tintinweb/smart-contract-sanctuary-bsc
+https://github.com/bejar/AIMAexample
+https://github.com/aimhubio/tutorials
+https://github.com/realme-kernel-opensource/realmeX50pro_AndroidQ-kernel-source
+https://github.com/sohelamin/chatbot
+https://github.com/Kyvangka1610/android_kernel_xiaomi_ginkgo
+https://github.com/kdrag0n/proton_kernel_redbull
+https://github.com/Omegaice/WOTDecompiled
+https://github.com/synereo/synereo
+https://github.com/kerneltoast/simple_lmk
+https://github.com/idreamsoft/iCMS
+https://github.com/bluez/bluetooth-next
+https://github.com/Laulan56/android_kernel_xiaomi_sm8150
+https://github.com/wuzhe/wumpusworld
+https://github.com/realme-kernel-opensource/realme_C3_C3i_6i_7i__Narzo_10_10A_20_30A__AndroidR-kernel-source
+https://github.com/mahajant99/kernel_xiaomi_surya
+https://github.com/MyeongjaeJang/CS574_termproject_dataset
+https://github.com/rama982/kernel_xiaomi_rosemary
+https://github.com/tasdikrahman/spamfilter
+https://github.com/cao-zha/caozha-order
+https://github.com/iamroot16a/study
+https://github.com/rockchip-toybrick/edge
+https://github.com/epsylon/fuzzssh
+https://github.com/fsociety-tribute/barbet
+https://github.com/Di-Is/stylegan2-ada-pytorch
+https://github.com/andrey-kudinov/nyuta
+https://github.com/miaogecm/FlatFS
+https://github.com/pyhrf/pyhrf
+https://github.com/huggingface/accelerate
+https://github.com/KhoomeiK/MindMapResearch
+https://github.com/shaeferd/Phishing-Detection
+https://github.com/cdwfs/pyaiml
+https://github.com/zencart/zencart
+https://github.com/brianwc/bulk_scotus
+https://github.com/altera-opensource/linux-socfpga
+https://github.com/DanielOgorchock/linux
+https://github.com/kdrag0n/linux-m1
+https://github.com/Assassinumz/Animus
+https://github.com/gdk8/kernel
+https://github.com/hughsie/appstream-glib
+https://github.com/pluxml/PluXml
+https://github.com/stephenrawson/udacity-ai-nanodegree
+https://github.com/beagleboard/linux
+https://github.com/andikleen/linux-misc
+https://github.com/koverstreet/bcachefs
+https://github.com/cdgco/HestiaWebInterface
+https://github.com/celtare21/kernel_xiaomi_ginkgo
+https://github.com/mt6893/android_kernel_xiaomi_mt6893
+https://github.com/ChristeZeng/os21fall
+https://github.com/jwise/naim
+https://github.com/Consti10/rv1126_ohd_sushi
+https://github.com/hedayati/hodor
+https://github.com/maurossi/linux
+https://github.com/jjrom/resto
+https://github.com/Positron-B/linux
+https://github.com/geoschem/gchp_legacy
+https://github.com/mess42/pyrate
+https://github.com/HyperTeam/android_kernel_realme_sm8150
+https://github.com/antiagainst/SM-G991B
+https://github.com/farisc0de/Uploady
+https://github.com/DevDungeon/Cookbook
+https://github.com/OpenTermsArchive/contrib-versions
+https://github.com/pemagrg1/Easy-Chatbot
+https://github.com/walkerdb/supreme_court_transcripts
+https://github.com/iguy0/PS4Linux-Kernel
+https://github.com/realme-kernel-opensource/realme-GTmaster-AndroidS-kernel-source
+https://github.com/xs25cn/apim
+https://github.com/ARM-software/arm-trusted-firmware
+https://github.com/figozhang/linux-5.0-kdump
+https://github.com/charlesluo1/udacity
+https://github.com/huchunxu/ros_exploring
+https://github.com/jaegeuk/f2fs
+https://github.com/bgoonz/python-scripts
+https://github.com/WanyueKJ/wanyue_dangjian
+https://github.com/wweverma1/tfps-equipments-manager
+https://github.com/omnirom/android_kernel_oneplus_sm8150
+https://github.com/ProjectNu11/PN-Plugins
+https://github.com/microsoft/etcd3
+https://github.com/intel/mOS
+https://github.com/cortezfelipe/adianti-docker
+https://github.com/bgoonz/UsefulResourceRepo2.0
+https://github.com/thinkcmf/mall
+https://github.com/BPI-SINOVOIP/BPI-Mainline-uboot
+https://github.com/jeffschecter/storygames
+https://github.com/karthik558/MsM-4.14-K2-141b
+https://github.com/oskarnatan/end-to-end-driving
+https://github.com/hexagon-geo-surv/linux-leica
+https://github.com/Freecey/Bulletin-Board-Project
+https://github.com/XboxDev/xbox-linux
+https://github.com/utsaslab/winefs
+https://github.com/pradipkumarraushan/How-to-track-email-open-or-not-using-php-and-PHPMailer
+https://github.com/mbgg/linux-mediatek
+https://github.com/NutterChen/VPAY
+https://github.com/stormbreaker-project/kernel_xiaomi_lavender_4.19
+https://github.com/pulp/pulp_docker
+https://github.com/zhengrui315/Udacity-AIND-Classical-Planning
+https://github.com/cslab-ntua/contiguity-isca2020
+https://github.com/sld/convai-bot-1337
+https://github.com/tup-robomaster/TUP-InfantryVision-2022
+https://github.com/JerryRain/rosexplore_ws
+https://github.com/mohammad92/android_kernel_samsung_sm8350
+https://github.com/Jebaitedneko/android_kernel_xiaomi_vayu
+https://github.com/sayaliipawar/Online-Gift-store-Website
+https://github.com/4dboard/proxy-yxorp
+https://github.com/Kenneth-Lee/linux-kernel-warpdrive
+https://github.com/nbd168/wireless
+https://github.com/caninos-loucos/labrador-aarch64-linux-4
+https://github.com/glFusion/glfusion
+https://github.com/google/ghost-kernel
+https://github.com/fail0verflow/switch-linux
+https://github.com/DimopoulosElias/CIExtender
+https://github.com/benleim/huff-merkle
+https://github.com/erstrom/linux-ath
+https://github.com/EndCredits/android_kernel_xiaomi_sm7250
+https://github.com/linux-okernel/linux-okernel
+https://github.com/yaap/kernel_oneplus_sm8150
+https://github.com/alexcmd/eve
+https://github.com/fsociety-tribute/sunfish
+https://github.com/xiaomi-sm8250-devs/android_kernel_xiaomi_sm8250
+https://github.com/encorehu/django-buddy
+https://github.com/waterbear-cloud/paco
+https://github.com/tingyuu/vaeThink2
+https://github.com/chloelee1230/nlp_ranking
+https://github.com/Curtis-L/autoseed
+https://github.com/paragajg/DSB7
+https://github.com/PixelExperience-Devices/kernel_xiaomi_begonia
+https://github.com/atmel-maxtouch/maXTouch_linux
+https://github.com/GSA/GSA-Acquisition-FAR
+https://github.com/avinash201199/Portfolio-Collection
+https://github.com/JesseWeinstein/sourceforge-items-cache
+https://github.com/runninglinuxkernel/runninglinuxkernel_5.15
+https://github.com/CSL-KU/riscv-linux
+https://github.com/Demon000/kernel_xiaomi_sm6250
+https://github.com/Miffyli/gan-aimbots
+https://github.com/NUWiNS/ROGII_MPTCP
+https://github.com/PixelExperience-Devices/kernel_xiaomi_haydn
+https://github.com/oppo-source/FindX2
+https://github.com/jumorap/Chatbot_facebook_blenderbot
+https://github.com/ArtificialIntelligenceToolkit/aiml
+https://github.com/RafaelCapo/backup_mysql_via_php
+https://github.com/smallpotato000/linux-phytium
+https://github.com/eerimoq/monolinux-raspberry-pi-3
+https://github.com/uf-cise-os/reptilian-kernel
+https://github.com/Fr4ncisTaylor/Timotty
+https://github.com/oppo-source/android_kernel_5.10_oppo_mt6983
+https://github.com/patcorwin/fossil
+https://github.com/songziming/wheel
+https://github.com/clojure-interop/aws-api
+https://github.com/blankaf/hasty_instantnoodle
+https://github.com/monome/linux
+https://github.com/Kaz205/renoir
+https://github.com/SnakeHacker/QA-Snake
+https://github.com/mariavila/FIB-IA
+https://github.com/pulp/crane
+https://github.com/thomasweng15/E.V.E.
+https://github.com/OpenMPDK/SMDK
+https://github.com/AOSiP-Devices/kernel_oneplus_sm8150
+https://github.com/jonggyup/Anti-aging
+https://github.com/fread-ink/linux-4.19.37-kindle4
+https://github.com/juiceRv/kernel_juicevm_port
+https://github.com/mit-ll/galeed
+https://github.com/Sekilsgs2/i9100_kernel_mainline_port
+https://github.com/kookmin-sw/capstone-2022-15
+https://github.com/whyredfire/android_kernel_xiaomi_ginkgo
+https://github.com/Mondego/pyreco
+https://github.com/Broadcom/arm64-linux
+https://github.com/houqp/pyh3c
+https://github.com/PackageKit/PackageKit
+https://github.com/Qortal/Brooklyn
+https://github.com/realme-kernel-opensource/realme5i-kernel-source
+https://github.com/bytedance/kernel
+https://github.com/redaxo/redaxo
+https://github.com/CruelKernel/samsung-exynos9820
+https://github.com/silont-project/kernel_xiaomi_vayu
+https://github.com/seth127/DSI-Religion-2017
+https://github.com/tsuzcx/qq_apk
+https://github.com/gregkh/linux
+https://github.com/AgentFabulous/begonia
+https://github.com/ansible/galaxy_ng
+https://github.com/pr0fessi0nal/Blacknet-Http-v3.7
+https://github.com/opencsd/csd-filesystem
+https://github.com/argonne-lcf/molan
+https://github.com/zencartpro/zencart-german-grundsystem
+https://github.com/LuanHalaiko/kernel_raphael_sm8150
+https://github.com/LineageOS/android_kernel_xiaomi_sm8150
+https://github.com/jonmason/ntb
+https://github.com/PacktPublishing/Machine-Learning-for-OpenCV-Advanced-Methods-and-Deep-Learning
+https://github.com/kerneltoast/kernel_x86_laptop
+https://github.com/rainsun007/dyphpframework
+https://github.com/avshatalov48/bitrix-core-business
+https://github.com/moto-sm7250/android_kernel_motorola_sm7250
+https://github.com/creatorrr/pyAIML
+https://github.com/stormbreaker-project/kernel_xiaomi_ginkgo
+https://github.com/epsylon/Neuralia
+https://github.com/ivanmeler/android_kernel_samsung_beyondlte
+https://github.com/chethangn/ChatbotAIML
+https://github.com/realme-kernel-opensource/realmeX2Pro-kernel-source
+https://github.com/mohammad92/android_kernel_samsung_sm8250
+https://github.com/loongson-community/linux-stable
+https://github.com/WWBN/AVideo
+https://github.com/codeaurora-unofficial/linux-msm
+https://github.com/CovenantJunior/paystack-banklist-api
+https://github.com/sparkslabs/kamaelia_
+https://github.com/OdSazib/kernel_xiaomi_sdm660
+https://github.com/openSUSE/kernel
+https://github.com/noironetworks/aci-integration-module
+https://github.com/QtForQT/imx280_zlg
+https://github.com/floydwiz-tech/android_kernel_common
+https://github.com/sslab-gatech/lkl-hydra
+https://github.com/abuzreq/ConstrainedGraphPartitioning
+https://github.com/Gutemberg234/origamid-courses
+https://github.com/EcrosoftXiao/kernel_xiaomi_cepheus
+https://github.com/CiscoDevNet/intersight-powershell
+https://github.com/AudiusProject/audius-k8s-manifests
+https://github.com/facebookresearch/fairseq
+https://github.com/WUSTL-CSPL/RT-TEE
+https://github.com/polixir/OfflineRL
+https://github.com/DeFacto/DeFactoNLP
+https://github.com/enricoaquilina/text-summmariser
+https://github.com/SymbolicPathFinder/jpf-symbc
+https://github.com/Kingzhoudk/JLing
+https://github.com/westerndigitalcorporation/dm-zap
+https://github.com/LineageOS/android_kernel_xiaomi_sm6250
+https://github.com/jnode/jnode
+https://github.com/ntrippar/ARPwner
+https://github.com/eenot/afile
+https://github.com/sjankin/lancet
+https://github.com/arter97/android_kernel_oneplus_sm8350
+https://github.com/mjhoptics/ray-optics
+https://github.com/caninos-loucos/labrador-armhf-linux-4
+https://github.com/grate-driver/linux
+https://github.com/cschaufler/lsm-stacking
+https://github.com/cnabio/cnab-go
+https://github.com/chili-epfl/Trend-Detection
+https://github.com/lizhipay/faka
+https://github.com/tinkoff-ai/eop
+https://github.com/WBCE/WBCE_CMS
+https://github.com/kiahamedi/JELVIS
+https://github.com/applicationskeleton/Skeleton
+https://github.com/wildfly/wildfly-core
+https://github.com/philferriere/aind-projects
+https://github.com/MRwangmaomao/VSLAM
+https://github.com/Adobee/ACS
+https://github.com/lfucg/lexingtonky.gov
+https://github.com/giseldo/chatbot_BTA_BPMN_to_AIML
+https://github.com/nakixii/android_kernel_gki_5.10
+https://github.com/lamba92/bayesian-net-project
+https://github.com/aimhubio/aim
+https://github.com/openpvrsgx-devgroup/linux_openpvrsgx
+https://github.com/marvelwilson/php-ecommerce
+https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB
+https://github.com/4shen/webshell
+https://github.com/Re4son/android_kernel_oneplus_sm8150
+https://github.com/gnoliyil/pr2_kinetic_packages
+https://github.com/RKX1209/kmemlearn
+https://github.com/yyu168/linux_cet
+https://github.com/ocadotechnology/codeforlife-portal
+https://github.com/lazerl0rd/tryme_redbull
+https://github.com/uoftsystems/dm-inject
+https://github.com/himanshug/aima-scala
+https://github.com/whomonugiri/social-media-website-with-admin-panel
+https://github.com/lentinjoseph/Social-Robot
+https://github.com/PacktPublishing/Automate-it
+https://github.com/dsrw/enu
+https://github.com/combo-tw/LinuxBookClub
+https://github.com/Neternels/android_kernel_xiaomi_mojito
+https://github.com/TheVoyager0777/Kernel_Xiaomi_sm8250_S
+https://github.com/ict-bigdatalab/CorpusBrain
+https://github.com/GZR-Kernels/Optimus_Drunk_Citrus
+https://github.com/vtess/LeapIO
+https://github.com/arter97/android_kernel_oneplus_sm8150
+https://github.com/Penglai-Enclave/Penglai-Enclave-sPMP
+https://github.com/sslab-gatech/janus
+https://github.com/dirumahrafif/website-company-profile
+https://github.com/hanwckf/linux-hi3798c
+https://github.com/torvalds/linux
+https://github.com/realme-kernel-opensource/realme6_6s_6i_7__nazro_30_20Pro__AndroidR-kernel-source
+https://github.com/b1ad3runn3r/drag-kernel-t975
+https://github.com/EyesOfNetworkCommunity/eonweb
+https://github.com/polixir/NeoRL
+https://github.com/jevinskie/riscv-smol-linux-kernel
+https://github.com/cisco-system-traffic-generator/trex-core
+https://github.com/gluster/glusterfs
+https://github.com/ctuning/ck-ml
+https://github.com/mangospot-net/MangoSpot
+https://github.com/maxhbr/LDBcollector
+https://github.com/neurospin/unicog
+https://github.com/pepiuox/PHP-GrapesJS
+https://github.com/Taeung/linux
+https://github.com/qql-art/contracts
+https://github.com/atrinik/atrinik
+https://github.com/newkin1996/xssPlatform
+https://github.com/MerseniBilel/FoodZone
+https://github.com/USC-NSL/policing-detection
+https://github.com/engstk/pxl4a
+https://github.com/WebOfTrustInfo/rwot8-barcelona
+https://github.com/Pierre2324/NGK_android_kernel_xiaomi_sm8150
+https://github.com/lucidrains/stylegan2-pytorch
+https://github.com/4iz278/cviceni
+https://github.com/bennyekop/SMTPphpMailerCITemplate
+https://github.com/EthVM/evm-source-verification
+https://github.com/luyishisi/The_python_code
+https://github.com/HELLBOY017/kernel_oneplus_sm8250
+https://github.com/wb-ts/i4vision-de
+https://github.com/AmeChanRain/MikuUI_kernel_xiaomi_violet
+https://github.com/usma-eecs/cs486
+https://github.com/pulp/devel
+https://github.com/ssrg-vt/popcorn-kernel
+https://github.com/xamzone/tmfcbtakm
+https://github.com/timoschick/form-context-model
+https://github.com/aniruddhadave/Udacity-AI-Nanodegree
+https://github.com/tanhongit/new-mvc-shop
+https://github.com/unaio/una
+https://github.com/MichaelMakesGames/reflector
+https://github.com/TribalSystems/Zenario
+https://github.com/SFIP/SFIP
+https://github.com/YC-wind/Dialogue_System_DEMO
+https://github.com/LineageOS/android_kernel_xiaomi_sm6125
+https://github.com/segment-routing/srv6
+https://github.com/open-hand/devops-service
+https://github.com/freeza-inc/bm-galaxy-s20-ultra-snap-r
+https://github.com/thayes46/aimi
+https://github.com/WanyueKJ/Wanyue-knowledge-payment
+https://github.com/celtare21/kernel_google_coral
+https://github.com/cmd05/Luminosity
+https://github.com/nexB/scancode-toolkit
+https://github.com/ASH1998/THE-BOT
+https://github.com/strongtz/linux-sprd
+https://github.com/edk2-porting/linux-snapdragon
+https://github.com/chenhuacai/linux-ulek
+https://github.com/DaneWang9513/BFV_RADAR-AIMBOT
+https://github.com/mogroupumd/aimd
+https://github.com/ltb-project/self-service-password
+https://github.com/realme-kernel-opensource/realmeX2_AndroidQ-kernel-source
+https://github.com/arter97/caf_msm-4.19
+https://github.com/scientist3/mcanc2020
+https://github.com/cosmos-developer/baby
+https://github.com/PopcornComputer/PocketPC-Linux
+https://github.com/oslab-ewha/ULV
+https://github.com/PacktPublishing/ROS-Robotics-Projects
+https://github.com/ev3dev/ev3-kernel
+https://github.com/codershiyar/php
+https://github.com/DKU-Embedded-Lab/Linux-Kernel-Study
+https://github.com/My-Personal-HUB/AI_Jarvis
+https://github.com/ohidurbappy/ScriptKiddy
+https://github.com/itflow-org/itflow
+https://github.com/googlestadia/kernel
+https://github.com/MasterBC/tlsj
+https://github.com/uforia/Uforia
+https://github.com/deengames/a-day-and-a-night
+https://github.com/epsylon/paranoia-browser
+https://github.com/frappe/vidya
+https://github.com/vinhqdang/wikipedia_analysis
+https://github.com/Fliw/Fliw.github.io-lama
+https://github.com/FedericoPecora/coordination_oru
+https://github.com/flame-code/FLAME
+https://github.com/espressif/esp-rainmaker-ios
+https://github.com/elpimous/Neo_robot
+https://github.com/infstellar/genshin_impact_assistant
+https://github.com/zclkkk/kernel_xiaomi_sm8150
+https://github.com/DevriesL/Coral_ImageBreaker
+https://github.com/bartcubbins/kernel_kanuti_mainline
+https://github.com/realme-kernel-opensource/realmeC3-narzo10A-narzo10-6i-kernel-source
+https://github.com/yannicnoller/hydiff
+https://github.com/renoir-development/android_kernel_xiaomi_sm8350
+https://github.com/matomo-org/matomo-for-wordpress
+https://github.com/telekom/mp-dccp
+https://github.com/sylab/multi-clock
+https://github.com/tbelliard/gepi
+https://github.com/reversi-fun/license_doc_similality1
+https://github.com/cambridgeltl/python4cl
+https://github.com/webkul-ratnesh/opensource-api-documentation-tool
+https://github.com/xdp-project/bpf-next
+https://github.com/Atom-X-Devs/android_kernel_xiaomi_scarlet
+https://github.com/cyberknight777/caf_msm-4.14
+https://github.com/WanyueKJ/Education-online
+https://github.com/Ewenwan/Ros
+https://github.com/yesinteractive/restful_relay
+https://github.com/Who8MyLunch/Ping_Sweep
+https://github.com/PixelPlusUI-Devices/kernel_xiaomi_sm8250
+https://github.com/HertzDevil/feh-assets-json
+https://github.com/Panchajanya1999/msm-4.14
+https://github.com/evenorog/license
+https://github.com/cyberknight777/dragonheart_kernel_oneplus_sm8150
+https://github.com/Shockingly-Secure-Studio/Shockingly-Efficient-Csharp-Utility
+https://github.com/FedericoPecora/meta-csp-framework
+https://github.com/foxhoundsk/FlexSC
+https://github.com/mit-ll/HAKC
+https://github.com/ctboughter/AIMS
+https://github.com/pureisle/MicroMVC
+https://github.com/sinkap/linux-krsi
+https://github.com/cambridge-cares/TheWorldAvatar
+https://github.com/clem1/segvault
+https://github.com/debugger22/Jarvis
+https://github.com/silont-project/kernel_xiaomi_surya
+https://github.com/oppo-source/F17_A73_A53
+https://github.com/freak07/OP7PRO
+https://github.com/mlcommons/inference_results_v1.0
+https://github.com/php-kchat/kchat
+https://github.com/TechNexion/linux-tn-imx
+https://github.com/alephsecurity/kvm
+https://github.com/subjectsplus/SubjectsPlus
+https://github.com/tintinweb/smart-contract-sanctuary-ethereum
+https://github.com/rvboards/linux_kernel_for_d1
+https://github.com/orsonteodoro/oiledmachine-overlay
+https://github.com/sbates130272/linux-p2pmem
+https://github.com/Caesar-s1mple/csgo-yolov5-6.2
+https://github.com/aimhubio/aimrocks
+https://github.com/test-network-function/cnf-certification-test
+https://github.com/chenjiacheng/openbms
+https://github.com/Anterotesis/historical-texts
+https://github.com/Merrick28/delain
+https://github.com/ihsn/nada
+https://github.com/opencomputeproject/HWMgmt-MegaRAC-OpenEdition
+https://github.com/cyberknight777/linux-dragonheart
+https://github.com/MarvellEmbeddedProcessors/mainline-public
+https://github.com/eerimoq/monolinux-example-project
+https://github.com/finos/waltz
+https://github.com/flatCore/flatCore-CMS
+https://github.com/mailcow/mailcow-dockerized
+https://github.com/humenda/rustl4re
+https://github.com/ibrahim4529/flask-chatbot
+https://github.com/api-equipe-5/Projeto_Integrador
+https://github.com/DanielProjectJourney/AI_NanoDegree_Udacity
+https://github.com/LucasIankowski/T2LabSisop
+https://github.com/engstk/pxl6
+https://github.com/vu-aml/adlib
+https://github.com/g8a9/ear
+https://github.com/ShivaGuntuku/simpleChatBot
+https://github.com/planet-com/astro-kernel
+https://github.com/hastagAB/Awesome-Python-Scripts
+https://github.com/alixaxel/dump.HN
+https://github.com/romankempt/aimstools
+https://github.com/tifictive/kernel_joyeuse
+https://github.com/OnePlusOSS/android_kernel_oneplus_sm7225
+https://github.com/ODEX-TOS/linux
+https://github.com/EdwinMoq/android_kernel_xiaomi_whyred
+https://github.com/Akagi201/learning-python
+https://github.com/RichardKelley/kinetic_pr2
+https://github.com/cosimoiaia/pyAiml-2.0
+https://github.com/F1xy-kernels/SURYA_kernel
+https://github.com/pulp/pulp-ui
+https://github.com/PixelExperience-Devices/kernel_oneplus_sm7250
+https://github.com/pulp/pulp_ostree
+https://github.com/vaishaks/aind
+https://github.com/superkley/udacity-aind
+https://github.com/iqiqiya/Bilibili_Up_Live_Reminder
+https://github.com/wingskh/CSGO-YOLOv5-AIM-ASSIT
+https://github.com/realme-kernel-opensource/realme7_realme8_Narzo30_Narzo20pro-AndroidS-kernel-source
+https://github.com/UO-OACISS/tau2
+https://github.com/SidorkinAlex/Opportunities_kanban
+https://github.com/figozhang/runninglinuxkernel_5.0
+https://github.com/darkhz/uclamp
+https://github.com/vowstar/k210-linux-nommu
+https://github.com/keitaroyam/yamtbx
+https://github.com/berliCRM/berlicrm
+https://github.com/nunomachado/symbiosis
+https://github.com/maligulzar/BigTest
+https://github.com/burke-software/django-simple-import
+https://github.com/lenovo-sm8150/android_kernel_lenovo_sm8150
+https://github.com/linzhp/ai-movie
+https://github.com/danielharan/our-parliament
+https://github.com/Official-Ayrton990/android_kernel_xiaomi_renoir
+https://github.com/ParrotSec/linux-parrot
+https://github.com/unifreq/linux-5.10.y
+https://github.com/mdhifta/IVENTORY-FIFO-METHOD-Gudang-metode-Fifo
+https://github.com/apromore/ApromoreCE
+https://github.com/nunomachado/cortex-tool
+https://github.com/LineageOS/android_kernel_xiaomi_violet
+https://github.com/phpList/phplist3
+https://github.com/iamroot17/linux
+https://github.com/codershiyar/php-mysql
+https://github.com/adekmaulana/android_kernel_xiaomi_msm8953
+https://github.com/realme-kernel-opensource/realmeX2pro_AndroidQ-kernel-source
+https://github.com/freedesktop/drm-intel
+https://github.com/Inkypen79/kernel_xiaomi_odin
+https://github.com/ken678/yzncms
+https://github.com/ArianK16a/android_kernel_xiaomi_sm6150
+https://github.com/ashes999/rpg-maker-resource-index
+https://github.com/SELinuxProject/selinux-kernel
+https://github.com/tmshlvck/linux
+https://github.com/IntrAnatSEEGSoftware/IntrAnat
+https://github.com/realme-kernel-opensource/realme_6pro_7pro_8pro_X2-AndroidR-kernel-source
+https://github.com/timlabs/uscode
+https://github.com/benzBrake/AutoBackup
+https://github.com/zzb1999/xss-platform
+https://github.com/saddle-finance/saddle-frontend
+https://github.com/ArrowOS-Devices/android_kernel_xiaomi_alioth
+https://github.com/ulefoneofficial/Power-Armor-13
+https://github.com/intel/mainline-tracking
+https://github.com/yasrilimam98/website-rekam-medis
+https://github.com/deepin-community/kernel
+https://github.com/STMicroelectronics/STMems_Linux_Input_drivers
+https://github.com/pulp/pulp_file
+https://github.com/RenrenYGO/Team-06-BSCS3CD
+https://github.com/LineageOS/android_kernel_xiaomi_surya
+https://github.com/nickdesaulniers/linux
+https://github.com/ghostrider-reborn/android_kernel_xiaomi_lisa
+https://github.com/rickliu2000/linux_nokia_msm8974
+https://github.com/alx/cablegate
+https://github.com/php/web-master
+https://github.com/ch710798472/python_aiml_rebot
+https://github.com/taniki/comp.soc-of-philosophy
+https://github.com/erofs/atc19-erofs
+https://github.com/KimbingNg/DeskPro
+https://github.com/oslab-ewha/MLstorage
+https://github.com/imjyotiraditya/kernel_xiaomi_odin
+https://github.com/prashantpaddune/android_kernel_samsung_a50dd
+https://github.com/janakajain/medbot
+https://github.com/Supersonic/android_kernel_huawei_abr
+https://github.com/FydeOS/kernel-fydeos_for_pc
+https://github.com/efekoca/web-tools
+https://github.com/OnePlusOSS/android_kernel_oneplus_sm6350
+https://github.com/studygolang/sander
+https://github.com/akinggw/moleserver
+https://github.com/vithurson/linux_compile
+https://github.com/GZR-Kernels/Optimus_Drunk_Alioth
+https://github.com/L4STeam/linux
+https://github.com/V-Sekai/vsekai-blender-game-tools
+https://github.com/PaulMineau/AIMA.Net
+https://github.com/andypitcher/IoT_Sentinel
+https://github.com/plausible/website
+https://github.com/OpenRCT2/OpenRCT2
+https://github.com/ProjectsAI/NAOPlanningChallenge
+https://github.com/naver/prismlivestudio
+https://github.com/nzgamer41/minime-TP
+https://github.com/freak07/Kirisakura_Raviole
+https://github.com/cxy0303/vue-lodop-design
+https://github.com/Atom-X-Devs/android_kernel_qcom_sdm660
+https://github.com/fillthepipe/TcpAckThinning
+https://github.com/b4den/nodesql
+https://github.com/cronyxllc/DeveloperConsole
+https://github.com/moodle/moodle
+https://github.com/jamesofarrell/miyoo_kernel
+https://github.com/KamioRinn/Metaphysics_LGE_G820_Kernel
+https://github.com/EchoHeim/Allwinner-H616
+https://github.com/madmax7896/kernel_xiaomi_ginkgo
+https://github.com/karthik558/MsM-4.14-RyZeN-
+https://github.com/mpegman/Py3kAiml
+https://github.com/aiqm/aimnet
+https://github.com/idcsmart/ZJMF-CBAP
+https://github.com/InFog/phpmysql
+https://github.com/zhannar/Media-Bias-NLP-Clustering
+https://github.com/Broadcom/cygnus-linux
+https://github.com/Atcold/NYU-DLSP21
+https://github.com/BPI-SINOVOIP/BPI-R2-bsp-4.14
+https://github.com/opencomputeproject/OpenNetworkLinux
+https://github.com/occlum/sworndisk-oscomp
+https://github.com/GNOME/gnome-packagekit
+https://github.com/T-Jinhao/Scanner
+https://github.com/ps4gentoo/ps4-linux-5.3.7
+https://github.com/GNOME/gnome-software
+https://github.com/marcogillies/Piavca
+https://github.com/flar2/Pixel-4
+https://github.com/tintinweb/smart-contract-sanctuary-fantom
+https://github.com/OmarHossamEldin/JtlShopPluginStarterKit
+https://github.com/ianmacd/d2s
+https://github.com/opencog/loving-ai
+https://github.com/tumi8/flow-inspector
+https://github.com/Rtoax/linux-5.10.13
+https://github.com/spotweb/spotweb
+https://github.com/code-423n4/2022-05-aura
+https://github.com/realme-kernel-opensource/realme_X7_X7Pro_X7ProExtreme_X7-5G_Q2Pro_V15_V5_Q2_Narzo30pro-5G_7-5G-AndroidS-kernel-source
+https://github.com/neologyc/SEO-robot-v.2
+https://github.com/marmolak/gray486linux
+https://github.com/PixelExperience-Devices/kernel_xiaomi_sm8250
+https://github.com/NetApp/zufs-zuf
+https://github.com/leapdao/EthereumMachineOracle
+https://github.com/RadeonOpenCompute/ROCK-Kernel-Driver
+https://github.com/lybdroid/kernel_xiaomi_vayu
+https://github.com/duganchen/codesearch
+https://github.com/kernel-patches/bpf
+https://github.com/google/kmsan
+https://github.com/projects-nexus/nexus_kernel_xiaomi_gauguin
+https://github.com/opencitations/metadata
+https://github.com/marco-morales/QMSS-GR5074_Spring2022
+https://github.com/EmbarkStudios/spdx
+https://github.com/FanFansfan/qsdk-5.4
+https://github.com/anolis-os-archive/cloud-kernel
+https://github.com/arter97/x86-kernel
+https://github.com/Venji10/linux-beryllium
+https://github.com/CityOfZion/neo-local
+https://github.com/chips-project/msm-4.14
+https://github.com/LineageOS/android_kernel_oneplus_sm8350
+https://github.com/kongyuluEleven/Mac-Development
+https://github.com/CSL-KU/SpectreGuard
+https://github.com/heximcz/routerboard-backup
+https://github.com/vudinhnamkhanh/shopclonev5-1.8.4
+https://github.com/ipodclassic-mainline/kernel
+https://github.com/GoteborgsStad/smartakartan
+https://github.com/brainvisa/morpho-deepsulci
+https://github.com/utsaslab/SplitFS
+https://github.com/olegsklyarov/nauchuka-practice
+https://github.com/hisilicon/linux-hisi
+https://github.com/mushketyk/aima-python
+https://github.com/aosp-mirror/kernel_common
+https://github.com/kynetweb/PHP-Ajax-Contact-Form
+https://github.com/pulp/pulp_installer
+https://github.com/engstk/op7
+https://github.com/Vincebye/vulfuzz
+https://github.com/M-Bab/linux-kernel-amdgpu
+https://github.com/Nobida/ZD-Search
+https://github.com/RedHatInsights/patchman-engine
+https://github.com/PixelExperience-Devices/kernel_xiaomi_ginkgo
+https://github.com/arter97/caf_msm-5.4
+https://github.com/MusabDev/animated-epic-php-user-management-system
+https://github.com/turtleletortue/android_kernel_retroid_pocket2plus
+https://github.com/AliothDevelopment/android_kernel_xiaomi_alioth
+https://github.com/GrapheneOS/kernel_gs
+https://github.com/HarukeyUA/android_kernel_xiaomi_laurel_sprout
+https://github.com/PixelExperience-Devices/kernel_oneplus_sm8150
+https://github.com/denysvitali/surface-pro-x-linux
+https://github.com/pulp/pulpcore
+https://github.com/GsSqueak/GsSqueak
+https://github.com/meystack/swiftadmin
+https://github.com/aiyanbo/aims
+https://github.com/kdrag0n/proton_zf6
+https://github.com/ni/linux
+https://github.com/libxzr/android_kernel_oneplus_sm8250
+https://github.com/pulp/pulp_puppet
+https://github.com/Lanik123/msm-4.19
+https://github.com/grislux55/Malrua-CI
+https://github.com/ploigos/ploigos-charts
+https://github.com/sm6150-dev/android_kernel_xiaomi_sm6150
+https://github.com/krai/ck-qaic
+https://github.com/tingelst/calibration
+https://github.com/freak07/FLORAL
+https://github.com/thor2002ro/unraid_kernel
+https://github.com/Infinito-IIT-Patna/Infinito2020
+https://github.com/Kuzma30/kernel3NookTablet
+https://github.com/wolves-aman/AmanCTF
+https://github.com/idkwhoiam322/weeb_kernel_oneplus_sm8150
+https://github.com/haridhayal11/android_kernel_samsung_exynos2100
+https://github.com/nihal111/J.A.R.V.I.S
+https://github.com/lsds/intravisor
+https://github.com/Medusa-Team/linux-medusa
+https://github.com/datenhahn/python-aiml-chatbot
+https://github.com/nuevocorreo17/cursohappydev
+https://github.com/flar2/OnePlus7Pro
+https://github.com/WeAreFairphone/android_kernel_fairphone_sm7225
+https://github.com/kmou424/android_kernel_xiaomi_sm8150
+https://github.com/shankyb9/College-Information-Chatbot-System
+https://github.com/runninglinuxkernel/runninglinuxkernel_5.0
+https://github.com/sjp38/linux.gcma
+https://github.com/ztc1997/android_kernel_xiaomi_sm6150
+https://github.com/aLnProject/kernel_xiaomi_vayu
+https://github.com/DZCP-Community/DZCP-1.6
+https://github.com/cyberknight777/nethunter_kernel_oneplus_sm8150
+https://github.com/imusify/blockchain-middleware
+https://github.com/nem0-z/android_kernel_oneplus_sm8150
+https://github.com/Charlotte-Kosche-Thesis/patreon-scraper
+https://github.com/lewiz-support/LMAC_CORE2
+https://github.com/intel/linux-kernel-dcp
+https://github.com/obsproject/obs-studio
+https://github.com/tweakunwanted/OpenXC-Player
+https://github.com/totalgood/nlpia3
+https://github.com/UtsavBalar1231/kernel_samsung_universal9611
+https://github.com/Tuufless/FFXIV-Elemental-Raid-Macros
+https://github.com/wa3dbk/ScribeSalad
+https://github.com/inis-cloud/system
+https://github.com/100Daisy/android_kernel_motorola_guamp
+https://github.com/betzelelgalut/butlerbot-stable
+https://github.com/ThunderStorms21th/S20-priv
+https://github.com/BPI-SINOVOIP/BPI-F2S-bsp
+https://github.com/inforthub/inFORTCMS
+https://github.com/sagemathinc/sbir2015
+https://github.com/projects-nexus/nexus_kernel_xiaomi_sm8250
+https://github.com/zhangziliang04/pyaimlEx
+https://github.com/TOMMMMMMMMMC/GreatPosterWall
+https://github.com/ocadotechnology/rapid-router
+https://github.com/iurygdeoliveira/novos_caminhos
+https://github.com/effectai/neo-dev-toolkit
+https://github.com/aurafinance/aura-contracts
+https://github.com/AIModelShare/aimodelshare
+https://github.com/fsociety-kernel/pixel4
+https://github.com/xiaomi-sm8150-devs/android_kernel_xiaomi_sm8150
+https://github.com/bootlin/linux-cedrus
+https://github.com/pquerna/tls-client-hello-stats
+https://github.com/raquelredo/Projects
+https://github.com/Gionnino9000/Gionnino9000
+https://github.com/jessfraz/linux
+https://github.com/realme-kernel-opensource/realme5_realme5S_realme5i_AndroidQ-kernel-source
+https://github.com/masterking32/WoWMigration
+https://github.com/Tina-Linux/tina-t113-linux-5.4
+https://github.com/markakash/kernel_xiaomi_sm8150
+https://github.com/bhagvank/NoCodeAIML
+https://github.com/wugeyun/yiivii
+https://github.com/Bryce-MW/EVIX
+https://github.com/fabianishere/udm-kernel
+https://github.com/m5stack/Core2-for-AWS-IoT-EduKit
+https://github.com/DevashishPrasad/BE-IT-assignments
+https://github.com/rssys/on-demand-fork
+https://github.com/arter97/caf_msm-4.14
+https://github.com/josepsanzcamp/SaltOS
+https://github.com/javashin/Xiaomi-Fury-Bengal-SD662
+https://github.com/Ecodesu/DentalClinic
+https://github.com/FreshROMs/android_kernel_samsung_exynos9610_mint
+https://github.com/neggles/linux-quartz64
+https://github.com/PapayaPI/PapayaPI
+https://github.com/rs3lab/Odinfs
+https://github.com/linzhp/Howie
+https://github.com/oracle/dtrace-linux-kernel
+https://github.com/AdityaXJha/Discord-bot
+https://github.com/mdmonk/python_snippets
+https://github.com/stormbreaker-project/kernel_xiaomi_surya
+https://github.com/dev-harsh1998/android_kernel_realme_sm6150
+https://github.com/uclasystem/MemLiner
+https://github.com/SeanWeber/Chatbot
+https://github.com/ceph/ceph-client
+https://github.com/ClangBuiltLinux/thread-safety-analysis
+https://github.com/renesas-rcar/arm-trusted-firmware
+https://github.com/unifreq/linux-5.4.y
+https://github.com/crownpku/aiml_chatbot
+https://github.com/RealJohnGalt/GaltsGulch-sm8150
+https://github.com/kerneltoast/android_kernel_google_redbull
+https://github.com/uoaerg/linux-dccp
+https://github.com/pulp/pulp_python
+https://github.com/OnePlusOSS/android_kernel_modules_and_devicetree_oneplus_sm8450
+https://github.com/quic/aimet
+https://github.com/Admidio/admidio
+https://github.com/PixelExperience-Devices/kernel_xiaomi_sm6150
+https://github.com/pulp/pulp-ci
+https://github.com/DevriesL/android_kernel_samsung_sm8350
+https://github.com/Adamouization/Content-Based-Video-Retrieval-Dissertation
+https://github.com/um-dsrg/Super-Resolution-Meta-Attention-Networks
+https://github.com/BlissRoms-x86/kernel_common
+https://github.com/digi-embedded/linux
+https://github.com/sethuiyer/simple-chat-bot
+https://github.com/pysmo/aimbat
+https://github.com/AugurProject/augur
+https://github.com/renesas-rcar/linux-bsp
+https://github.com/eummena/moodle-1click-app-digitalocean
+https://github.com/ColinIanKing/linux-next
+https://github.com/GrapheneOS/linux-hardened
+https://github.com/pulp/pulp_ansible
+https://github.com/LimeSurvey/LimeSurvey
+https://github.com/qxhome/rk3568-kernel5.10-alldrivers
+https://github.com/anamestre/FIB-IA-P1-Azamon
+https://github.com/effectai/neo-clojure-clr
+https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250
+https://github.com/Cacti/cacti
+https://github.com/ammarfaizi2/linux-block
+https://github.com/figozhang/rlk_eas
+https://github.com/SSEHUB/EASyProducer
+https://github.com/GrapheneOS/kernel_common-5.10
+https://github.com/clipos/src_external_linux
+https://github.com/leonardoamaro-dev/ecommerce-betting-system
+https://github.com/quic/aimet-model-zoo
+https://github.com/VTECRM/vtenext
+https://github.com/lateautumn233/kernel_xiaomi_sm8250
+https://github.com/mromanello/ADA-DHOxSS
+https://github.com/department-of-veterans-affairs/va.gov-team
+https://github.com/vletroye/SynoPackages
+https://github.com/PrincetonUniversity/piton-linux
+https://github.com/PacktPublishing/Learning-Robotics-using-Python
+https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250
+https://github.com/Didula-Lakminda/ITP-Project
+https://github.com/francisbautista/cs129.18
+https://github.com/SnowStar0423/PHP-SMS-Sending-using-SMTP
+https://github.com/openshift/aws-account-operator
+https://github.com/UzL-ITS/SEVurity
+https://github.com/xoopscube/legacy
+https://github.com/hobson/aima
+https://github.com/GrapheneOS/kernel_google_coral
+https://github.com/realme-kernel-opensource/realmeV3_realmeX7_realmeX7Pro_AndroidQ-kernel-source
+https://github.com/TRoboto/Udacity
+https://github.com/OnePlusOSS/android_kernel_oneplus_sm7250
+https://github.com/keystone-enclave/riscv-linux
+https://github.com/iekumdario/naochat
+https://github.com/ian-ok/ventry.host
+https://github.com/yhnu/op7t
+https://github.com/realme-kernel-opensource/realme6Pro-kernel-source
+https://github.com/Seagate/cortx
+https://github.com/suttree/grokitbot
+https://github.com/HH-0rg/pwnhub
+https://github.com/Qrowio/Billing
+https://github.com/coqui-ai/Trainer
+https://github.com/BPI-SINOVOIP/BPI-R64-bsp-4.19
+https://github.com/sonyxperiadev/kernel
+https://github.com/artberryx/LSD
+https://github.com/qqfly/arc
+https://github.com/jaekyeom/IBOL
+https://github.com/ErikThiart/memeclub
+https://github.com/eqvinox/vpls-linux-kernel
+https://github.com/sevan/viewpoint-linux
+https://github.com/BBVA/purescript-google-apps
+https://github.com/coreyabshire/tron
+https://github.com/praekeltfoundation/vumi
+https://github.com/yarpiin/White-Wolf-UMI-UNI
+https://github.com/hemanthmayaluru/one-class-text-classification-using-ensemble-approach
+https://github.com/sjp38/linux
+https://github.com/HuyaInc/obsstudio
+https://github.com/Elvis-Zhou/aliceCN
+https://github.com/sarahtahir/Kaso365-Student-Management-System
+https://github.com/Gateworks/linux-imx6
+https://github.com/smartcitiescommunity/Civikmind
+https://github.com/redcliff-op/android_kernel_xiaomi_phoenix
+https://github.com/WhiteAssassins/Intersect_CMS
+https://github.com/OnePlusOSS/android_kernel_oneplus_sm4250
+https://github.com/pyxploiter/customer-service-chatbot
+https://github.com/Tkpointz/android_kernel_aresin
+https://github.com/goldelico/letux-kernel
+https://github.com/Lusqueta/XOXOCHEAT
+https://github.com/mike-n-7/convai
+https://github.com/xenomporio-org/Xenomporio
+https://github.com/freedesktop/drm-tip
+https://github.com/smx-smx/sdm845-linux
+https://github.com/github/site-policy
+https://github.com/otayfuroglu/deepQM
+https://github.com/TheStaticDesign/android_kernel_xiaomi_sweet
+https://github.com/endlessm/linux
+https://github.com/Blaster4385/IllusionX_sm8250
+https://github.com/robinscholz/better-rest
+https://github.com/heximcz/bind-manager
+https://github.com/skkucsl/aios
+https://github.com/PixelExperience-Devices/kernel_oneplus_sm8250
+https://github.com/wsaqaf/mecodify
+https://github.com/Official-Ayrton990/android_kernel_xiaomi_sm8250
+https://github.com/yurihartmann/Fidelize
+https://github.com/OnePlusOSS/android_kernel_oneplus_sm4350
+https://github.com/freemed/opendental
+https://github.com/buaahsh/PyAIML-CN
+https://github.com/elfalehed/fridayos
+https://github.com/ememos/GiantVM
+https://github.com/mrafayaleem/equity-portfolio-prediction
+https://github.com/RUB-NDS/PrOfESSOS
+https://github.com/theanarkh/read-linux5.9.9-code
+https://github.com/hophacker/bitcoin_public_data
+https://github.com/cc-droid/v-kernel-qemu
+https://github.com/SunLinJie/Text_Review
+https://github.com/noironetworks/apicapi
+https://github.com/Vishalcj17/kernel-x86-WSL
+https://github.com/realme-kernel-opensource/realme_GTMasterExploratory_X9pro_GTneo2-kernel-source
+https://github.com/Harmon758/Harmonbot
+https://github.com/brickport-devs/android_kernel_oneplus_sm8350
+https://github.com/GZR-Kernels/Optimus_Drunk_Phoenix
+https://github.com/zhangbincheng1997/chatbot-aiml-webqa
+https://github.com/e107inc/e107
+https://github.com/udacity/AIND-Planning
+https://github.com/SGCMarkus/android_kernel_lge_sm8150
+https://github.com/sanscript-tech/hacking-tools-scripts
+https://github.com/hughsie/colord
+https://github.com/TransparencyToolkit/ICWATCH-Data
+https://github.com/Caynosadler/Virtual-Assistant
+https://github.com/hhdang6637/embedded_linux_skeleton
+https://github.com/herrnst/dddvb-linux-kernel
+https://github.com/ilyautkin/doodle
+https://github.com/Genom-Project/android_kernel_xiaomi_ginkgo
+https://github.com/stefanberg96/SMArTCAT
+https://github.com/raspberrypi/linux
+https://github.com/analogdevicesinc/linux
+https://github.com/PacktPublishing/ROS-Programming-Building-Powerful-Robots
+https://github.com/jlevente/MiamiOSM-buildings
+https://github.com/calebccff/linux-wahoo
+https://github.com/lu-ci/apex-sigma-core
+https://github.com/enclustra-bsp/xilinx-linux
+https://github.com/Sriep/screeps-obsolete
+https://github.com/fla-sil/PyTorrent
+https://github.com/niuteam/niushop
+https://github.com/pistis/iroun
+https://github.com/dbasedow/prospecter
+https://github.com/apache/skywalking-eyes
+https://github.com/chenshuo/linux-study
+https://github.com/nem0-z/dora_kernel_oneplus_sm8150
+https://github.com/Currie32/Artificial-Intelligence-Nanodegree
+https://github.com/DeepPavlovAdmin/convai
+https://github.com/erayon/WhatsappBotX
+https://github.com/radiodee1/awesome-chatbot
+https://github.com/ianmacd/beyond2lte
+https://github.com/fsociety-tribute/redbull
+https://github.com/greenforce-project/kernel_xiaomi_citrus_sm6115
+https://github.com/commixproject/commix
+https://github.com/leondgarse/Atom_notebook
+https://github.com/NVSL/linux-nova
+https://github.com/degdag/W.I.P_sagit_mainline
+https://github.com/classiebit/anofie
+https://github.com/quhfus/DoSeR
+https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation
+https://github.com/VlachosGroup/AIMSim
+https://github.com/Dark-Matter7232/CosmicFresh-Hanoip
+https://github.com/723Studio/X-Com-From-the-Ashes
+https://github.com/miraclestars/android_kernel_samsung_sm8250
+https://github.com/gitpancake/OpenRCT2
+https://github.com/justicecanada/laws-lois-xml
+https://github.com/ivantcholakov/starter-public-edition-3
+https://github.com/OnePlusOSS/android_kernel_oneplus_sm8475
+https://github.com/jjpprrrr/kernel_xiaomi_venus
+https://github.com/trinket-devs/kernel_xiaomi_ginkgo
+https://github.com/DiabloHorn/DiabloHorn
+https://github.com/PR2/pr2_mechanism
+https://github.com/osl/concolic-walk
+https://github.com/bm16ton/linux-4.14_16ton
+https://github.com/eggfly/jadx
+https://github.com/Optum/barista
+https://github.com/linux-audit/audit-kernel
+https://github.com/karmada-io/website
+https://github.com/Official-Ayrton990/android_kernel_xiaomi_sm8150
+https://github.com/PixelExperience-Devices/kernel_xiaomi_mojito
+https://github.com/lazarnarcis/portfolio
+https://github.com/Dark-Matter7232/Cosmic-fresh
+https://github.com/spakkkk/kernel_xiaomi_sm7250
+https://github.com/esmf-org/esmf
+https://github.com/citp/privacy-policy-historical
+https://github.com/alittletry/alittlepay
+https://github.com/bjverde/sysgenad
+https://github.com/jhrmnn/mona
+https://github.com/peter-kimanzi/Social-Media-site
+https://github.com/linux-wmt/linux-vtwm
+https://github.com/YuSitong1999/BilibiliMemory
+https://github.com/nickfox-taterli/MX283Linux
+https://github.com/FuYanzhe2/KGQA_AIML
+https://github.com/Iscle/android_kernel_unisoc_ums512
+https://github.com/jianguda/afm4acs
+https://github.com/TingyiChen/kernel_oppo_sm8250
+https://github.com/TimothyEBaldwin/RISC_OS_Linux_Source
+https://github.com/CirrusLogic/linux-drivers
+https://github.com/pascua28/android_kernel_samsung_s20fe
+https://github.com/realboy918/CodeIgniter-proinvest
+https://github.com/raphael/linux-samus
+https://github.com/Umit-Ulusoy/Personal-website-with-PHP-and-MySQL
+https://github.com/andelf/PyAIML
+https://github.com/zhuchen03/gradinit
+https://github.com/GNOME/gnome-color-manager
+https://github.com/lucidrains/lightweight-gan
+https://github.com/Webspell-RM/Webspell-RM
+https://github.com/ksyang2013/aimsgb
+https://github.com/HughParsonage/grattan
+https://github.com/simplerisk/code
+https://github.com/Xilinx/linux-xlnx
+https://github.com/runtimeverification/haskell-backend
+https://github.com/LowTension/BAALAM_android_kernel_xiaomi_sm8250
+https://github.com/jpirko/linux_mlxsw
+https://github.com/wildfly/wildfly
+https://github.com/NCAR/goes16ci
+https://github.com/ibeltagy/pl-semantics
+https://github.com/OLIMEX/linux-olimex
+https://github.com/princeton-nlp/DinkyTrain
+https://github.com/suda-morris/SUDA_V3S
+https://github.com/realme-kernel-opensource/realmeX2pro-X3-AndroidR-kernel-source
+https://github.com/YaroST12/VIOLENT_Kernel
+https://github.com/iamsoroush/abstractions
+https://github.com/microhobby/linus-tree
+https://github.com/Demon000/kernel_xiaomi_sm8150
+https://github.com/totalgood/nlpia
+https://github.com/ArrowOS-Devices/android_kernel_xiaomi_vayu
+https://github.com/mcburton/lc-python-training
+https://github.com/pjgowtham/android_kernel_oplus_sm8350
+https://github.com/kvm-riscv/linux
+https://github.com/at-wills/aiml-chinese
+https://github.com/hyperledger-labs/fabric-token-sdk
+https://github.com/eshwarkoka/Medical-document-classification
+https://github.com/joomla/volunteers.joomla.org
+https://github.com/epsylon/PyAISnake
+https://github.com/LDAPAccountManager/lam
+https://github.com/Comcast/Comcast.github.io-archive
+https://github.com/nitsuga1986/machine-learning-nd-portfolio
+https://github.com/realme-kernel-opensource/realme8_C25_C25s_Narzo30_Narzo50A_AndroidR_kernel_source
+https://github.com/AdarshGrewal/android_kernel_xiaomi_sweet
+https://github.com/realme-kernel-opensource/realme5-kernel-source
+https://github.com/NitinPrakash/slim-admin-panel
+https://github.com/EasycryptosTeam/CMS-blog
+https://github.com/OnePlusOSS/android_kernel_5.10_oneplus_mt6895
+https://github.com/LexPredict/lexpredict-contraxsuite-samples
+https://github.com/lijiaxing1997/Gr33k
+https://github.com/zelon88/HRCloud3
+https://github.com/intel/kvm-sgx
+https://github.com/SyberiaProject-Devices/platform_kernel_xiaomi_alioth
+https://github.com/unifreq/linux-5.15.y
+https://github.com/raystef66/InfiniR_kernel_alioth
+https://github.com/kerneltoast/android_kernel_google_floral
+https://github.com/MarvellEmbeddedProcessors/Octeon-Linux-kernel-4.14
+https://github.com/piyushiiitn/Amanda--NLP-Based-Chatbot
+https://github.com/spdx/license-list-data
+https://github.com/rwema3/PHPMailer-VerficationCode
+https://github.com/Catalyst-IN/Catalyst-IN
+https://github.com/lovehacker404/BlackMafia-Server
+https://github.com/cao-zha/caozha-admin
+https://github.com/nmenon/linux-2.6-playground
+https://github.com/StephenLee2016/simple-chatbot
+https://github.com/schuleintern/Webportal
+https://github.com/fullstack-guru0719/whatsapp-php
+https://github.com/Veronica1997/knowledge-graph
+https://github.com/BraveCoderYT/complete-login-register-form-with-email-verification

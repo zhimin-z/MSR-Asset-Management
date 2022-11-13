@@ -1,154 +1,196 @@
-Repo,Link,Archived,Creation Date,Topics,#Star,#Watch,#Fork,#Releases,#Contributors,Language,Size,#Open Issues,#Pull Requests,#Branches,#Tags,#Commits,#Comments,#Downloads,#Deployments
-deepopinion/greedy-layer-pruning,https://github.com/deepopinion/greedy-layer-pruning,False,2021-05-18 08:43:43,[],5,6,4,0,1,Python,64,0,0,1,0,7,0,0,0
-stuyy/nextjs-discord-dashboard-express,https://github.com/stuyy/nextjs-discord-dashboard-express,False,2022-02-16 16:37:44,[],10,1,4,0,1,TypeScript,46,0,0,1,0,13,0,0,0
-Cactiw/Dark-Desire-Order-Bot,https://github.com/Cactiw/Dark-Desire-Order-Bot,False,2019-01-16 18:27:07,[],7,6,4,0,6,Python,1467,2,1,14,2,1421,1,0,0
-mrtolkien/inhouse_bot,https://github.com/mrtolkien/inhouse_bot,False,2020-05-06 07:05:25,[],105,8,81,0,3,Python,6730,1,0,3,0,259,0,0,0
-Corsace/Corsace,https://github.com/Corsace/Corsace,False,2021-01-09 05:13:51,[],7,2,21,0,18,TypeScript,69006,9,9,17,0,613,0,0,0
-ZynerOrg/xyter,https://github.com/ZynerOrg/xyter,False,2022-02-26 22:31:49,"['bot', 'discord', 'discordjs', 'javascript', 'modular', 'multi-function', 'multi-purpose', 'typescript', 'zyner']",18,3,15,16,14,TypeScript,2223,34,1,3,18,1186,0,0,53
-DLR-SC/repository-synergy,https://github.com/DLR-SC/repository-synergy,False,2021-05-08 07:51:57,[],5,6,6,0,1,Jupyter Notebook,103486,1,0,1,0,8,0,0,0
-Khaaz/AxonCore,https://github.com/Khaaz/AxonCore,False,2018-07-21 11:37:18,"['discord', 'eris', 'discord-bot', 'eris-discord', 'discord-framework', 'eris-framework', 'eris-client', 'discord-js', 'discordjs', 'discordjs-framework', 'detritus']",72,4,19,12,12,JavaScript,2306,24,12,12,12,653,14,0,55
-reddit-diabetes/diabot,https://github.com/reddit-diabetes/diabot,False,2018-10-01 15:58:07,"['discord', 'jda', 'diabetes', 'hacktoberfest']",18,7,13,53,10,Kotlin,2448,15,0,5,59,927,1,0,191
-emisdumb/tau,https://github.com/emisdumb/tau,False,2020-03-03 00:01:53,"['asyncio', 'discord', 'discord-bot', 'python']",5,2,1,4,1,Python,2368,0,0,1,5,331,0,0,0
-fosscord/fosscord-server,https://github.com/fosscord/fosscord-server,False,2020-11-28 12:39:03,"['fosscord', 'discord', 'instant-messaging', 'real-time-communication']",980,31,184,0,64,TypeScript,18911,243,23,18,0,3056,57,0,0
-STE4LTHB0T/Spike-8670,https://github.com/STE4LTHB0T/Spike-8670,False,2021-08-17 12:48:35,"['bot', 'discord', 'discord-py']",6,3,0,0,2,Python,229,0,0,2,0,118,0,0,165
-afterIife/sources,https://github.com/afterIife/sources,False,2021-04-01 12:31:46,[],5,1,17,0,1,Python,836,0,0,1,0,57,0,0,2
-tenjinlab/whitelistPy,https://github.com/tenjinlab/whitelistPy,False,2021-11-28 12:19:40,[],7,0,9,0,1,,17,0,0,1,0,11,0,0,0
-DiscordGIR/GIRRewrite,https://github.com/DiscordGIR/GIRRewrite,False,2022-03-12 19:31:10,[],18,1,5,0,7,Python,4392,1,1,4,0,184,0,0,0
-Xx-Mohit-xX/Simply-eco,https://github.com/Xx-Mohit-xX/Simply-eco,False,2021-11-19 13:56:37,"['discord', 'nodejs', 'javascript', 'economy', 'mongoose', 'mongo-eco']",7,1,9,0,2,TypeScript,1099,0,0,2,0,102,0,0,21
-DGD-Studio/anime-tracker,https://github.com/DGD-Studio/anime-tracker,False,2021-05-25 02:04:13,[],6,1,1,0,4,TypeScript,72,1,1,3,0,45,3,0,0
-orden-gg/fireball,https://github.com/orden-gg/fireball,False,2021-03-06 16:27:49,"['game', 'game-development', 'nft']",24,5,46,5,29,TypeScript,70717,62,1,5,5,645,0,0,0
-tencent-connect/botpy,https://github.com/tencent-connect/botpy,False,2021-12-24 16:15:33,[],141,6,27,0,10,Python,2135,3,1,1,34,206,1,0,0
-renatodex/fabulas-e-goblins,https://github.com/renatodex/fabulas-e-goblins,False,2020-10-11 07:00:34,[],5,3,0,0,1,JavaScript,9492,1,1,24,0,397,84,0,357
-charmverse/app.charmverse.io,https://github.com/charmverse/app.charmverse.io,False,2022-01-05 03:26:53,"['web3', 'wiki', 'dao-tools']",24,6,8,0,15,TypeScript,22479,18,18,88,0,1145,1,0,245
-Raptor123471/DingoLingo,https://github.com/Raptor123471/DingoLingo,False,2020-08-12 03:33:20,"['bot', 'discord-music-bot', 'python', 'discordpy', 'music', 'discord', 'discord-bot', 'music-bot', 'songs', 'playlists', 'discord-bots', 'discord-py', 'pycord', 'py-cord']",184,10,116,2,5,Python,23805,27,7,2,2,162,0,0,0
-dank074/arcturus-tools,https://github.com/dank074/arcturus-tools,False,2019-04-04 17:43:12,"['habbo-imager', 'habbo']",6,0,6,0,1,Python,14454,3,0,1,0,12,0,0,0
-AndreMor8/gidget,https://github.com/AndreMor8/gidget,False,2020-06-16 03:49:43,"['bot', 'discord-bot', 'mongodb', 'database', 'discordjs', 'chatbot']",70,2,14,0,15,JavaScript,8563,10,10,15,0,1234,8,0,254
-langsci/144,https://github.com/langsci/144,False,2017-10-30 22:24:11,[],5,5,2,1,1,TeX,38417,16,0,2,1,94,0,0,5
-TeamDmod/dmod,https://github.com/TeamDmod/dmod,False,2021-02-27 13:34:02,"['moderation', 'community', 'dmod', 'discord', 'moderators']",43,2,12,0,13,TypeScript,7306,23,9,15,0,296,11,0,13
-Jacobvs/Rotmg-Discord-Bot,https://github.com/Jacobvs/Rotmg-Discord-Bot,False,2020-02-16 16:25:10,"['discord', 'discord-bot', 'python', 'rotmg']",14,5,8,0,5,Python,5678,46,1,2,0,156,0,0,8
-Pycord-Development/pycord,https://github.com/Pycord-Development/pycord,False,2021-08-28 16:18:37,"['discord', 'discord-py', 'python', 'pycord', 'py-cord', 'hacktoberfest']",2248,32,394,18,362,Python,15508,53,9,30,82,5541,37,0,0
-sebaubuntu-python/telegramma,https://github.com/sebaubuntu-python/telegramma,False,2022-05-14 22:20:42,"['python', 'telegram-bot', 'hacktoberfest']",11,1,1,0,2,Python,521,0,0,1,1,131,0,0,0
-ninjiez/discord_spybot,https://github.com/ninjiez/discord_spybot,False,2022-07-09 20:20:50,[],25,1,9,0,1,Python,7,1,0,1,0,1,0,0,0
-jokersus/Euphemia,https://github.com/jokersus/Euphemia,False,2018-07-25 18:29:35,"['discord', 'discord-bot', 'discord-js']",9,2,7,0,3,JavaScript,1602,0,0,22,11,957,1,0,0
-Feeeeddmmmeee/ICBot,https://github.com/Feeeeddmmmeee/ICBot,False,2020-10-12 18:48:06,[],6,1,1,0,2,Python,316,0,0,2,0,80,0,0,0
-Aewait/Kook-Valorant-Bot,https://github.com/Aewait/Kook-Valorant-Bot,False,2022-06-22 16:04:38,"['api', 'bot', 'python', 'valorant', 'khl', 'kook']",10,1,1,23,2,Python,11103,0,0,2,23,401,0,0,0
-jukiewiczm/kaggle-predict-future-sales,https://github.com/jukiewiczm/kaggle-predict-future-sales,False,2019-09-15 20:54:51,"['pytorch', 'rnn-pytorch', 'rnn', 'embeddings', 'machine-learning', 'kaggle-competition', 'gensim', 'scala', 'spark']",30,0,14,0,1,HTML,1140,0,0,1,0,36,0,0,0
-DuroCodes/Suta,https://github.com/DuroCodes/Suta,False,2022-03-29 17:10:28,"['ticket-bot', 'discord-bot', 'discord-js', 'typescript', 'sapphire-framework', 'discord', 'nodejs']",5,1,2,0,2,TypeScript,148,0,0,1,0,148,0,0,0
-clear-nus/VT_SNN,https://github.com/clear-nus/VT_SNN,False,2020-07-09 05:36:28,"['event-driven', 'robotics', 'classification', 'slippagedetection']",14,3,8,0,2,Python,496775,0,0,8,0,161,0,0,0
-Dubiish/discord-private-rooms-bot,https://github.com/Dubiish/discord-private-rooms-bot,False,2021-05-19 08:52:09,[],7,1,3,0,1,Python,34,2,0,1,0,11,0,0,0
-Voxel-Fox-Ltd/MarriageBot,https://github.com/Voxel-Fox-Ltd/MarriageBot,False,2018-07-20 04:45:19,[],65,10,35,0,8,Python,6207,18,1,8,2,1608,2,0,0
-midblue/timezone-bot,https://github.com/midblue/timezone-bot,False,2018-04-22 16:18:14,"['node', 'javascript', 'discord', 'social', 'chatbot']",44,5,17,0,4,TypeScript,4926,23,7,7,0,288,0,0,222
-dxc-technology/DXC-Industrialized-AI-Starter,https://github.com/dxc-technology/DXC-Industrialized-AI-Starter,False,2020-04-13 20:29:58,"['data-science', 'automl', 'python']",22,12,38,28,14,Jupyter Notebook,29932,10,10,14,30,655,1,0,23
-chamburr/modmail,https://github.com/chamburr/modmail,False,2019-05-16 11:47:51,"['discord-bot', 'discord']",256,18,215,3,7,Python,2332,8,2,1,19,759,0,0,0
-hikari-py/hikari,https://github.com/hikari-py/hikari,False,2020-08-15 09:13:10,"['discord', 'bot', 'python', 'discord-api', 'slash-commands', 'hikari', 'hacktoberfest', 'python3', 'asyncio', 'bot-framework']",652,14,81,49,51,Python,15443,50,12,4,121,4251,8,0,66
-CircuitSacul/Starboard-3,https://github.com/CircuitSacul/Starboard-3,False,2022-01-17 19:09:18,"['starboard', 'discord', 'hikari', 'hikari-crescent', 'apgorm', 'hikari-clusters']",18,1,2,0,3,Python,5148,19,1,2,0,420,0,0,0
-ct-bess/Bean-Stalk,https://github.com/ct-bess/Bean-Stalk,False,2019-12-07 01:54:15,[],5,4,1,0,1,JavaScript,270,1,1,2,0,58,3,0,0
-khaledxyz/Valkyrie,https://github.com/khaledxyz/Valkyrie,False,2022-06-07 13:53:46,"['react', 'express', 'mongoose', 'sass', 'axios']",8,1,3,0,3,JavaScript,1271,0,0,5,0,236,50,0,163
-LostLuma/Mousey,https://github.com/LostLuma/Mousey,False,2020-11-06 18:15:16,[],41,2,5,0,4,Python,1279,18,18,19,0,319,0,0,0
-jamieTardi/wow-rosters,https://github.com/jamieTardi/wow-rosters,False,2021-08-22 08:20:16,[],18,1,0,0,1,JavaScript,20365,3,0,1,0,137,0,0,0
-tcprescott/sahasrahbot,https://github.com/tcprescott/sahasrahbot,False,2019-03-29 01:34:45,[],21,5,22,0,15,Python,2210,0,0,2,0,1647,0,0,1324
-fla-sil/PyTorrent,https://github.com/fla-sil/PyTorrent,False,2021-01-10 20:30:30,[],27,2,20,0,4,,844788,0,0,1,0,54,0,0,0
-Kile/Killua,https://github.com/Kile/Killua,False,2020-11-11 16:50:54,"['dpy', 'discord', 'bot', 'killua']",27,3,4,8,3,Python,2163,0,0,4,8,184,6,0,0
-Finn-Discord-Bot/finn,https://github.com/Finn-Discord-Bot/finn,False,2021-12-24 14:04:20,"['python', 'discord-bot', 'finance', 'stock-market', 'astradb', 'cql', 'yfinance']",6,0,1,1,6,Python,8809,3,3,4,1,70,0,0,0
-MislavSag/trademl,https://github.com/MislavSag/trademl,False,2020-03-27 08:30:01,[],20,6,7,0,1,Python,58930,0,0,1,0,311,0,0,0
-climu/OSR-discord-bot,https://github.com/climu/OSR-discord-bot,False,2018-06-29 07:18:13,[],5,3,6,0,7,Python,167,9,1,7,0,254,3,0,0
-ApexieCommunity/Plenus,https://github.com/apexiedev/plenus,False,2021-07-13 15:55:10,"['discord', 'discord-bot', 'discord-js', 'bot']",7,1,1,0,5,TypeScript,7350,0,0,3,0,360,1,0,51
-pedrogiampietro/Hati,https://github.com/pedrogiampietro/Hati,False,2020-07-06 21:26:03,[],23,4,5,0,5,CSS,21478,0,0,2,0,290,12,0,23
-WoodNeck/siamese,https://github.com/WoodNeck/siamese,False,2018-10-02 01:53:17,"['discord-bot', 'discord-js', 'korean', 'discord']",7,3,4,0,1,TypeScript,19468,0,0,6,10,286,0,0,43
-TheDrone7/descord,https://github.com/TheDrone7/descord,False,2020-05-16 17:59:12,['hacktoberfest'],36,3,3,1,3,TypeScript,316,0,0,1,2,106,0,0,0
-aero-ware/aero-bot,https://github.com/aero-ware/aero-bot,False,2020-12-21 01:56:40,"['discord-bot', 'discord-js', 'discord', 'bot', 'command-handler', 'aero-bot', 'aero-ware', 'aero-client']",11,2,5,0,4,TypeScript,1342,1,1,10,0,219,3,0,86
-pedrinholemes/john-bot,https://github.com/pedrinholemes/john-bot,False,2020-12-29 23:04:24,"['discord-bot', 'discord-js', 'discord-js-bot', 'discord', 'bot', 'moderation-bot', 'moderation', 'utility', 'utility-bot', 'fun']",9,1,1,6,3,TypeScript,1111,8,8,10,6,50,3,0,38
-AlexzanderFlores/WOKCommands-v2,https://github.com/AlexzanderFlores/WOKCommands-v2,False,2022-09-22 21:22:39,[],8,4,4,0,1,TypeScript,89,4,1,2,0,12,0,0,0
-aboisvert/thermopi,https://github.com/aboisvert/thermopi,False,2018-02-23 23:04:16,"['nim-lang', 'raspberry-pi', 'pi-zero-w', 'temperature-control', 'temperature-monitoring', 'temperature-measurement']",16,2,1,0,1,Nim,330,0,0,3,0,178,0,0,0
-replugged-org/replugged-backend,https://github.com/replugged-org/replugged-backend,False,2022-07-27 18:47:56,[],6,0,1,0,4,TypeScript,1037,0,0,4,0,65,0,0,0
-SherRao/KaraokeBot,https://github.com/SherRao/KaraokeBot,False,2021-01-16 03:47:50,"['discord', 'javascript', 'bot', 'music', 'karaoke']",12,2,5,0,4,JavaScript,64425,2,2,4,0,61,0,0,0
-accord-dot-app/app,https://github.com/accord-dot-app/app,False,2020-09-26 21:08:57,"['discord', 'discord-clone', 'angular', 'websocket', 'discord-chat']",127,11,69,0,2,TypeScript,27327,6,1,5,0,868,0,0,52
-mgerb/classic-wow-forums,https://github.com/mgerb/classic-wow-forums,False,2018-01-01 02:20:19,[],9,2,1,0,1,Elixir,1514,3,3,5,4,80,0,0,0
-Gelbpunkt/IdleRPG,https://github.com/Gelbpunkt/IdleRPG,False,2019-01-22 14:48:16,"['discord-bot', 'discord-py', 'rpg', 'text-adventure']",161,15,61,3,24,Python,226545,44,0,4,21,3061,46,0,0
-chamburr/twilight-dispatch,https://github.com/chamburr/twilight-dispatch,False,2020-11-25 10:47:56,"['discord', 'discord-api']",30,6,10,13,4,Rust,321,1,0,1,13,146,0,0,0
-suvanl/delet3,https://github.com/suvanl/delet3,False,2020-01-13 16:25:19,"['discord-bot', 'discord-js', 'nodejs']",7,3,0,0,2,JavaScript,1834,3,0,3,0,901,7,0,0
-wulkanowy/discord-bot,https://github.com/wulkanowy/discord-bot,False,2018-12-10 20:50:17,"['js', 'discord-bot', 'discord-js', 'hacktoberfest']",15,4,6,0,9,TypeScript,643,6,5,6,0,228,2,0,165
-Les-Laboratoires-JS/lab-tools,https://github.com/Les-Laboratoires-JS/lab-tools,False,2020-09-21 19:41:29,[],5,2,2,1,1,TypeScript,727,0,0,9,1,261,1,0,0
-adriansteffan/DiscordJockey,https://github.com/adriansteffan/DiscordJockey,False,2018-05-16 21:07:33,"['discord', 'music', 'discord-py', 'bot', 'discord-bot', 'python', 'currently-broken']",35,2,15,0,1,Python,96317,6,0,1,0,30,0,0,0
-tdu21-discord/tdu21-discord-bot,https://github.com/tdu21-discord/tdu21-discord-bot,False,2021-01-08 10:58:47,[],12,2,0,0,2,TypeScript,262,2,0,4,0,193,0,0,0
-Statsify/statsify,https://github.com/Statsify/statsify,False,2022-01-14 02:09:48,"['hypixel', 'discord-bot', 'minecraft', 'statsify', 'discord', 'statisfy', 'hypixel-bot']",36,6,8,49,9,TypeScript,16560,26,16,18,53,439,71,0,461
-stpain/guildbook,https://github.com/stpain/guildbook,False,2020-09-06 11:30:34,[],6,4,9,3,3,Lua,19120,49,0,4,167,420,3,0,0
-davidffa/D4rkBot,https://github.com/davidffa/D4rkBot,False,2020-09-01 17:58:04,[],27,3,6,0,3,TypeScript,74156,0,0,3,0,902,0,0,668
-pikaninja/RoboDannyEnhcanced,https://github.com/pikaninja/RoboDannyEnhcanced,False,2020-11-26 05:14:34,['bot'],13,2,5,0,6,Python,354,1,1,3,0,91,0,0,0
-codea-live/dclone,https://github.com/codea-live/dclone,False,2021-07-22 20:05:32,"['discord-clone', 'discord', 'react-discord', 'redux', 'redux-app', 'typescript', 'nodejs', 'telegram']",49,1,30,0,2,TypeScript,6885,0,0,9,0,294,0,0,11
-Noob-Coders-Gang/Chintu-Bot,https://github.com/Noob-Coders-Gang/Chintu-Bot,False,2021-04-25 15:04:13,"['discordpy', 'discord', 'discordbot', 'discord-bot', 'python', 'chintu', 'mongodb', 'hacktoberfest', 'hacktoberfest2021']",18,0,9,0,5,Python,3263,3,3,4,0,252,0,0,275
-Barabasi-Lab/COVID-19,https://github.com/Barabasi-Lab/COVID-19,False,2021-02-25 01:15:33,"['drug-repurposing', 'network-analysis', 'network-medicine']",18,4,11,0,2,Python,9783,1,0,1,0,6,0,0,0
-AndreMor8/dashboard,https://github.com/AndreMor8/dashboard,False,2020-08-02 17:32:31,"['dashboard', 'discord', 'bot-dashboard', 'mongodb', 'express', 'vue', 'vuejs', 'vue2']",22,1,5,0,4,Vue,854,19,18,20,0,229,1,0,114
-Yes-Theory-Fam/yesbot-ts,https://github.com/Yes-Theory-Fam/yesbot-ts,False,2019-12-27 20:49:04,['hacktoberfest'],30,4,19,41,19,TypeScript,2697,38,5,28,41,1213,2,0,0
-gar1t/tensorflow-workshop,https://github.com/gar1t/tensorflow-workshop,False,2018-05-17 12:25:17,[],7,3,2,0,0,Python,1283,5,0,1,0,31,0,0,0
-Darshansol9/News_Articles_Sentiment_Analysis,https://github.com/Darshansol9/News_Articles_Sentiment_Analysis,False,2019-11-16 01:25:09,[],8,3,2,0,4,,192467,0,0,3,0,56,0,0,0
-UP929312/CommunityAPI,https://github.com/UP929312/CommunityAPI,False,2021-05-31 20:32:04,[],7,1,8,0,3,Python,3666,1,0,1,0,209,0,0,0
-Kruhlmann/classicdb_bot,https://github.com/Kruhlmann/classicdb_bot,False,2019-02-14 16:09:42,"['nodejs', 'discord', 'typescript', 'world-of-warcraft-classic', 'wow-classic', 'world-of-warcraft', 'discord-bot', 'bot']",12,2,6,3,4,HTML,12247,0,0,2,3,436,0,0,0
-rreemmii-dev/Clash-Of-Clans-Discord-Bot,https://github.com/rreemmii-dev/Clash-Of-Clans-Discord-Bot,False,2021-02-13 14:07:19,"['clash-of-clans', 'discord-bot', 'discord-py', 'discord']",8,3,8,0,1,Python,254741,0,0,2,0,3,0,0,1
-bot-ts/framework,https://github.com/bot-ts/framework,False,2020-11-11 02:05:08,"['discord', 'discordjs', 'discordbot', 'typescipt', 'cli-app', 'easy']",25,2,4,5,4,TypeScript,813,3,1,13,5,516,0,0,0
-jackyko1991/Medical-Image-Classifier,https://github.com/jackyko1991/Medical-Image-Classifier,False,2019-10-09 03:09:04,[],6,2,1,0,1,Python,319,0,0,1,0,71,0,0,0
-FadTheChad/FadBot,https://github.com/FadTheChad/FadBot,False,2021-09-13 11:41:13,"['open', 'source', 'discord', 'discord-bot', 'nodejs', 'typescript-bot', 'discord-js', 'd-js']",10,2,1,0,2,TypeScript,2968,0,0,1,0,272,0,0,0
-skidghoul/IceyGuilded,https://github.com/skidghoul/IceyGuilded,False,2022-06-14 17:21:11,"['guilded', 'guilded-api', 'guilded-gg']",7,1,1,0,1,Python,10,0,0,1,0,11,0,0,0
-StudyLions/StudyLion,https://github.com/StudyLions/StudyLion,False,2021-10-19 12:30:06,"['discord', 'study', 'todolist', 'pomodoro-timer', 'productivity']",42,2,12,0,4,Python,572,3,1,7,0,398,0,0,0
-Member-Counter/bot,https://github.com/Member-Counter/bot,False,2019-03-15 10:53:58,"['discord', 'bots', 'mongoose', 'eris', 'typescript', 'multilanguage', 'mit-license', 'utility', 'member-counter', 'bot', 'online-players', 'mongodb', 'redis', 'docker', 'discord-bot']",125,5,33,0,12,TypeScript,8295,8,0,8,49,2790,0,0,75
-sizedev/SizeBot,https://github.com/sizedev/SizeBot,False,2019-12-10 02:55:55,[],5,4,3,0,4,Python,2874,57,0,4,21,2667,0,0,0
-headcounter/shabitica,https://github.com/headcounter/shabitica,False,2018-04-03 02:17:02,"['nix', 'nixos', 'nixos-service', 'habitica', 'self-hosted']",122,11,11,0,1,Nix,1858,4,0,1,0,415,2,0,0
-lidofinance/scripts,https://github.com/lidofinance/scripts,False,2021-04-12 13:01:12,[],8,22,5,0,15,Python,1247,5,4,15,0,712,0,0,0
-Drelf2018/Nana7miBot,https://github.com/Drelf2018/Nana7miBot,False,2022-07-21 14:49:24,[],5,1,0,0,1,Python,40774,0,0,2,0,157,0,0,0
-The-Tavern-Bot/TheTavernBot,https://github.com/The-Tavern-Bot/TheTavernBot,False,2019-09-29 09:08:07,[],4,2,1,0,6,Python,821,1,1,3,2,334,0,0,0
-garysieling/wikipedia-categorization,https://github.com/garysieling/wikipedia-categorization,False,2018-09-18 12:50:30,[],16,4,17,0,1,,1734402,0,0,1,0,30,0,0,0
-Pincer-org/bot,https://github.com/Pincer-org/bot,False,2021-08-31 22:04:19,"['pincer', 'pincer-bot', 'pincer-py', 'discord-bot', 'python-bot', 'python3', 'python39', 'discordapi', 'pincer-client', 'discord-client']",5,2,2,0,3,Python,75,0,0,1,0,109,0,0,0
-Damowerko/opf,https://github.com/Damowerko/opf,False,2019-10-20 16:39:08,[],6,1,6,0,1,Jupyter Notebook,50327,1,0,2,0,93,0,0,0
-Timeraa/FluffCord,https://github.com/Timeraa/FluffCord,False,2020-06-01 14:47:52,"['deno', 'discord', 'discordapi', 'fast']",7,1,0,2,1,TypeScript,123,1,0,1,2,21,0,0,0
-wrkzcoin/TipBot,https://github.com/wrkzcoin/TipBot,False,2019-03-16 02:25:38,"['discord', 'tipbot', 'cryptonote', 'bitcoin', 'telegram', 'bot', 'wrkzcoin', 'cryptocurrency', 'dogecoin', 'monero', 'decentralized']",55,8,31,4,4,Python,9745,3,0,3,4,937,16,0,0
-SpartanPlume/Tosurnament,https://github.com/SpartanPlume/Tosurnament,False,2017-11-09 06:26:14,[],7,2,7,0,5,Python,1588,14,5,7,0,412,0,0,0
-ChillFish8/Crunchy,https://github.com/ChillFish8/Crunchy,False,2020-06-01 13:22:37,"['anime', 'crunchyroll', 'discord-bot', 'python']",13,3,3,1,1,Python,1140,0,0,1,1,403,0,0,0
-powercord-org/powercord-backend,https://github.com/powercord-org/powercord-backend,False,2018-11-30 20:36:21,[],106,5,16,0,3,TypeScript,11627,2,1,4,0,392,1,0,0
-ddysher/arsenal,https://github.com/ddysher/arsenal,False,2019-02-10 13:52:13,"['cloud', 'machine-learning', 'notes']",26,4,8,0,1,Jsonnet,50689,4,4,5,0,2,0,0,0
-pbshgthm/theunstoppableshop,https://github.com/pbshgthm/theunstoppableshop,False,2021-11-24 20:56:03,[],13,2,5,0,2,TypeScript,27321,0,0,7,0,81,24,0,208
-KhoomeiK/MindMapResearch,https://github.com/KhoomeiK/MindMapResearch,False,2020-01-09 01:14:17,[],8,4,2,0,3,Jupyter Notebook,586259,0,0,2,0,56,0,0,0
-dream-team-eth-nyc/hackhouse-dreamteam-ethnyc2022,https://github.com/dream-team-eth-nyc/hackhouse-dreamteam-ethnyc2022,False,2022-06-25 15:23:06,[],7,2,0,0,3,Solidity,15320,1,1,21,0,62,0,0,0
-PACHIPtr/PACHI_TUNGA_SF,https://github.com/PACHIPtr/PACHI_TUNGA_SF,False,2020-07-11 12:17:15,[],16,8,64,0,2,,2372583,0,0,1,0,11,1,0,0
-vare-team/sdc-bot,https://github.com/vare-team/sdc-bot,False,2019-09-06 22:21:36,[],6,1,3,0,2,JavaScript,148,1,1,4,0,49,0,0,0
-nyxweb/server,https://github.com/nyxweb/server,False,2020-01-15 18:17:44,[],8,4,6,0,5,TypeScript,4618,13,13,14,0,86,0,0,0
-Ailitonia/omega-miya,https://github.com/Ailitonia/omega-miya,False,2020-11-18 13:13:04,[],212,6,45,19,2,Python,605304,11,0,2,25,777,3,0,0
-nyxweb/client,https://github.com/nyxweb/client,False,2020-01-15 18:13:58,[],10,7,8,0,5,TypeScript,18439,19,19,20,0,77,0,0,0
-benrucker/JermaBot,https://github.com/benrucker/JermaBot,False,2019-06-06 20:03:51,"['discord-py', 'discord-bot', 'tts', 'discord']",5,3,0,0,2,Python,119482,16,0,4,0,522,1,0,58
-mikeyaworski/Utility-Discord-Bot,https://github.com/mikeyaworski/Utility-Discord-Bot,False,2020-12-02 17:25:54,[],7,1,33,0,2,TypeScript,1037,17,0,3,0,407,0,0,154
-thm-community/thm-discord-bot,https://github.com/thm-community/thm-discord-bot,False,2019-05-15 22:37:27,"['hacktoberfest', 'tryhackme', 'thm', 'bot', 'discord']",8,2,54,0,19,Python,1141,19,1,1,0,557,0,0,0
-nano-shino/genshinhelper,https://github.com/nano-shino/genshinhelper,False,2021-11-28 14:42:10,"['genshin', 'genshin-impact', 'discord-bot']",18,1,5,0,1,Python,15733,3,0,3,0,125,2,0,19
-madou/armory-component-ui,https://github.com/madou/armory-component-ui,False,2017-10-03 23:06:20,"['gw2', 'guildwars2', 'react', 'component']",12,4,6,0,2,JavaScript,8973,30,21,23,23,126,0,0,60
-synzen/MonitoRSS-Web,https://github.com/synzen/MonitoRSS-Web,False,2020-03-20 17:00:56,[],43,3,25,0,5,JavaScript,26492,12,4,7,0,665,0,0,0
-TheKaushikGoswami/SPIKE-Discord-Bot,https://github.com/TheKaushikGoswami/SPIKE-Discord-Bot,False,2021-04-16 06:43:45,"['spike', 'discord', 'bot', 'bots', 'botsfordiscord', 'discord-bot', 'discord-py', 'discordbot', 'discordapp', 'multiple', 'spike-discord-bot', 'discord-experience']",6,1,3,4,1,Python,240,0,0,1,5,31,0,0,0
-cryptojobslist/discord-bot,https://github.com/cryptojobslist/discord-bot,False,2022-02-03 06:48:58,[],5,1,4,0,2,TypeScript,394,3,2,4,0,66,0,0,59
-bpierre/loot-rarity,https://github.com/bpierre/loot-rarity,False,2021-08-29 02:37:30,[],475,12,47,1,1,TypeScript,606,1,0,2,10,61,20,0,33
-vare-team/nika,https://github.com/vare-team/nika,False,2019-09-06 22:21:58,[],10,3,2,0,4,JavaScript,295,3,3,5,0,22,0,0,0
-duck-dynasty/duckbot,https://github.com/duck-dynasty/duckbot,False,2020-12-03 15:39:54,[],9,4,10,0,7,Python,5609,36,1,2,0,484,1,0,0
-Discall-Development/Discall,https://github.com/Discall-Development/Discall,False,2022-05-20 13:57:24,[],21,3,4,0,3,JavaScript,4079,0,0,1,0,195,0,0,5
-Trimatix/BASED,https://github.com/Trimatix/BASED,False,2020-12-04 10:47:19,"['discord', 'bot', 'python', 'template-project']",5,1,5,7,1,Python,300,37,0,1,8,365,0,0,0
-Servatom/Notion-DiscordBot,https://github.com/Servatom/Notion-DiscordBot,False,2021-06-30 19:36:09,"['discord-bot', 'notion-api', 'notion-database', 'python3', 'docker', 'heroku-deployment', 'heroku', 'google-drive', 'hacktoberfest']",52,1,11,0,5,Python,2714,2,0,5,0,274,0,0,50
-DiscordGIR/Bloo,https://github.com/DiscordGIR/Bloo,False,2021-10-29 23:53:44,[],33,1,13,0,10,Python,5456,0,0,6,0,607,0,0,0
-AxerBot/axer-bot,https://github.com/AxerBot/axer-bot,False,2022-01-31 21:12:55,"['bot', 'typescript', 'osu', 'osu-bot', 'discord-bot', 'discord-js', 'open-source', 'osu-api']",10,1,4,0,7,TypeScript,2553,7,0,7,0,720,2,0,67
-luisito666/Mt2Web.py,https://github.com/luisito666/Mt2Web.py,False,2017-11-12 04:55:07,"['metin2', 'cms', 'django', 'python', 'webgame', 'docker']",8,1,5,1,2,JavaScript,21352,2,2,5,1,114,0,0,0
-tekoh/nypsi,https://github.com/tekoh/nypsi,False,2020-02-16 20:15:50,"['discordjs', 'nodejs', 'bot', 'minecraft', 'gambling', 'moderation', 'economy', 'countdown', 'discord', 'wordle']",46,0,16,1,11,TypeScript,9421,2,2,3,1,5191,3,0,75
-dolfies/patchcord,https://github.com/dolfies/patchcord,False,2022-07-12 22:39:54,[],36,2,9,0,24,Python,2058,3,1,2,0,1779,1,0,0
-guilhermecapitao/discord-bot-template,https://github.com/guilhermecapitao/discord-bot-template,False,2021-08-09 18:55:39,[],5,2,2,0,1,TypeScript,96,0,0,1,0,1,0,0,0
-ulubey4242/Astra2-Files,https://github.com/ulubey4242/Astra2-Files,False,2020-06-25 18:52:54,[],5,4,14,0,1,C++,2109239,0,0,1,0,7,0,0,0
-yagomichalak/sloth-bot,https://github.com/yagomichalak/sloth-bot,False,2020-09-13 15:35:06,[],27,1,14,0,9,Python,289586,5,1,8,0,4089,0,0,714
-dank-tagg/Groot,https://github.com/dank-tagg/Groot,False,2021-04-25 14:02:50,"['discord', 'bot', 'discord-bot', 'discord-py', 'dpy']",15,1,7,0,5,Python,1732,1,1,1,0,344,0,0,6
-Charlotte-Kosche-Thesis/patreon-scraper,https://github.com/Charlotte-Kosche-Thesis/patreon-scraper,False,2018-05-30 22:38:28,[],11,4,13,0,1,,297795,0,0,1,0,18,0,0,0
-bobbybaxter/swgoh-counters,https://github.com/bobbybaxter/swgoh-counters,False,2019-07-28 16:41:31,"['star-wars', 'swgoh', 'star-wars-galaxy-of-heroes']",22,5,7,0,2,JavaScript,18523,0,0,18,0,233,0,0,45
-Drithyl/MrClockwork-v4,https://github.com/Drithyl/MrClockwork-v4,False,2020-10-15 17:32:36,[],13,2,8,0,6,JavaScript,5061,5,1,7,0,895,0,0,0
-DeleterBot/deleter-v2,https://github.com/DeleterBot/deleter-v2,False,2020-12-17 11:50:27,"['discord', 'nodejs', 'typescript', 'bot']",15,3,3,0,4,TypeScript,295,1,0,1,0,121,2,0,0
-DavidHewWing/singed-tracker,https://github.com/DavidHewWing/singed-tracker,False,2022-02-13 22:53:43,[],5,1,0,0,1,Python,1034,3,3,5,0,40,0,0,0
-FreeStuffBot/FreeStuff,https://github.com/FreeStuffBot/FreeStuff,False,2020-04-02 10:16:44,"['discord-bot', 'discord', 'bot']",101,3,15,0,5,TypeScript,2611,5,2,7,0,690,2,0,0
-architus/architus,https://github.com/architus/architus,False,2018-09-13 00:29:49,"['discord', 'bot', 'python', 'discord-py']",28,3,11,4,10,Python,10604,40,21,54,4,834,0,0,0
-shayypy/guilded.py,https://github.com/shayypy/guilded.py,False,2020-07-29 04:39:31,"['python', 'guilded', 'guilded-api', 'guilded-bot', 'aiohttp']",106,5,22,0,9,Python,1831,2,0,1,3,436,3,0,0
-Brainicism/KMQ_Discord,https://github.com/Brainicism/KMQ_Discord,False,2018-11-08 02:42:18,"['discord', 'kpop-guessing-game', 'song', 'kpop', 'bot', 'discord-bot', 'game', 'eris', 'knex', 'mysql', 'typescript', 'hacktoberfest']",32,4,10,33,9,TypeScript,21972,21,7,24,96,1940,7,0,842
-davidhozic/discord-advertisement-framework,https://github.com/davidhozic/discord-advertisement-framework,False,2021-11-19 20:16:56,"['discord', 'python', 'nft', 'shillbot', 'shill', 'python3', 'bot', 'promotion', 'advertisement', 'advert', 'discord-api', 'discord-bot']",17,3,3,14,1,Python,10137,6,0,3,22,587,0,0,46
-nextml-code/template-nvae,https://github.com/nextml-code/template-nvae,False,2020-08-27 13:06:32,"['nvae', 'pytorch', 'generative-model']",16,4,1,0,1,Python,7568,3,2,4,0,42,0,0,0
-Compositr/scamlog,https://github.com/Compositr/scamlog,False,2022-07-11 06:05:06,"['antiscam', 'nextjs', 'scam', 'typescript']",5,1,4,0,5,TypeScript,3722,0,0,1,0,223,59,0,68
-bender-devs/Bender-v4,https://github.com/bender-devs/Bender-v4,False,2021-07-04 19:51:24,[],6,0,2,0,3,TypeScript,701,2,2,3,0,171,0,0,0
-al6/diskord,https://github.com/al6/diskord,False,2020-02-04 04:08:35,[],14,3,11,0,2,JavaScript,23675,9,8,13,0,506,0,0,239
-cjbayron/autochord,https://github.com/cjbayron/autochord,False,2021-04-20 19:34:30,"['music-information-retrieval', 'chord-recognition', 'machine-learning', 'deep-learning', 'mir', 'chord-estimation']",25,2,0,0,1,Jupyter Notebook,3496,0,0,3,0,65,0,0,1
-olliNiinivaara/GuildenStern,https://github.com/olliNiinivaara/GuildenStern,False,2020-05-05 12:10:07,"['web', 'server', 'http', 'websockets']",45,7,4,12,2,Nim,2528,1,0,1,12,120,0,0,31
+Link
+https://github.com/deepopinion/greedy-layer-pruning
+https://github.com/stuyy/nextjs-discord-dashboard-express
+https://github.com/Cactiw/Dark-Desire-Order-Bot
+https://github.com/mrtolkien/inhouse_bot
+https://github.com/Corsace/Corsace
+https://github.com/Maselkov/GW2Bot
+https://github.com/ZynerOrg/xyter
+https://github.com/DLR-SC/repository-synergy
+https://github.com/Khaaz/AxonCore
+https://github.com/reddit-diabetes/diabot
+https://github.com/emisdumb/tau
+https://github.com/fosscord/fosscord-server
+https://github.com/STE4LTHB0T/Spike-8670
+https://github.com/afterIife/sources
+https://github.com/tenjinlab/whitelistPy
+https://github.com/DiscordGIR/GIRRewrite
+https://github.com/emreg00/toolbox
+https://github.com/bbcmicrobit/prototype
+https://github.com/Xx-Mohit-xX/Simply-eco
+https://github.com/DGD-Studio/anime-tracker
+https://github.com/orden-gg/fireball
+https://github.com/vegastrike/Assets-Production
+https://github.com/tencent-connect/botpy
+https://github.com/renatodex/fabulas-e-goblins
+https://github.com/jinxiaoye1987/RyzomCore
+https://github.com/aquarion/Lifestream
+https://github.com/charmverse/app.charmverse.io
+https://github.com/PennyDreadfulMTG/Penny-Dreadful-Tools
+https://github.com/Raptor123471/DingoLingo
+https://github.com/dank074/arcturus-tools
+https://github.com/AndreMor8/gidget
+https://github.com/osgcc/ryzom
+https://github.com/lockwooddev/python-wowapi
+https://github.com/langsci/144
+https://github.com/TeamDmod/dmod
+https://github.com/Jacobvs/Rotmg-Discord-Bot
+https://github.com/guildai/_examples
+https://github.com/Pycord-Development/pycord
+https://github.com/idooo/tweeria
+https://github.com/sebaubuntu-python/telegramma
+https://github.com/ninjiez/discord_spybot
+https://github.com/sparkslabs/guild
+https://github.com/ngenator/guildwars2api
+https://github.com/jokersus/Euphemia
+https://github.com/jardiacaj/finem_imperii
+https://github.com/Feeeeddmmmeee/ICBot
+https://github.com/Aewait/Kook-Valorant-Bot
+https://github.com/jukiewiczm/kaggle-predict-future-sales
+https://github.com/DuroCodes/Suta
+https://github.com/clear-nus/VT_SNN
+https://github.com/Dubiish/discord-private-rooms-bot
+https://github.com/Voxel-Fox-Ltd/MarriageBot
+https://github.com/mbnunes/Wolfpack-Qt5
+https://github.com/midblue/timezone-bot
+https://github.com/dxc-technology/DXC-Industrialized-AI-Starter
+https://github.com/chamburr/modmail
+https://github.com/hikari-py/hikari
+https://github.com/tylerbutler/tylerbutler.com
+https://github.com/CircuitSacul/Starboard-3
+https://github.com/ct-bess/Bean-Stalk
+https://github.com/khaledxyz/Valkyrie
+https://github.com/LostLuma/Mousey
+https://github.com/jamieTardi/wow-rosters
+https://github.com/tcprescott/sahasrahbot
+https://github.com/fla-sil/PyTorrent
+https://github.com/Kile/Killua
+https://github.com/Finn-Discord-Bot/finn
+https://github.com/MislavSag/trademl
+https://github.com/climu/OSR-discord-bot
+https://github.com/ApexieCommunity/Plenus
+https://github.com/pedrogiampietro/Hati
+https://github.com/WoodNeck/siamese
+https://github.com/TheDrone7/descord
+https://github.com/aero-ware/aero-bot
+https://github.com/pedrinholemes/john-bot
+https://github.com/AlexzanderFlores/WOKCommands-v2
+https://github.com/superfff/ctrip
+https://github.com/aboisvert/thermopi
+https://github.com/replugged-org/replugged-backend
+https://github.com/SherRao/KaraokeBot
+https://github.com/accord-dot-app/app
+https://github.com/mgerb/classic-wow-forums
+https://github.com/Gelbpunkt/IdleRPG
+https://github.com/chamburr/twilight-dispatch
+https://github.com/suvanl/delet3
+https://github.com/wulkanowy/discord-bot
+https://github.com/Les-Laboratoires-JS/lab-tools
+https://github.com/adriansteffan/DiscordJockey
+https://github.com/anacrolix/archive
+https://github.com/tdu21-discord/tdu21-discord-bot
+https://github.com/Statsify/statsify
+https://github.com/menglewis/guildwars2api
+https://github.com/stpain/guildbook
+https://github.com/davidffa/D4rkBot
+https://github.com/9miao/firefly_fengyan_OL
+https://github.com/pikaninja/RoboDannyEnhcanced
+https://github.com/ermo/privateer_wcu
+https://github.com/codea-live/dclone
+https://github.com/Noob-Coders-Gang/Chintu-Bot
+https://github.com/Barabasi-Lab/COVID-19
+https://github.com/AndreMor8/dashboard
+https://github.com/guildai/guildai
+https://github.com/Yes-Theory-Fam/yesbot-ts
+https://github.com/ivanhawkes/Chrysalis
+https://github.com/gar1t/tensorflow-workshop
+https://github.com/Darshansol9/News_Articles_Sentiment_Analysis
+https://github.com/UP929312/CommunityAPI
+https://github.com/Kruhlmann/classicdb_bot
+https://github.com/rreemmii-dev/Clash-Of-Clans-Discord-Bot
+https://github.com/gmaurer/DnD-5e-Character-generator
+https://github.com/bot-ts/framework
+https://github.com/jackyko1991/Medical-Image-Classifier
+https://github.com/FadTheChad/FadBot
+https://github.com/skidghoul/IceyGuilded
+https://github.com/StudyLions/StudyLion
+https://github.com/Member-Counter/bot
+https://github.com/sizedev/SizeBot
+https://github.com/headcounter/shabitica
+https://github.com/lidofinance/scripts
+https://github.com/Drelf2018/Nana7miBot
+https://github.com/The-Tavern-Bot/TheTavernBot
+https://github.com/garysieling/wikipedia-categorization
+https://github.com/Pincer-org/bot
+https://github.com/Damowerko/opf
+https://github.com/Timeraa/FluffCord
+https://github.com/wrkzcoin/TipBot
+https://github.com/SpartanPlume/Tosurnament
+https://github.com/ChillFish8/Crunchy
+https://github.com/powercord-org/powercord-backend
+https://github.com/ddysher/arsenal
+https://github.com/Fuyukai/curious
+https://github.com/pbshgthm/theunstoppableshop
+https://github.com/KhoomeiK/MindMapResearch
+https://github.com/lu-ci/apex-sigma-core
+https://github.com/dream-team-eth-nyc/hackhouse-dreamteam-ethnyc2022
+https://github.com/PACHIPtr/PACHI_TUNGA_SF
+https://github.com/vare-team/sdc-bot
+https://github.com/s0hv/Not-a-bot
+https://github.com/madou/armory-ng
+https://github.com/nyxweb/server
+https://github.com/Ailitonia/omega-miya
+https://github.com/RealUI/RealUI-Old
+https://github.com/nyxweb/client
+https://github.com/benrucker/JermaBot
+https://github.com/mikeyaworski/Utility-Discord-Bot
+https://github.com/martysama0134/how-to-cython-mt2
+https://github.com/thm-community/thm-discord-bot
+https://github.com/makigas/makibot
+https://github.com/DXsmiley/mathbot
+https://github.com/nano-shino/genshinhelper
+https://github.com/madou/armory-component-ui
+https://github.com/synzen/MonitoRSS-Web
+https://github.com/phetsims/sherpa
+https://github.com/vincent-lg/tsunami
+https://github.com/TheKaushikGoswami/SPIKE-Discord-Bot
+https://github.com/cryptojobslist/discord-bot
+https://github.com/anacrolix/various
+https://github.com/ryzom/ryzomcore
+https://github.com/bpierre/loot-rarity
+https://github.com/vare-team/nika
+https://github.com/duck-dynasty/duckbot
+https://github.com/slice/dogbot
+https://github.com/Discall-Development/Discall
+https://github.com/Trimatix/BASED
+https://github.com/Servatom/Notion-DiscordBot
+https://github.com/DiscordGIR/Bloo
+https://github.com/AxerBot/axer-bot
+https://github.com/luisito666/Mt2Web.py
+https://github.com/tekoh/nypsi
+https://github.com/dolfies/patchcord
+https://github.com/guilhermecapitao/discord-bot-template
+https://github.com/ulubey4242/Astra2-Files
+https://github.com/yagomichalak/sloth-bot
+https://github.com/dank-tagg/Groot
+https://github.com/Charlotte-Kosche-Thesis/patreon-scraper
+https://github.com/bobbybaxter/swgoh-counters
+https://github.com/Drithyl/MrClockwork-v4
+https://github.com/DeleterBot/deleter-v2
+https://github.com/DavidHewWing/singed-tracker
+https://github.com/FreeStuffBot/FreeStuff
+https://github.com/architus/architus
+https://github.com/moaradwan/twitter_word2vec
+https://github.com/FRCDiscord/Dozer
+https://github.com/shayypy/guilded.py
+https://github.com/Brainicism/KMQ_Discord
+https://github.com/DeJayDev/speedboat
+https://github.com/davidhozic/discord-advertisement-framework
+https://github.com/tonyhack/buzz-server
+https://github.com/nextml-code/template-nvae
+https://github.com/Taose/Vegastrike-taose
+https://github.com/Compositr/scamlog
+https://github.com/bender-devs/Bender-v4
+https://github.com/al6/diskord
+https://github.com/cjbayron/autochord
+https://github.com/olliNiinivaara/GuildenStern

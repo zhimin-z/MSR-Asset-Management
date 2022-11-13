@@ -1,242 +1,266 @@
-Repo,Link,Archived,Creation Date,Topics,#Star,#Watch,#Fork,#Releases,#Contributors,Languages,Size,#Open Issues,#Pull Requests,#Branches,#Tags,#Commits,#Comments,#Downloads,#Deployments,,,,,,
-iseekwonderful/HPA-singlecell-2nd-dual-head-pipeline,https://github.com/iseekwonderful/HPA-singlecell-2nd-dual-head-pipeline,FALSE,5/25/2021 2:43,['hpa-challenge-2021'],11,1,2,1,1,Python,3421,1,0,1,1,5,0,0,0,,,,,,
-PyTorchKorea/lightning-docs-kr,https://github.com/PyTorchKorea/lightning-docs-kr,FALSE,12/26/2021 5:18,"['pytorch', 'pytorchlightning']",5,1,1,1,1,Jupyter Notebook,27255,7,2,3,1,13,0,0,7,,,,,,
-VisionLearningGroup/SND,https://github.com/VisionLearningGroup/SND,FALSE,8/14/2021 16:56,[],10,2,1,0,1,Python,592,0,0,1,0,17,0,0,0,,,,,,
-Lightning-AI/lightning,https://github.com/Lightning-AI/lightning,FALSE,3/31/2019 0:45,"['python', 'deep-learning', 'artificial-intelligence', 'ai', 'pytorch', 'data-science', 'machine-learning']",20441,227,2622,110,449,Python,114084,671,133,258,157,7959,52,0,117,,,,,,
-Ascend/ModelZoo-PyTorch,https://github.com/Ascend/ModelZoo-PyTorch,FALSE,4/20/2022 4:11,[],7,6,5,0,213,Python,54600,2,1,2,4,3026,0,0,0,,,,,,
-belskikh/kekas,https://github.com/belskikh/kekas,FALSE,8/12/2018 10:34,"['pytorch', 'deep-learning', 'neural-networks', 'kek']",183,12,19,6,8,Python,589,2,0,5,14,219,0,0,0,,,,,,
-noagarcia/ArtVQA,https://github.com/noagarcia/ArtVQA,FALSE,8/28/2020 4:12,[],14,2,4,0,2,Python,26616,1,0,2,0,36,0,0,0,,,,,,
-RUCAIBox/TextBox,https://github.com/RUCAIBox/TextBox,FALSE,11/8/2020 7:35,"['text-generation', 'natural-language-processing', 'deep-learning', 'pretrained-models', 'python', 'pytorch', 'seq2seq']",410,10,73,2,17,Python,15157,3,0,2,2,1167,0,0,0,,,,,,
-ds-wook/predict-meals,https://github.com/ds-wook/predict-meals,FALSE,6/3/2021 4:51, 'scikit-learn', 'pandas']",13,2,0,0,2,Jupyter Notebook,6899,0,0,3,0,12,0,0,0,,,,,
-IhabBendidi/IIC-SimCLR-MoCo-clusterer,https://github.com/IhabBendidi/IIC-SimCLR-MoCo-clusterer,FALSE,11/8/2021 12:57,[],9,1,0,0,1,Python,65,0,0,1,0,15,0,0,0,,,,,,
-fcakyon/video-transformers,https://github.com/fcakyon/video-transformers,FALSE,8/12/2022 13:52,"['classification', 'layer', 'machine-learning', 'neptune', 'onnx', 'onnxruntime', 'tensorboard', 'video', 'accelerate', 'evaluate', 'huggingface', 'pytorch', 'transformers', 'video-classification', 'wandb', 'deep-learning', 'python', 'pytorch-video', 'vision', 'video-transformer']",9,2,0,5,1,Python,61,0,0,1,5,18,0,0,0,,,,,,
-hate-alert/DE-LIMIT,https://github.com/hate-alert/DE-LIMIT,FALSE,1/27/2020 6:13,"['bert', 'laser-embeddings', 'classification', 'cnn-gru', 'hate-speech', 'multilingual']",90,8,16,0,3,Jupyter Notebook,21482,5,1,2,0,65,0,0,0,,,,,,
-FlorianWilhelm/lda4rec,https://github.com/FlorianWilhelm/lda4rec,FALSE,3/16/2021 7:12,"['recommender-system', 'python', 'explainability', 'interpretability', 'collaborative-filtering']",38,2,6,0,1,Jupyter Notebook,3274,0,0,4,2,125,0,0,0,,,,,,
-awarelab/continual_world,https://github.com/awarelab/continual_world,FALSE,7/12/2021 13:38,[],38,3,12,0,1,Python,6077,3,1,3,0,9,0,0,0,,,,,,
-neptune-ai/examples,https://github.com/neptune-ai/examples,FALSE,2/19/2021 11:23,"['mlops', 'pytorch', 'tensorflow', 'keras', 'optuna', 'fastai', 'lightgbm', 'xgboost', 'kedro', 'sacred', 'pandas', 'visualization', 'dashboard', 'ml', 'compare', 'pipelines', 'ci', 'cd', 'metadata', 'store']",25,10,11,0,11,Jupyter Notebook,15794,1,1,3,0,387,0,0,0,,,,,,
-VirtualRoyalty/gan-text-classification,https://github.com/VirtualRoyalty/gan-text-classification,FALSE,11/1/2021 9:34,"['gan', 'generative-adversarial-network', 'text-classification', 'nda', 'cgan', 'semi-supervised-learning', 'manifold-regularization']",5,1,0,0,1,Jupyter Notebook,3213,0,0,5,0,145,0,0,0,,,,,,
-jacopotagliabue/you-dont-need-a-bigger-boat,https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat,FALSE,5/26/2021 14:52,[],579,16,53,0,7,Python,652,1,1,15,0,240,0,0,0,,,,,,
-huggingface/doc-build,https://github.com/huggingface/doc-build,FALSE,1/13/2022 9:53,[],10,23,9,0,9,HTML,799065,2,2,11,0,12653,0,0,0,,,,,,
-YiLi225/NeptuneBlogs,https://github.com/YiLi225/NeptuneBlogs,FALSE,5/6/2021 17:00,[],20,3,12,0,1,Python,134,2,0,1,0,14,0,0,0,,,,,,
-khanhvu207/ddrl,https://github.com/khanhvu207/ddrl,FALSE,6/5/2021 13:21,"['reinforcement-learning', 'distributed-reinforcement-learning', 'ppo', 'vtrace', 'td-lambda', 'pytorch', 'openai-gym']",5,1,0,0,2,Jupyter Notebook,851,0,0,2,0,116,0,0,0,,,,,,
-neptune-ai/neptune-r,https://github.com/neptune-ai/neptune-r,FALSE,3/1/2020 11:14,"['tracker', 'r', 'language', 'monitoring', 'models', 'parameters', 'metrics', 'visualization', 'metadata', 'management', 'log', 'organize', 'compare', 'mlops', 'store']",8,13,3,5,6,R,249,0,0,3,5,94,0,0,0,,,,,,
-chiahsuan156/DST-as-Prompting,https://github.com/chiahsuan156/DST-as-Prompting,FALSE,9/9/2021 5:38,"['dialogue', 'dialogue-state-tracking', 'natural-language-processing', 'prompt-tuning', 'prompting', 'schema', 'seq2seq', 't5', 'task-oriented-dialogue']",36,4,9,0,1,Python,12602,3,0,1,0,18,0,0,0,,,,,,
-eldar/snes,https://github.com/eldar/snes,FALSE,7/18/2022 13:43,[],49,6,4,0,2,Jupyter Notebook,3212,1,0,1,0,5,0,0,0,,,,,,
-Solacex/CCM,https://github.com/Solacex/CCM,FALSE,7/2/2020 23:58,"['pytorch', 'eccv2020', 'domain-adaptation', 'semantic-segmentation']",88,3,10,0,2,Python,164,3,2,4,0,48,0,0,0,,,,,,
-hate-alert/CounterGEDI,https://github.com/hate-alert/CounterGEDI,FALSE,7/28/2020 6:18,"['counterspeech', 'classification', 'transformers', 'generation', 'dialog-generation', 'gedi', 'hatespeech', 'social-media']",6,3,0,0,3,Jupyter Notebook,6592,1,0,1,0,72,0,0,0,,,,,,
-chenghuige/wenzheng,https://github.com/chenghuige/wenzheng,FALSE,9/4/2018 7:50,[],582,20,215,0,1,Jupyter Notebook,31012,2,0,1,0,121,0,0,0,,,,,,
-LambdaLabsML/examples,https://github.com/LambdaLabsML/examples,FALSE,7/7/2022 13:06,[],343,10,45,0,3,Jupyter Notebook,43972,14,1,5,0,33,0,0,0,,,,,,
-theaiscope/aiscope,https://github.com/theaiscope/aiscope,FALSE,4/11/2018 14:11,"['malaria', 'disease', 'diseases', 'diagnosis', 'medical', 'health']",10,5,2,0,2,Jupyter Notebook,7140,0,0,1,0,4,0,0,0,,,,,,
-ds-wook/optiver-prediction,https://github.com/ds-wook/optiver-prediction,FALSE,7/22/2021 6:42,"['machine-learning', 'ensemble-learning', 'lightgbm', 'neural-network', 'tabnet', 'kaggle-competition', 'deep-learning', 'kaggle', 'tensorflow']",10,2,1,0,1,Python,7635,0,0,1,0,65,0,0,0,,,,,,
-pykeen/pykeen,https://github.com/pykeen/pykeen,FALSE,2/24/2020 7:26,"['knowledge-graph-embeddings', 'knowledge-graphs', 'machine-learning', 'link-prediction', 'knowledge-base-completion', 'pykeen', 'deep-learning', 'cuda', 'python', 'torch']",1008,24,138,17,31,Python,26961,89,24,45,17,2755,55,0,0,,,,,,
-tannguyen195/solarsystem,https://github.com/tannguyen195/solarsystem,FALSE,10/2/2021 9:44,[],7,1,5,0,1,JavaScript,78743,0,0,3,0,28,0,0,24,,,,,,
-catalyst-team/catalyst-rl,https://github.com/catalyst-team/catalyst-rl,FALSE,3/17/2020 9:29,[],44,4,4,0,1,Python,354,3,0,1,1,5,0,0,0,,,,,,
-laszukdawid/ai-traineree,https://github.com/laszukdawid/ai-traineree,FALSE,5/28/2020 3:27,"['ppo', 'reinforcement-learning', 'artificial-intelligence-algorithms', 'agents', 'ddpg', 'rainbow', 'dqn-pytorch', 'pytorch', 'multi-agents', 'deep']",24,2,5,4,2,Python,1368,5,0,1,5,210,0,0,0,,,,,,
-neptune-ai/neptune-examples,https://github.com/neptune-ai/neptune-examples,FALSE,3/18/2020 15:34,"['data-science', 'neptune', 'neptune-colab', 'google-colab', 'machine-learning', 'datascience', 'machine-learning-algorithms', 'deep-learning', 'deep-neural-networks', 'reinforcement-learning', 'neptune-platform', 'neptune-contrib']",25,9,13,0,6,Jupyter Notebook,7775,0,0,1,0,139,0,0,0,,,,,,
-tediko/planets-fact,https://github.com/tediko/planets-fact,FALSE,7/2/2021 10:18,[],69,2,22,0,1,JavaScript,590,3,1,1,0,132,0,0,0,,,,,,
-manavkapadnis/Enigma_ArgMining,https://github.com/manavkapadnis/Enigma_ArgMining,FALSE,6/25/2021 13:32,"['nlp', 'deep-learning', 'emnlp2021', 'transformers']",12,3,1,0,4,Jupyter Notebook,23342,0,0,2,0,71,0,0,0,,,,,,
-pkchat-focus/FoCus,https://github.com/pkchat-focus/FoCus,FALSE,1/12/2022 3:23,"['nlp', 'deep-learning', 'dialog', 'pytorch', 'chatbots', 'gpt2', 'bart', 'focus', 'conversational-ai', 'conversational-agents']",35,2,5,0,2,Python,640,1,0,1,0,39,0,0,0,,,,,,
-MohmedIkram/Hacktoberfest2021,https://github.com/MohmedIkram/Hacktoberfest2022,FALSE,10/3/2021 18:56,"['hacktoberfest', 'hacktoberfest2020', 'hacktoberfest2021', 'hacktoberfest-accepted', 'hacktober', 'javascript', 'reactjs', 'python', 'cpp', 'nodejs', 'java', 'vuejs', 'digitalocean', 'github', 'hacktoberfest2022']",137,1,665,0,456,JavaScript,191931,125,113,1,0,1248,1,0,0,,,,,,
-gmum/metstab-shap,https://github.com/gmum/metstab-shap,FALSE,4/30/2021 19:39,[],6,6,7,0,1,Python,477,0,0,1,0,6,0,0,0,,,,,,
-fumyou13/LDBE,https://github.com/fumyou13/LDBE,FALSE,7/9/2021 5:46,[],16,2,3,0,1,Python,4413,1,0,1,0,40,0,0,0,,,,,,
-keyonvafa/sequential-rationales,https://github.com/keyonvafa/sequential-rationales,FALSE,8/28/2021 21:54,[],32,3,2,0,1,Python,16947,0,0,1,0,43,0,0,0,,,,,,
-neptune-ai/neptune-contrib,https://github.com/neptune-ai/neptune-contrib,FALSE,1/22/2019 15:41,"['neptune', 'data-science', 'machine-learning', 'deep-learning', 'deep-reinforcement-learning', 'python', 'python3', 'neptune-platform', 'reinforcement-learning', 'integration', 'integrations']",26,11,9,80,12,Python,25518,0,0,3,85,200,0,0,0,,,,,,
-PacktPublishing/JupyterLab-Quick-Start-Guide,https://github.com/PacktPublishing/JupyterLab-Quick-Start-Guide,FALSE,9/17/2018 10:00,[],11,6,6,0,3,Jupyter Notebook,52,0,0,1,0,7,0,0,0,,,,,,
-m-bain/CondensedMovies-chall,https://github.com/m-bain/CondensedMovies-chall,FALSE,5/24/2021 14:31,[],11,2,0,0,2,Python,178,0,0,1,0,40,0,0,0,,,,,,
-VisionLearningGroup/OVANet,https://github.com/VisionLearningGroup/OVANet,FALSE,3/24/2021 13:43,[],60,3,11,0,1,Python,2362,2,0,1,0,17,0,0,0,,,,,,
-Tihi777/solar-system-react,https://github.com/Tihi777/solar-system-react,FALSE,11/21/2020 6:45,"['react', 'threejs', 'three-js', 'three', 'threejs-example', 'react-three-fiber', 'drei', 'solar-system', 'solar', 'solarsystem', 'space']",5,1,1,0,1,JavaScript,72672,0,0,1,0,15,0,0,0,,,,,,
-deephyper/deephyper,https://github.com/deephyper/deephyper,FALSE,11/6/2018 15:18,"['hyperparameter-search', 'automl', 'scalability', 'supercomputers', 'neural-architecture-search', 'deep-neural-networks', 'hyperparameter-optimization', 'autodl', 'neural-networks', 'python', 'ml', 'tensorflow', 'keras']",206,14,48,12,18,Python,44205,5,0,7,26,2413,6,0,0,,,,,,
-Adapter-Hub/adapter-transformers,https://github.com/adapter-hub/adapter-transformers,FALSE,4/21/2020 16:21,"['nlp', 'natural-language-processing', 'adapters', 'transformers', 'bert', 'pytorch']",1048,18,186,12,431,Python,72207,51,6,3,14,10964,0,0,51,,,,,,
-neptune-ai/neptune-client,https://github.com/neptune-ai/neptune-client,FALSE,2/11/2019 11:25,"['pytorch', 'keras', 'lightgbm', 'xgboost', 'optuna', 'tensorflow', 'mlops', 'ml', 'dl', 'rl', 'monitoring', 'versioning', 'repository', 'visualization', 'comparison', 'optimization', 'logging', 'logger', 'learning', 'machine']",335,15,33,118,26,Python,5843,23,11,21,159,1112,2,0,0,,,,,,
-amundsen-io/amundsendatabuilder,https://github.com/amundsen-io/amundsendatabuilder,FALSE,2/11/2019 18:52,['amundsen'],203,193,210,116,84,Python,2155,0,0,22,121,367,7,0,0,,,,,,
-rosewang2008/language_modeling_via_stochastic_processes,https://github.com/rosewang2008/language_modeling_via_stochastic_processes,FALSE,1/29/2022 16:28,"['language', 'language-model', 'stochastic-processes', 'contrastive-learning']",105,6,6,0,2,Python,63968,6,0,1,0,14,0,0,0,,,,,,
-XiaoXiao-Woo/PanCollection,https://github.com/XiaoXiao-Woo/PanCollection,FALSE,6/14/2022 17:16,[],12,1,0,0,2,Python,1180,0,0,2,0,53,0,0,0,,,,,,
-gmum/Zero-Time-Waste,https://github.com/gmum/Zero-Time-Waste,FALSE,6/7/2021 9:34,[],11,5,2,0,2,Python,154,0,0,1,0,7,0,0,0,,,,,,
-MacHu-GWU/troposphere_mate-project,https://github.com/MacHu-GWU/troposphere_mate-project,FALSE,7/7/2019 15:09,[],9,1,2,0,1,Python,981,1,0,1,0,90,2,0,0,,,,,,
-amundsen-io/amundsen,https://github.com/amundsen-io/amundsen,FALSE,5/14/2019 15:12,"['amundsen', 'metadata', 'data-catalog', 'data-discovery', 'linuxfoundation']",3604,245,880,114,206,Python,32785,117,19,91,119,2565,6,0,622,,,,,,
-PacktPublishing/Hyperparameter-Tuning-with-Python,https://github.com/PacktPublishing/Hyperparameter-Tuning-with-Python,FALSE,1/31/2022 12:04,[],89,8,22,0,5,Jupyter Notebook,5620,0,0,1,0,34,0,0,0,,,,,,
-liangruibupt/aws-is-how,https://github.com/liangruibupt/aws-is-how,FALSE,4/9/2020 2:42,"['china-region', 'aws-regions', 'workshop', 'know-how', 'lambda', 'sagemaker', 'amazon-ec2']",29,3,16,0,2,Jupyter Notebook,347270,0,0,1,0,580,0,0,206,,,,,,
-JialeCao001/PSTR,https://github.com/JialeCao001/PSTR,FALSE,4/7/2022 10:26,"['end-to-end-detection', 'person-search', 'transformer']",20,4,9,0,1,Python,13138,2,0,1,0,5,0,0,0,,,,,,
-open-mmlab/mmcv,https://github.com/open-mmlab/mmcv,FALSE,8/22/2018 7:05,[],4438,80,1249,53,220,Python,13415,177,54,4,99,1242,3,0,0,,,,,,
-gmarty/vsop87,https://github.com/gmarty/vsop87,FALSE,11/17/2019 13:28,"['vsop87', 'astronomy', 'planets', 'ephemeris']",6,1,0,0,2,JavaScript,6829,2,2,3,0,20,0,0,0,,,,,,
-kozodoi/website,https://github.com/kozodoi/website,FALSE,5/10/2020 20:32,"['blog', 'fastpages', 'github-pages', 'website', 'portfolio', 'kaggle']",10,1,7,0,2,Jupyter Notebook,123863,2,2,6,0,651,0,0,466,,,,,,
-marcociccone/yapt,https://github.com/marcociccone/yapt,FALSE,10/8/2020 14:22,"['pytorch', 'deep-learning', 'trainer', 'neptune-ai']",5,2,3,0,2,Python,198,1,1,1,0,79,0,0,0,,,,,,
-hate-alert/HateXplain,https://github.com/hate-alert/HateXplain,FALSE,5/1/2020 6:37,"['explainability', 'hate-speech', 'bias', 'offensive', 'detection', 'hatespeech', 'interpretable-deep-learning', 'bert-model', 'lstm', 'attention-lstm', 'bert-fine-tuning']",133,8,45,0,3,Python,7224,6,3,4,0,92,0,0,0,,,,,,
-sustainable-processes/summit,https://github.com/sustainable-processes/summit,FALSE,7/31/2019 15:13,"['chemistry', 'machine-learning', 'optimization', 'bayesian-optimization', 'neural-networks', 'drug-discovery', 'tsemo', 'snobfit', 'nelder-mead', 'self-optimization']",72,3,14,16,7,Jupyter Notebook,48645,8,0,8,18,286,0,0,0,,,,,,
-edgeai-neptune/neptune,https://github.com/edgeai-neptune/neptune,FALSE,1/4/2021 3:26,[],15,2,6,0,5,Go,10614,9,1,2,0,74,0,0,0,,,,,,
-aws/graph-notebook,https://github.com/aws/graph-notebook,FALSE,10/1/2020 23:22,"['graph', 'gremlin', 'jupyter', 'jupyter-widgets', 'sparql', 'neptune', 'opencypher', 'cypher', 'rdf', 'apache', 'tinkerpop', 'jupyter-notebook']",483,34,108,32,21,Jupyter Notebook,19521,40,7,18,32,294,0,0,0,,,,,,
-RadionBik/ML-based-network-traffic-classifier,https://github.com/RadionBik/ML-based-network-traffic-classifier,FALSE,2/6/2018 18:00,[],37,4,6,0,2,Python,4281,0,0,13,0,87,0,0,0,,,,,,
-chenghuige/pikachu2,https://github.com/chenghuige/pikachu2,FALSE,11/4/2021 13:27,[],137,4,50,0,1,Jupyter Notebook,413173,1,1,1,0,19,0,0,0,,,,,,
-HKUNLP/icl-selective-annotation,https://github.com/HKUNLP/icl-selective-annotation,FALSE,9/4/2022 3:57,"['active-learning', 'language-model', 'nlp', 'sample-selection', 'in-context-learning', 'natural-language-processing']",45,7,7,0,3,Python,34027,0,0,1,0,10,0,0,0,,,,,,
-yfletberliac/adversarially-guided-actor-critic,https://github.com/yfletberliac/adversarially-guided-actor-critic,FALSE,1/26/2021 18:20,"['adversarially-guided-actor-critic', 'tensorflow', 'pytorch']",37,3,6,0,3,Python,280,0,0,1,0,21,0,0,0,,,,,,
-bcaitech1/p3-ims-obd-ensemble,https://github.com/bcaitech1/p3-ims-obd-ensemble,FALSE,4/21/2021 23:00,[],6,2,6,0,2,Jupyter Notebook,252264,0,0,7,0,28,0,0,0,,,,,,
-ReML-AI/sgtn,https://github.com/ReML-AI/sgtn,FALSE,8/10/2020 20:39,[],7,5,1,0,2,Python,194,2,0,1,0,9,0,0,0,,,,,,
-yoongi0428/neptune_logger,https://github.com/yoongi0428/neptune_logger,FALSE,8/8/2020 7:35,[],5,1,0,0,1,Python,9,0,0,1,0,7,0,0,0,,,,,,
-wukevin/tcr-bert,https://github.com/wukevin/tcr-bert,FALSE,11/12/2021 18:02,"['bert', 'machine-learning', 'tcr']",15,1,3,0,2,Jupyter Notebook,378234,2,0,1,0,145,0,0,0,,,,,,
-neptune-ai/blog-binary-classification-metrics,https://github.com/neptune-ai/blog-binary-classification-metrics,FALSE,8/27/2019 10:06,[],40,3,27,0,1,Jupyter Notebook,2684,1,0,1,0,5,0,0,0,,,,,,
-achao2013/deep3dmap,https://github.com/achao2013/deep3dmap,FALSE,10/7/2021 3:45,[],35,2,1,0,1,Python,3717,2,0,1,1,64,0,0,0,,,,,,
-sbasu276/GBCNet,https://github.com/sbasu276/GBCNet,FALSE,11/12/2021 20:52,[],5,2,2,0,1,Python,57,0,0,1,0,16,0,0,0,,,,,,
-neptune-ai/neptune-mlflow,https://github.com/neptune-ai/neptune-mlflow,FALSE,2/28/2019 21:22,"['neptune-mlflow', 'neptune-community-spectrum', 'data-science', 'machine-learning', 'deep-learning', 'reinforcement-learning', 'platform', 'mlflow', 'machine-learning-platform', 'mlflow-neptune', 'mlflow2', 'neptune-platform', 'python3']",27,13,5,6,6,Python,96,3,1,3,11,40,0,0,0,,,,,,
-ebagdasa/propaganda_as_a_service,https://github.com/ebagdasa/propaganda_as_a_service,FALSE,12/9/2020 20:54,"['language-models', 'propaganda']",15,2,1,0,420,Python,80181,0,0,8,0,9144,0,0,0,,,,,,
-ReML-AI/MGTN,https://github.com/ReML-AI/MGTN,FALSE,3/12/2021 18:27,[],14,4,2,0,1,Python,2277,3,0,1,0,3,0,0,0,,,,,,
-oxai/debias-vision-lang,https://github.com/oxai/debias-vision-lang,FALSE,3/13/2022 19:13,"['deep-learning', 'fairness-ml', 'fairness', 'vision-language']",9,10,1,0,3,Python,4050,0,0,1,0,17,0,0,0,,,,,,
-gmum/huggingmolecules,https://github.com/gmum/huggingmolecules,FALSE,10/29/2020 9:17,[],87,6,17,0,4,Python,325,9,2,7,0,25,4,0,0,,,,,,
-oblivia-simplex/berbalang,https://github.com/oblivia-simplex/berbalang,FALSE,3/20/2019 16:15,[],8,4,5,0,5,Rust,140292,0,0,2,0,379,0,0,0,,,,,,
-CoInitialized/Ember,https://github.com/CoInitialized/Ember,FALSE,10/4/2020 14:32,['bachelors-degree'],11,1,1,0,2,Python,1380,0,0,1,0,147,0,0,0,,,,,,
-janclemenslab/das,https://github.com/janclemenslab/das,FALSE,9/26/2019 19:11,[],13,4,7,2,2,Python,78115,5,0,2,3,764,0,0,107,,,,,,
-johschmidt42/PyTorch-2D-3D-UNet-Tutorial,https://github.com/johschmidt42/PyTorch-2D-3D-UNet-Tutorial,FALSE,1/17/2021 13:30,[],84,4,32,0,4,Jupyter Notebook,71441,0,0,1,0,47,0,0,0,,,,,,
-neptune-ai/neptune-tensorboard,https://github.com/neptune-ai/neptune-tensorboard,FALSE,2/28/2019 21:22,"['python3', 'python', 'tensorflow', 'tensorboard', 'machine-learning', 'deep-learning', 'neptune', 'neptune-platform', 'python2', 'collaboration', 'data-science', 'neptune-tensorboard', 'tensorflow2']",11,10,6,15,9,Python,133,1,1,5,23,70,0,0,0,,,,,,
-sangyun884/Face2Webtoon,https://github.com/sangyun884/Face2Webtoon,FALSE,1/8/2021 5:42,"['webtoon', 'gan', 'image-to-image-translation']",64,1,11,0,1,Python,361,0,0,1,0,35,0,0,0,,,,,,
-awslabs/amazon-neptune-tools,https://github.com/awslabs/amazon-neptune-tools,FALSE,2/14/2018 5:13,"['amazon-neptune', 'aws-neptune', 'graphml']",249,29,131,10,23,Java,1717,32,7,23,13,375,1,0,0,,,,,,
-mixarcid/molucinate,https://github.com/mixarcid/molucinate,FALSE,9/15/2021 1:24,[],10,1,0,0,2,Python,3653,0,0,2,0,202,0,0,0,,,,,,
-Xie-Minghui/EntityRelationExtraction,https://github.com/Xie-Minghui/EntityRelationExtraction,FALSE,3/8/2021 15:32,[],45,1,10,0,1,Python,62,0,0,1,0,18,0,0,0,,,,,,
-oslabs-beta/Neptune,https://github.com/oslabs-beta/Neptune,FALSE,6/24/2022 16:02,"['expressjs', 'kubernetes', 'nodejs', 'prometheus', 'react']",81,1,4,0,4,JavaScript,33316,0,0,3,0,105,0,0,0,,,,,,
-fengbingchun/PyTorch_Test,https://github.com/fengbingchun/PyTorch_Test,FALSE,1/24/2019 9:24,[],9,1,3,0,2,C++,264586,0,0,1,0,35,0,0,0,,,,,,
-huggingface/accelerate,https://github.com/huggingface/accelerate,FALSE,10/30/2020 13:27,[],3109,59,250,20,67,Python,1703,39,5,15,21,539,3,0,0,,,,,,
-phamdinhkhanh/general_ocr,https://github.com/phamdinhkhanh/general_ocr,FALSE,10/13/2021 7:23,[],57,1,13,1,2,Python,39148,2,0,1,1,9,0,0,0,,,,,,
-ds-wook/Riiid,https://github.com/ds-wook/Riiid,FALSE,8/27/2021 0:34,"['kaggle', 'machine-learning', 'python']",14,2,0,0,1,Python,12,0,0,1,0,5,0,0,0,,,,,,
-Lynda-Starkus/DeepvisionAI_Backend,https://github.com/Lynda-Starkus/DeepvisionAI_Backend,FALSE,9/15/2021 16:51,"['deeplearning', 'computer-vision', 'autoencoder', 'abnormal-behavior-detection', 'abnormal-events', 'abnormal-crowd-activity', 'tensorflow', 'pytorch', 'yolov5', 'tracking', 'background-subtraction']",10,1,3,0,1,Python,86176,1,0,2,0,16,0,0,0,,,,,,
-opium-sh/lidl,https://github.com/opium-sh/lidl,FALSE,10/5/2021 17:56,[],5,2,0,0,2,Python,137,1,0,10,0,114,0,0,0,,,,,,
-cognitiveailab/darmok,https://github.com/cognitiveailab/darmok,FALSE,7/14/2021 15:55,[],11,1,1,0,1,Python,15185,1,1,1,0,29,0,0,0,,,,,,
-nnaisense/MAGE,https://github.com/nnaisense/MAGE,FALSE,4/23/2020 8:20,[],29,7,7,0,2,Python,3196,0,0,1,0,11,0,0,0,,,,,,
-huggingface/transformers,https://github.com/huggingface/transformers,FALSE,10/29/2018 13:56,"['nlp', 'natural-language-processing', 'pytorch', 'language-model', 'tensorflow', 'bert', 'language-models', 'pytorch-transformers', 'nlp-library', 'transformer', 'model-hub', 'pretrained-models', 'jax', 'flax', 'seq2seq', 'speech-recognition', 'hacktoberfest', 'python', 'machine-learning', 'deep-learning']",73042,859,16686,104,438,Python,108787,564,154,139,112,11150,285,0,0,,,,,,
-amyxlu/CPCProt,https://github.com/amyxlu/CPCProt,FALSE,10/8/2020 1:14,[],14,2,6,0,2,Python,112,1,0,1,0,5,0,0,0,,,,,,
-arx7ti/cold-nilm,https://github.com/arx7ti/cold-nilm,FALSE,6/4/2021 2:50,['nilm'],8,1,0,0,2,Jupyter Notebook,1425,0,0,1,0,25,0,0,0,,,,,,
-imfht/flaskapps,https://github.com/imfht/flaskapps,FALSE,1/31/2021 9:23,[],9,2,5,0,1,,440984,2,1,2,0,1,0,0,0,,,,,,
-UKPLab/adaptable-adapters,https://github.com/UKPLab/adaptable-adapters,FALSE,5/2/2022 16:51,[],10,4,1,0,3,Python,9166,0,0,1,0,10,0,0,0,,,,,,
-aliutkus/spe,https://github.com/aliutkus/spe,FALSE,12/3/2020 6:18,[],46,4,7,0,5,Jupyter Notebook,15406,3,0,5,0,110,0,0,0,,,,,,
-TailUFPB/storIA,https://github.com/TailUFPB/storIA,FALSE,5/6/2021 19:47,"['nlp', 'machinelearning', 'reddit', 'scary-stories', 'horror', 'story']",10,4,3,0,5,Python,48139,0,0,1,0,59,0,0,0,,,,,,
-mlelarge/graph_neural_net,https://github.com/mlelarge/graph_neural_net,FALSE,2/5/2020 9:02,"['gnn', 'deep-learning', 'graph', 'graph-neural-networks', 'pytorch']",36,3,17,1,4,Python,4178,0,0,3,1,357,0,0,0,,,,,,
-huangyz0918/kws-continual-learning,https://github.com/huangyz0918/kws-continual-learning,FALSE,6/19/2021 4:06,"['deep-learning', 'keyword-extraction', 'keyword-spotting', 'icassp']",8,2,1,0,1,Python,4013,0,0,1,0,78,0,0,0,,,,,,
-Duankaiwen/PyCenterNet,https://github.com/Duankaiwen/PyCenterNet,FALSE,4/18/2022 12:13,[],137,5,19,0,1,Python,13646,19,0,1,0,34,0,0,0,,,,,,
-pixelneo/dialogue-transformer-e2e,https://github.com/pixelneo/dialogue-transformer-e2e,FALSE,10/31/2019 11:09,"['dialogue-systems', 'transformer', 'tensorflow']",5,6,0,0,4,Python,8873,8,5,17,0,154,0,0,0,,,,,,
-fcakyon/yolov5-pip,https://github.com/fcakyon/yolov5-pip,FALSE,2/10/2021 11:36,"['yolo', 'yolov5', 'object-detection', 'pytorch', 'python', 'pip', 'ultralytics', 'yolov3', 'yolov4', 'machine-learning', 'deep-learning', 'computer-vision', 'aws', 'coco', 'neptune', 'neptune-ai', 's3', 'pypi', 'cli']",196,2,46,39,6,Python,1479,0,0,2,39,205,0,0,0,,,,,,
-ds-wook/ventilator-pressure-prediction,https://github.com/ds-wook/ventilator-pressure-prediction,FALSE,9/24/2021 0:13,"['kaggle', 'google', 'lstm', 'lightgbm', 'resnet', 'neural-network', 'gradient-boosting']",9,2,0,0,1,Python,105,0,0,1,0,69,0,0,0,,,,,,
-DIAGNijmegen/pathology-artifact-detection,https://github.com/DIAGNijmegen/pathology-artifact-detection,FALSE,4/13/2021 20:42,[],8,3,2,0,0,Python,561,2,0,1,0,4,0,0,0,,,,,,
-DLR-SC/repository-synergy,https://github.com/DLR-SC/repository-synergy,FALSE,5/8/2021 7:51,[],5,6,6,0,1,Jupyter Notebook,103486,1,0,1,0,8,0,0,0,,,,,,
-squaresLab/SOAR,https://github.com/squaresLab/SOAR,FALSE,10/18/2020 22:44,[],7,2,4,0,1,Python,144413,0,0,2,0,8,0,0,0,,,,,,
-shonenkov/Digital-Peter-Model-Comparisons,https://github.com/shonenkov/Digital-Peter-Model-Comparisons,FALSE,2/22/2021 20:29,[],7,2,2,0,1,Jupyter Notebook,547,0,0,1,0,19,0,0,0,,,,,,
-aws-samples/data-lineage-for-data-lake-example,https://github.com/aws-samples/data-lineage-for-data-lake-example,FALSE,3/7/2022 18:46,[],11,1,6,0,2,Python,121,1,1,1,0,5,0,0,0,,,,,,
-sayemimtiaz/kaggle-notebooks,https://github.com/sayemimtiaz/kaggle-notebooks,FALSE,9/17/2021 17:15,[],6,2,5,0,0,Jupyter Notebook,1005238,0,0,1,0,2,0,0,0,,,,,,
-arghosh/noisy_label_pretrain,https://github.com/arghosh/noisy_label_pretrain,FALSE,4/15/2021 21:36,"['noisy-label-learning', 'noisy-labels', 'contrastive-learning', 'meta-weight-net', 'cvpr', 'cvpr2021']",25,3,9,0,1,Python,179,0,0,1,0,5,0,0,0,,,,,,
-JonasFrey96/ASL,https://github.com/JonasFrey96/ASL,FALSE,12/18/2020 10:25,"['continual-learning', 'semantic-segmentation-network', 'incremental-learning']",6,4,5,0,1,Jupyter Notebook,290321,1,0,2,0,126,0,0,0,,,,,,
-xserban/mtorch,https://github.com/xserban/mtorch,FALSE,7/26/2019 13:14,[],5,2,2,0,8,Python,502,4,2,13,0,424,0,0,0,,,,,,
-Arize-ai/client_python,https://github.com/Arize-ai/client_python,FALSE,3/5/2020 23:04,"['ml-monitoring', 'model-monitoring', 'ai-monitoring', 'performance-monitoring', 'drift-monitoring', 'data-quality-monitoring', 'ml-observability', 'ai-observability', 'model-performance-management', 'model-explainability', 'ai-roi']",18,7,5,0,9,Python,53339,0,0,1,0,135,0,0,0,,,,,,
-Atharva-Phatak/torchflare,https://github.com/Atharva-Phatak/torchflare,FALSE,4/16/2021 14:55,"['deep-learning', 'pytorch', 'python', 'deep-neural-networks', 'image-classification', 'infrastructure', 'natural-language-processing', 'text-classification', 'image-processing', 'image-segmentation', 'kaggle', 'pytorch-model', 'gans', 'generative-adversarial-network', 'machine-learning', 'self-supervised-learning', 'image-classfication']",85,2,9,6,8,Python,18954,12,11,12,8,298,0,0,106,,,,,,
-johschmidt42/PyTorch-Object-Detection-Faster-RCNN-Tutorial,https://github.com/johschmidt42/PyTorch-Object-Detection-Faster-RCNN-Tutorial,FALSE,2/22/2021 16:47,[],47,3,21,0,2,Python,6500,1,0,1,0,40,0,0,0,,,,,,
-hms-dbmi/breastCaPathologyTranscriptomics,https://github.com/hms-dbmi/breastCaPathologyTranscriptomics,FALSE,1/1/2021 20:59,[],5,4,6,0,2,Python,71306,0,0,1,0,13,0,0,0,,,,,,
-dhuynh95/fast_neptune,https://github.com/dhuynh95/fast_neptune,FALSE,1/23/2020 9:44,[],6,2,3,0,1,Jupyter Notebook,1587,3,3,4,0,20,0,0,12,,,,,,
-sangyun884/CinCGAN-pytorch,https://github.com/sangyun884/CinCGAN-pytorch,FALSE,3/29/2021 5:24,['super-resolution'],12,1,3,0,1,Python,73,2,0,1,0,20,0,0,0,,,,,,
-UKPLab/MetaQA,https://github.com/UKPLab/MetaQA,FALSE,12/6/2021 8:27,"['question-answering', 'multi-skill-training']",8,5,1,0,1,Python,459,0,0,2,0,2,0,0,0,,,,,,
-aws/aws-cdk-go,https://github.com/aws/aws-cdk-go,FALSE,1/22/2021 18:48,"['aws', 'aws-cdk', 'go', 'infrastructure-as-code']",120,13,15,0,2,Go,11027749,0,0,1,2282,192,0,0,0,,,,,,
-amundsen-io/amundsengremlin,https://github.com/amundsen-io/amundsengremlin,FALSE,8/21/2020 16:38,[],20,6,13,13,7,Python,116,0,0,1,13,27,0,0,0,,,,,,
-influxdata/ui,https://github.com/influxdata/ui,FALSE,7/14/2020 15:26,[],64,42,32,10,137,TypeScript,58606,622,35,343,12,28650,5,0,0,,,,,,
-DataWorkshop-Foundation/warsaw-project-2,https://github.com/DataWorkshop-Foundation/warsaw-project-2,FALSE,7/15/2020 11:28,[],10,9,7,0,2,Jupyter Notebook,108870,13,0,1,0,45,0,0,0,,,,,,
-graphistry/graph-app-kit,https://github.com/graphistry/graph-app-kit,FALSE,8/18/2020 22:02,[],100,12,16,0,4,Python,280,27,1,3,30,290,0,0,0,,,,,,
-obss/turkish-question-generation,https://github.com/obss/turkish-question-generation,FALSE,11/10/2021 15:21,"['question-generation', 'question-answering', 'turkish', 'mt5', 't5', 'nlp', 'transformers', 'xquad', 'multilingual', 'arxiv', 'neptune-ai', 'wandb']",23,1,2,1,1,Python,40,0,0,1,1,8,0,0,0,,,,,,
-neptune-ai/neptune-optuna,https://github.com/neptune-ai/neptune-optuna,FALSE,5/4/2021 11:43,"['viz', 'mlops', 'management', 'tracking', 'tracker', 'experiment', 'visualize', 'parameters', 'plot', 'hyperparameters', 'optimization', 'compare', 'plots', 'tuning']",5,9,3,6,10,Python,136,0,0,3,6,159,0,0,0,,,,,,
-awsm-research/VulRepair,https://github.com/awsm-research/VulRepair,FALSE,7/19/2022 1:29,[],10,2,1,1,1,Python,30151,2,0,1,1,27,0,0,0,,,,,,
-randyridgley/cdk-snippets,https://github.com/randyridgley/cdk-snippets,FALSE,5/4/2020 17:25,[],13,1,2,0,2,TypeScript,7177,36,36,37,0,152,0,0,0,,,,,,
-stared/livelossplot,https://github.com/stared/livelossplot,FALSE,3/10/2018 17:51,"['jupyter-notebook', 'keras', 'keras-visualization', 'deep-learning', 'pytorch']",1211,27,143,0,15,Python,1838,7,1,4,17,330,1,0,17,,,,,,
-reddy-lab-code-research/StructCoder,https://github.com/reddy-lab-code-research/StructCoder,FALSE,6/9/2022 15:50,[],17,2,2,0,1,Python,8188,0,0,1,0,10,0,0,0,,,,,,
-Cloudneeti/aws-auto-remediation,https://github.com/Cloudneeti/aws-auto-remediation,FALSE,9/26/2019 12:43,[],8,5,7,6,4,Python,2083,1,1,12,6,197,0,0,0,,,,,,
-XiangLi1999/Diffusion-LM,https://github.com/XiangLi1999/Diffusion-LM,FALSE,5/25/2022 22:54,[],546,17,59,0,1,Python,47167,28,0,2,0,10,0,0,0,,,,,,
-shh1574/multi-modal-dialogue-dataset,https://github.com/shh1574/multi-modal-dialogue-dataset,FALSE,5/31/2021 14:19,[],15,1,1,0,1,Python,7954,2,0,2,0,11,0,0,0,,,,,,
-jelster/space-truckers,https://github.com/jelster/space-truckers,FALSE,12/4/2020 20:13,"['babylonjs', 'webgl2', 'game', 'webgpu']",20,5,8,1,2,JavaScript,60984,19,0,16,2,342,8,0,0,,,,,,
-Solacex/Domain-Consensus-Clustering,https://github.com/Solacex/Domain-Consensus-Clustering,FALSE,3/22/2021 5:16,"['cvpr2021', 'domain-adaptation']",77,3,13,0,1,Python,1629,5,0,2,0,34,0,0,0,,,,,,
-Fkaneko/kaggle_Google_Smartphone_Decimeter_Challenge,https://github.com/Fkaneko/kaggle_Google_Smartphone_Decimeter_Challenge,FALSE,8/6/2021 12:17,"['kaggle', 'convolutional-neural-networks', 'computer-vision', 'short-time-fourier-transform', 'gnss']",12,1,10,0,1,Python,5086,1,0,2,1,12,0,0,0,,,,,,
-MichalBusta/OpenCitiesAIC,https://github.com/MichalBusta/OpenCitiesAIC,FALSE,3/23/2020 15:46,[],7,2,3,0,0,Python,82,3,2,3,0,1,0,0,0,,,,,,
-catalyst-team/catalyst,https://github.com/catalyst-team/catalyst,FALSE,8/20/2018 7:56,"['deep-learning', 'reinforcement-learning', 'machine-learning', 'computer-vision', 'pytorch', 'python', 'distributed-computing', 'infrastructure', 'research', 'reproducibility', 'image-processing', 'image-classification', 'image-segmentation', 'object-detection', 'natural-language-processing', 'text-classification', 'text-segmentation', 'information-retrieval', 'recommender-system', 'metric-learning']",3024,44,371,41,97,Python,54739,10,5,8,109,1698,1,0,421,,,,,,
-jamesdolezal/slideflow,https://github.com/jamesdolezal/slideflow,FALSE,9/13/2019 14:41,"['python', 'machine-learning', 'deep-learning', 'pathology', 'histology', 'computational-pathology', 'whole-slide-imaging', 'histopathology']",61,14,7,11,4,Python,98731,3,1,12,31,1736,3,0,405,,,,,,
-neptune-ai/neptune-lib,https://github.com/neptune-ai/neptune-lib,FALSE,1/8/2019 13:32,"['neptune', 'neptune-platform', 'extension', 'extensibility', 'machine-learning', 'deep-learning', 'data-science', 'python', 'python3', 'api', 'api-client', 'experiment', 'artificial-intelligence', 'comparison-tool', 'python27']",5,11,2,3,3,Python,110,2,0,4,7,46,0,0,0,,,,,,
-richarddwang/electra_pytorch,https://github.com/richarddwang/electra_pytorch,FALSE,5/3/2020 2:25,"['electra', 'pytorch', 'fastai', 'huggingface', 'glue', 'language-model', 'deeplearning', 'nlp']",290,2,37,0,2,Python,1102,0,0,1,0,72,0,0,0,,,,,,
-awslabs/realtime-fraud-detection-with-gnn-on-dgl,https://github.com/awslabs/realtime-fraud-detection-with-gnn-on-dgl,FALSE,3/11/2021 5:05,"['aws-cdk', 'gnn', 'dgl', 'fraud-detection', 'aws', 'sagemaker', 'neptune', 'graph-database', 'documentdb', 'appsync', 'amplify-js']",122,15,25,8,10,TypeScript,10500,6,6,15,11,208,0,0,124,,,,,,
-nnaisense/evotorch,https://github.com/nnaisense/evotorch,FALSE,8/8/2022 18:03,"['artificial-intelligence', 'evolutionary-computation', 'neural-networks', 'optimization-algorithms', 'distributed', 'gpu', 'python', 'pytorch', 'optimization', 'reinforcement-learning', 'evolutionary-algorithms']",712,10,41,4,5,Python,23390,3,0,5,4,21,0,0,40,,,,,,
-wimlds-trojmiasto/detect-waste,https://github.com/wimlds-trojmiasto/detect-waste,FALSE,11/19/2020 11:04,"['pytorch', 'deep-learning', 'object-detection', 'python', 'cnn', 'neural-networks', 'efficientdet', 'detr', 'maskrcnn', 'fastrcnn', 'litter', 'waste-detection', 'trash']",100,11,29,2,8,Python,87249,1,0,8,2,133,0,0,0,,,,,,
-sungsoo-ahn/genetic-expert-guided-learning,https://github.com/sungsoo-ahn/genetic-expert-guided-learning,FALSE,10/16/2020 10:38,[],19,2,11,0,1,Python,189540,0,0,2,0,11,0,0,0,,,,,,
-sorrowyn/MGTN,https://github.com/sorrowyn/MGTN,FALSE,2/21/2021 13:49,"['multi-label-image', 'graph-transformer', 'aaai', 'transformer']",17,0,1,0,2,Python,2248,0,0,1,0,27,0,0,0,,,,,,
-hearai/hearai,https://github.com/hearai/hearai,FALSE,11/10/2021 9:28,"['sign-language-recognition', 'deep-learning', 'hamnosys', 'gloss', 'pose-estimation', 'sign-language', 'sign-language-translation']",13,8,4,0,10,Python,37074,4,4,25,0,229,3,0,0,,,,,,
-ds-wook/jobcare-recommendation,https://github.com/ds-wook/jobcare-recommendation,FALSE,12/21/2021 7:47, 'lightgbm', 'catboost', 'elo-rating']",8,2,0,0,1,Python,101,0,0,2,0,32,0,0,0,,,,
-nvnnghia/siim2021,https://github.com/nvnnghia/siim2021,FALSE,5/31/2021 2:15,[],8,4,1,0,4,Python,46291,0,0,5,0,61,0,0,0,,,,,,
-TencentARC/MCQ,https://github.com/TencentARC/MCQ,FALSE,3/17/2022 3:52,[],91,2,11,0,1,Python,7778,6,1,1,0,101,0,0,0,,,,,,
-aws-samples/amazon-neptune-samples,https://github.com/aws-samples/amazon-neptune-samples,FALSE,4/5/2018 22:37,"['aws-neptune', 'amazon-neptune', 'gremlin', 'graph-model', 'rdf-graph']",312,52,137,0,21,JavaScript,51580,14,5,22,0,251,0,0,0,,,,,,
-awarelab/spinningup_tf2,https://github.com/awarelab/spinningup_tf2,FALSE,12/15/2020 17:46,[],21,2,1,0,2,Jupyter Notebook,673,0,0,1,0,9,0,0,0,,,,,,
-khoadoan106/single_loss_quantization,https://github.com/khoadoan106/single_loss_quantization,FALSE,6/1/2022 13:15,[],11,1,1,0,1,Python,15789,1,0,2,0,8,0,0,0,,,,,,
-fla-sil/PyTorrent,https://github.com/fla-sil/PyTorrent,FALSE,1/10/2021 20:30,[],27,2,20,0,4,,844788,0,0,1,0,54,0,0,0,,,,,,
-wutong8023/CoLL,https://github.com/wutong8023/CoLL,FALSE,7/31/2021 4:08,[],8,1,1,0,1,Python,8333,0,0,1,0,63,0,0,61,,,,,,
-OshriHalimi/shape_completion,https://github.com/OshriHalimi/shape_completion,FALSE,9/8/2019 18:57,[],27,11,4,0,6,Python,1528555,1,1,2,0,274,0,0,0,,,,,,
-qcwthu/Lifelong-Fewshot-Language-Learning,https://github.com/qcwthu/Lifelong-Fewshot-Language-Learning,FALSE,2/10/2022 1:52,"['pytorch', 'lifelong-learning']",38,3,5,0,1,Python,27069,1,0,2,0,33,0,0,0,,,,,,
-hmorimitsu/ptlflow,https://github.com/hmorimitsu/ptlflow,FALSE,6/9/2021 16:12,[],98,3,6,16,1,Python,3412,1,0,1,16,248,0,0,0,,,,,,
-wtyhub/LPN,https://github.com/wtyhub/LPN,FALSE,2/25/2021 11:10,[],44,4,4,0,1,Python,3574,4,0,1,0,26,0,0,0,,,,,,
-xiaulinhu/pinn-pytorch,https://github.com/xiaulinhu/pinn-pytorch,FALSE,6/24/2020 16:48,"['pinn', 'python', 'pde', 'deep-learning', 'machine-learning', 'neural-network', 'neural-networks', 'pde-solver', 'pytorch', 'scientific-computing']",48,4,16,0,1,Python,70,1,0,1,0,3,0,0,0,,,,,,
-neptune-ai/kedro-neptune,https://github.com/neptune-ai/kedro-neptune,FALSE,7/7/2021 8:25,"['python', 'nodes', 'tracking', 'visualizing', 'dashboard', 'ml', 'mlops', 'viz', 'experiment', 'node', 'store', 'plugin', 'organize', 'runs']",11,8,3,11,9,Python,140,3,3,4,11,69,0,0,0,,,,,,
-jfzhuang/IFR,https://github.com/jfzhuang/IFR,FALSE,11/22/2021 7:53,"['cvpr2022', 'semantic-segmentation', 'semi-supervised-learning', 'semi-supervised-segmentation']",14,1,2,0,1,Python,20650,1,1,1,0,16,0,0,0,,,,,,
-sergiuoprea/hgan,https://github.com/sergiuoprea/hgan,FALSE,12/7/2020 9:56,"['deep-learning', 'machine-learning', 'pytorch', 'pytorch-lightning', 'generative', 'adversarial-networks', 'domain-adaptation']",7,3,1,0,2,Python,45641,3,0,2,0,74,0,0,0,,,,,,
-ITMO-NSS-team/LightObjRecEnsembler,https://github.com/ITMO-NSS-team/LightObjRecEnsembler,FALSE,6/1/2021 16:01,[],7,4,0,0,4,Jupyter Notebook,434629,1,0,8,0,31,0,0,0,,,,,,
-jxhe/unify-parameter-efficient-tuning,https://github.com/jxhe/unify-parameter-efficient-tuning,FALSE,6/24/2021 8:43,[],195,7,25,0,417,Python,62474,4,0,239,67,7662,0,0,0,,,,,,
-HabanaAI/Model-References,https://github.com/HabanaAI/Model-References,FALSE,8/18/2020 6:45,[],64,28,35,0,2,Python,86196,10,3,19,0,2,0,0,0,,,,,,
-mayu-ot/oc-cost,https://github.com/mayu-ot/oc-cost,FALSE,5/29/2022 10:59,[],22,2,0,0,1,Python,16849,0,0,1,0,76,0,0,0,,,,,,
-BGU-CS-VIL/DeepMCBM,https://github.com/BGU-CS-VIL/DeepMCBM,FALSE,7/9/2022 17:17,"['background-estimation', 'computer-vision', 'deep-learning', 'moving-camera', 'pytorch']",27,4,1,0,3,Python,50258,0,0,1,0,42,0,0,0,,,,,,
-CuongNN218/zalo_ltr_2021,https://github.com/CuongNN218/zalo_ltr_2021,FALSE,12/11/2021 1:15,[],126,2,44,0,2,Python,10720,1,0,2,0,24,0,0,0,,,,,,
-cvlab-yonsei/DASS,https://github.com/cvlab-yonsei/DASS,FALSE,7/20/2022 1:38,[],19,3,1,0,1,Python,2085,2,0,1,0,9,0,0,0,,,,,,
-Deep-Spark/deepsparkhub,https://github.com/Deep-Spark/deepsparkhub,FALSE,9/8/2022 9:07,[],15,3,4,0,1,Python,231320,0,0,1,0,3,0,0,0,,,,,,
-adaptive-entropy-tree-search/ants,https://github.com/adaptive-entropy-tree-search/ants,FALSE,2/11/2021 20:52,[],5,1,1,0,2,Python,422,0,0,1,0,3,0,0,0,,,,,,
-asadiqbalkhan/galaxy-nft-dapp,https://github.com/asadiqbalkhan/galaxy-nft-dapp,FALSE,7/2/2021 23:08,"['react', 'framer-motion', 'parallax', 'ui', 'ux', 'nft', 'blockchain', 'truffle', 'solidity', 'web3js', 'ipfs']",20,3,22,0,1,JavaScript,12330,0,0,1,0,23,0,0,0,,,,,,
-rjsears/GardenPi,https://github.com/rjsears/GardenPi,FALSE,8/1/2020 1:19,"['python3', 'flask', 'irrigation-controller', 'raspberry-pi-4', 'css', 'aquaponics', 'hydroponics']",236,26,33,0,2,JavaScript,24278,7,0,1,0,266,0,0,42,,,,,,
-awslabs/neptuneml-toolkit,https://github.com/awslabs/neptuneml-toolkit,FALSE,9/7/2021 21:04,[],15,6,3,0,2,Python,1317,0,0,1,0,12,0,0,0,,,,,,
-Beomi/exbert-transformers,https://github.com/Beomi/exbert-transformers,FALSE,6/10/2021 4:51,"['exbert', 'transformers']",9,1,2,0,418,Python,53149,1,0,1,0,7318,0,0,0,,,,,,
-drivendataorg/open-cities-ai-challenge,https://github.com/drivendataorg/open-cities-ai-challenge,FALSE,4/20/2020 20:43,[],98,6,22,0,1,Jupyter Notebook,5093,1,0,1,0,12,0,0,0,,,,,,
-neptune-ai/neptune-notebooks,https://github.com/neptune-ai/neptune-notebooks,FALSE,4/23/2019 10:16,"['jupyterlab', 'collaboration', 'tracking', 'snapshotting', 'snapshot', 'registry', 'mlops', 'production', 'team', 'ml', 'experiment', 'version', 'research', 'cli']",22,12,4,1,11,Python,701,0,0,32,24,208,0,0,0,,,,,,
-neptune-ai/model-fairness-in-practice,https://github.com/neptune-ai/model-fairness-in-practice,FALSE,9/13/2019 10:35,[],8,1,6,0,1,Jupyter Notebook,11523,0,0,1,0,17,0,0,0,,,,,,
-openclimatefix/predict_pv_yield,https://github.com/openclimatefix/predict_pv_yield,FALSE,9/30/2020 16:46,['nowcasting'],44,5,5,0,3,Jupyter Notebook,42847,43,2,12,0,379,0,0,0,,,,,,
-subgoal-search/subgoal-search,https://github.com/subgoal-search/subgoal-search,FALSE,5/28/2021 12:02,[],15,1,3,0,3,Python,24381,1,0,2,0,7,0,0,0,,,,,,
-AlessioGalluccio/FastFlow,https://github.com/AlessioGalluccio/FastFlow,FALSE,11/28/2021 16:49,[],37,3,14,0,1,Python,197,5,0,2,0,31,0,0,0,,,,,,
-dglai/Graph-Neural-Networks-in-Life-Sciences,https://github.com/dglai/Graph-Neural-Networks-in-Life-Sciences,FALSE,7/14/2022 22:56,[],148,6,30,0,2,Jupyter Notebook,7201,1,0,2,0,54,0,0,0,,,,,,
-naver/gdc,https://github.com/naver/gdc,FALSE,3/5/2021 8:39,"['language-model', 'machine-learning', 'ai', 'nlp', 'nlg', 'gpt-2', 'gpt3', 'fairness-ml', 'controlled-nlg', 'exponential-family', 'information-geometry', 'reinforcement-learning']",96,8,18,0,2,Python,27627,1,1,2,0,6,0,0,0,,,,,,
-violet-zct/swarm-distillation-zero-shot,https://github.com/violet-zct/swarm-distillation-zero-shot,FALSE,10/24/2021 4:38,[],11,2,1,0,421,Python,81741,0,0,288,80,8702,0,0,0,,,,,,
-florianvonunold/DYME,https://github.com/florianvonunold/DYME,FALSE,10/7/2021 16:02,[],6,1,1,0,1,Python,101725,0,0,1,0,18,0,0,0,,,,,,
-jixunbo/LightMBN,https://github.com/jixunbo/LightMBN,FALSE,3/25/2020 9:07,[],50,2,13,0,1,Python,1476,2,0,1,0,27,0,0,0,,,,,,
-hankyul2/DomainAdaptation,https://github.com/hankyul2/DomainAdaptation,FALSE,8/16/2021 8:45,['domain-adaptation'],20,1,1,0,1,Python,365,0,0,1,0,136,0,0,0,,,,,,
-mad-daniel/planets-fact-app,https://github.com/mad-daniel/planets-fact-app,FALSE,2/6/2022 22:41,[],9,1,0,0,1,JavaScript,1909,0,0,1,0,5,5,0,5,,,,,,
-ai-forever/StackMix-OCR,https://github.com/ai-forever/StackMix-OCR,FALSE,2/12/2021 14:50,[],18,1,2,0,5,Jupyter Notebook,3575,1,0,23,0,85,0,0,0,,,,,,
-SeuTao/TGS-Salt-Identification,https://github.com/SeuTao/TGS-Salt-Identification,FALSE,10/21/2018 2:37,"['kaggle', 'pseudo-labeling', 'pytorch']",340,15,89,0,2,Python,963,0,0,1,0,25,0,0,0,,,,,,
-NECOTIS/PCRITICAL,https://github.com/NECOTIS/PCRITICAL,FALSE,8/25/2020 23:27,[],5,8,3,0,1,Python,252,0,0,1,0,12,0,0,0,,,,,,
-Lipenghua-CQ/CNN-ASTLSTM,https://github.com/Lipenghua-CQ/CNN-ASTLSTM,FALSE,9/11/2021 9:14,[],20,2,8,0,1,Python,9342,4,0,1,0,3,0,0,0,,,,,,
-Jathurshan0330/Cross-Modal-Transformer,https://github.com/Jathurshan0330/Cross-Modal-Transformer,FALSE,3/30/2022 9:44,"['deep-learning', 'sleep-stage-classification', 'transformers', 'interpretable-deep-learning']",5,1,2,0,2,Jupyter Notebook,102980,2,0,1,0,26,0,0,0,,,,,,
-salesforce/CodeRL,https://github.com/salesforce/CodeRL,FALSE,6/30/2022 2:54,"['ai', 'codegeneration', 'languagemodel', 'machinelearning', 'programsynthesis', 'reinforcementlearning']",179,13,21,0,3,Python,24930,11,9,10,0,32,0,0,0,,,,,,
-PradeepNalluri/Prefix-Tuning-Bert,https://github.com/PradeepNalluri/Prefix-Tuning-Bert,FALSE,11/3/2021 22:19,[],9,2,1,0,3,Python,13316,0,0,2,0,34,0,0,0,,,,,,
-chck/ml-management-tools,https://github.com/chck/ml-management-tools,FALSE,5/3/2020 11:31,"['hydra', 'kedro', 'mlflow', 'sacred', 'airflow', 'metaflow', 'optuna', 'skopt']",5,2,0,0,1,Jupyter Notebook,177,1,1,2,0,19,0,0,0,,,,,,
-mgruddy/DeepLearning_MSDS21,https://github.com/mgruddy/DeepLearning_MSDS21,FALSE,6/2/2021 18:27,[],8,2,6,0,1,Jupyter Notebook,27787,0,0,1,0,62,0,0,0,,,,,,
-winddori2002/MANNER,https://github.com/winddori2002/MANNER,FALSE,9/16/2021 1:06,"['speech-enhancement', 'speech', 'attention-mechanism']",28,5,8,1,1,Python,2120,3,0,2,1,107,0,0,0,,,,,,
-ecmwf-projects/ai-vegetation-fuel,https://github.com/ecmwf-projects/ai-vegetation-fuel,FALSE,3/24/2021 20:57,"['machine-learning', 'satellite-imagery', 'wildfire', 'climate-change', 'catboost', 'lightgbm']",6,2,4,1,3,Jupyter Notebook,29821,5,0,3,1,87,0,0,0,,,,,,
-glorelvalle/socialhaterbert,https://github.com/glorelvalle/socialhaterbert,FALSE,12/3/2021 8:37,[],7,1,0,0,1,Jupyter Notebook,793,0,0,1,0,16,0,0,0,,,,,,
-dedalusj/cloudgram,https://github.com/dedalusj/cloudgram,FALSE,10/17/2020 23:12,"['cloud', 'diagram', 'diagram-generator', 'diagrams-as-code', 'architecture']",76,3,3,0,2,JavaScript,2940,6,0,2,18,109,0,0,0,,,,,,
-wenhao-gao/mol_opt,https://github.com/wenhao-gao/mol_opt,FALSE,1/31/2022 20:52,[],63,4,12,0,2,Python,737116,0,0,2,0,442,0,0,0,,,,,,
-liangjiandeng/DLPan-Toolbox,https://github.com/liangjiandeng/DLPan-Toolbox,FALSE,7/1/2022 12:45,[],41,2,5,0,2,Python,85600,2,0,1,0,168,0,0,0,,,,,,
-neptune-ai/open-solution-mapping-challenge,https://github.com/neptune-ai/open-solution-mapping-challenge,FALSE,4/10/2018 18:59,"['data-science', 'machine-learning', 'deep-learning', 'kaggle', 'python', 'satellite-imagery', 'data-science-learning', 'lightgbm', 'unet', 'unet-image-segmentation', 'unet-pytorch', 'neptune', 'machine-learning-lab', 'mapping-challenge', 'crowdai', 'competition', 'pipeline', 'pipeline-framework']",349,23,88,6,7,Python,721,55,1,2,6,263,1,0,0,,,,,,
-MRSAIL-Mini-Robotics-Software-AI-Lab/GANVAS-models,https://github.com/MRSAIL-Mini-Robotics-Software-AI-Lab/GANVAS-models,FALSE,1/11/2022 21:23,"['machine-learning', 'deep-learning', 'artificial-intelligence', 'deep-generative-models', 'pytorch']",5,1,3,0,5,Python,42,0,0,1,0,16,0,0,0,,,,,,
-AidenDurrant/BarlowTwins,https://github.com/AidenDurrant/BarlowTwins,FALSE,3/10/2021 15:59,[],6,2,0,0,1,Python,19,0,0,1,0,1,0,0,0,,,,,,
-LINC-BIT/legodnn,https://github.com/LINC-BIT/legodnn,FALSE,12/8/2021 12:08,"['mobile', 'vision']",37,11,21,0,2,Python,349018,1,1,1,0,75,0,0,0,,,,,,
-Otanikotani/tf-vs-cdk,https://github.com/Otanikotani/tf-vs-cdk,FALSE,9/21/2020 23:43,[],20,2,3,0,1,TypeScript,2578,1,0,1,0,2,0,0,0,,,,,,
-kennethleungty/Anomaly-Detection-Pipeline-Kedro,https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro,FALSE,3/11/2022 15:37,"['kedro', 'anomaly-detection', 'financial', 'financial-data', 'credit-card', 'credit-card-fraud', 'fraud', 'fraud-detection', 'mlops', 'machine-learning', 'machine-learning-pipeline', 'data-science-pipeline', 'pipelines', 'anomaly', 'quantumblack', 'data-science', 'ml']",7,1,0,0,1,Python,243,0,0,1,0,17,0,0,0,,,,,,
-showlab/Region_Learner,https://github.com/showlab/Region_Learner,FALSE,11/21/2021 13:20,['video-language'],33,4,3,0,1,Python,15398,0,0,1,0,18,0,0,0,,,,,,
-SeongjuLee/DCENet-PyTorch,https://github.com/SeongjuLee/DCENet-PyTorch,FALSE,2/5/2021 6:46,[],10,1,1,0,2,Python,13546,0,0,1,0,10,0,0,0,,,,,,
-FingerRec/OA-Transformer,https://github.com/FingerRec/OA-Transformer,FALSE,12/1/2021 2:16,50,6,2,0,1,Python,6271,3,1,1,0,8,0,0,0,,,,,,,
-HamedHojatian/HBF-Net,https://github.com/HamedHojatian/HBF-Net,FALSE,3/9/2021 8:38,"['unsupervised-deep-learning', 'codebook', 'deepmimo', 'rssi', 'hbf']",31,2,8,0,1,Python,149,0,0,1,0,77,0,0,0,,,,,,
-thbuerg/NeuralCVD,https://github.com/thbuerg/NeuralCVD,FALSE,7/7/2021 9:40,"['pytorch-lightning', 'pytorch', 'time-to-event', 'survival-analysis', 'ukbiobank', 'cardiovascular-disease', 'risk-modeling']",6,2,1,1,2,Jupyter Notebook,4287,0,0,1,1,9,0,0,0,,,,,,
-joanaapa/Distillation-DNABERT-Promoter,https://github.com/joanaapa/Distillation-DNABERT-Promoter,FALSE,5/23/2022 13:29,[],6,1,1,0,1,Python,10603,0,0,1,0,26,0,0,0,,,,,,
-ninatu/everything_at_once,https://github.com/ninatu/everything_at_once,FALSE,3/27/2022 15:05,[],40,2,8,0,1,Python,686,2,0,1,0,4,0,0,0,,,,,,
-ds-wook/ai-hackathon,https://github.com/ds-wook/ai-hackathon,FALSE,9/17/2021 0:41, 'machine-learning', 'deep-learning', 'stacking-ensemble', 'xgboost', 'catboost', 'shap', 'automl']",18,4,0,0,1,Python,65,0,0,1,0,26,0,0,0
-kowaalczyk/reformer-tts,https://github.com/kowaalczyk/reformer-tts,FALSE,3/12/2020 9:47,"['text-to-speech', 'reformer', 'transformer', 'machine-learning', 'squeeze-wave', 'tts', 'pytorch', 'python', 'pytorch-lightning']",8,3,0,1,3,Python,278,0,0,8,1,104,0,0,0,,,,,,
-neptune-ai/blog-hyperparameter_optimization,https://github.com/neptune-ai/blog-hyperparameter_optimization,FALSE,4/21/2019 13:51,[],7,2,1,0,1,Python,15,0,0,1,0,7,0,0,0,,,,,,
-Xie-Minghui/MultiHeadJointEntityRelationExtraction_simple,https://github.com/Xie-Minghui/MultiHeadJointEntityRelationExtraction_simple,FALSE,3/7/2021 11:10,"['nlp', 'entity-relation-extraction', 'bert']",52,1,7,0,1,Python,111642,0,0,1,0,100,0,0,0,,,,,,
-JunnYu/paddle_reformer,https://github.com/JunnYu/paddle_reformer,FALSE,8/4/2021 15:09,[],5,2,0,0,1,Python,67216,1,0,1,0,31,0,0,0,,,,,,
-aws-samples/amazon-neptune-ml-use-cases,https://github.com/aws-samples/amazon-neptune-ml-use-cases,FALSE,11/7/2021 9:06,"['graphs', 'machine-learning', 'gnn', 'gcn', 'amazon-neptune', 'fraud-detection', 'graph-neural-networks']",8,5,2,0,3,Jupyter Notebook,1740,0,0,1,0,12,0,0,0,,,,,,
-TUM-DAML/seml,https://github.com/TUM-DAML/seml,FALSE,10/13/2019 22:33,"['utility', 'slurm', 'slurm-workload-manager', 'experiment-tracking', 'hyperparameter-optimization']",118,6,22,16,12,Python,887,11,0,10,16,484,19,0,0,,,,,,
-erobic/bias-mitigators,https://github.com/erobic/bias-mitigators,FALSE,3/31/2021 13:48,[],20,3,2,0,1,Python,315,0,0,5,0,20,0,0,0,,,,,,
-morningmoni/CiteSum,https://github.com/morningmoni/CiteSum,FALSE,5/9/2022 20:53,"['text-summarization', 'citation-text-generation', 'scientific-summarization', 'extreme-summarization']",19,1,0,0,1,Python,2596,0,0,1,0,8,0,0,0,,,,,,
-alibaba/AliceMind,https://github.com/alibaba/AliceMind,FALSE,5/21/2021 13:04,"['nlp', 'bert', 'natural-language-processing', 'deep-learning']",1337,41,204,1,11,Python,27170,21,3,3,2,49,0,0,0,,,,,,
-openclimatefix/nowcasting_dataset,https://github.com/openclimatefix/nowcasting_dataset,FALSE,6/10/2021 9:41,['nowcasting'],13,3,6,289,10,Jupyter Notebook,430770,114,3,14,297,2343,10,0,0,,,,,,
-thbuerg/MetabolomicsCommonDiseases,https://github.com/thbuerg/MetabolomicsCommonDiseases,FALSE,1/4/2022 14:09, 'metabolomics', 'deep-learning', 'risk-modelling', 'survival-analysis', 'clinical-data', 'common-diseases', 'cardiovascular-diseases']",5,1,0,1,1,Jupyter Notebook,1568,0,0,1,1,34,0,0,0
-amundsen-io/amundsenmetadatalibrary,https://github.com/amundsen-io/amundsenmetadatalibrary,FALSE,2/12/2019 21:36,['amundsen'],83,185,89,78,42,Python,794,0,0,10,85,222,1,0,0,,,,,,
-emestabillo/planets-fact-site,https://github.com/emestabillo/planets-fact-site,FALSE,5/28/2021 19:38,"['nextjs', 'react', 'styled-components', 'frontendmentor-challenge']",9,1,2,0,1,JavaScript,47920,0,0,8,0,91,34,0,70,,,,,,
+Link
+https://github.com/joanaapa/Distillation-DNABERT-Promoter
+https://github.com/Duankaiwen/PyCenterNet
+https://github.com/BGU-CS-VIL/DeepMCBM
+https://github.com/cvlab-yonsei/DASS
+https://github.com/huggingface/accelerate
+https://github.com/reddy-lab-code-research/StructCoder
+https://github.com/Tihi777/solar-system-react
+https://github.com/manavkapadnis/Enigma_ArgMining
+https://github.com/neptune-ai/kedro-neptune
+https://github.com/deepsense-ai/unblackboxing_webinar
+https://github.com/DataWorkshop-Foundation/warsaw-project-2
+https://github.com/tannguyen195/solarsystem
+https://github.com/LINC-BIT/legodnn
+https://github.com/catalyst-team/catalyst-rl
+https://github.com/mayu-ot/oc-cost
+https://github.com/deephyper/deephyper
+https://github.com/JOSM/josm-plugins
+https://github.com/salesforce/CodeRL
+https://github.com/stared/livelossplot
+https://github.com/amundsen-io/amundsendatabuilder
+https://github.com/obss/turkish-question-generation
+https://github.com/anonymous-author1/DDRL
+https://github.com/jianzfb/antgo
+https://github.com/awsm-research/VulRepair
+https://github.com/arx7ti/cold-nilm
+https://github.com/catalyst-team/catalyst
+https://github.com/SeuTao/TGS-Salt-Identification
+https://github.com/shatterednirvana/appscale-original
+https://github.com/marcociccone/yapt
+https://github.com/DLR-SC/repository-synergy
+https://github.com/JialeCao001/PSTR
+https://github.com/PradeepNalluri/Prefix-Tuning-Bert
+https://github.com/JonasFrey96/ASL
+https://github.com/neptune-ai/neptune-examples
+https://github.com/UKPLab/MetaQA
+https://github.com/UKPLab/adaptable-adapters
+https://github.com/kowaalczyk/reformer-tts
+https://github.com/chenghuige/wenzheng
+https://github.com/m-bain/CondensedMovies-chall
+https://github.com/gmum/toolkit
+https://github.com/subgoal-search/subgoal-search
+https://github.com/phac-nml/neptune
+https://github.com/RUCAIBox/TextBox
+https://github.com/ds-wook/optiver-prediction
+https://github.com/glorelvalle/socialhaterbert
+https://github.com/sangyun884/CinCGAN-pytorch
+https://github.com/shonenkov/Digital-Peter-Model-Comparisons
+https://github.com/VirtualRoyalty/gan-text-classification
+https://github.com/pytorch/ignite
+https://github.com/hmorimitsu/ptlflow
+https://github.com/qcwthu/Lifelong-Fewshot-Language-Learning
+https://github.com/ds-wook/jobcare-recommendation
+https://github.com/nnaisense/MAGE
+https://github.com/neptune-ai/open-solution-mapping-challenge
+https://github.com/neptune-ai/examples
+https://github.com/adaptive-entropy-tree-search/ants
+https://github.com/Adapter-Hub/adapter-transformers
+https://github.com/alibaba/AliceMind
+https://github.com/sbasu276/GBCNet
+https://github.com/open-mmlab/mmcv
+https://github.com/fumyou13/LDBE
+https://github.com/fcakyon/video-transformers
+https://github.com/phamdinhkhanh/general_ocr
+https://github.com/Jathurshan0330/Cross-Modal-Transformer
+https://github.com/OshriHalimi/shape_completion
+https://github.com/yfletberliac/adversarially-guided-actor-critic
+https://github.com/shh1574/multi-modal-dialogue-dataset
+https://github.com/chenghuige/pikachu2
+https://github.com/randyridgley/cdk-snippets
+https://github.com/skorch-dev/skorch
+https://github.com/neptune-ai/neptune-mlflow
+https://github.com/violet-zct/swarm-distillation-zero-shot
+https://github.com/khoadoan106/single_loss_quantization
+https://github.com/sergiuoprea/hgan
+https://github.com/XiaoXiao-Woo/PanCollection
+https://github.com/Cloudneeti/aws-auto-remediation
+https://github.com/ds-wook/predict-meals
+https://github.com/dedalusj/cloudgram
+https://github.com/Solacex/Domain-Consensus-Clustering
+https://github.com/TheIncredibleHouk/MushroomMayhem
+https://github.com/xserban/mtorch
+https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat
+https://github.com/wtyhub/LPN
+https://github.com/VisionLearningGroup/OVANet
+https://github.com/openclimatefix/predict_pv_yield
+https://github.com/awarelab/spinningup_tf2
+https://github.com/PacktPublishing/Hyperparameter-Tuning-with-Python
+https://github.com/ubernaut/spaceSim
+https://github.com/sorrowyn/MGTN
+https://github.com/ninatu/everything_at_once
+https://github.com/Lightning-AI/lightning
+https://github.com/RadionBik/ML-based-network-traffic-classifier
+https://github.com/gmum/huggingmolecules
+https://github.com/belskikh/kekas
+https://github.com/AlessioGalluccio/FastFlow
+https://github.com/huangyz0918/kws-continual-learning
+https://github.com/gmum/Zero-Time-Waste
+https://github.com/neptune-ai/neptune-contrib
+https://github.com/aws/aws-cdk-go
+https://github.com/MacHu-GWU/troposphere_mate-project
+https://github.com/sungsoo-ahn/genetic-expert-guided-learning
+https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro
+https://github.com/PyTorchKorea/lightning-docs-kr
+https://github.com/neptune-ai/neptune-lib
+https://github.com/awslabs/neptuneml-toolkit
+https://github.com/MichalBusta/OpenCitiesAIC
+https://github.com/pykeen/pykeen
+https://github.com/Lipenghua-CQ/CNN-ASTLSTM
+https://github.com/neptune-ai/neptune-r
+https://github.com/neptune-ai/blog-binary-classification-metrics
+https://github.com/rjsears/GardenPi
+https://github.com/Fkaneko/kaggle_Google_Smartphone_Decimeter_Challenge
+https://github.com/TencentARC/MCQ
+https://github.com/johschmidt42/PyTorch-Object-Detection-Faster-RCNN-Tutorial
+https://github.com/awslabs/realtime-fraud-detection-with-gnn-on-dgl
+https://github.com/PacktPublishing/JupyterLab-Quick-Start-Guide
+https://github.com/naver/gdc
+https://github.com/achao2013/deep3dmap
+https://github.com/mad-daniel/planets-fact-app
+https://github.com/ITMO-NSS-team/LightObjRecEnsembler
+https://github.com/morningmoni/CiteSum
+https://github.com/AidenDurrant/BarlowTwins
+https://github.com/bcaitech1/p3-ims-obd-ensemble
+https://github.com/Lynda-Starkus/DeepvisionAI_Backend
+https://github.com/fcakyon/yolov5-pip
+https://github.com/HabanaAI/Model-References
+https://github.com/HKUNLP/icl-selective-annotation
+https://github.com/LambdaLabsML/examples
+https://github.com/neptune-ai/neptune-tensorboard
+https://github.com/neptune-ai/neptune-optuna
+https://github.com/pixelneo/dialogue-transformer-e2e
+https://github.com/squaresLab/SOAR
+https://github.com/janclemenslab/das
+https://github.com/wimlds-trojmiasto/detect-waste
+https://github.com/ebagdasa/propaganda_as_a_service
+https://github.com/HamedHojatian/HBF-Net
+https://github.com/ifding/deep-learning-python
+https://github.com/JunnYu/paddle_reformer
+https://github.com/liangjiandeng/DLPan-Toolbox
+https://github.com/Solacex/CCM
+https://github.com/graphistry/graph-app-kit
+https://github.com/Xie-Minghui/EntityRelationExtraction
+https://github.com/khanhvu207/ddrl
+https://github.com/SeongjuLee/DCENet-PyTorch
+https://github.com/imfht/flaskapps
+https://github.com/ReML-AI/sgtn
+https://github.com/chck/ml-management-tools
+https://github.com/sangyun884/Face2Webtoon
+https://github.com/VisionLearningGroup/SND
+https://github.com/tediko/planets-fact
+https://github.com/iseekwonderful/HPA-singlecell-2nd-dual-head-pipeline
+https://github.com/aws-samples/amazon-neptune-samples
+https://github.com/neptune-ai/neptune-client
+https://github.com/neptune-ai/model-fairness-in-practice
+https://github.com/awarelab/continual_world
+https://github.com/hate-alert/HateXplain
+https://github.com/showlab/Region_Learner
+https://github.com/wukevin/tcr-bert
+https://github.com/oblivia-simplex/berbalang
+https://github.com/deepsense-ai/hands-on-deep-learning
+https://github.com/hankyul2/DomainAdaptation
+https://github.com/rosewang2008/language_modeling_via_stochastic_processes
+https://github.com/amundsen-io/amundsengremlin
+https://github.com/pkchat-focus/FoCus
+https://github.com/Xie-Minghui/MultiHeadJointEntityRelationExtraction_simple
+https://github.com/afimb/chouette
+https://github.com/fla-sil/PyTorrent
+https://github.com/laszukdawid/ai-traineree
+https://github.com/amundsen-io/amundsenmetadatalibrary
+https://github.com/ReML-AI/MGTN
+https://github.com/cognitiveailab/darmok
+https://github.com/asadiqbalkhan/galaxy-nft-dapp
+https://github.com/Deep-Spark/deepsparkhub
+https://github.com/oxai/debias-vision-lang
+https://github.com/DIAGNijmegen/pathology-artifact-detection
+https://github.com/fastai/fastai
+https://github.com/hate-alert/DE-LIMIT
+https://github.com/XiangLi1999/Diffusion-LM
+https://github.com/drivendataorg/open-cities-ai-challenge
+https://github.com/openclimatefix/nowcasting_dataset
+https://github.com/johschmidt42/PyTorch-2D-3D-UNet-Tutorial
+https://github.com/influxdata/ui
+https://github.com/arghosh/noisy_label_pretrain
+https://github.com/dglai/Graph-Neural-Networks-in-Life-Sciences
+https://github.com/FlorianWilhelm/lda4rec
+https://github.com/jelster/space-truckers
+https://github.com/mixarcid/molucinate
+https://github.com/MRSAIL-Mini-Robotics-Software-AI-Lab/GANVAS-models
+https://github.com/mgruddy/DeepLearning_MSDS21
+https://github.com/Arize-ai/client_python
+https://github.com/thbuerg/MetabolomicsCommonDiseases
+https://github.com/nvnnghia/siim2021
+https://github.com/ds-wook/ventilator-pressure-prediction
+https://github.com/mlelarge/graph_neural_net
+https://github.com/TailUFPB/storIA
+https://github.com/thbuerg/NeuralCVD
+https://github.com/hate-alert/CounterGEDI
+https://github.com/erobic/bias-mitigators
+https://github.com/ds-wook/ai-hackathon
+https://github.com/huggingface/transformers
+https://github.com/emestabillo/planets-fact-site
+https://github.com/ecmwf-projects/ai-vegetation-fuel
+https://github.com/YiLi225/NeptuneBlogs
+https://github.com/keyonvafa/sequential-rationales
+https://github.com/aws-samples/data-lineage-for-data-lake-example
+https://github.com/Ascend/ModelZoo-PyTorch
+https://github.com/yoongi0428/neptune_logger
+https://github.com/wutong8023/CoLL
+https://github.com/edgeai-neptune/neptune
+https://github.com/festvox/festvox
+https://github.com/deepsense-ai/deep_learning_art_webinar
+https://github.com/aliutkus/spe
+https://github.com/deepsense-ai/Distributed-BA3C
+https://github.com/commenthol/astronomia
+https://github.com/IDSIA/sacred
+https://github.com/dhuynh95/fast_neptune
+https://github.com/cytadela8/trypophobia
+https://github.com/gmarty/vsop87
+https://github.com/ai-forever/StackMix-OCR
+https://github.com/aws-samples/amazon-neptune-ml-use-cases
+https://github.com/Diyago/ML-DL-scripts
+https://github.com/neptune-ai/neptune-notebooks
+https://github.com/nnaisense/evotorch
+https://github.com/fengbingchun/PyTorch_Test
+https://github.com/skepticalimagination/solaris-model
+https://github.com/CoInitialized/Ember
+https://github.com/NECOTIS/PCRITICAL
+https://github.com/gmum/metstab-shap
+https://github.com/liangruibupt/aws-is-how
+https://github.com/amundsen-io/amundsen
+https://github.com/kozodoi/website
+https://github.com/sayemimtiaz/kaggle-notebooks
+https://github.com/florianvonunold/DYME
+https://github.com/theaiscope/aiscope
+https://github.com/aws/graph-notebook
+https://github.com/winddori2002/MANNER
+https://github.com/CuongNN218/zalo_ltr_2021
+https://github.com/xiaulinhu/pinn-pytorch
+https://github.com/hearai/hearai
+https://github.com/Beomi/exbert-transformers
+https://github.com/jfzhuang/IFR
+https://github.com/huggingface/doc-build
+https://github.com/garyd203/flying-circus
+https://github.com/TUM-DAML/seml
+https://github.com/ds-wook/Riiid
+https://github.com/Otanikotani/tf-vs-cdk
+https://github.com/noagarcia/ArtVQA
+https://github.com/FingerRec/OA-Transformer
+https://github.com/awslabs/amazon-neptune-tools
+https://github.com/richarddwang/electra_pytorch
+https://github.com/wenhao-gao/mol_opt
+https://github.com/jxhe/unify-parameter-efficient-tuning
+https://github.com/IhabBendidi/IIC-SimCLR-MoCo-clusterer
+https://github.com/opium-sh/lidl
+https://github.com/sustainable-processes/summit
+https://github.com/MohmedIkram/Hacktoberfest2021
+https://github.com/oslabs-beta/Neptune
+https://github.com/chiahsuan156/DST-as-Prompting
+https://github.com/neptune-ai/blog-hyperparameter_optimization
+https://github.com/hms-dbmi/breastCaPathologyTranscriptomics
+https://github.com/jixunbo/LightMBN
+https://github.com/Atharva-Phatak/torchflare
+https://github.com/jamesdolezal/slideflow
+https://github.com/amyxlu/CPCProt
+https://github.com/eldar/snes
