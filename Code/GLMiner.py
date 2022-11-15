@@ -1,26 +1,27 @@
 import gitlab
 import operator
 import pandas
+import random
+import time
 
 
-class GitlabMiner():
-    def __init__(self, token):
-        self.gitlab = gitlab.Gitlab(private_token=token)
+class GitLabMiner():
+    def __init__(self, private_token):
+        self.gitlab = gitlab.Gitlab(private_token=private_token)
         self.repo_columns = [
             'Repo',
             'Link',
-            'Archived',
             'Creation Date',
+            'Language',
+            'Topics',
+            'Archived',
             '#Star',
             '#Fork',
+            '#Issues',
             '#Commits',
             '#Branches',
-            'Topics',
             '#Releases',
-            '#Member',
-            '#Open Issues',
-            '#Merge Requests',
-            'Language'
+            '#Member'
         ]
         self.error_columns = [
             'Repo',
@@ -28,6 +29,9 @@ class GitlabMiner():
         ]
 
     def scrape(self, repo_name, name=None, date=None, real_creation_date=True):
+        def sleep_wrapper(func, **args):
+            time.sleep(random.random() + 0.5)
+            return func(**args)
         try:
             project = self.gitlab.projects.get(repo_name)
 
@@ -45,17 +49,17 @@ class GitlabMiner():
             repo_data = {
                 'Repo': repo_name,
                 'Link': project.http_url_to_repo,
-                'Archived': project.archived,
                 'Creation Date': creation_date,
+                'Language': max(sleep_wrapper(project.languages).items(), key=operator.itemgetter(1))[0],
+                'Topics': project.topics,
+                'Archived': project.archived,
                 '#Star': project.star_count,
                 '#Fork': project.forks_count,
-                '#Commits': len(project.commits.list(all=True)),
-                '#Branches': len(project.branches.list(all=True)),
-                'Topics': project.topics,
-                '#Releases': len(project.releases.list(all=True)),
-                '#Member': len(project.members.list(all=True)),
-                '#Open Issues': len(project.issues.list(all=True, state='opened')),
-                'Language': max(project.languages().items(), key=operator.itemgetter(1))[0]
+                '#Issues': len(sleep_wrapper(project.issues.list, all=True)),
+                '#Commits': len(sleep_wrapper(project.commits.list, all=True)),
+                '#Branches': len(sleep_wrapper(project.branches.list, all=True)),
+                '#Releases': len(sleep_wrapper(project.releases.list, all=True)),
+                '#Member': len(sleep_wrapper(project.members.list, all=True))
             }
 
             try:

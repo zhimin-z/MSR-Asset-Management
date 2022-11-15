@@ -4,9 +4,9 @@ import random
 import time
 
 
-class GithubMiner():
-    def __init__(self, token):
-        self.github = Github(token)
+class GitHubMiner():
+    def __init__(self, private_token):
+        self.github = Github(login_or_token=private_token)
         self.repo_columns = [
             'Repo',
             'Link',
@@ -20,13 +20,11 @@ class GithubMiner():
             '#Contributors',
             'Language',
             'Size',
-            '#Open Issues',
+            '#Issues',
             '#Pull Requests',
             '#Branches',
-            '#Tags',
             '#Commits',
             '#Comments',
-            '#Downloads',
             '#Deployments'
         ]
         self.error_columns = [
@@ -68,13 +66,11 @@ class GithubMiner():
                 '#Contributors': sleep_wrapper(repo.get_contributors).totalCount,
                 'Language': repo.language,
                 'Size': repo.size,
-                '#Open Issues': repo.open_issues_count,
-                '#Pull Requests': sleep_wrapper(repo.get_pulls).totalCount,
+                '#Issues': sleep_wrapper(repo.get_issues, state='all').totalCount,
+                '#Pull Requests': sleep_wrapper(repo.get_pulls, state='all').totalCount,
                 '#Branches': sleep_wrapper(repo.get_branches).totalCount,
-                '#Tags': sleep_wrapper(repo.get_tags).totalCount,
                 '#Commits': sleep_wrapper(repo.get_commits).totalCount,
                 '#Comments': sleep_wrapper(repo.get_comments).totalCount,
-                '#Downloads': sleep_wrapper(repo.get_downloads).totalCount,
                 '#Deployments': sleep_wrapper(repo.get_deployments).totalCount,
             }
 
