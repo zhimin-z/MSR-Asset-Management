@@ -1,8 +1,6 @@
 import gitlab
 import operator
 import pandas
-import random
-import time
 
 
 class GitLabMiner():
@@ -12,6 +10,8 @@ class GitLabMiner():
             'Repo',
             'Link',
             'Creation Date',
+            'First Activity Date',
+            'Last Activity Date',
             'Language',
             'Topics',
             'Archived',
@@ -28,28 +28,24 @@ class GitLabMiner():
             'Error'
         ]
 
-    def scrape(self, repo_name, name=None, date=None, real_creation_date=True):
+    def scrape(self, repo_name, name=None, date=None):
         def sleep_wrapper(func, **args):
-            time.sleep(random.random() + 0.5)
             return func(**args)
         try:
             project = self.gitlab.projects.get(repo_name)
 
-            creation_date = project.created_at
-            if not real_creation_date:
-                creation_date = project.commits.list(all=True)[-1].created_at
-
-            if date is not None:
-                last_commit_date = project.commits.list(all=True)[0].created_at
-                if date > last_commit_date:
-                    error_data = {'Repo': repo_name, 'Error': 'Unrelated'}
-                    error_data = pandas.DataFrame([error_data])
-                    return None, error_data
+            commits = sleep_wrapper(project.commits.list, all=True)
+            last_commit_date = commits[0].created_at
+            if date is not None and date > last_commit_date:
+                error_data = {'Repo': repo_name, 'Error': 'Unrelevant'}
+                return None, error_data
 
             repo_data = {
                 'Repo': repo_name,
                 'Link': project.http_url_to_repo,
-                'Creation Date': creation_date,
+                'Creation Date': project.created_at,
+                'First Activity Date': commits[-1].created_at,
+                'Last Activity Date': last_commit_date,
                 'Language': max(sleep_wrapper(project.languages).items(), key=operator.itemgetter(1))[0],
                 'Topics': project.topics,
                 'Archived': project.archived,
@@ -64,34 +60,33 @@ class GitLabMiner():
 
             try:
                 repo_data['#Merge Requests'] = len(
-                    project.mergerequests.list(all=True, state='opened'))
+                    sleep_wrapper(project.mergerequests.list, all=True))
             except Exception as err:
                 repo_data['#Merge Requests'] = 0
 
             if name is not None:
                 repo_data['Name'] = name
 
-            repo_data = pandas.DataFrame([repo_data])
-
         except Exception as err:
             error_data = {'Repo': repo_name, 'Error': str(err)}
-            error_data = pandas.DataFrame([error_data])
             return None, error_data
 
         return repo_data, None
 
-    def collect(self, repo_names, name=None, date=None, real_creation_date=True):
+    def collect(self, repo_names, name=None, date=None):
         repos_data = pandas.DataFrame(columns=self.repo_columns)
         errors_data = pandas.DataFrame(columns=self.error_columns)
 
         for repo_name in repo_names:
             repo_data, error_data = self.scrape(
-                repo_name=repo_name, name=name, date=date, real_creation_date=real_creation_date)
+                repo_name=repo_name, name=name, date=date)
 
             if error_data is None:
+                repo_data = pandas.DataFrame([repo_data])
                 repos_data = pandas.concat(
                     [repos_data, repo_data], ignore_index=True)
             else:
+                error_data = pandas.DataFrame([error_data])
                 errors_data = pandas.concat(
                     [errors_data, error_data], ignore_index=True)
 

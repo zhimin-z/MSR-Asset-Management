@@ -12,6 +12,8 @@ class GitHubMiner():
             'Link',
             'Archived',
             'Creation Date',
+            'First Activity Date',
+            'Last Activity Date',
             'Topics',
             '#Star',
             '#Watch',
@@ -32,32 +34,28 @@ class GitHubMiner():
             'Error'
         ]
 
-    def scrape(self, repo_name, name=None, date=None, real_creation_date=True):
+    def scrape(self, repo_name, name=None, date=None):
         def sleep_wrapper(func, **args):
-            time.sleep(random.random() + 0.5)
+            time.sleep(random.random())
             return func(**args)
 
         try:
             repo = sleep_wrapper(self.github.get_repo,
                                  full_name_or_id=repo_name)
 
-            creation_date = repo.created_at
-            if not real_creation_date:
-                creation_date = sleep_wrapper(
-                    repo.get_commits).reversed[0].commit.author.date
-
-            if date is not None:
-                last_commit_date = sleep_wrapper(
-                    repo.get_commits)[0].commit.author.date
-                if date > last_commit_date:
-                    error_data = {'Repo': repo_name, 'Error': 'Unrelated'}
-                    return None, error_data
+            commits = sleep_wrapper(repo.get_commits)
+            last_commit_date = commits[0].commit.author.date
+            if date is not None and date > last_commit_date:
+                error_data = {'Repo': repo_name, 'Error': 'Unrelevant'}
+                return None, error_data
 
             repo_data = {
                 'Repo': repo_name,
                 'Link': repo.html_url,
                 'Archived': repo.archived,
-                'Creation Date': creation_date,
+                'Creation Date': repo.created_at,
+                'First Activity Date': commits.reversed[0].commit.author.date,
+                'Last Activity Date': last_commit_date,
                 'Topics': sleep_wrapper(repo.get_topics),
                 '#Star': repo.stargazers_count,
                 '#Watch': repo.subscribers_count,
@@ -71,7 +69,7 @@ class GitHubMiner():
                 '#Branches': sleep_wrapper(repo.get_branches).totalCount,
                 '#Commits': sleep_wrapper(repo.get_commits).totalCount,
                 '#Comments': sleep_wrapper(repo.get_comments).totalCount,
-                '#Deployments': sleep_wrapper(repo.get_deployments).totalCount,
+                '#Deployments': sleep_wrapper(repo.get_deployments).totalCount
             }
 
             if name is not None:
@@ -83,13 +81,13 @@ class GitHubMiner():
 
         return repo_data, None
 
-    def collect(self, repo_names, name=None, date=None, real_creation_date=True):
+    def collect(self, repo_names, name=None, date=None):
         repos_data = pandas.DataFrame(columns=self.repo_columns)
         errors_data = pandas.DataFrame(columns=self.error_columns)
 
         for repo_name in repo_names:
             repo_data, error_data = self.scrape(
-                repo_name=repo_name, name=name, date=date, real_creation_date=real_creation_date)
+                repo_name=repo_name, name=name, date=date)
 
             if error_data is None:
                 repo_data = pandas.DataFrame([repo_data])
