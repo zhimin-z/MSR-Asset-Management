@@ -43,7 +43,7 @@ class GitHubMiner():
                                  full_name_or_id=repo_name)
 
             commits = sleep_wrapper(repo.get_commits)
-            last_commit_date = commits[0].commit.author.date
+            last_commit_date = pd.to_datetime(commits[0].commit.author.date).to_datetime64()
             if date is not None and date > last_commit_date:
                 error_data = {'Repo': repo_name, 'Error': 'Unrelevant'}
                 return None, error_data
@@ -52,8 +52,8 @@ class GitHubMiner():
                 'Repo': repo_name,
                 'Link': repo.html_url,
                 'Archived': repo.archived,
-                'Creation Date': repo.created_at,
-                'First Activity Date': commits.reversed[0].commit.author.date,
+                'Creation Date': pd.to_datetime(repo.created_at).to_datetime64(),
+                'First Activity Date': pd.to_datetime(commits.reversed[0].commit.author.date).to_datetime64(),
                 'Last Activity Date': last_commit_date,
                 'Topics': sleep_wrapper(repo.get_topics),
                 '#Star': repo.stargazers_count,
