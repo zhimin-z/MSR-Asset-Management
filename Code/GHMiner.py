@@ -1,6 +1,5 @@
 from github import Github
-import pandas
-import random
+import pandas as pd
 import time
 
 
@@ -36,7 +35,7 @@ class GitHubMiner():
 
     def scrape(self, repo_name, name=None, date=None):
         def sleep_wrapper(func, **args):
-            time.sleep(random.random())
+            time.sleep(0.5)
             return func(**args)
 
         try:
@@ -82,20 +81,20 @@ class GitHubMiner():
         return repo_data, None
 
     def collect(self, repo_names, name=None, date=None):
-        repos_data = pandas.DataFrame(columns=self.repo_columns)
-        errors_data = pandas.DataFrame(columns=self.error_columns)
+        repos_data = pd.DataFrame(columns=self.repo_columns)
+        errors_data = pd.DataFrame(columns=self.error_columns)
 
         for repo_name in repo_names:
             repo_data, error_data = self.scrape(
                 repo_name=repo_name, name=name, date=date)
 
             if error_data is None:
-                repo_data = pandas.DataFrame([repo_data])
-                repos_data = pandas.concat(
+                repo_data = pd.DataFrame([repo_data])
+                repos_data = pd.concat(
                     [repos_data, repo_data], ignore_index=True)
             else:
-                error_data = pandas.DataFrame([error_data])
-                errors_data = pandas.concat(
+                error_data = pd.DataFrame([error_data])
+                errors_data = pd.concat(
                     [errors_data, error_data], ignore_index=True)
 
         return repos_data, errors_data

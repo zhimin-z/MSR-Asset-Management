@@ -1,6 +1,6 @@
 import gitlab
 import operator
-import pandas
+import pandas as pd
 
 
 class GitLabMiner():
@@ -35,7 +35,8 @@ class GitLabMiner():
             project = self.gitlab.projects.get(repo_name)
 
             commits = sleep_wrapper(project.commits.list, all=True)
-            last_commit_date = commits[0].created_at
+            last_commit_date = pd.to_datetime(
+                commits[0].created_at).to_datetime64()
             if date is not None and date > last_commit_date:
                 error_data = {'Repo': repo_name, 'Error': 'Unrelevant'}
                 return None, error_data
@@ -43,8 +44,8 @@ class GitLabMiner():
             repo_data = {
                 'Repo': repo_name,
                 'Link': project.http_url_to_repo,
-                'Creation Date': project.created_at,
-                'First Activity Date': commits[-1].created_at,
+                'Creation Date': pd.to_datetime(project.created_at).to_datetime64(),
+                'First Activity Date': pd.to_datetime(commits[-1].created_at).to_datetime64(),
                 'Last Activity Date': last_commit_date,
                 'Language': max(sleep_wrapper(project.languages).items(), key=operator.itemgetter(1))[0],
                 'Topics': project.topics,
@@ -74,20 +75,20 @@ class GitLabMiner():
         return repo_data, None
 
     def collect(self, repo_names, name=None, date=None):
-        repos_data = pandas.DataFrame(columns=self.repo_columns)
-        errors_data = pandas.DataFrame(columns=self.error_columns)
+        repos_data = pd.DataFrame(columns=self.repo_columns)
+        errors_data = pd.DataFrame(columns=self.error_columns)
 
         for repo_name in repo_names:
             repo_data, error_data = self.scrape(
                 repo_name=repo_name, name=name, date=date)
 
             if error_data is None:
-                repo_data = pandas.DataFrame([repo_data])
-                repos_data = pandas.concat(
+                repo_data = pd.DataFrame([repo_data])
+                repos_data = pd.concat(
                     [repos_data, repo_data], ignore_index=True)
             else:
-                error_data = pandas.DataFrame([error_data])
-                errors_data = pandas.concat(
+                error_data = pd.DataFrame([error_data])
+                errors_data = pd.concat(
                     [errors_data, error_data], ignore_index=True)
 
         return repos_data, errors_data
