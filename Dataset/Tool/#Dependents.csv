@@ -1,22 +1,27 @@
 Name,#GitHub Dependents,#GitLab Dependents
-Aim,1554,19
-Amazon SageMaker,808,3
-ClearML,56,0
-Codalab,161,2
-Comet,430,0
-D6tflow,4,0
-Deep Lake,2,0
-Determined,45,0
-DVC,174,1
-Guild AI,195,4
+Aim,359,1
+Amazon SageMaker,5364,20
+Azure Machine Learning,641,0
+ClearML,59,0
+Codalab,6,0
+Comet,432,0
+D6tflow,0,0
+Databricks,12,0
+Deep Lake,3,0
+Determined,44,0
+Domino,90,0
+DVC,96,0
+Guild AI,173,4
 Keepsake,3,0
-LakeFS,9,0
-MLflow,1081,3
+LakeFS,7,0
+MLflow,1076,3
 ModelDB,8,0
 Neptune,264,0
-Pachyderm,26,0
-Polyaxon,40,0
+Pachyderm,15,0
+Polyaxon,56,0
 Quilt,16,0
-Sacred,507,0
-Spell,795,3
-Weights & Biases,3610,0
+Sacred,508,0
+Spell,740,2
+Valohai,31,0
+Vertex AI,85,0
+Weights & Biases,3649,0
