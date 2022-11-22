@@ -35,7 +35,7 @@ class GitHubMiner():
 
     def scrape(self, repo_name, name=None, date=None):
         def sleep_wrapper(func, **args):
-            time.sleep(0.5)
+            time.sleep(5)
             return func(**args)
 
         try:
@@ -96,5 +96,5 @@ class GitHubMiner():
                 error_data = pd.DataFrame([error_data])
                 errors_data = pd.concat(
                     [errors_data, error_data], ignore_index=True)
-
+            
         return repos_data, errors_data

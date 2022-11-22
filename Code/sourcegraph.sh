@@ -7,6 +7,7 @@ fi
 #curl -L https://sourcegraph.com/.api/src-cli/src_linux_amd64 -o src
 #chmod +x src
 
+src search -json "context:global /import sigopt\.Connection|library\(SigOptR\)|import com\.sigopt.*;|from sigopt.* import |import sigopt|https:\/\/api\.sigopt\.com\/v1\/experiments/ count:all select:repo patternType:standard case:yes" > "$RAW_DIR/SigOpt.json"
 src search -json "context:global /import mlflow|from mlflow.* import |library\(mlflow\)|import org\.mlflow.*;/ count:all select:repo patternType:standard case:yes" > "$RAW_DIR/MLflow.json"
 src search -json "context:global file:dvc\.y(a)?ml or /import dvc|from dvc.* import / count:all select:repo patternType:standard case:yes" > "$RAW_DIR/DVC.json"
 src search -json "context:global /import clearml|from clearml.* import / count:all select:repo patternType:standard case:yes" > "$RAW_DIR/ClearML.json"
