@@ -1,0 +1,3 @@
+pandas==1.3.5
+PyGithub==1.57
+python_gitlab==3.11.0
