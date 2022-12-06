@@ -8,7 +8,7 @@ fi
 #chmod +x src
 
 src search -json "context:global /import sagemaker|from sagemaker.* import |#include <aws\/sagemaker.*\.h>|\"github\.com\/aws\/aws-sdk-go\/service\/sagemaker\"|package com\.amazonaws\.services\.sagemaker.*;|using Amazon\.SageMaker.*;|namespace Aws\\SageMaker\.*;|import .* from (\"@aws-sdk\/client-sagemaker\"|'@aws-sdk\/client-sagemaker');|require\((\"@aws-sdk\/client-sagemaker\"|'@aws-sdk\/client-sagemaker')\);|require_relative ('aws-sdk-sagemaker\/.*'|\"aws-sdk-sagemaker\/.*\")/ select:repo count:all patternType:standard case:yes" >"$RAW_DIR/Amazon SageMaker.json"
-src search -json "context:global /import sigopt\.Connection|library\(SigOptR\)|import com\.sigopt.*;|from sigopt.* import |import sigopt|https:\/\/api\.sigopt\.com\/v1\/experiments/ count:all select:repo patternType:standard case:yes" >"$RAW_DIR/SigOpt.json"
+src search -json "context:global /import sigopt|from sigopt.* import |library\(SigOptR\)|import com\.sigopt.*;/ count:all select:repo patternType:standard case:yes" >"$RAW_DIR/SigOpt.json"
 src search -json "context:global /import mlflow|from mlflow.* import |library\(mlflow\)|import org\.mlflow.*;/ count:all select:repo patternType:standard case:yes" >"$RAW_DIR/MLflow.json"
 src search -json "context:global file:dvc\.y(a)?ml or /import dvc|from dvc.* import / count:all select:repo patternType:standard case:yes" >"$RAW_DIR/DVC.json"
 src search -json "context:global /import clearml|from clearml.* import / count:all select:repo patternType:standard case:yes" >"$RAW_DIR/ClearML.json"
