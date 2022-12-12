@@ -1,3 +1,0 @@
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=aimhubio/aim,allegroai/clearml,codalab/codalab-worksheets,d6t/d6tflow,activeloopai/deeplake,determined-ai/determined,iterative/dvc,guildai/guildai,replicate/keepsake,treeverse/lakeFS,mlflow/mlflow,VertaAI/modeldb,neptune-ai/neptune-client,pachyderm/pachyderm,polyaxon/polyaxon,quiltdata/quilt,IDSIA/sacred,wandb/wandb&type=Date)](https://star-history.com/#aimhubio/aim&allegroai/clearml&codalab/codalab-worksheets&d6t/d6tflow&activeloopai/deeplake&determined-ai/determined&iterative/dvc&guildai/guildai&replicate/keepsake&treeverse/lakeFS&mlflow/mlflow&VertaAI/modeldb&neptune-ai/neptune-client&pachyderm/pachyderm&polyaxon/polyaxon&quiltdata/quilt&IDSIA/sacred&wandb/wandb&Date)
