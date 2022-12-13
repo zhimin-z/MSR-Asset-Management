@@ -23,6 +23,7 @@ class GitLabMiner():
                 error_data = {'Repo': repo_name, 'Error': 'Unrelevant'}
                 return None, error_data
 
+            releases = sleep_wrapper(repo.releases.list, get_all=True)
             issues = sleep_wrapper(repo.issues.list, get_all=True, state='all')
 
             repo_data = {
@@ -34,19 +35,13 @@ class GitLabMiner():
                 'Language': max(sleep_wrapper(repo.languages).items(), key=operator.itemgetter(1))[0],
                 '#Star': repo.star_count,
                 '#Fork': repo.forks_count,
-                '#Commits': len(commits),
                 '#Branches': len(sleep_wrapper(repo.branches.list, get_all=True)),
-                '#Releases': len(sleep_wrapper(repo.releases.list, get_all=True)),
                 '#Member': len(sleep_wrapper(repo.members.list, get_all=True)),
+                '#Releases': len(releases),
+                '#Commits': len(commits),
                 '#Issues': len(issues),
                 '#Issues (Open)': len(sleep_wrapper(repo.issues.list, get_all=True, state='opened'))
             }
-            
-            if len(issues) > 0:
-                # An issue link example: https://gitlab.com/librespacefoundation/polaris/polaris/-/issues/30
-                repo_data['#Issues (All)'] = issues[0].iid
-            else:
-                repo_data['#Issues (All)'] = 0
 
             try:
                 repo_data['#Merge Requests'] = len(sleep_wrapper(
@@ -56,6 +51,15 @@ class GitLabMiner():
             except:
                 repo_data['#Merge Requests'] = 0
                 repo_data['#Merge Requests (Open)'] = 0
+            
+            if len(issues) > 0:
+                # An issue link example: https://gitlab.com/librespacefoundation/polaris/polaris/-/issues/30
+                repo_data['#Issues (All)'] = issues[0].iid
+            else:
+                repo_data['#Issues (All)'] = 0
+
+            if len(releases) > 0:
+                repo_data['First Release Date'] = pd.to_datetime(releases[-1].created_at).to_datetime64()
                 
             return repo_data, None
 
