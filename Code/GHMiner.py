@@ -18,7 +18,7 @@ class GitHubMiner():
 
             commits = sleep_wrapper(repo.get_commits)
             last_commit_date = pd.to_datetime(
-                commits[0].commit.author.date).to_datetime64()
+                commits[0].commit.author.date)
             if tool_release_date is not None and tool_release_date > last_commit_date:
                 error_data = {'Repo': repo_name, 'Error': 'Unrelevant'}
                 return None, error_data
@@ -29,7 +29,7 @@ class GitHubMiner():
             repo_data = {
                 'Repo': repo_name,
                 'Link': repo.html_url,
-                'Repo Creation Date': pd.to_datetime(repo.created_at).to_datetime64(),
+                'Repo Creation Date': pd.to_datetime(repo.created_at),
                 'Last Commit Date': last_commit_date,
                 'Topics': sleep_wrapper(repo.get_topics),
                 'Language': repo.language,
@@ -46,16 +46,10 @@ class GitHubMiner():
                 '#Issues': issues.totalCount,
                 '#Issues (Open)': sleep_wrapper(repo.get_issues, state='open').totalCount
             }
-            
-            if issues.totalCount > 0:
-                # An issue link example: https://api.github.com/repos/microsoft/Partner-Center-Java-Samples/issues/30
-                repo_data['#Issues (All)'] = issues[0].number
-            else:
-                repo_data['#Issues (All)'] = 0
 
             if releases.totalCount > 0:
                 repo_data['First Release Date'] = pd.to_datetime(
-                    releases.reversed[0].created_at).to_datetime64()
+                    releases.reversed[0].created_at)
 
             return repo_data, None
 

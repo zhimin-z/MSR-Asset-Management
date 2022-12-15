@@ -1,6 +1,6 @@
 #! /bin/sh
 
-export RAW_DIR="Round#1\Raw"
+export RAW_DIR="Raw"
 
 if [ ! -d $RAW_DIR ]; then
     mkdir $RAW_DIR
