@@ -7,7 +7,7 @@ class GitHubMiner():
     def __init__(self, private_token):
         self.github = Github(login_or_token=private_token)
 
-    def scrape(self, repo_name, tool_release_date=None):
+    def scrape(self, repo_name, tool_release_date=None, release_date=False):
         def sleep_wrapper(func, **args):
             time.sleep(3)
             return func(**args)
@@ -47,7 +47,7 @@ class GitHubMiner():
                 '#Issues (Open)': sleep_wrapper(repo.get_issues, state='open').totalCount
             }
 
-            if releases.totalCount > 0:
+            if release_date and releases.totalCount > 0:
                 repo_data['First Release Date'] = pd.to_datetime(
                     releases.reversed[0].created_at)
 
@@ -57,13 +57,13 @@ class GitHubMiner():
             error_data = {'Repo': repo_name, 'Error': err}
             return None, error_data
 
-    def collect(self, repo_list, tool_release_date=None):
+    def collect(self, repo_list, tool_release_date=None, release_date=False):
         errors_data = None
         repos_data = None
 
         for repo_name in repo_list:
             repo_data, error_data = self.scrape(
-                repo_name=repo_name, tool_release_date=tool_release_date)
+                repo_name=repo_name, tool_release_date=tool_release_date, release_date=release_date)
             if error_data is None:
                 repo_data = pd.DataFrame([repo_data])
                 repos_data = pd.concat(

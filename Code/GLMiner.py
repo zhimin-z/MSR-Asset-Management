@@ -8,7 +8,7 @@ class GitLabMiner():
     def __init__(self, private_token):
         self.gitlab = Gitlab(private_token=private_token)
 
-    def scrape(self, repo_name, tool_release_date=None):
+    def scrape(self, repo_name, release_date=False):
         def sleep_wrapper(func, **args):
             time.sleep(0.1)
             return func(**args)
@@ -19,9 +19,6 @@ class GitLabMiner():
             commits = sleep_wrapper(repo.commits.list, get_all=True)
             last_commit_date = pd.to_datetime(
                 commits[0].created_at)
-            if tool_release_date is not None and tool_release_date > last_commit_date:
-                error_data = {'Repo': repo_name, 'Error': 'Unrelevant'}
-                return None, error_data
 
             releases = sleep_wrapper(repo.releases.list, get_all=True)
             issues = sleep_wrapper(repo.issues.list, get_all=True, state='all')
@@ -52,7 +49,7 @@ class GitLabMiner():
                 repo_data['#Merge Requests'] = 0
                 repo_data['#Merge Requests (Open)'] = 0
 
-            if len(releases) > 0:
+            if release_date and len(releases) > 0:
                 repo_data['First Release Date'] = pd.to_datetime(
                     releases[-1].created_at)
 
@@ -62,13 +59,13 @@ class GitLabMiner():
             error_data = {'Repo': repo_name, 'Error': err}
             return None, error_data
 
-    def collect(self, repo_list, tool_release_date=None):
+    def collect(self, repo_list, tool_release_date=None, release_date=False):
         errors_data = None
         repos_data = None
 
         for repo_name in repo_list:
             repo_data, error_data = self.scrape(
-                repo_name=repo_name, tool_release_date=tool_release_date)
+                repo_name=repo_name, release_date=release_date)
             if error_data is None:
                 repo_data = pd.DataFrame([repo_data])
                 repos_data = pd.concat(
