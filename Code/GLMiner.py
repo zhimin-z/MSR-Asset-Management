@@ -17,9 +17,6 @@ class GitLabMiner():
             repo = self.gitlab.projects.get(repo_name)
 
             commits = sleep_wrapper(repo.commits.list, get_all=True)
-            last_commit_date = pd.to_datetime(
-                commits[0].created_at)
-
             releases = sleep_wrapper(repo.releases.list, get_all=True)
             issues = sleep_wrapper(repo.issues.list, get_all=True, state='all')
 
@@ -27,7 +24,7 @@ class GitLabMiner():
                 'Repo': repo_name,
                 'Link': repo.http_url_to_repo,
                 'Repo Creation Date': pd.to_datetime(repo.created_at),
-                'Last Commit Date': last_commit_date,
+                'Last Commit Date': pd.to_datetime(commits[0].created_at),
                 'Topics': repo.topics,
                 'Language': max(sleep_wrapper(repo.languages).items(), key=operator.itemgetter(1))[0],
                 '#Star': repo.star_count,
@@ -56,10 +53,10 @@ class GitLabMiner():
             return repo_data, None
 
         except Exception as err:
-            error_data = {'Repo': repo_name, 'Error': err}
+            error_data = {'Repo': repo_name, 'Error': err.status}
             return None, error_data
 
-    def collect(self, repo_list, tool_release_date=None, release_date=False):
+    def collect(self, repo_list, release_date=False):
         errors_data = None
         repos_data = None
 
