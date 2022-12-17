@@ -4,15 +4,20 @@ import operator
 import time
 
 
+def sleep_wrapper(func, **args):
+    time.sleep(0.1)
+    return func(**args)
+
+
 class GitLabMiner():
     def __init__(self, private_token):
         self.gitlab = Gitlab(private_token=private_token)
 
     def scrape_issues(self, repo_name):
-        repo = self.gitlab.projects.get(repo_name)
-        issues = repo.issues.list(get_all=True, state='all')
+        repo = sleep_wrapper(self.gitlab.projects.get, repo_name)
+        issues = sleep_wrapper(repo.issues.list, get_all=True, state='all')
 
-        issues_data = []
+        issues_data = None
         for issue in issues:
             issue_data = {}
             issue_data['Issue_link'] = issue.web_url
@@ -24,10 +29,11 @@ class GitLabMiner():
             issue_data['Issue_upvote_count'] = issue.upvotes
             issue_data['Issue_downvote_count'] = issue.downvotes
             issue_data['Issue_body'] = issue.description
-            issues_data.append(issue_data)
-            time.sleep(0.5)
+            issue_data = pd.DataFrame(issue_data)
+            issues_data = pd.concat(
+                [issues_data, issue_data], ignore_index=True)
+            time.sleep(0.1)
 
-        issues_data = pd.DataFrame([issues_data])
         return issues_data
 
     def scrape_issues_list(self, repo_list):
@@ -41,13 +47,8 @@ class GitLabMiner():
         return issues_list_data
 
     def scrape_repo(self, repo_name, release_date=False):
-        def sleep_wrapper(func, **args):
-            time.sleep(0.1)
-            return func(**args)
-
         try:
-            repo = self.gitlab.projects.get(repo_name)
-
+            repo = sleep_wrapper(self.gitlab.projects.get, repo_name)
             commits = sleep_wrapper(repo.commits.list, get_all=True)
             releases = sleep_wrapper(repo.releases.list, get_all=True)
             issues = sleep_wrapper(repo.issues.list, get_all=True, state='all')
