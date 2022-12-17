@@ -30,9 +30,9 @@ class GitHubMiner():
                 issue_data['Issue_creation_time'] = issue.created_at
                 issue_data['Issue_closed_time'] = issue.closed_at
                 issue_data['Issue_upvote_count'] = sum(
-                    reaction['content'] == '+1' for reaction in reactions)
+                    reaction.content == '+1' for reaction in reactions)
                 issue_data['Issue_downvote_count'] = sum(
-                    reaction['content'] == '-1' for reaction in reactions)
+                    reaction.content == '-1' for reaction in reactions)
                 issue_data['Issue_comment_count'] = issue.comments
                 issue_data['Issue_body'] = issue.body
 
