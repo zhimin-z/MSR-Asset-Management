@@ -16,28 +16,28 @@ class GitLabMiner():
     def scrape_issues(self, repo_name):
         repo = sleep_wrapper(self.gitlab.projects.get, repo_name)
         issues = sleep_wrapper(repo.issues.list, get_all=True, state='all')
+        issues_data = pd.DataFrame()
 
-        issues_data = None
         for issue in issues:
+            time.sleep(0.1)
             issue_data = {}
             issue_data['Issue_link'] = issue.web_url
             issue_data['Issue_title'] = issue.title
-            issue_data['Issue_state'] = issue.state
             issue_data['Issue_label'] = issue.labels
-            issue_data['Issue_creation_time'] = issue.created_at
-            issue_data['Issue_closed_time'] = issue.closed_at
+            issue_data['Issue_creation_time'] = pd.to_datetime(
+                issue.created_at)
+            issue_data['Issue_closed_time'] = pd.to_datetime(issue.closed_at)
             issue_data['Issue_upvote_count'] = issue.upvotes
             issue_data['Issue_downvote_count'] = issue.downvotes
             issue_data['Issue_body'] = issue.description
             issue_data = pd.DataFrame(issue_data)
             issues_data = pd.concat(
                 [issues_data, issue_data], ignore_index=True)
-            time.sleep(0.1)
 
         return issues_data
 
     def scrape_issues_list(self, repo_list):
-        issues_list_data = None
+        issues_list_data = pd.DataFrame()
 
         for repo_name in repo_list:
             issues_data = self.scrape_issues(repo_name=repo_name)
@@ -84,21 +84,21 @@ class GitLabMiner():
                     releases[-1].created_at)
 
             repo_data = pd.DataFrame([repo_data])
-            return repo_data, None
+            return repo_data, pd.DataFrame()
 
         except Exception as err:
             error_data = {'Repo': repo_name, 'Error': err.status}
             error_data = pd.DataFrame([error_data])
-            return None, error_data
+            return pd.DataFrame(), error_data
 
     def scrape_repo_list(self, repo_list, release_date=False):
-        errors_data = None
-        repos_data = None
+        errors_data = pd.DataFrame()
+        repos_data = pd.DataFrame()
 
         for repo_name in repo_list:
             repo_data, error_data = self.scrape_repo(
                 repo_name=repo_name, release_date=release_date)
-            if error_data is None:
+            if not repo_data.empty:
                 repos_data = pd.concat(
                     [repos_data, repo_data], ignore_index=True)
             else:
