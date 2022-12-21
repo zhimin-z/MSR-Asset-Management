@@ -1,13 +1,13 @@
 #! /bin/sh
 
+curl -L https://sourcegraph.com/.api/src-cli/src_linux_amd64 -o src
+chmod +x src
+
 export RAW_DIR="Raw"
 
 if [ ! -d $RAW_DIR ]; then
     mkdir $RAW_DIR
 fi
-
-#curl -L https://sourcegraph.com/.api/src-cli/src_linux_amd64 -o src
-#chmod +x src
 
 src search -json "context:global /import aim|from aim.* import / count:all select:repo patternType:standard case:yes" >"$RAW_DIR/Aim.json"                                                                                                                                                                                                                                                                                                                                                                                                                                                  # Aim
 src search -json "context:global /import sagemaker|from sagemaker.* import |#include <aws\/sagemaker.*\.h>|\"github\.com\/aws\/aws-sdk-go\/service\/sagemaker\"|package com\.amazonaws\.services\.sagemaker.*;|using Amazon\.SageMaker.*;|namespace Aws\\SageMaker\.*;|import .* from (\"@aws-sdk\/client-sagemaker\"|'@aws-sdk\/client-sagemaker');|require\((\"@aws-sdk\/client-sagemaker\"|'@aws-sdk\/client-sagemaker')\);|require_relative ('aws-sdk-sagemaker\/.*'|\"aws-sdk-sagemaker\/.*\")/ select:repo count:all patternType:standard case:yes" >"$RAW_DIR/Amazon SageMaker.json" # Amazon SageMaker

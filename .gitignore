@@ -1,5 +1,4 @@
 
 *.pyc
-Code/src
 .DS_Store
 *.egg-info
