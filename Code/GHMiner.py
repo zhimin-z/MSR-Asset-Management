@@ -12,7 +12,7 @@ class GitHubMiner():
     def __init__(self, private_token):
         self.github = Github(login_or_token=private_token)
 
-    def scrape_issues(self, repo_name):
+    def scrape_issue(self, repo_name):
         repo = sleep_wrapper(self.github.get_repo, full_name_or_id=repo_name)
         issues = sleep_wrapper(repo.get_issues, state='all')
         issues_data = pd.DataFrame()
@@ -42,11 +42,11 @@ class GitHubMiner():
 
         return issues_data
 
-    def scrape_issues_list(self, repo_list):
+    def scrape_issue_list(self, repo_list):
         issues_list_data = pd.DataFrame()
 
         for repo_name in repo_list:
-            issues_data = self.scrape_issues(repo_name=repo_name)
+            issues_data = self.scrape_issue(repo_name=repo_name)
             issues_list_data = pd.concat(
                 [issues_list_data, issues_data], ignore_index=True)
 
