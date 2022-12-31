@@ -8,7 +8,7 @@ def sleep_wrapper(func, **args):
     return func(**args)
 
 
-class GitHubMiner():
+class GitHubMiner:
     def __init__(self, private_token):
         self.github = Github(login_or_token=private_token)
 

@@ -9,7 +9,7 @@ def sleep_wrapper(func, **args):
     return func(**args)
 
 
-class GitLabMiner():
+class GitLabMiner:
     def __init__(self, private_token):
         self.gitlab = Gitlab(private_token=private_token)
 
