@@ -3,9 +3,9 @@ import pandas as pd
 import time
 
 
-def sleep_wrapper(func, **args):
+def sleep_wrapper(func, *args, **kwargs):
     time.sleep(3)
-    return func(**args)
+    return func(*args, **kwargs)
 
 
 class GitHubMiner:
@@ -43,14 +43,14 @@ class GitHubMiner:
         return issues_data
 
     def scrape_issue_list(self, repo_list):
-        issues_list_data = pd.DataFrame()
+        issues_data_list = pd.DataFrame()
 
         for repo_name in repo_list:
             issues_data = self.scrape_issue(repo_name=repo_name)
-            issues_list_data = pd.concat(
-                [issues_list_data, issues_data], ignore_index=True)
+            issues_data_list = pd.concat(
+                [issues_data_list, issues_data], ignore_index=True)
 
-        return issues_list_data
+        return issues_data_list
 
     def scrape_repo(self, repo_name, release_date=None, real_name=None):
         try:

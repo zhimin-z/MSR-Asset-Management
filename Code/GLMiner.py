@@ -4,9 +4,9 @@ import operator
 import time
 
 
-def sleep_wrapper(func, **args):
+def sleep_wrapper(func, *args, **kwargs):
     time.sleep(0.1)
-    return func(**args)
+    return func(*args, **kwargs)
 
 
 class GitLabMiner:
@@ -14,7 +14,7 @@ class GitLabMiner:
         self.gitlab = Gitlab(private_token=private_token)
 
     def scrape_issue(self, repo_name):
-        repo = sleep_wrapper(self.gitlab.projects.get, repo_name)
+        repo = sleep_wrapper(self.gitlab.projects.get, id=repo_name)
         issues = sleep_wrapper(repo.issues.list, get_all=True, state='all')
         issues_data = pd.DataFrame()
 
@@ -24,27 +24,31 @@ class GitLabMiner:
             issue_data['Issue_link'] = issue.web_url
             issue_data['Issue_title'] = issue.title
             issue_data['Issue_label'] = issue.labels
-            issue_data['Issue_creation_time'] = pd.to_datetime(
-                issue.created_at)
-            issue_data['Issue_closed_time'] = pd.to_datetime(issue.closed_at)
+            issue_data['Issue_creation_time'] = issue.created_at
+            issue_data['Issue_closed_time'] = issue.closed_at
             issue_data['Issue_upvote_count'] = issue.upvotes
             issue_data['Issue_downvote_count'] = issue.downvotes
             issue_data['Issue_body'] = issue.description
-            issue_data = pd.DataFrame(issue_data)
+            issue_data = pd.DataFrame([issue_data])
             issues_data = pd.concat(
                 [issues_data, issue_data], ignore_index=True)
+
+        issues_data['Issue_creation_time'] = pd.to_datetime(
+            issues_data['Issue_creation_time'])
+        issues_data['Issue_closed_time'] = pd.to_datetime(
+            issues_data['Issue_closed_time'])
 
         return issues_data
 
     def scrape_issue_list(self, repo_list):
-        issues_list_data = pd.DataFrame()
+        issues_data_list = pd.DataFrame()
 
         for repo_name in repo_list:
             issues_data = self.scrape_issue(repo_name=repo_name)
-            issues_list_data = pd.concat(
-                [issues_list_data, issues_data], ignore_index=True)
+            issues_data_list = pd.concat(
+                [issues_data_list, issues_data], ignore_index=True)
 
-        return issues_list_data
+        return issues_data_list
 
     def scrape_repo(self, repo_name):
         try:
