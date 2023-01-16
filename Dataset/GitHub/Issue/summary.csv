@@ -5,7 +5,9 @@ ClearML,21,12,20,12
 Comet,29,24,28,23
 Determined,1,0,1,0
 DVC,274,157,161,112
+Kedro,85,47,70,42
 MLflow,426,308,203,172
+MLRun,1,1,1,1
 Neptune,33,25,31,24
 Pachyderm,1,0,1,0
 Sacred,43,21,39,20
