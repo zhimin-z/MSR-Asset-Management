@@ -31,6 +31,7 @@ github-dependents-info --repo codalab/codalab-worksheets -p -j >"$RAW_DIR/Codala
 github-dependents-info --repo dominodatalab/python-domino -p -j >"$RAW_DIR/Domino.json" # Domino
 github-dependents-info --repo iterative/dvc -p -j >"$RAW_DIR/DVC.json"                  # DVC
 github-dependents-info --repo guildai/guildai -p -j >"$RAW_DIR/Guild AI.json"           # Guild AI
+github-dependents-info --repo kedro-org/kedro -p -j >"$RAW_DIR/Kedro.json"              # Kedro
 github-dependents-info --repo mlrun/mlrun -p -j >"$RAW_DIR/MLRun.json"                  # MLRun
 github-dependents-info --repo pachyderm/pachyderm -p -j >"$RAW_DIR/Pachyderm.json"      # Pachyderm
 github-dependents-info --repo IDSIA/sacred -p -j >"$RAW_DIR/Sacred.json"                # Sacred
