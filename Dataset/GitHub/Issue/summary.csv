@@ -1,12 +1,14 @@
 Tool,#Issue,#Closed,#Sample Issue,#Sample Closed
-ClearML,15,11,15,11
-Comet,23,19,22,19
-DVC,135,82,101,68
+Amazon SageMaker,344,211,182,137
+Azure Machine Learning,994,708,278,250
+ClearML,20,12,20,12
+Comet,44,35,40,33
+DVC,178,112,122,93
 Determined,1,0,1,0
-Kedro,63,35,55,33
-MLflow,256,181,154,124
-Neptune,22,17,21,17
-Pachyderm,1,0,1,0
-Sacred,34,13,32,13
-SigOpt,7,5,7,5
-Weights & Biases,180,148,123,108
+Kedro,104,58,83,51
+MLflow,338,243,181,150
+Neptune,38,32,35,30
+Sacred,41,19,38,19
+SigOpt,10,7,10,7
+Vertex AI,18,9,18,9
+Weights & Biases,238,195,148,130
