@@ -1,6 +1,6 @@
 Tool,#Issue,#Closed,#Sample Issue,#Sample Closed
 Amazon SageMaker,340,210,181,137
-Azure Machine Learning,982,698,277,249
+Azure Machine Learning,174,120,120,92
 ClearML,19,12,19,12
 Comet,43,34,39,32
 DVC,174,109,120,86
