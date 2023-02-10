@@ -1,3 +1,2 @@
-Tool,#Issue,#Closed,#Sample Issue,#Sample Closed
-Amazon SageMaker,2,1,2,1
-MLflow,1,0,1,0
+Tool,#Issue,#Sample Issue
+Amazon SageMaker,1,1
