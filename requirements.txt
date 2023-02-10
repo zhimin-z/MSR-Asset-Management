@@ -1,7 +1,7 @@
+github-dependents-info==0.7.2
+openai==0.26.5
 pandas==1.5.2
+plotly==5.13.0
 PyGithub==1.57
 python_gitlab==3.11.0
-github-dependents-info==0.7.2
-plotly==5.13.0
-openai==0.26.5
 sklearn==0.0.post1
