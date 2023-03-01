@@ -1,5 +1,5 @@
 github-dependents-info==0.7.2
-openai==0.26.5
+openai==0.27.0
 pandas==1.5.2
 PyGithub==1.57
 python_gitlab==3.11.0
