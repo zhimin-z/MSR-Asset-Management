@@ -31,5 +31,6 @@ github-dependents-info --repo iterative/dvc -p -j >"$RAW_DIR/DVC.json"          
 github-dependents-info --repo guildai/guildai -p -j >"$RAW_DIR/Guild AI.json"           # Guild AI
 github-dependents-info --repo kedro-org/kedro -p -j >"$RAW_DIR/Kedro.json"              # Kedro
 github-dependents-info --repo mlrun/mlrun -p -j >"$RAW_DIR/MLRun.json"                  # MLRun
+github-dependents-info --repo optuna/optuna -p -j >"$RAW_DIR/Optuna.json"               # Optuna
 github-dependents-info --repo IDSIA/sacred -p -j >"$RAW_DIR/Sacred.json"                # Sacred
 github-dependents-info --repo wandb/wandb -p -j >"$RAW_DIR/Weights & Biases.json"       # Weights & Biases
