@@ -1,4 +1,4 @@
-github-dependents-info==0.7.2
+github-dependents-info==0.9.0
 openai==0.27.2
 pandas==1.5.2
 PyGithub==1.57
