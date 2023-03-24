@@ -33,7 +33,7 @@ class GitHubMiner:
                     reaction.content == '+1' for reaction in reactions)
                 issue_data['Issue_downvote_count'] = sum(
                     reaction.content == '-1' for reaction in reactions)
-                issue_data['Issue_comment_count'] = issue.comments
+                issue_data['Issue_answer_count'] = issue.comments
                 issue_data['Issue_body'] = issue.body
 
                 issue_data = pd.DataFrame([issue_data])
