@@ -28,6 +28,7 @@ class GitLabMiner:
             issue_data['Issue_closed_time'] = issue.closed_at
             issue_data['Issue_upvote_count'] = issue.upvotes
             issue_data['Issue_downvote_count'] = issue.downvotes
+            issue_data['Issue_answer_count'] = len(sleep_wrapper(issue.notes.list, get_all=True))
             issue_data['Issue_body'] = issue.description
             issue_data = pd.DataFrame([issue_data])
             issues_data = pd.concat(
