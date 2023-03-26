@@ -1,7 +1,3 @@
 
 *.pyc
 .DS_Store
-*.egg-info
-src
-wandb
-Dataset/Labeling/Best/Topic model
