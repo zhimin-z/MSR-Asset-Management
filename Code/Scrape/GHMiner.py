@@ -20,8 +20,6 @@ class GitHubMiner:
         for issue in issues:
             time.sleep(3)
             if not issue.pull_request:
-                reactions = issue.get_reactions()
-
                 issue_data = {}
                 issue_data['Issue_link'] = issue.html_url
                 issue_data['Issue_title'] = issue.title
@@ -29,6 +27,7 @@ class GitHubMiner:
                     label.name for label in issue.labels]
                 issue_data['Issue_creation_time'] = issue.created_at
                 issue_data['Issue_closed_time'] = issue.closed_at
+                reactions = issue.get_reactions()
                 issue_data['Issue_upvote_count'] = sum(
                     reaction.content == '+1' for reaction in reactions)
                 issue_data['Issue_downvote_count'] = sum(
@@ -36,9 +35,17 @@ class GitHubMiner:
                 issue_data['Issue_body'] = issue.body
                 issue_data['Issue_answer_count'] = issue.comments
                 answer_list = []
-                for answer in issue.get_comments():
+                for comment in issue.get_comments():
                     time.sleep(3)
-                    answer_list.append(answer.body)
+                    answer = {}
+                    answer['Answer_creation_time'] = comment.created_at
+                    answer['Answer_body'] = comment.body
+                    reactions = comment.get_reactions()
+                    answer['Answer_upvote_count'] = sum(
+                        reaction.content == '+1' for reaction in reactions)
+                    answer['Answer_downvote_count'] = sum(
+                        reaction.content == '-1' for reaction in reactions)
+                    answer_list.append(answer)
                 issue_data['Answer_list'] = answer_list
                 issue_data = pd.DataFrame([issue_data])
                 issues_data = pd.concat(

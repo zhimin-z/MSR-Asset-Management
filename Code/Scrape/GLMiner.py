@@ -32,9 +32,12 @@ class GitLabMiner:
             comments = sleep_wrapper(issue.notes.list, get_all=True)
             issue_data['Issue_answer_count'] = len(comments)
             answer_list = []
-            for answer in comments:
+            for comment in comments:
                 time.sleep(0.1)
-                answer_list.append(answer.body)
+                answer = {}
+                answer['Answer_creation_time'] = comment.created_at
+                answer['Answer_body'] = comment.body
+                answer_list.append(answer)
             issue_data['Answer_list'] = answer_list
             issue_data = pd.DataFrame([issue_data])
             issues_data = pd.concat(
