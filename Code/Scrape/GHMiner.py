@@ -101,24 +101,17 @@ class GitHubMiner:
                 repo_data['First Release Date'] = releases.reversed[0].created_at
 
             repo_data = pd.DataFrame([repo_data])
-            return repo_data, pd.DataFrame()
+            return repo_data
 
         except Exception as err:
-            error_data = {'Repo': repo_name, 'Error': err.status}
-            error_data = pd.DataFrame([error_data])
-            return pd.DataFrame(), error_data
+            print(f'Repo: {repo_name}, Error: {err.status}')
+            return pd.DataFrame()
 
     def scrape_repo_list(self, repo_list):
-        errors_data = pd.DataFrame()
         repos_data = pd.DataFrame()
 
         for repo_name in repo_list:
-            repo_data, error_data = self.scrape_repo(repo_name=repo_name)
-            if not repo_data.empty:
-                repos_data = pd.concat(
-                    [repos_data, repo_data], ignore_index=True)
-            else:
-                errors_data = pd.concat(
-                    [errors_data, error_data], ignore_index=True)
+            repo_data = self.scrape_repo(repo_name=repo_name)
+            repos_data = pd.concat([repos_data, repo_data], ignore_index=True)
 
-        return repos_data, errors_data
+        return repos_data
