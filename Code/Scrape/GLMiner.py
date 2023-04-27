@@ -24,7 +24,7 @@ class GitLabMiner:
             issue_data['Issue_link'] = issue.web_url
             issue_data['Issue_title'] = issue.title
             issue_data['Issue_label'] = issue.labels
-            issue_data['Issue_creation_time'] = issue.created_at
+            issue_data['Issue_created_time'] = issue.created_at
             issue_data['Issue_closed_time'] = issue.closed_at
             issue_data['Issue_upvote_count'] = issue.upvotes
             issue_data['Issue_downvote_count'] = issue.downvotes
@@ -43,8 +43,8 @@ class GitLabMiner:
             issues_data = pd.concat(
                 [issues_data, issue_data], ignore_index=True)
 
-        issues_data['Issue_creation_time'] = pd.to_datetime(
-            issues_data['Issue_creation_time'])
+        issues_data['Issue_created_time'] = pd.to_datetime(
+            issues_data['Issue_created_time'])
         issues_data['Issue_closed_time'] = pd.to_datetime(
             issues_data['Issue_closed_time'])
 
@@ -70,7 +70,7 @@ class GitLabMiner:
             repo_data = {
                 'Repo': repo_name,
                 'Link': repo.http_url_to_repo,
-                'Repo Creation Date': pd.to_datetime(repo.created_at),
+                'Repo Created Date': pd.to_datetime(repo.created_at),
                 'Last Commit Date': pd.to_datetime(commits[0].created_at),
                 'Topics': repo.topics,
                 'Language': max(sleep_wrapper(repo.languages).items(), key=operator.itemgetter(1))[0],

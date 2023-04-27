@@ -25,7 +25,7 @@ class GitHubMiner:
                 issue_data['Issue_title'] = issue.title
                 issue_data['Issue_label'] = [
                     label.name for label in issue.labels]
-                issue_data['Issue_creation_time'] = issue.created_at
+                issue_data['Issue_created_time'] = issue.created_at
                 issue_data['Issue_closed_time'] = issue.closed_at
                 reactions = issue.get_reactions()
                 issue_data['Issue_upvote_count'] = sum(
@@ -74,7 +74,7 @@ class GitHubMiner:
             repo_data = {
                 'Repo': repo_name,
                 'Link': repo.html_url,
-                'Repo Creation Date': repo.created_at,
+                'Repo Created Date': repo.created_at,
                 'Last Commit Date': commits[0].commit.author.date,
                 'Topics': sleep_wrapper(repo.get_topics),
                 'Language': repo.language,
