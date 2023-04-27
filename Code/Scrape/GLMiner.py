@@ -35,7 +35,7 @@ class GitLabMiner:
             for comment in comments:
                 time.sleep(0.1)
                 answer = {}
-                answer['Answer_creation_time'] = comment.created_at
+                answer['Answer_created_time'] = comment.created_at
                 answer['Answer_body'] = comment.body
                 answer_list.append(answer)
             issue_data['Answer_list'] = answer_list

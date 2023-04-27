@@ -38,7 +38,7 @@ class GitHubMiner:
                 for comment in issue.get_comments():
                     time.sleep(3)
                     answer = {}
-                    answer['Answer_creation_time'] = comment.created_at
+                    answer['Answer_created_time'] = comment.created_at
                     answer['Answer_body'] = comment.body
                     reactions = comment.get_reactions()
                     answer['Answer_upvote_count'] = sum(
