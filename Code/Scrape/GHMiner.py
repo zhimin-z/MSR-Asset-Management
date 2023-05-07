@@ -76,20 +76,20 @@ class GitHubMiner:
                 'Link': repo.html_url,
                 'Repo Created Date': repo.created_at,
                 'Last Commit Date': commits[0].commit.author.date,
-                'Topics': sleep_wrapper(repo.get_topics),
+                'Topic': sleep_wrapper(repo.get_topics),
                 'Language': repo.language,
                 'Size': repo.size,
                 '#Star': repo.stargazers_count,
                 '#Watch': repo.subscribers_count,
                 '#Fork': repo.forks,
-                '#Contributors': sleep_wrapper(repo.get_contributors).totalCount,
-                '#Branches': sleep_wrapper(repo.get_branches).totalCount,
-                '#Releases': releases.totalCount,
-                '#Commits': commits.totalCount,
+                '#Contributor': sleep_wrapper(repo.get_contributors).totalCount,
+                '#Branch': sleep_wrapper(repo.get_branches).totalCount,
+                '#Release': releases.totalCount,
+                '#Commit': commits.totalCount,
                 '#Pull Requests': sleep_wrapper(repo.get_pulls, state='all').totalCount,
                 '#Pull Requests (Open)': sleep_wrapper(repo.get_pulls, state='open').totalCount,
-                '#Issues': issues.totalCount,
-                '#Issues (Open)': sleep_wrapper(repo.get_issues, state='open').totalCount
+                '#Issue': issues.totalCount,
+                '#Issue (Open)': sleep_wrapper(repo.get_issues, state='open').totalCount
             }
 
             if real_name:
@@ -97,7 +97,7 @@ class GitHubMiner:
 
             if release_date:
                 repo_data['First Release Date'] = release_date
-            elif repo_data['#Releases'] > 0:
+            elif repo_data['#Release'] > 0:
                 repo_data['First Release Date'] = releases.reversed[0].created_at
 
             repo_data = pd.DataFrame([repo_data])

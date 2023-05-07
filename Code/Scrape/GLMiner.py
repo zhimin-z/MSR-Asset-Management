@@ -72,16 +72,16 @@ class GitLabMiner:
                 'Link': repo.http_url_to_repo,
                 'Repo Created Date': pd.to_datetime(repo.created_at),
                 'Last Commit Date': pd.to_datetime(commits[0].created_at),
-                'Topics': repo.topics,
+                'Topic': repo.topics,
                 'Language': max(sleep_wrapper(repo.languages).items(), key=operator.itemgetter(1))[0],
                 '#Star': repo.star_count,
                 '#Fork': repo.forks_count,
                 '#Member': len(sleep_wrapper(repo.members.list, get_all=True)),
-                '#Branches': len(sleep_wrapper(repo.branches.list, get_all=True)),
-                '#Releases': len(releases),
-                '#Commits': len(commits),
-                '#Issues': len(issues),
-                '#Issues (Open)': len(sleep_wrapper(repo.issues.list, get_all=True, state='opened'))
+                '#Branch': len(sleep_wrapper(repo.branches.list, get_all=True)),
+                '#Release': len(releases),
+                '#Commit': len(commits),
+                '#Issue': len(issues),
+                '#Issue (Open)': len(sleep_wrapper(repo.issues.list, get_all=True, state='opened'))
             }
 
             try:
