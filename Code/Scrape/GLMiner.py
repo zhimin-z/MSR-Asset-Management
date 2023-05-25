@@ -15,8 +15,10 @@ class GitLabMiner:
 
     def scrape_issue(self, repo_name):
         repo = sleep_wrapper(self.gitlab.projects.get, id=repo_name)
+        n_members = len(sleep_wrapper(repo.members.list, get_all=True))
         issues = sleep_wrapper(repo.issues.list, get_all=True, state='all')
         issues_data = pd.DataFrame()
+        n_issues = len(issues)
 
         for issue in issues:
             time.sleep(0.1)
@@ -39,6 +41,10 @@ class GitLabMiner:
                 answer['Answer_body'] = comment.body
                 answer_list.append(answer)
             issue_data['Answer_list'] = answer_list
+            issue_data['Issue_repo_issue_count'] = n_issues
+            issue_data['Issue_repo_star_count'] = repo.star_count
+            issue_data['Issue_repo_fork_count'] = repo.forks_count
+            issue_data['Issue_repo_contributor_count'] = n_members
             issue_data = pd.DataFrame([issue_data])
             issues_data = pd.concat(
                 [issues_data, issue_data], ignore_index=True)

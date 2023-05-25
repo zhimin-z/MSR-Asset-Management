@@ -14,6 +14,7 @@ class GitHubMiner:
 
     def scrape_issue(self, repo_name):
         repo = sleep_wrapper(self.github.get_repo, full_name_or_id=repo_name)
+        n_contributors = sleep_wrapper(repo.get_contributors).totalCount
         issues = sleep_wrapper(repo.get_issues, state='all')
         issues_data = pd.DataFrame()
 
@@ -47,6 +48,11 @@ class GitHubMiner:
                         reaction.content == '-1' for reaction in reactions)
                     answer_list.append(answer)
                 issue_data['Answer_list'] = answer_list
+                issue_data['Issue_repo_issue_count'] = issues.totalCount
+                issue_data['Issue_repo_watch_count'] = repo.subscribers_count
+                issue_data['Issue_repo_star_count'] = repo.stargazers_count
+                issue_data['Issue_repo_fork_count'] = repo.forks
+                issue_data['Issue_repo_contributor_count'] = n_contributors
                 issue_data = pd.DataFrame([issue_data])
                 issues_data = pd.concat(
                     [issues_data, issue_data], ignore_index=True)
