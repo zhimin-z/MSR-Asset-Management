@@ -62,7 +62,7 @@ class GitHubMiner:
 
         return issues_data_list
 
-    def scrape_repo(self, repo_name, release_date=None, real_name=None):
+    def scrape_repo(self, repo_name, real_name=None, release_time=None):
         try:
             repo = sleep_wrapper(self.github.get_repo,
                                  full_name_or_id=repo_name)
@@ -94,9 +94,9 @@ class GitHubMiner:
             if real_name:
                 repo_data['Name'] = real_name
 
-            if release_date:
-                repo_data['First Release Date'] = release_date
-            elif repo_data['#Release'] > 0:
+            if release_time:
+                repo_data['First Release Date'] = release_time
+            elif repo_data['#Release']:
                 repo_data['First Release Date'] = releases.reversed[0].created_at
 
             repo_data = pd.DataFrame([repo_data])
