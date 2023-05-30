@@ -1,7 +1,9 @@
 from gitlab import Gitlab
 import pandas as pd
+import numpy as np
 import operator
 import time
+import json
 
 
 def sleep_wrapper(func, *args, **kwargs):
@@ -21,7 +23,6 @@ class GitLabMiner:
         n_issues = len(issues)
 
         for issue in issues:
-            time.sleep(0.1)
             issue_data = {}
             issue_data['Issue_link'] = issue.web_url
             issue_data['Issue_title'] = issue.title
@@ -31,20 +32,19 @@ class GitLabMiner:
             issue_data['Issue_upvote_count'] = issue.upvotes
             issue_data['Issue_downvote_count'] = issue.downvotes
             issue_data['Issue_body'] = issue.description
-            comments = sleep_wrapper(issue.notes.list, get_all=True)
-            issue_data['Issue_answer_count'] = len(comments)
-            answer_list = []
-            for comment in comments:
-                time.sleep(0.1)
-                answer = {}
-                answer['Answer_created_time'] = comment.created_at
-                answer['Answer_body'] = comment.body
-                answer_list.append(answer)
-            issue_data['Answer_list'] = answer_list
             issue_data['Issue_repo_issue_count'] = n_issues
             issue_data['Issue_repo_star_count'] = repo.star_count
             issue_data['Issue_repo_fork_count'] = repo.forks_count
             issue_data['Issue_repo_contributor_count'] = n_members
+            comments = sleep_wrapper(issue.notes.list, get_all=True)
+            issue_data['Issue_answer_count'] = len(comments)
+            issue_data['Issue_self_closed'] = np.nan
+            issue_data['Answer_body'] = np.nan
+            if pd.notna(issue.closed_at):
+                issue_json = json.loads(issue.to_json())
+                issue_data['Issue_self_closed'] = issue_json['closed_by']['id'] == issue_json['author']['id']
+                issue_data['Answer_body'] = ' '.join([comment.body for comment in comments])
+            
             issue_data = pd.DataFrame([issue_data])
             issues_data = pd.concat(
                 [issues_data, issue_data], ignore_index=True)

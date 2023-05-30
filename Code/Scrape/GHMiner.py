@@ -1,5 +1,6 @@
 from github import Github
 import pandas as pd
+import numpy as np
 import time
 
 
@@ -35,24 +36,16 @@ class GitHubMiner:
                     reaction.content == '-1' for reaction in reactions)
                 issue_data['Issue_body'] = issue.body
                 issue_data['Issue_answer_count'] = issue.comments
-                answer_list = []
-                for comment in issue.get_comments():
-                    time.sleep(3)
-                    answer = {}
-                    answer['Answer_created_time'] = comment.created_at
-                    answer['Answer_body'] = comment.body
-                    reactions = comment.get_reactions()
-                    answer['Answer_upvote_count'] = sum(
-                        reaction.content == '+1' for reaction in reactions)
-                    answer['Answer_downvote_count'] = sum(
-                        reaction.content == '-1' for reaction in reactions)
-                    answer_list.append(answer)
-                issue_data['Answer_list'] = answer_list
                 issue_data['Issue_repo_issue_count'] = issues.totalCount
                 issue_data['Issue_repo_watch_count'] = repo.subscribers_count
                 issue_data['Issue_repo_star_count'] = repo.stargazers_count
                 issue_data['Issue_repo_fork_count'] = repo.forks
                 issue_data['Issue_repo_contributor_count'] = n_contributors
+                issue_data['Issue_self_closed'] = np.nan
+                issue_data['Answer_body'] = np.nan
+                if pd.notna(issue.closed_at):
+                    issue_data['Issue_self_closed'] = issue.closed_by.id == issue.user.id
+                    issue_data['Answer_body'] = ' '.join([comment.body for comment in issue.get_comments()])
                 issue_data = pd.DataFrame([issue_data])
                 issues_data = pd.concat(
                     [issues_data, issue_data], ignore_index=True)
