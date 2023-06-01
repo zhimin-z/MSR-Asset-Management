@@ -35,17 +35,17 @@ class GitHubMiner:
                 issue_data['Issue_downvote_count'] = sum(
                     reaction.content == '-1' for reaction in reactions)
                 issue_data['Issue_body'] = issue.body
-                issue_data['Issue_answer_count'] = issue.comments
+                issue_data['Issue_comment_count'] = issue.comments
                 issue_data['Issue_repo_issue_count'] = issues.totalCount
                 issue_data['Issue_repo_watch_count'] = repo.subscribers_count
                 issue_data['Issue_repo_star_count'] = repo.stargazers_count
                 issue_data['Issue_repo_fork_count'] = repo.forks
                 issue_data['Issue_repo_contributor_count'] = n_contributors
                 issue_data['Issue_self_closed'] = np.nan
-                issue_data['Answer_body'] = np.nan
+                issue_data['Comment_body'] = np.nan
                 if pd.notna(issue.closed_at):
                     issue_data['Issue_self_closed'] = issue.closed_by.id == issue.user.id
-                    issue_data['Answer_body'] = ' '.join([comment.body for comment in issue.get_comments()])
+                    issue_data['Comment_body'] = ' '.join([comment.body for comment in issue.get_comments()])
                 issue_data = pd.DataFrame([issue_data])
                 issues_data = pd.concat(
                     [issues_data, issue_data], ignore_index=True)

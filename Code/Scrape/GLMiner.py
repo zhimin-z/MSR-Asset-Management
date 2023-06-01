@@ -37,13 +37,13 @@ class GitLabMiner:
             issue_data['Issue_repo_fork_count'] = repo.forks_count
             issue_data['Issue_repo_contributor_count'] = n_members
             comments = sleep_wrapper(issue.notes.list, get_all=True)
-            issue_data['Issue_answer_count'] = len(comments)
+            issue_data['Issue_comment_count'] = len(comments)
             issue_data['Issue_self_closed'] = np.nan
-            issue_data['Answer_body'] = np.nan
+            issue_data['Comment_body'] = np.nan
             if pd.notna(issue.closed_at):
                 issue_json = json.loads(issue.to_json())
                 issue_data['Issue_self_closed'] = issue_json['closed_by']['id'] == issue_json['author']['id']
-                issue_data['Answer_body'] = ' '.join([comment.body for comment in comments])
+                issue_data['Comment_body'] = ' '.join([comment.body for comment in comments])
             
             issue_data = pd.DataFrame([issue_data])
             issues_data = pd.concat(
