@@ -43,9 +43,23 @@ class GitHubMiner:
                 issue_data['Issue_repo_contributor_count'] = n_contributors
                 issue_data['Issue_self_closed'] = np.nan
                 issue_data['Comment_body'] = np.nan
+                
                 if pd.notna(issue.closed_at):
                     issue_data['Issue_self_closed'] = issue.closed_by.id == issue.user.id
-                    issue_data['Comment_body'] = ' '.join([comment.body for comment in issue.get_comments()])
+                    comments = []
+                    upvotes = []
+                    downvotes = []
+                    for comment in issue.get_comments():
+                        comments.append(comment.body)
+                        reactions = comment.get_reactions()
+                        upvote = sum(reaction.content == '+1' for reaction in reactions)
+                        downvote = sum(reaction.content == '-1' for reaction in reactions)
+                        upvotes.append(upvote)
+                        downvotes.append(downvote)
+                    issue_data['Comment_body'] = ' '.join(comments)
+                    issue_data['Comment_upvote_count'] = sum(upvotes)
+                    issue_data['Comment_downvote_count'] = sum(downvotes)
+                    
                 issue_data = pd.DataFrame([issue_data])
                 issues_data = pd.concat(
                     [issues_data, issue_data], ignore_index=True)
