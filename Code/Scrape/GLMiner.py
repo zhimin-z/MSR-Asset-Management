@@ -41,8 +41,7 @@ class GitLabMiner:
             issue_data['Issue_self_closed'] = np.nan
             issue_data['Comment_body'] = np.nan
             if pd.notna(issue.closed_at):
-                issue_json = issue.asdict()
-                issue_data['Issue_self_closed'] = issue_json['closed_by']['id'] == issue_json['author']['id']
+                issue_data['Issue_self_closed'] = issue.__getattr__("closed_by")["id"] == issue.author["id"]
                 issue_data['Comment_body'] = ' '.join([comment.body for comment in comments])
             
             issue_data = pd.DataFrame([issue_data])
