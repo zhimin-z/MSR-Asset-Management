@@ -3,11 +3,10 @@ import pandas as pd
 import numpy as np
 import operator
 import time
-import json
 
 
 def sleep_wrapper(func, *args, **kwargs):
-    time.sleep(0.1)
+    time.sleep(1)
     return func(*args, **kwargs)
 
 
@@ -23,6 +22,7 @@ class GitLabMiner:
         n_issues = len(issues)
 
         for issue in issues:
+            time.sleep(1)
             issue_data = {}
             issue_data['Issue_link'] = issue.web_url
             issue_data['Issue_title'] = issue.title
@@ -43,7 +43,11 @@ class GitLabMiner:
             
             if pd.notna(issue.closed_at):
                 issue_data['Issue_self_closed'] = issue.attributes["closed_by"]["id"] == issue.author["id"]
-                issue_data['Comment_body'] = ' '.join([comment.body for comment in comments])
+                comment_body = []
+                for comment in comments:
+                    time.sleep(1)
+                    comment_body.append(comment.body)
+                issue_data['Comment_body'] = ' '.join(comment_body)
             
             issue_data = pd.DataFrame([issue_data])
             issues_data = pd.concat(
@@ -60,6 +64,7 @@ class GitLabMiner:
         issues_data_list = pd.DataFrame()
 
         for repo_name in repo_list:
+            print(f'Scraping {repo_name}')
             issues_data = self.scrape_issue(repo_name=repo_name)
             issues_data_list = pd.concat(
                 [issues_data_list, issues_data], ignore_index=True)
@@ -110,6 +115,7 @@ class GitLabMiner:
         repos_data = pd.DataFrame()
 
         for repo_name in repo_list:
+            print(f'Scraping {repo_name}')
             repo_data = self.scrape_repo(repo_name=repo_name)
             repos_data = pd.concat([repos_data, repo_data], ignore_index=True)
 

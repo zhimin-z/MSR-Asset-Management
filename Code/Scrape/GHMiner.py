@@ -50,6 +50,7 @@ class GitHubMiner:
                     upvotes = []
                     downvotes = []
                     for comment in issue.get_comments():
+                        time.sleep(3)
                         comments.append(comment.body)
                         reactions = comment.get_reactions()
                         upvote = sum(reaction.content == '+1' for reaction in reactions)
@@ -70,6 +71,7 @@ class GitHubMiner:
         issues_data_list = pd.DataFrame()
 
         for repo_name in repo_list:
+            print(f'Scraping {repo_name}')
             issues_data = self.scrape_issue(repo_name=repo_name)
             issues_data_list = pd.concat(
                 [issues_data_list, issues_data], ignore_index=True)
@@ -124,6 +126,7 @@ class GitHubMiner:
         repos_data = pd.DataFrame()
 
         for repo_name in repo_list:
+            print(f'Scraping {repo_name}')
             repo_data = self.scrape_repo(repo_name=repo_name)
             repos_data = pd.concat([repos_data, repo_data], ignore_index=True)
 
