@@ -3,5 +3,4 @@
 .DS_Store
 .venv
 .ipynb_checkpoints
-raw.json
 src

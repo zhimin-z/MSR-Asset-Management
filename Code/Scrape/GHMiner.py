@@ -45,7 +45,10 @@ class GitHubMiner:
                 issue_data['Comment_body'] = np.nan
                 
                 if pd.notna(issue.closed_at):
-                    issue_data['Issue_self_closed'] = issue.closed_by.id == issue.user.id
+                    try:
+                        issue_data['Issue_self_closed'] = issue.closed_by.id == issue.user.id
+                    except:
+                        issue_data['Issue_self_closed'] = False
                     comments = []
                     upvotes = []
                     downvotes = []
