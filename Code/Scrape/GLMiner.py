@@ -42,7 +42,11 @@ class GitLabMiner:
             issue_data['Comment_body'] = np.nan
             
             if pd.notna(issue.closed_at):
-                issue_data['Issue_self_closed'] = issue.attributes["closed_by"]["id"] == issue.author["id"]
+                try:
+                    issue_data['Issue_self_closed'] = issue.attributes["closed_by"]["id"] == issue.author["id"]
+                except:
+                    # e.g. https://gitlab.com/fluidattacks/universe/-/issues/4156
+                    issue_data['Issue_self_closed'] = False
                 comment_body = []
                 for comment in comments:
                     time.sleep(1)
