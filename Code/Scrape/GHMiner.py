@@ -121,8 +121,8 @@ class GitHubMiner:
             repo_data = pd.DataFrame([repo_data])
             return repo_data
 
-        except Exception as err:
-            print(f'Repo: {repo_name}, Error: {err.status}')
+        except Exception as e:
+            print(f'Repo: {repo_name}, Error: {e}')
             return pd.DataFrame()
 
     def scrape_repo_list(self, repo_list):
