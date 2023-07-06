@@ -1,6 +1,4 @@
 
 *.pyc
-.DS_Store
-.venv
-.ipynb_checkpoints
+.*
 src
