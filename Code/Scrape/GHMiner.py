@@ -1,6 +1,5 @@
 from github import Github
 import pandas as pd
-import numpy as np
 import time
 
 
@@ -41,8 +40,6 @@ class GitHubMiner:
                 issue_data['Issue_repo_star_count'] = repo.stargazers_count
                 issue_data['Issue_repo_fork_count'] = repo.forks
                 issue_data['Issue_repo_contributor_count'] = n_contributors
-                issue_data['Issue_self_closed'] = np.nan
-                issue_data['Comment_body'] = np.nan
                 
                 if pd.notna(issue.closed_at):
                     try:
@@ -60,9 +57,9 @@ class GitHubMiner:
                         downvote = sum(reaction.content == '-1' for reaction in reactions)
                         upvotes.append(upvote)
                         downvotes.append(downvote)
-                    issue_data['Comment_body'] = ' '.join(comments)
-                    issue_data['Comment_upvote_count'] = sum(upvotes)
-                    issue_data['Comment_downvote_count'] = sum(downvotes)
+                    issue_data['Issue_comment_body'] = ' '.join(comments)
+                    issue_data['Issue_comment_upvote'] = sum(upvotes)
+                    issue_data['Issue_comment_downvote'] = sum(downvotes)
                     
                 issue_data = pd.DataFrame([issue_data])
                 issues_data = pd.concat(

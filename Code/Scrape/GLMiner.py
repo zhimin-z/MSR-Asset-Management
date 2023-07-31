@@ -1,6 +1,5 @@
 from gitlab import Gitlab
 import pandas as pd
-import numpy as np
 import operator
 import time
 
@@ -36,10 +35,8 @@ class GitLabMiner:
             issue_data['Issue_repo_star_count'] = repo.star_count
             issue_data['Issue_repo_fork_count'] = repo.forks_count
             issue_data['Issue_repo_contributor_count'] = n_members
-            issue_data['Issue_self_closed'] = np.nan
             comments = sleep_wrapper(issue.notes.list, get_all=True)
             issue_data['Issue_comment_count'] = len(comments)
-            issue_data['Comment_body'] = np.nan
             
             if pd.notna(issue.closed_at):
                 try:
@@ -51,7 +48,7 @@ class GitLabMiner:
                 for comment in comments:
                     time.sleep(1)
                     comment_body.append(comment.body)
-                issue_data['Comment_body'] = ' '.join(comment_body)
+                issue_data['Issue_comment_body'] = ' '.join(comment_body)
             
             issue_data = pd.DataFrame([issue_data])
             issues_data = pd.concat(
