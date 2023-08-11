@@ -3,7 +3,6 @@ from github import Github
 
 import undetected_chromedriver as uc
 import pandas as pd
-import numpy as np
 import time
 
 
@@ -218,11 +217,6 @@ class GitHubMiner:
         post["Question_answer_count"] = answer_count
         post["Question_score_count"] = upvote_count
         post["Question_body"] = body
-        post['Question_closed_time'] = np.nan
-        post['Answer_score_count'] = np.nan
-        post['Answer_comment_count'] = np.nan
-        post['Answer_body'] = np.nan
-        post["Question_self_closed"] = np.nan
     
         info = self.driver.find_element(By.XPATH, '//div[@class="d-flex flex-wrap flex-items-center mb-3 mt-2"]')
         accepted = info.find_element(By.XPATH, './/span').get_attribute('title')
