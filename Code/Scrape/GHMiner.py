@@ -159,6 +159,7 @@ class GitHubMiner:
             post = pd.DataFrame([post])
             posts = pd.concat([posts, post], ignore_index=True)
             
+        self.driver.close()
         self.driver.quit()
         return posts
             
