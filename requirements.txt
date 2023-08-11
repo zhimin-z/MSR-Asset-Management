@@ -2,3 +2,5 @@ github-dependents-info==1.1.0
 pandas==2.0.3
 PyGithub==1.58.2
 python_gitlab==3.14.0
+selenium==4.11.2
+undetected-chromedriver==3.5.0
