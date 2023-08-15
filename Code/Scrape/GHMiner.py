@@ -85,38 +85,38 @@ class GitHubMiner:
         try:
             repo = sleep_wrapper(self.github.get_repo,
                                  full_name_or_id=repo_name)
-            # commits = sleep_wrapper(repo.get_commits)
-            # releases = sleep_wrapper(repo.get_releases)
-            # issues = sleep_wrapper(repo.get_issues, state='all')
+            commits = sleep_wrapper(repo.get_commits)
+            releases = sleep_wrapper(repo.get_releases)
+            issues = sleep_wrapper(repo.get_issues, state='all')
 
             repo_data = {
-                # 'Repo': repo_name,
-                # 'Link': repo.html_url,
+                'Repo': repo_name,
+                'Link': repo.html_url,
                 'Repo Created Date': repo.created_at,
-                # 'Last Commit Date': commits[0].commit.author.date,
-                # 'Topic': sleep_wrapper(repo.get_topics),
-                # 'Language': repo.language,
-                # 'Size': repo.size,
-                # '#Star': repo.stargazers_count,
-                # '#Watch': repo.subscribers_count,
-                # '#Fork': repo.forks,
-                # '#Contributor': sleep_wrapper(repo.get_contributors).totalCount,
-                # '#Branch': sleep_wrapper(repo.get_branches).totalCount,
-                # '#Release': releases.totalCount,
-                # '#Commit': commits.totalCount,
-                # '#Pull Requests': sleep_wrapper(repo.get_pulls, state='all').totalCount,
-                # '#Pull Requests (Open)': sleep_wrapper(repo.get_pulls, state='open').totalCount,
-                # '#Issue': issues.totalCount,
-                # '#Issue (Open)': sleep_wrapper(repo.get_issues, state='open').totalCount
+                'Last Commit Date': commits[0].commit.author.date,
+                'Topic': sleep_wrapper(repo.get_topics),
+                'Language': repo.language,
+                'Size': repo.size,
+                '#Star': repo.stargazers_count,
+                '#Watch': repo.subscribers_count,
+                '#Fork': repo.forks,
+                '#Contributor': sleep_wrapper(repo.get_contributors).totalCount,
+                '#Branch': sleep_wrapper(repo.get_branches).totalCount,
+                '#Release': releases.totalCount,
+                '#Commit': commits.totalCount,
+                '#Pull Requests': sleep_wrapper(repo.get_pulls, state='all').totalCount,
+                '#Pull Requests (Open)': sleep_wrapper(repo.get_pulls, state='open').totalCount,
+                '#Issue': issues.totalCount,
+                '#Issue (Open)': sleep_wrapper(repo.get_issues, state='open').totalCount
             }
 
-            # if real_name:
-            #     repo_data['Name'] = real_name
+            if real_name:
+                repo_data['Name'] = real_name
 
-            # if release_time:
-            #     repo_data['First Release Date'] = release_time
-            # elif repo_data['#Release']:
-            #     repo_data['First Release Date'] = releases.reversed[0].created_at
+            if release_time:
+                repo_data['First Release Date'] = release_time
+            elif repo_data['#Release']:
+                repo_data['First Release Date'] = releases.reversed[0].created_at
 
             repo_data = pd.DataFrame([repo_data])
             return repo_data
@@ -137,7 +137,7 @@ class GitHubMiner:
 
     def scrape_discussion(self, repo):
         self.driver = uc.Chrome()
-        self.driver.implicitly_wait(5)
+        self.driver.implicitly_wait(4)
         
         base_url = f'https://github.com/{repo}/discussions/categories/q-a?page='
         posts_url_lst = set()
@@ -156,8 +156,9 @@ class GitHubMiner:
         posts = pd.DataFrame()
         for url in posts_url_lst:
             post = self.get_data(url)
-            post = pd.DataFrame([post])
-            posts = pd.concat([posts, post], ignore_index=True)
+            if not post:
+                continue
+            posts = pd.concat([posts, pd.DataFrame([post])], ignore_index=True)
             
         self.driver.close()
         self.driver.quit()
@@ -180,13 +181,17 @@ class GitHubMiner:
 
         post = {}
 
-        # question_title
-        title = self.driver.find_element(
-            By.XPATH, '//span[@class="js-issue-title markdown-title"]').text
-        # print("Title:", title)
-    
+        try:
+            # question_title
+            title = self.driver.find_element(
+                By.XPATH, '//span[@class="js-issue-title markdown-title"]').text
+            # print("Title:", title)
+        except:
+            print(url)
+            return post
+            
         # question_tag_count
-        tag_count = len(self.driver.find_elements(By.XPATH, '//span[@class="discussion-sidebar-item js-discussion-sidebar-item"]/div[1]/a'))
+        tag_count = len(self.driver.find_elements(By.XPATH, '//div[@class="discussion-sidebar-item js-discussion-sidebar-item"]/div[2]/a'))
         # print("tag_count:", tag_count)
 
         # Question_created_time
@@ -207,7 +212,7 @@ class GitHubMiner:
 
         # question_answer_count
         answer_count = self.driver.find_element(
-            By.XPATH, '//h2[@id="discussion-comment-count"]/span[1]')
+            By.XPATH, '//h2[@id="discussion-comment-count"]/span[2]').get_attribute("innerText").strip()
         answer_count = self.convert2num(answer_count)
         # print("answer_count:", len(answers_lst))
 
@@ -223,17 +228,23 @@ class GitHubMiner:
         accepted = info.find_element(By.XPATH, './/span').get_attribute('title')
     
         if accepted == 'Answered':
-            answer = self.driver.find_element(By.XPATH, '//section[@class="width-full" and @aria-label="Marked as Answer"]')
-            post['Question_closed_time'] = answer.find_element(By.XPATH, './/relative-time').get_attribute('datetime')
-            Answer_score_count = answer.find_element(By.XPATH, './/div[@class="text-center discussion-vote-form position-relative"]//button').get_attribute('aria-label')
-            post['Answer_score_count'] = self.convert2num(Answer_score_count)
-            post['Answer_body'] = answer.find_element(By.XPATH, './/td[@class="d-block color-fg-default comment-body markdown-body js-comment-body"]').get_attribute('innerText').strip()
-            comments = answer.find_elements(By.XPATH, './/td[@class="d-block color-fg-default comment-body markdown-body js-comment-body px-3 pt-0 pb-2"]/p')
-            post['Answer_comment_count'] = len(comments)
-            post['Answer_comment_body'] = ' '.join([comment.get_attribute('innerText').strip() for comment in comments])
             answerer = info.find_element(By.XPATH, './/a[@class="Link--secondary text-bold"]').text
             poster = info.find_element(By.XPATH, './/a[@class="Link--secondary text-bold d-inline-block"]').get_attribute('innerText').strip()
             post['Question_self_closed'] = poster == answerer
+            answer = self.driver.find_element(By.XPATH, '//section[@class="width-full" and @aria-label="Marked as Answer"]')
+            post['Question_closed_time'] = answer.find_element(By.XPATH, './/relative-time').get_attribute('datetime')
+            comments = answer.find_elements(By.XPATH, './/td[@class="d-block color-fg-default comment-body markdown-body js-comment-body px-3 pt-0 pb-2"]/p')
+            post['Answer_comment_count'] = len(comments)
+            post['Answer_comment_body'] = ' '.join([comment.get_attribute('innerText').strip() for comment in comments])
+            try:
+                Answer_score_count = answer.find_element(By.XPATH, './/div[@class="text-center discussion-vote-form position-relative"]//button').get_attribute('aria-label')
+                post['Answer_score_count'] = self.convert2num(Answer_score_count)
+                try:
+                    post['Answer_body'] = answer.find_element(By.XPATH, './/td[@class="d-block color-fg-default comment-body markdown-body js-comment-body"]').get_attribute('innerText').strip()
+                except:
+                    post['Answer_body'] = answer.find_element(By.XPATH, './/td[@class="d-block color-fg-default comment-body markdown-body js-comment-body email-format"]/div').get_attribute('innerText').strip()
+            except:
+                post['Answer_body'] = answer.find_element(By.XPATH, './/td[@class="d-block color-fg-default comment-body markdown-body js-comment-body px-3 pt-0 pb-2"]').get_attribute('innerText').strip()
 
         return post
 
